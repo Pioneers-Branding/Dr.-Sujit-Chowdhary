@@ -1,0 +1,254 @@
+[
+  {
+    "filename": "service-absent-testis.html",
+    "title": "Undescended testis treatment in delhi | Dr. Sujit Chowdhary",
+    "contentLength": 2275,
+    "snippet": "<img src=\"assets/images/services/absent-testis.jpg\" alt=\"Service Illustration\" class=\"service-hero-i...",
+    "faqCount": 3,
+    "hasAbdominalTestis": true,
+    "hasDuplicateTestimonials": true
+  },
+  {
+    "filename": "service-adrenal-tumor.html",
+    "title": "Adrenal tumors in children | Dr. Sujit Chowdhary",
+    "contentLength": 3280,
+    "snippet": "<img src=\"assets/images/services/adrenal-tumor.png\" alt=\"Service Illustration\" class=\"service-hero-i...",
+    "faqCount": 3,
+    "hasAbdominalTestis": false,
+    "hasDuplicateTestimonials": false
+  },
+  {
+    "filename": "service-anorectal-malformation.html",
+    "title": "Anorectal Malformation in India | Dr. Sujit Chowdhary",
+    "contentLength": 3253,
+    "snippet": "<img src=\"assets/images/services/anorectal-malformation.png\" alt=\"Service Illustration\" class=\"servi...",
+    "faqCount": 3,
+    "hasAbdominalTestis": false,
+    "hasDuplicateTestimonials": false
+  },
+  {
+    "filename": "service-biliary-atresia.html",
+    "title": "Biliary Atresia | Dr. Sujit Chowdhary",
+    "contentLength": 1349,
+    "snippet": "<img src=\"assets/images/services/biliary-atresia.png\" alt=\"Service Illustration\" class=\"service-hero...",
+    "faqCount": 7,
+    "hasAbdominalTestis": false,
+    "hasDuplicateTestimonials": false
+  },
+  {
+    "filename": "service-choledochal-cyst.html",
+    "title": "Choledochal Cyst In Children | Dr. Sujit Chowdhary",
+    "contentLength": 4412,
+    "snippet": "<img src=\"assets/images/services/choledochal-cyst.png\" alt=\"Service Illustration\" class=\"service-her...",
+    "faqCount": 1,
+    "hasAbdominalTestis": false,
+    "hasDuplicateTestimonials": false
+  },
+  {
+    "filename": "service-duplex-renal-system.html",
+    "title": "Duplex Renal System | Dr. Sujit Chowdhary",
+    "contentLength": 4948,
+    "snippet": "<img src=\"assets/images/services/duplex-renal-system.png\" alt=\"Service Illustration\" class=\"service-...",
+    "faqCount": 3,
+    "hasAbdominalTestis": false,
+    "hasDuplicateTestimonials": false
+  },
+  {
+    "filename": "service-exstrophy-epispadias.html",
+    "title": "Bladder Exstrophy-Epispadias Surgery | Dr. Sujit Chowdhary",
+    "contentLength": 2882,
+    "snippet": "<img src=\"assets/images/services/exstrophy-epispadias.png\" alt=\"Service Illustration\" class=\"service...",
+    "faqCount": 3,
+    "hasAbdominalTestis": false,
+    "hasDuplicateTestimonials": false
+  },
+  {
+    "filename": "service-hernia-hydrocele.html",
+    "title": "Hydrocele and Hernia Surgery for Children in Delhi | Dr. Sujit Chowdhary",
+    "contentLength": 2164,
+    "snippet": "<img src=\"assets/images/services/hernia-hydrocele.png\" alt=\"Service Illustration\" class=\"service-her...",
+    "faqCount": 4,
+    "hasAbdominalTestis": false,
+    "hasDuplicateTestimonials": false
+  },
+  {
+    "filename": "service-hirschsprung.html",
+    "title": "Hirschsprung Disease Treatment in India – Expert Surgical Options for Effective Management | Dr. Sujit Chowdhary",
+    "contentLength": 4076,
+    "snippet": "<img src=\"assets/images/services/hirschsprung.png\" alt=\"Service Illustration\" class=\"service-hero-im...",
+    "faqCount": 8,
+    "hasAbdominalTestis": false,
+    "hasDuplicateTestimonials": false
+  },
+  {
+    "filename": "service-hydronephrosis.html",
+    "title": "Hydronephrosis Surgery In Delhi, India | Dr. Sujit Chowdhary",
+    "contentLength": 5312,
+    "snippet": "<img src=\"assets/images/services/hydronephrosis.png\" alt=\"Service Illustration\" class=\"service-hero-...",
+    "faqCount": 1,
+    "hasAbdominalTestis": false,
+    "hasDuplicateTestimonials": false
+  },
+  {
+    "filename": "service-hypospadias.html",
+    "title": "Hypospadias Surgery in Delhi | Dr. Sujit Chowdhary",
+    "contentLength": 11604,
+    "snippet": "<img src=\"assets/images/services/hypospadias.png\" alt=\"Service Illustration\" class=\"service-hero-ima...",
+    "faqCount": 6,
+    "hasAbdominalTestis": false,
+    "hasDuplicateTestimonials": false
+  },
+  {
+    "filename": "service-neuropathic-bladder.html",
+    "title": "Best Pediatric Urologist in delhi, India For Undescended testis, Hypospadias, Vesicoureteric reflux, Pelviureteric junction obstruction, Posterior urethral valve, Phimosis etc | Dr. Sujit Chowdhary",
+    "contentLength": 6557,
+    "snippet": "<img src=\"assets/images/services/neuropathic-bladder.png\" alt=\"Service Illustration\" class=\"service-...",
+    "faqCount": 8,
+    "hasAbdominalTestis": false,
+    "hasDuplicateTestimonials": false
+  },
+  {
+    "filename": "service-paediatric-gi.html",
+    "title": "Pediatric Gastrointestinal Surgery In Delhi, India | Dr. Sujit Chowdhary",
+    "contentLength": 1301,
+    "snippet": "<img src=\"assets/images/services/paediatric-gi.png\" alt=\"Service Illustration\" class=\"service-hero-i...",
+    "faqCount": 8,
+    "hasAbdominalTestis": false,
+    "hasDuplicateTestimonials": false
+  },
+  {
+    "filename": "service-pediatric-gi-surgery.html",
+    "title": "Pediatric Gastrointestinal Surgery In Delhi, India | Dr. Sujit Chowdhary",
+    "contentLength": 1315,
+    "snippet": "<img src=\"assets/images/services/pediatric-gi-surgery.png\" alt=\"Service Illustration\" class=\"service...",
+    "faqCount": 3,
+    "hasAbdominalTestis": false,
+    "hasDuplicateTestimonials": false
+  },
+  {
+    "filename": "service-pediatric-oncosurgery.html",
+    "title": "Pediatric Onco Surgery In Delhi, India | Dr. Sujit Chowdhary",
+    "contentLength": 1094,
+    "snippet": "<img src=\"assets/images/services/pediatric-oncosurgery.png\" alt=\"Service Illustration\" class=\"servic...",
+    "faqCount": 3,
+    "hasAbdominalTestis": false,
+    "hasDuplicateTestimonials": false
+  },
+  {
+    "filename": "service-pediatric-robotic-surgery.html",
+    "title": "Pediatric Robotic Surgery | Dr. Sujit Chowdhary",
+    "contentLength": 2742,
+    "snippet": "<img src=\"assets/images/services/pediatric-robotic-surgery.png\" alt=\"Service Illustration\" class=\"se...",
+    "faqCount": 2,
+    "hasAbdominalTestis": false,
+    "hasDuplicateTestimonials": false
+  },
+  {
+    "filename": "service-pediatric-stone-disease.html",
+    "title": "Endourology treatment In Delhi, India | Dr. Sujit Chowdhary",
+    "contentLength": 3572,
+    "snippet": "<img src=\"assets/images/services/pediatric-stone-disease.png\" alt=\"Service Illustration\" class=\"serv...",
+    "faqCount": 3,
+    "hasAbdominalTestis": false,
+    "hasDuplicateTestimonials": false
+  },
+  {
+    "filename": "service-pediatric-tumors.html",
+    "title": "Pediatric Tumors (wilms tumors, neuroblastoma, hepatoblastoma etc) | Dr. Sujit Chowdhary",
+    "contentLength": 6262,
+    "snippet": "<img src=\"assets/images/services/pediatric-tumors.png\" alt=\"Service Illustration\" class=\"service-her...",
+    "faqCount": 3,
+    "hasAbdominalTestis": false,
+    "hasDuplicateTestimonials": false
+  },
+  {
+    "filename": "service-pediatric-urodynamics.html",
+    "title": "What is a Pediatric Urodynamic study? | Dr. Sujit Chowdhary",
+    "contentLength": 3242,
+    "snippet": "<img src=\"assets/images/services/pediatric-urodynamics.png\" alt=\"Service Illustration\" class=\"servic...",
+    "faqCount": 4,
+    "hasAbdominalTestis": false,
+    "hasDuplicateTestimonials": false
+  },
+  {
+    "filename": "service-phimosis.html",
+    "title": "Phimosis Treatment In Delhi | Dr. Sujit Chowdhary",
+    "contentLength": 2144,
+    "snippet": "<img src=\"assets/images/services/phimosis.png\" alt=\"Service Illustration\" class=\"service-hero-image\"...",
+    "faqCount": 3,
+    "hasAbdominalTestis": false,
+    "hasDuplicateTestimonials": false
+  },
+  {
+    "filename": "service-pujo.html",
+    "title": "Pelvi Ureteric Junction Obstruction Treatment In Delhi | Dr. Sujit Chowdhary",
+    "contentLength": 1494,
+    "snippet": "<img src=\"assets/images/services/pujo.png\" alt=\"Service Illustration\" class=\"service-hero-image\" sty...",
+    "faqCount": 4,
+    "hasAbdominalTestis": false,
+    "hasDuplicateTestimonials": false
+  },
+  {
+    "filename": "service-puv.html",
+    "title": "Posterior Urethral Valve Treatment in Delhi | Dr. Sujit Chowdhary",
+    "contentLength": 2697,
+    "snippet": "<img src=\"assets/images/services/puv.png\" alt=\"Service Illustration\" class=\"service-hero-image\" styl...",
+    "faqCount": 8,
+    "hasAbdominalTestis": false,
+    "hasDuplicateTestimonials": false
+  },
+  {
+    "filename": "service-renal-tumor.html",
+    "title": "Renal Tumor | Dr. Sujit Chowdhary",
+    "contentLength": 1452,
+    "snippet": "<img src=\"assets/images/services/renal-tumor.png\" alt=\"Service Illustration\" class=\"service-hero-ima...",
+    "faqCount": 8,
+    "hasAbdominalTestis": false,
+    "hasDuplicateTestimonials": false
+  },
+  {
+    "filename": "service-thoracoscopic-surgery.html",
+    "title": "Thoracoscopic Surgery In Children | Dr. Sujit Chowdhary",
+    "contentLength": 4655,
+    "snippet": "<img src=\"assets/images/services/thoracoscopic-surgery.png\" alt=\"Service Illustration\" class=\"servic...",
+    "faqCount": 3,
+    "hasAbdominalTestis": false,
+    "hasDuplicateTestimonials": false
+  },
+  {
+    "filename": "service-undescended-testis.html",
+    "title": "Undescended testis treatment in delhi | Dr. Sujit Chowdhary",
+    "contentLength": 3746,
+    "snippet": "<img src=\"assets/images/services/undescended-testis.png\" alt=\"Service Illustration\" class=\"service-h...",
+    "faqCount": 3,
+    "hasAbdominalTestis": true,
+    "hasDuplicateTestimonials": false
+  },
+  {
+    "filename": "service-uti.html",
+    "title": "Best Pediatric Urologist in delhi, India For Undescended testis, Hypospadias, Vesicoureteric reflux, Pelviureteric junction obstruction, Posterior urethral valve, Phimosis etc | Dr. Sujit Chowdhary",
+    "contentLength": 6525,
+    "snippet": "<img src=\"assets/images/services/uti.png\" alt=\"Service Illustration\" class=\"service-hero-image\" styl...",
+    "faqCount": 8,
+    "hasAbdominalTestis": false,
+    "hasDuplicateTestimonials": false
+  },
+  {
+    "filename": "service-vesicoureteric-reflux.html",
+    "title": "Vesicoureteric Reflux | Dr. Sujit Chowdhary",
+    "contentLength": 5157,
+    "snippet": "<img src=\"assets/images/services/vesicoureteric-reflux.png\" alt=\"Service Illustration\" class=\"servic...",
+    "faqCount": 3,
+    "hasAbdominalTestis": false,
+    "hasDuplicateTestimonials": false
+  },
+  {
+    "filename": "service-voiding-dysfunction.html",
+    "title": "Voiding Dysfunction | Dr. Sujit Chowdhary",
+    "contentLength": 5895,
+    "snippet": "<img src=\"assets/images/services/voiding-dysfunction.png\" alt=\"Service Illustration\" class=\"service-...",
+    "faqCount": 1,
+    "hasAbdominalTestis": false,
+    "hasDuplicateTestimonials": false
+  }
+]
