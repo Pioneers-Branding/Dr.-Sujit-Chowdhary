@@ -277,80 +277,70 @@ $current_page = 'home';
     <section class="section faq-section bg-light" id="faq">
         <div class="container grid-2">
             <div class="faq-text fade-in-up">
-                <h4 class="accent-text">Parent Guide & Answers</h4>
-                <h2>Frequently Asked Questions in Pediatric Urology & Surgery</h2>
-                <p>We understand that childhood surgical and urological conditions can bring anxiety for parents. Here are expert answers from Dr. Sujit Chowdhary on common pediatric urology and pediatric surgery questions.</p>
+                <h4 class="accent-text">Still have questions?</h4>
+                <h2>Frequently Asked Questions</h2>
+                <p>We understand that children's surgeries can be stressful. We've compiled a list of common questions parents ask. If you don't find your answer here, please don't hesitate to reach out.</p>
                 <a href="contact.php" class="btn btn-outline mt-3">Ask a Custom Question</a>
             </div>
             
             <div class="faq-accordion fade-in-up" style="animation-delay: 0.2s">
                 <div class="faq-item">
                     <div class="faq-header">
-                        <h5>What are the advantages of Robotic & Minimally Invasive Surgery in children?</h5>
+                        <h5>What is the difference between a general surgeon and a specialist Pediatric Urologist?</h5>
                         <i class="fas fa-plus"></i>
                     </div>
                     <div class="faq-content">
-                        <p>Pediatric Robotic & Laparoscopic surgery offers 3D high-definition magnification, extreme precision in delicate tissue handling, smaller keyhole incisions, minimal post-operative pain, and much faster recovery for infants and children.</p>
+                        <p>A Pediatric Urologist has completed sub-specialty fellowship training exclusively focused on the unique anatomy, delicate tissue repair, and surgical care of infants, children, and adolescents. Children require specialized pediatric techniques, miniature instrumentation, and tailored care.</p>
                     </div>
                 </div>
                 
                 <div class="faq-item">
                     <div class="faq-header">
-                        <h5>At what age should Hypospadias or Undescended Testis surgery be performed?</h5>
+                        <h5>At what age can a child undergo minimally invasive or robotic surgery?</h5>
                         <i class="fas fa-plus"></i>
                     </div>
                     <div class="faq-content">
-                        <p>Most reconstructive procedures like Hypospadias repair or Orchiopexy (undescended testis) are ideally performed between 6 to 18 months of age. Operating early promotes optimal anatomical healing and normal physical development before school age.</p>
+                        <p>With modern robotic and laparoscopic advancements, minimally invasive procedures can be performed safely on infants, toddlers, and young children. Each case is individually evaluated to determine the least invasive and most effective approach.</p>
                     </div>
                 </div>
                 
                 <div class="faq-item">
                     <div class="faq-header">
-                        <h5>Does fetal or antenatal Hydronephrosis (PUJO) always need surgery after birth?</h5>
+                        <h5>Is pediatric surgery and anesthesia safe for infants and young children?</h5>
                         <i class="fas fa-plus"></i>
                     </div>
                     <div class="faq-content">
-                        <p>Not always. Many cases of mild hydronephrosis resolve spontaneously as the urinary tract matures. We perform careful serial ultrasounds and nuclear renal scans after birth to monitor kidney function. Surgery (Pyeloplasty) is only recommended if kidney drainage is severely obstructed.</p>
-                    </div>
-                </div>
-                
-                <div class="faq-item">
-                    <div class="faq-header">
-                        <h5>How do you evaluate and treat Neuropathic Bladder and Voiding Dysfunction?</h5>
-                        <i class="fas fa-plus"></i>
-                    </div>
-                    <div class="faq-content">
-                        <p>We utilize specialized Pediatric Urodynamics (p-UDS) to assess bladder pressure and capacity. Treatment ranges from Clean Intermittent Catheterization (CIC) and bladder-relaxing medications to bladder reconstruction (augmentation) to ensure long-term kidney protection and urinary continence.</p>
-                    </div>
-                </div>
-                
-                <div class="faq-item">
-                    <div class="faq-header">
-                        <h5>When should parents consult a specialist for Recurrent UTIs or Bedwetting?</h5>
-                        <i class="fas fa-plus"></i>
-                    </div>
-                    <div class="faq-content">
-                        <p>Any febrile Urinary Tract Infection (UTI) in an infant requires prompt specialist evaluation to check for Vesicoureteric Reflux (VUR) or blockage. Persistent daytime urinary leakage or bedwetting past age 6 also warrants pediatric urology evaluation to rule out structural or functional issues.</p>
+                        <p>Yes. Surgical procedures are conducted alongside dedicated pediatric anesthesiologists who specialize exclusively in child anesthesia. Precise weight-based dosing, advanced monitoring, and child-centered safety protocols ensure maximum safety and comfort.</p>
                     </div>
                 </div>
 
                 <div class="faq-item">
                     <div class="faq-header">
-                        <h5>Is pediatric surgery and anesthesia safe for infants and newborns?</h5>
+                        <h5>When should parents consult a Pediatric Urologist or Surgeon?</h5>
                         <i class="fas fa-plus"></i>
                     </div>
                     <div class="faq-content">
-                        <p>Yes. Surgeries are performed in specialized pediatric operating theaters accompanied by fellowship-trained pediatric anesthesiologists. We utilize ultra-miniaturized pediatric surgical instruments and tailored medication dosing designed specifically for newborns and young children.</p>
+                        <p>Parents should consult a specialist if a child has a congenital birth anomaly, abdominal or renal concerns, urinary tract difficulties, testicular irregularities, or upon referral from a pediatrician following routine or prenatal ultrasound scans.</p>
                     </div>
                 </div>
 
                 <div class="faq-item">
                     <div class="faq-header">
-                        <h5>What is the recovery time for daycare procedures like Hernia, Hydrocele, or Phimosis?</h5>
+                        <h5>How long is the typical hospital stay and recovery after pediatric surgery?</h5>
                         <i class="fas fa-plus"></i>
                     </div>
                     <div class="faq-content">
-                        <p>Common procedures such as pediatric Hernia repair, Hydrocelectomy, and Circumcision/Phimosis surgery are performed as daycare procedures. Children are typically discharged home on the same day and return to routine light activities within 24 to 48 hours.</p>
+                        <p>Many procedures are performed as day-care surgeries, allowing your child to return home the same day. For complex reconstructive procedures, hospital stay usually ranges from 1 to 3 days with smooth recovery and minimal disruption to your child's routine.</p>
+                    </div>
+                </div>
+
+                <div class="faq-item">
+                    <div class="faq-header">
+                        <h5>What should we bring for our first pediatric consultation?</h5>
+                        <i class="fas fa-plus"></i>
+                    </div>
+                    <div class="faq-content">
+                        <p>Please bring any previous medical records, ultrasound scans, blood/urine test reports, and your pediatrician's referral if available. Bringing a comfort item like a favorite toy or blanket also helps keep your child relaxed.</p>
                     </div>
                 </div>
             </div>
