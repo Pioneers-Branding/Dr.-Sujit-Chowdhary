@@ -54,7 +54,8 @@
 </footer>
 
 <!-- Scripts -->
-<script src="js/script.js"></script>
+<?php $js_version = file_exists(__DIR__ . '/../js/script.js') ? filemtime(__DIR__ . '/../js/script.js') : time(); ?>
+<script src="js/script.js?v=<?php echo $js_version; ?>"></script>
 <!-- Floating Icons -->
 <div class="floating-icons">
     <a href="https://wa.me/919873206761" target="_blank" class="float-icon whatsapp" title="Chat on WhatsApp">
