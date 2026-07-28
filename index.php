@@ -358,16 +358,21 @@ $current_page = 'home';
                         <p>Send us a message and our team will get back to you shortly.</p>
                     </div>
                     
-                    <form action="#" class="contact-form">
+                    <form action="includes/process-contact.php" method="POST" class="contact-form">
+                    <?php if (isset($_GET['status']) && $_GET['status'] === 'success'): ?>
+                        <div class="alert alert-success" style="background:#d4edda; color:#155724; padding: 12px 20px; border-radius:8px; margin-bottom:20px;">
+                            <i class="fas fa-check-circle"></i> Thank you! Your request has been submitted successfully. We will get back to you shortly.
+                        </div>
+                    <?php endif; ?>
                         <div class="form-group mb-3">
-                            <input type="text" placeholder="Name" class="form-control" required>
+                            <input type="text" placeholder="Name" name="name" class="form-control" required>
                         </div>
                         <div class="form-group grid-2" style="gap:1rem; margin-bottom: 1rem;">
-                            <input type="tel" placeholder="Contact Number" class="form-control" required>
-                            <input type="email" placeholder="Email" class="form-control" required>
+                            <input type="tel" placeholder="Contact Number" class="form-control" required name="phone">
+                            <input type="email" placeholder="Email" class="form-control" required name="email">
                         </div>
                         <div class="form-group mb-3">
-                            <textarea placeholder="Description" rows="4" class="form-control" required></textarea>
+                            <textarea placeholder="Description" rows="4" class="form-control" required name="message"></textarea>
                         </div>
                         <button type="submit" class="btn btn-primary w-100">Submit Request</button>
                     </form>

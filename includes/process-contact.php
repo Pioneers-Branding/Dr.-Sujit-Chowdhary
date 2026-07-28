@@ -18,10 +18,15 @@ if ($_SERVER["REQUEST_METHOD"] === "POST") {
         @mail($to, $subject, $body, $headers);
     }
     
-    header("Location: ../contact.php?status=success");
+    $referer = isset($_SERVER['HTTP_REFERER']) ? $_SERVER['HTTP_REFERER'] : '../contact.php';
+    // Remove existing status query param if any
+    $referer = preg_replace('/([?&])status=[^&]*(&?)/', '$1', $referer);
+    $referer = rtrim($referer, '?&');
+    $delimiter = (strpos($referer, '?') !== false) ? '&' : '?';
+    header("Location: " . $referer . $delimiter . "status=success");
     exit;
 } else {
-    header("Location: ../contact.php");
+    header("Location: ../index.php");
     exit;
 }
 ?>
