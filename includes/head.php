@@ -1,8 +1,10 @@
 <?php
-// Prevent browser caching for dynamic page content
-header("Cache-Control: no-cache, no-store, must-revalidate");
-header("Pragma: no-cache");
-header("Expires: 0");
+// Prevent browser caching for dynamic page content safely
+if (!headers_sent()) {
+    @header("Cache-Control: no-cache, no-store, must-revalidate");
+    @header("Pragma: no-cache");
+    @header("Expires: 0");
+}
 
 if (!isset($page_title)) {
     $page_title = "Dr. Sujit Chowdhary | Pediatric Urologist in Delhi";
