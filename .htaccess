@@ -1,4 +1,18 @@
-# Disable caching for dynamic PHP & HTML pages
+<IfModule mod_rewrite.c>
+    RewriteEngine On
+    RewriteBase /
+
+    # 301 Redirect any .html requests to .php equivalent
+    RewriteCond %{THE_REQUEST} \s/+(.+)\.html[\s?] [NC]
+    RewriteRule ^ /%1.php [R=301,L]
+
+    # Allow extensionless URLs to serve .php files
+    RewriteCond %{REQUEST_FILENAME} !-d
+    RewriteCond %{REQUEST_FILENAME}\.php -f
+    RewriteRule ^(.*)$ $1.php [L]
+</IfModule>
+
+# Disable browser caching for dynamic PHP pages
 <IfModule mod_headers.c>
     <FilesMatch "\.(php|html|htm)$">
         Header set Cache-Control "no-cache, no-store, must-revalidate"
