@@ -2,6 +2,10 @@
     RewriteEngine On
     RewriteBase /
 
+    # 301 Redirect /index.php to /
+    RewriteCond %{THE_REQUEST} ^[A-Z]{3,9}\ /index\.php\ HTTP/
+    RewriteRule ^index\.php$ / [R=301,L]
+
     # 301 Redirect deleted undescended testis service to homepage
     RewriteRule ^service/undescended-testis(\.php)?$ / [R=301,L]
     RewriteRule ^service-undescended-testis(\.(php|html))?$ / [R=301,L]
