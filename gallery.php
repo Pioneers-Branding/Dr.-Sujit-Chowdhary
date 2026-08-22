@@ -235,6 +235,20 @@ EOD;
                     </div>
                 </div>
 
+                <!-- Image 26 -->
+                <div class="gallery-card fade-in-up" style="animation-delay: 0.1s">
+                    <div class="gallery-img-wrapper">
+                        <img src="assets/images/gallery_patient_26.jpg" alt="Patient Gallery Image 26">
+                    </div>
+                </div>
+
+                <!-- Image 27 -->
+                <div class="gallery-card fade-in-up" style="animation-delay: 0.2s">
+                    <div class="gallery-img-wrapper">
+                        <img src="assets/images/gallery_patient_27.jpg" alt="Patient Gallery Image 27">
+                    </div>
+                </div>
+
 
             </div>
         </div>
