@@ -153,4 +153,27 @@ document.addEventListener('DOMContentLoaded', () => {
         reviewsContainer.addEventListener('touchstart', () => clearInterval(reviewsInterval), {passive: true});
         reviewsContainer.addEventListener('touchend', startReviewsScroll, {passive: true});
     }
+
+    // 8. Patient Images Auto-Scroll
+    const patientContainers = document.querySelectorAll('.patient-scroll-container');
+    patientContainers.forEach(container => {
+        let interval;
+        const startScroll = () => {
+            interval = setInterval(() => {
+                const card = container.querySelector('.patient-scroll-card');
+                if (!card) return;
+                const cardWidth = card.offsetWidth + 24; 
+                if (container.scrollLeft + container.clientWidth >= container.scrollWidth - 10) {
+                    container.scrollTo({ left: 0, behavior: 'smooth' });
+                } else {
+                    container.scrollBy({ left: cardWidth, behavior: 'smooth' });
+                }
+            }, 3000);
+        };
+        startScroll();
+        container.addEventListener('mouseenter', () => clearInterval(interval));
+        container.addEventListener('mouseleave', startScroll);
+        container.addEventListener('touchstart', () => clearInterval(interval), {passive: true});
+        container.addEventListener('touchend', startScroll, {passive: true});
+    });
 });
