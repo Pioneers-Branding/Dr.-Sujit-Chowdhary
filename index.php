@@ -58,42 +58,42 @@ $current_page = 'home';
                     <div class="service-icon"><i class="fas fa-bacteria"></i></div>
                     <h3>Urinary Tract Infection</h3>
                     <p>Comprehensive evaluation and management of recurrent UTIs in children to prevent kidney damage and restore health.</p>
-                    <a href="service-uti.php" class="service-link">Learn More <i class="fas fa-arrow-right"></i></a>
+                    <a href="service/uti.php" class="service-link">Learn More <i class="fas fa-arrow-right"></i></a>
                 </div>
                 <!-- Service 2 -->
                 <div class="service-card card fade-in-up" style="animation-delay: 0.1s">
                     <div class="service-icon"><i class="fas fa-water"></i></div>
                     <h3>Hydronephrosis</h3>
                     <p>Expert diagnosis and surgical correction of kidney swelling due to urine build-up or blockages in infants.</p>
-                    <a href="service-hydronephrosis.php" class="service-link">Learn More <i class="fas fa-arrow-right"></i></a>
+                    <a href="service/hydronephrosis.php" class="service-link">Learn More <i class="fas fa-arrow-right"></i></a>
                 </div>
                 <!-- Service 3 -->
                 <div class="service-card card fade-in-up" style="animation-delay: 0.2s">
                     <div class="service-icon"><i class="fas fa-child"></i></div>
                     <h3>Paediatric GI Surgery</h3>
                     <p>Advanced surgical care for complex gastrointestinal disorders, ensuring safe recovery and normal digestive function.</p>
-                    <a href="service-paediatric-gi.php" class="service-link">Learn More <i class="fas fa-arrow-right"></i></a>
+                    <a href="service/paediatric-gi.php" class="service-link">Learn More <i class="fas fa-arrow-right"></i></a>
                 </div>
                 <!-- Service 4 -->
                 <div class="service-card card fade-in-up">
                     <div class="service-icon"><i class="fas fa-brain"></i></div>
                     <h3>Neuropathic Bladder</h3>
                     <p>Specialized management of bladder dysfunction caused by neurological conditions like Spina Bifida.</p>
-                    <a href="service-neuropathic-bladder.php" class="service-link">Learn More <i class="fas fa-arrow-right"></i></a>
+                    <a href="service/neuropathic-bladder.php" class="service-link">Learn More <i class="fas fa-arrow-right"></i></a>
                 </div>
                 <!-- Service 5 -->
                 <div class="service-card card fade-in-up" style="animation-delay: 0.1s">
                     <div class="service-icon"><i class="fas fa-vial"></i></div>
                     <h3>PUJO</h3>
                     <p>Surgical correction of Pelvi-Ureteric Junction Obstruction to relieve kidney blockages effectively.</p>
-                    <a href="service-pujo.php" class="service-link">Learn More <i class="fas fa-arrow-right"></i></a>
+                    <a href="service/pujo.php" class="service-link">Learn More <i class="fas fa-arrow-right"></i></a>
                 </div>
                 <!-- Service 6 -->
                 <div class="service-card card fade-in-up" style="animation-delay: 0.2s">
                     <div class="service-icon"><i class="fas fa-microscope"></i></div>
                     <h3>Posterior Urethral Valves</h3>
                     <p>Endoscopic ablation and long-term care for male infants born with obstructing urethral folds.</p>
-                    <a href="service-puv.php" class="service-link">Learn More <i class="fas fa-arrow-right"></i></a>
+                    <a href="service/puv.php" class="service-link">Learn More <i class="fas fa-arrow-right"></i></a>
                 </div>
             </div>
             

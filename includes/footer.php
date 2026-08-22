@@ -3,7 +3,7 @@
     <div class="container">
         <div class="footer-grid">
             <div class="footer-brand">
-                <img src="assets/images/logo.png" alt="Dr. Sujit Chowdhary Logo" class="footer-logo">
+                <img src="<?php echo $path_prefix; ?>assets/images/logo.png" alt="Dr. Sujit Chowdhary Logo" class="footer-logo">
                 <p>Dedicated to providing world-class paediatric surgical & urological care with compassion and precision.</p>
                 <div class="footer-socials">
                     <a href="#"><i class="fab fa-facebook-f"></i></a>
@@ -16,25 +16,25 @@
             <div class="footer-links">
                 <h4>Quick Links</h4>
                 <ul>
-                    <li><a href="index.php">Home</a></li>
-                    <li><a href="about.php">About Dr. Chowdhary</a></li>
-                    <li><a href="services.php">All Services</a></li>
-                    <li><a href="index.php#reviews">Patient Reviews</a></li>
-                    <li><a href="contact.php">Contact Us</a></li>
+                    <li><a href="<?php echo $path_prefix; ?>index.php">Home</a></li>
+                    <li><a href="<?php echo $path_prefix; ?>about.php">About Dr. Chowdhary</a></li>
+                    <li><a href="<?php echo $path_prefix; ?>services.php">All Services</a></li>
+                    <li><a href="<?php echo $path_prefix; ?>index.php#reviews">Patient Reviews</a></li>
+                    <li><a href="<?php echo $path_prefix; ?>contact.php">Contact Us</a></li>
                 </ul>
             </div>
 
             <div class="footer-links">
                 <h4>Our Services</h4>
                 <ul>
-                    <li><a href="service-uti.php">Urinary Tract Infection</a></li>
-                    <li><a href="service-hydronephrosis.php">Hydronephrosis</a></li>
-                    <li><a href="service-paediatric-gi.php">Paediatric GI Surgery</a></li>
-                    <li><a href="service-neuropathic-bladder.php">Neuropathic Bladder</a></li>
-                    <li><a href="service-pujo.php">PUJO Treatment</a></li>
-                    <li><a href="service-puv.php">PUV Treatment</a></li>
-                    <li><a href="service-pediatric-robotic-surgery.php">Robotic Surgery</a></li>
-                    <li><a href="service-hypospadias.php">Hypospadias Surgery</a></li>
+                    <li><a href="<?php echo $path_prefix; ?>service/uti.php">Urinary Tract Infection</a></li>
+                    <li><a href="<?php echo $path_prefix; ?>service/hydronephrosis.php">Hydronephrosis</a></li>
+                    <li><a href="<?php echo $path_prefix; ?>service/paediatric-gi.php">Paediatric GI Surgery</a></li>
+                    <li><a href="<?php echo $path_prefix; ?>service/neuropathic-bladder.php">Neuropathic Bladder</a></li>
+                    <li><a href="<?php echo $path_prefix; ?>service/pujo.php">PUJO Treatment</a></li>
+                    <li><a href="<?php echo $path_prefix; ?>service/puv.php">PUV Treatment</a></li>
+                    <li><a href="<?php echo $path_prefix; ?>service/pediatric-robotic-surgery.php">Robotic Surgery</a></li>
+                    <li><a href="<?php echo $path_prefix; ?>service/hypospadias.php">Hypospadias Surgery</a></li>
                 </ul>
             </div>
             
@@ -55,7 +55,7 @@
 
 <!-- Scripts -->
 <?php $js_version = file_exists(__DIR__ . '/../js/script.js') ? filemtime(__DIR__ . '/../js/script.js') : time(); ?>
-<script src="js/script.js?v=<?php echo $js_version; ?>"></script>
+<script src="<?php echo $path_prefix; ?>js/script.js?v=<?php echo $js_version; ?>"></script>
 <!-- Floating Icons -->
 <div class="floating-icons">
     <a href="https://wa.me/919873206761" target="_blank" class="float-icon whatsapp" title="Chat on WhatsApp">

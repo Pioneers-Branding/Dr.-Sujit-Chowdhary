@@ -2,7 +2,14 @@
     RewriteEngine On
     RewriteBase /
 
-    # 301 Redirect any .html requests to .php equivalent
+    # 301 Redirect deleted undescended testis service to homepage
+    RewriteRule ^service/undescended-testis(\.php)?$ / [R=301,L]
+    RewriteRule ^service-undescended-testis(\.(php|html))?$ / [R=301,L]
+
+    # 301 Redirect old service-name.php, service-name.html, or service-name to /service/name.php
+    RewriteRule ^service-([a-z0-9-]+)(\.(php|html))?$ /service/$1.php [R=301,L]
+
+    # 301 Redirect any other .html requests to .php equivalent
     RewriteCond %{THE_REQUEST} \s/+(.+)\.html[\s?] [NC]
     RewriteRule ^ /%1.php [R=301,L]
 

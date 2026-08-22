@@ -1,4 +1,8 @@
 <?php
+if (!isset($path_prefix)) {
+    $script_dir = basename(dirname($_SERVER['SCRIPT_NAME'] ?? ''));
+    $path_prefix = ($script_dir === 'service') ? '../' : '';
+}
 // Prevent browser caching for dynamic page content safely
 if (!headers_sent()) {
     @header("Cache-Control: no-cache, no-store, must-revalidate");
@@ -29,6 +33,6 @@ $css_version = file_exists(__DIR__ . '/../css/index.css') ? filemtime(__DIR__ . 
     <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&family=Outfit:wght@400;500;600;700;800&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
     <!-- Custom CSS -->
-    <link rel="stylesheet" href="css/index.css?v=<?php echo $css_version; ?>">
+    <link rel="stylesheet" href="<?php echo $path_prefix; ?>css/index.css?v=<?php echo $css_version; ?>">
     <?php if (isset($extra_head) && !empty($extra_head)) { echo $extra_head; } ?>
 </head>
