@@ -200,6 +200,42 @@ EOD;
                     </div>
                 </div>
 
+                <!-- Image 21 -->
+                <div class="gallery-card fade-in-up" style="animation-delay: 0.2s">
+                    <div class="gallery-img-wrapper">
+                        <img src="assets/images/gallery_patient_21.jpg" alt="Patient Gallery Image 21">
+                    </div>
+                </div>
+
+                <!-- Image 22 -->
+                <div class="gallery-card fade-in-up">
+                    <div class="gallery-img-wrapper">
+                        <img src="assets/images/gallery_patient_22.jpg" alt="Patient Gallery Image 22">
+                    </div>
+                </div>
+
+                <!-- Image 23 -->
+                <div class="gallery-card fade-in-up" style="animation-delay: 0.1s">
+                    <div class="gallery-img-wrapper">
+                        <img src="assets/images/gallery_patient_23.jpg" alt="Patient Gallery Image 23">
+                    </div>
+                </div>
+
+                <!-- Image 24 -->
+                <div class="gallery-card fade-in-up" style="animation-delay: 0.2s">
+                    <div class="gallery-img-wrapper">
+                        <img src="assets/images/gallery_patient_24.jpg" alt="Patient Gallery Image 24">
+                    </div>
+                </div>
+
+                <!-- Image 25 -->
+                <div class="gallery-card fade-in-up">
+                    <div class="gallery-img-wrapper">
+                        <img src="assets/images/gallery_patient_25.jpg" alt="Patient Gallery Image 25">
+                    </div>
+                </div>
+
+
             </div>
         </div>
     </section>
