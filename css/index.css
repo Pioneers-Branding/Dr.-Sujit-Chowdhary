@@ -536,22 +536,16 @@ header.scrolled .header-logo { max-height: 45px; }
   display: flex;
   gap: 24px;
   overflow-x: auto;
-  padding-bottom: 20px;
+  padding-bottom: 10px;
   scroll-behavior: smooth;
   -webkit-overflow-scrolling: touch;
-  scrollbar-width: thin;
-  scrollbar-color: var(--secondary-teal) #e9ecef;
+  scrollbar-width: none;
+  -ms-overflow-style: none;
 }
 .patient-scroll-container::-webkit-scrollbar {
-  height: 8px;
-}
-.patient-scroll-container::-webkit-scrollbar-track {
-  background: #e9ecef;
-  border-radius: 10px;
-}
-.patient-scroll-container::-webkit-scrollbar-thumb {
-  background: var(--secondary-teal);
-  border-radius: 10px;
+  display: none;
+  width: 0;
+  height: 0;
 }
 .patient-scroll-card {
   min-width: 280px;
