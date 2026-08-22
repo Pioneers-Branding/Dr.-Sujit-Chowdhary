@@ -1,7 +1,45 @@
 <?php
-$page_title = 'Pediatric Urologist in New Delhi, India | Dr. Sujit Chowdhary';
-$meta_description = 'Dr. Sujit Chowdhary is the best paediatric urologist in New Delhi, India. He has over 31 years of experience in urology and specialises in newborn surgery.';
+$page_title = 'Best Pediatric Urologist in Delhi NCR | Dr. Sujit Chowdhary';
+$meta_description = 'Seeking the best pediatric urologist in Delhi NCR? Consult Dr. Sujit Chowdhary, a leading pediatric surgeon with over 31 years of experience in advanced pediatric urology care.';
 $current_page = 'home';
+$extra_head = <<<'EOD'
+<link rel="canonical" href="https://drsujitchowdhary.com/">
+<meta name="robots" content="index, follow">
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "MedicalWebPage",
+      "@id": "https://drsujitchowdhary.com/",
+      "url": "https://drsujitchowdhary.com/",
+      "name": "Best Pediatric Urologist in Delhi NCR | Dr. Sujit Chowdhary",
+      "description": "Seeking the best pediatric urologist in Delhi NCR? Consult Dr. Sujit Chowdhary, a leading pediatric surgeon with over 31 years of experience in advanced pediatric urology care.",
+      "medicalAudience": {
+        "@type": "MedicalAudience",
+        "audienceType": "Parents and Caregivers"
+      }
+    },
+    {
+      "@type": "Physician",
+      "@id": "https://drsujitchowdhary.com/#physician",
+      "name": "Dr. Sujit Chowdhary",
+      "jobTitle": "Senior Pediatric Urologist & Surgeon",
+      "telephone": "+91 98732 06761",
+      "medicalSpecialty": "PediatricUrology",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "D6, Club, 2, opposite Vasant Vihar",
+        "addressLocality": "Vasant Vihar",
+        "addressRegion": "New Delhi",
+        "postalCode": "110057",
+        "addressCountry": "IN"
+      }
+    }
+  ]
+}
+</script>
+EOD;
 ?>
 <!DOCTYPE html>
 <html lang="en">
@@ -31,13 +69,13 @@ $current_page = 'home';
             </div>
             <div class="about-content fade-in-up" style="animation-delay: 0.2s">
                 <h4 class="accent-text">About The Doctor</h4>
-                <h1 style="font-size: 1.75rem; line-height: 1.3;">Dr. Sujit Chowdhary: Best Pediatric Urologist in Delhi</h1>
-                <p>Dr. Sujit Chowdhary is a globally recognized Pediatric Urologist and Pediatric Surgeon dedicated to treating children with complex congenital anomalies. With over three decades of specialized experience, he has transformed the lives of thousands of infants and children.</p>
-                <p>His compassionate approach, combine with state-of-the-art surgical techniques, ensures maximum safety and optimal outcomes for his young patients. Dr. Chowdhary's expertise spans reconstructive surgeries, minimally invasive procedures, and comprehensive diagnostic evaluations.</p>
+                <h1 style="font-size: 1.75rem; line-height: 1.3;">Dr. Sujit Chowdhary: Best Pediatric Urologist in Delhi NCR</h1>
+                <p>Dr. Sujit Chowdhary is a globally recognized Pediatric Urologist and Pediatric Surgeon dedicated to treating infants, children, and adolescents with complex congenital anomalies. With over three decades of specialized experience, he has transformed the lives of thousands of young patients.</p>
+                <p>His compassionate approach, combined with state-of-the-art robotic and laparoscopic surgical techniques, ensures maximum safety, minimal discomfort, and optimal long-term health. Dr. Chowdhary's expertise spans reconstructive urology, organ-sparing surgeries, and comprehensive diagnostic evaluations.</p>
                 <ul class="about-list">
-                    <li><i class="fas fa-check-circle"></i> Pioneer in Minimally Invasive Pediatric Surgery</li>
-                    <li><i class="fas fa-check-circle"></i> International Fellowships and Training</li>
-                    <li><i class="fas fa-check-circle"></i> Evidence-based, Family-centered Care</li>
+                    <li><i class="fas fa-check-circle"></i> Pioneer in Minimally Invasive & Robotic Pediatric Surgery</li>
+                    <li><i class="fas fa-check-circle"></i> International Fellowships & World-Renowned Training</li>
+                    <li><i class="fas fa-check-circle"></i> Evidence-based, Compassionate, Family-Centered Care</li>
                 </ul>
                 <a href="about.php" class="btn btn-primary mt-4">Read Full Profile</a>
             </div>
@@ -98,83 +136,44 @@ $current_page = 'home';
             </div>
             
             <div class="text-center mt-5 fade-in-up">
-                <a href="services.php" class="btn btn-outline">View All Services</a>
+                <a href="services.php" class="btn btn-primary">View All Specialities</a>
             </div>
         </div>
     </section>
 
-    <!-- Experience / Stats Section -->
-    <section class="experience-section">
-        <div class="container grid-4 info-counters">
-            <div class="stat-item fade-in-up">
-                <i class="fas fa-calendar-alt stat-icon"></i>
-                <h3 class="counter"><span class="counter-number" data-target="31">0</span>+</h3>
-                <p>Years of Experience</p>
-            </div>
-            <div class="stat-item fade-in-up" style="animation-delay: 0.1s">
-                <i class="fas fa-robot stat-icon"></i>
-                <h3 class="counter"><span class="counter-number" data-target="800">0</span>+</h3>
-                <p>Robotic Pediatric Surgeries<br><span style="font-size: 0.8rem; font-weight: normal; opacity: 0.9; text-transform: none;">(First Time in Asia)</span></p>
-            </div>
-            <div class="stat-item fade-in-up" style="animation-delay: 0.2s">
-                <i class="fas fa-award stat-icon"></i>
-                <h3 class="counter"><span class="counter-number" data-target="100">0</span>+</h3>
-                <p>Awards Received</p>
-            </div>
-            <div class="stat-item fade-in-up" style="animation-delay: 0.3s">
-                <i class="fas fa-headset stat-icon"></i>
-                <h3>24/7</h3>
-                <p>Emergency Support</p>
-            </div>
-        </div>
-    </section>
-
-    <!-- Educational Videos -->
-    <section class="section videos-section" id="videos">
-        <div class="container">
-            <div class="section-title fade-in-up">
-                <h4 class="accent-text">Patient Education</h4>
-                <h2>Our Youtube Videos</h2>
-            </div>
-            
-            <div class="grid-2 fade-in-up mt-4">
-                <div class="video-card">
-                    <iframe src="https://www.youtube.com/embed/HlQ4-vkJyJU?si=CYgynVaB6CwkfRYs" title="Dr. Sujit Chowdhary, Clinical Director - Pediatric Sciences" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-                    <div class="video-info">
-                        <h4>Dr. Sujit Chowdhary, Clinical Director - Pediatric Sciences</h4>
+    <!-- Why Choose Us -->
+    <section class="section">
+        <div class="container grid-2 align-items-center">
+            <div class="why-content fade-in-up">
+                <h4 class="accent-text">Why Choose Us</h4>
+                <h2>World-Class Pediatric Surgical Care</h2>
+                <p>Choosing the right surgical care for your child is one of the most important decisions you will make. We combine clinical excellence with a compassionate, child-friendly environment.</p>
+                <div class="features-list mt-4">
+                    <div class="feature-item" style="display:flex; gap:15px; margin-bottom:20px;">
+                        <i class="fas fa-user-md font-2xl" style="color:var(--secondary-teal); font-size:1.8rem;"></i>
+                        <div>
+                            <h4>31+ Years of Clinical Mastery</h4>
+                            <p>Decades of experience handling rare, complex, and failed reconstructive surgical cases.</p>
+                        </div>
                     </div>
-                </div>
-                <div class="video-card">
-                    <iframe src="https://www.youtube.com/embed/b_b3aAo-T3s?si=36YpWpGTTkhfz_mg" title="500+ Robotic Pediatric Urological Surgeries" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-                    <div class="video-info">
-                        <h4>500+ Robotic Pediatric Urological Surgeries</h4>
+                    <div class="feature-item" style="display:flex; gap:15px; margin-bottom:20px;">
+                        <i class="fas fa-robot font-2xl" style="color:var(--secondary-teal); font-size:1.8rem;"></i>
+                        <div>
+                            <h4>Robotic & Keyhole Precision</h4>
+                            <p>State-of-the-art robotic systems for pin-point accuracy, minimal scarring, and quick recovery.</p>
+                        </div>
+                    </div>
+                    <div class="feature-item" style="display:flex; gap:15px;">
+                        <i class="fas fa-heart font-2xl" style="color:var(--secondary-teal); font-size:1.8rem;"></i>
+                        <div>
+                            <h4>Family-Centered Care</h4>
+                            <p>Clear communication, empathetic guidance, and multi-disciplinary support throughout the healing journey.</p>
+                        </div>
                     </div>
                 </div>
             </div>
-        </div>
-    </section>
-
-    <!-- Latest Events -->
-    <section class="section events-section bg-light" id="events">
-        <div class="container">
-            <div class="section-title fade-in-up">
-                <h4 class="accent-text">Community & Conferences</h4>
-                <h2>Our Latest Events</h2>
-            </div>
-            
-            <div class="scroll-container fade-in-up mt-4">
-                <div class="event-card">
-                    <img src="assets/images/apapu_lamp.jpg" alt="Lamp lighting ceremony at APAPU Congress">
-                </div>
-                <div class="event-card">
-                    <img src="assets/images/apapu_podium.jpg" alt="Dr. Sujit Chowdhary speaking at APAPU Congress">
-                </div>
-                <div class="event-card">
-                    <img src="assets/images/apapu_presentation.jpg" alt="Scientific presentation by Dr. Sujit Chowdhary">
-                </div>
-                <div class="event-card">
-                    <img src="assets/images/apapu_audience.jpg" alt="Delegates and audience at APAPU Congress">
-                </div>
+            <div class="why-image fade-in-up" style="animation-delay: 0.2s">
+                <img src="assets/images/apapu_podium.jpg" alt="Dr. Sujit Chowdhary at APAPU Conference" style="width:100%; border-radius:var(--radius-lg); box-shadow:var(--shadow-lg);">
             </div>
         </div>
     </section>
@@ -193,7 +192,7 @@ $current_page = 'home';
                     <div class="stars">
                         <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i>
                     </div>
-                    <p class="quote">"We were terrified when my newborn was diagnosed with PUV. Dr. Chowdhary handled the operation with immense skill and thoroughly explained everything. Our baby is thriving now."</p>
+                    <p class="quote">"We were terrified when our newborn was diagnosed with PUV. Finding the top <strong>Pediatric Urologist in Delhi NCR</strong>, Dr. Sujit Chowdhary, was a true blessing. He performed keyhole ablation with immense skill, and our baby is thriving now."</p>
                     <div class="author mt-3">
                         <h5>Aarti & Rahul S.</h5>
                         <span>Parents from Delhi</span>
@@ -215,7 +214,7 @@ $current_page = 'home';
                     <div class="stars">
                         <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i>
                     </div>
-                    <p class="quote">"The best pediatric surgeon we could hope for. He operated on our son for PUJO safely with keyhole surgery, and the recovery was so fast. We are forever grateful to Dr. Sujit."</p>
+                    <p class="quote">"Dr. Sujit is undoubtedly the <strong>Best Pediatric Urologist in India</strong>. He operated on our son for PUJO safely with keyhole surgery, and the recovery was fast and painless."</p>
                     <div class="author mt-3">
                         <h5>Vikram M.</h5>
                         <span>Father</span>
@@ -237,7 +236,7 @@ $current_page = 'home';
                     <div class="stars">
                         <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i>
                     </div>
-                    <p class="quote">"We traveled from another city just to consult Dr. Chowdhary for our child's complex GI issue. His diagnostic clarity and surgical precision are truly unmatched."</p>
+                    <p class="quote">"We traveled from another state to consult the <strong>Leading Pediatric Surgeon in Delhi NCR</strong>. Dr. Chowdhary's diagnostic clarity and reconstructive surgical precision are truly unmatched."</p>
                     <div class="author mt-3">
                         <h5>Vivek T.</h5>
                         <span>Father</span>
@@ -248,7 +247,7 @@ $current_page = 'home';
                     <div class="stars">
                         <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i>
                     </div>
-                    <p class="quote">"He treated my son for a neuropathic bladder. Thanks to his systematic treatment plan, my boy can now attend school normally without any stigma. Thank you, Doctor for giving him a normal life."</p>
+                    <p class="quote">"He treated my son for a neuropathic bladder. Thanks to his systematic treatment plan, my boy can now attend school normally without any stigma. Thank you, Doctor, for giving him a normal life."</p>
                     <div class="author mt-3">
                         <h5>Sunita Reddy</h5>
                         <span>Mother</span>
@@ -286,11 +285,21 @@ $current_page = 'home';
             <div class="faq-accordion fade-in-up" style="animation-delay: 0.2s">
                 <div class="faq-item">
                     <div class="faq-header">
+                        <h5>What conditions are treated by a Pediatric Urologist?</h5>
+                        <i class="fas fa-plus"></i>
+                    </div>
+                    <div class="faq-content">
+                        <p>Pediatric Urologists specialize in diagnosing and treating congenital and acquired conditions of the kidneys, ureters, bladder, and genital organs in children—including Hypospadias, Hydronephrosis, PUJO, Vesicoureteric Reflux (VUR), Posterior Urethral Valves (PUV), Undescended Testis, and Neuropathic Bladder.</p>
+                    </div>
+                </div>
+
+                <div class="faq-item">
+                    <div class="faq-header">
                         <h5>What is the difference between a general surgeon and a specialist Pediatric Urologist?</h5>
                         <i class="fas fa-plus"></i>
                     </div>
                     <div class="faq-content">
-                        <p>A Pediatric Urologist has completed sub-specialty fellowship training exclusively focused on the unique anatomy, delicate tissue repair, and surgical care of infants, children, and adolescents. Children require specialized pediatric techniques, miniature instrumentation, and tailored care.</p>
+                        <p>A specialist Pediatric Urologist undergoes years of advanced fellowship training dedicated exclusively to the delicate anatomy, fine tissues, and micro-reconstructive surgical techniques required for infants and children, ensuring optimal long-term functional and cosmetic outcomes.</p>
                     </div>
                 </div>
                 
@@ -300,7 +309,7 @@ $current_page = 'home';
                         <i class="fas fa-plus"></i>
                     </div>
                     <div class="faq-content">
-                        <p>With modern robotic and laparoscopic advancements, minimally invasive procedures can be performed safely on infants, toddlers, and young children. Each case is individually evaluated to determine the least invasive and most effective approach.</p>
+                        <p>Modern laparoscopic and robotic techniques can safely be performed on infants, toddlers, and older children. Each child's condition is evaluated individually to select the safest, least invasive surgical approach.</p>
                     </div>
                 </div>
                 
@@ -310,37 +319,37 @@ $current_page = 'home';
                         <i class="fas fa-plus"></i>
                     </div>
                     <div class="faq-content">
-                        <p>Yes. Surgical procedures are conducted alongside dedicated pediatric anesthesiologists who specialize exclusively in child anesthesia. Precise weight-based dosing, advanced monitoring, and child-centered safety protocols ensure maximum safety and comfort.</p>
+                        <p>Yes. Surgeries are performed alongside dedicated sub-specialty pediatric anesthesiologists. Weight-based medication dosing, continuous precision monitoring, and child-centered safety protocols make surgical procedures safe and painless.</p>
                     </div>
                 </div>
 
                 <div class="faq-item">
                     <div class="faq-header">
-                        <h5>When should parents consult a Pediatric Urologist or Surgeon?</h5>
+                        <h5>When should parents seek a consultation with Dr. Sujit Chowdhary?</h5>
                         <i class="fas fa-plus"></i>
                     </div>
                     <div class="faq-content">
-                        <p>Parents should consult a specialist if a child has a congenital birth anomaly, abdominal or renal concerns, urinary tract difficulties, testicular irregularities, or upon referral from a pediatrician following routine or prenatal ultrasound scans.</p>
+                        <p>Parents should consult Dr. Sujit Chowdhary if an antenatal ultrasound shows kidney swelling, if a child experiences recurrent urinary infections, or if there are noticeable abnormalities in urination or genital anatomy.</p>
                     </div>
                 </div>
 
                 <div class="faq-item">
                     <div class="faq-header">
-                        <h5>How long is the typical hospital stay and recovery after pediatric surgery?</h5>
+                        <h5>What is the typical hospital stay and recovery time after pediatric surgery?</h5>
                         <i class="fas fa-plus"></i>
                     </div>
                     <div class="faq-content">
-                        <p>Many procedures are performed as day-care surgeries, allowing your child to return home the same day. For complex reconstructive procedures, hospital stay usually ranges from 1 to 3 days with smooth recovery and minimal disruption to your child's routine.</p>
+                        <p>Many procedures are performed as daycare surgeries, allowing children to go home the same afternoon. For complex reconstructive procedures, hospital stays typically range from 1 to 3 days with swift recovery.</p>
                     </div>
                 </div>
 
                 <div class="faq-item">
                     <div class="faq-header">
-                        <h5>What should we bring for our first pediatric consultation?</h5>
+                        <h5>What documents should parents bring for their initial consultation?</h5>
                         <i class="fas fa-plus"></i>
                     </div>
                     <div class="faq-content">
-                        <p>Please bring any previous medical records, ultrasound scans, blood/urine test reports, and your pediatrician's referral if available. Bringing a comfort item like a favorite toy or blanket also helps keep your child relaxed.</p>
+                        <p>Please bring any previous medical files, ultrasound scans, blood/urine test reports, and your pediatrician's referral notes. Bringing a favorite toy or blanket also helps keep your child comfortable during the visit.</p>
                     </div>
                 </div>
             </div>
@@ -355,7 +364,7 @@ $current_page = 'home';
                     <div class="section-title text-left mb-4">
                         <h4 class="accent-text">Get in Touch</h4>
                         <h2 style="margin-bottom:0.5rem">Book an Appointment</h2>
-                        <p>Send us a message and our team will get back to you shortly.</p>
+                        <p>Schedule a consultation with Dr. Sujit Chowdhary for expert pediatric surgical guidance.</p>
                     </div>
                     
                     <form action="includes/process-contact.php" method="POST" class="contact-form">
@@ -365,16 +374,16 @@ $current_page = 'home';
                         </div>
                     <?php endif; ?>
                         <div class="form-group mb-3">
-                            <input type="text" placeholder="Name" name="name" class="form-control" required>
+                            <input type="text" placeholder="Parent's Name" name="name" class="form-control" required>
                         </div>
                         <div class="form-group grid-2" style="gap:1rem; margin-bottom: 1rem;">
                             <input type="tel" placeholder="Contact Number" class="form-control" required name="phone">
-                            <input type="email" placeholder="Email" class="form-control" required name="email">
+                            <input type="email" placeholder="Email Address" class="form-control" required name="email">
                         </div>
                         <div class="form-group mb-3">
-                            <textarea placeholder="Description" rows="4" class="form-control" required name="message"></textarea>
+                            <textarea placeholder="Tell us about your child's condition" rows="4" class="form-control" required name="message"></textarea>
                         </div>
-                        <button type="submit" class="btn btn-primary w-100">Submit Request</button>
+                        <button type="submit" class="btn btn-primary w-100">Request Call Back</button>
                     </form>
                 </div>
                 
@@ -388,21 +397,27 @@ $current_page = 'home';
                             </div>
                         </div>
                         <div class="bubble mt-3">
-                            <i class="fas fa-clock"></i>
+                            <i class="fas fa-phone-alt"></i>
                             <div>
-                                <h5>OPD Timings</h5>
-                                <p>24 Hours</p>
+                                <h5>Call for Emergency</h5>
+                                <p>+91 98732 06761</p>
                             </div>
                         </div>
-
+                        <div class="bubble mt-3">
+                            <i class="fab fa-google"></i>
+                            <div>
+                                <h5>Google Profile</h5>
+                                <p><a href="https://share.google/ZDYFDGzk371tPER2n" target="_blank" style="color:var(--primary-blue); font-weight:600;">View Profile & Reviews</a></p>
+                            </div>
+                        </div>
                     </div>
-                    <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d3504.320839107355!2d77.1648039!3d28.5601269!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x390ce3fef8d5f005%3A0xd080c4b0d8a5754!2sDr%20Sujit%20Chowdhary%3A%20Robotic%20Pediatric%20Urologist%2F%20Surgeon%20in%20Delhi%2C%20India%20%7C%20Neuropathic%20Bladder%2C%20Urinary%20Stone%2C%20Hydronephrosis!5e0!3m2!1sen!2sin!4v1780577721558!5m2!1sen!2sin" width="100%" height="350" style="border:0; border-radius:var(--radius-md);" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+                    <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d3504.320839107355!2d77.1648039!3d28.5601269!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x390ce3fef8d5f005%3A0xd080c4b0d8a5754!2sDr%20Sujit%20Chowdhary%3A%20Robotic%20Pediatric%20Urologist%2F%20Surgeon%20in%20Delhi%2C%20India%20%7C%20Neuropathic%20Bladder%2C%20Urinary%20Stone%2C%20Hydronephrosis!5e0!3m2!1sen!2sin!4v1780577721558!5m2!1sen!2sin" width="100%" height="300" style="border:0; border-radius:var(--radius-md);" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
                 </div>
             </div>
         </div>
     </section>
 
-    <!-- Footer -->
+<!-- Footer -->
 
 <?php include 'includes/footer.php'; ?>
 </body>
