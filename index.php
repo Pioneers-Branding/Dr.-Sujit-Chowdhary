@@ -272,6 +272,44 @@ EOD;
         </div>
     </section>
 
+    <!-- Our Happy Patients Section -->
+    <section class="section bg-light" id="happy-patients">
+        <div class="container">
+            <div class="section-title fade-in-up">
+                <h4 class="accent-text">Patient Memories</h4>
+                <h2>Our Happy Patients</h2>
+            </div>
+            
+            <div class="patient-scroll-container fade-in-up mt-4">
+                <div class="patient-scroll-card">
+                    <img src="assets/images/gallery_patient_family_1.jpg" alt="Happy Patient 1">
+                </div>
+                <div class="patient-scroll-card">
+                    <img src="assets/images/gallery_intl_patient_2.jpg" alt="Happy Patient 2">
+                </div>
+                <div class="patient-scroll-card">
+                    <img src="assets/images/gallery_laparoscopic_recovery_3.jpg" alt="Happy Patient 3">
+                </div>
+                <div class="patient-scroll-card">
+                    <img src="assets/images/gallery_newborn_care_4.jpg" alt="Happy Patient 4">
+                </div>
+                <div class="patient-scroll-card">
+                    <img src="assets/images/gallery_patient_recovery_5.jpg" alt="Happy Patient 5">
+                </div>
+                <div class="patient-scroll-card">
+                    <img src="assets/images/gallery_patient_6.jpg" alt="Happy Patient 6">
+                </div>
+                <div class="patient-scroll-card">
+                    <img src="assets/images/gallery_patient_7.jpg" alt="Happy Patient 7">
+                </div>
+            </div>
+            
+            <div class="text-center mt-5 fade-in-up">
+                <a href="gallery.php" class="btn btn-primary">View More <i class="fas fa-arrow-right" style="margin-left:5px;"></i></a>
+            </div>
+        </div>
+    </section>
+
     <!-- FAQ Section -->
     <section class="section faq-section bg-light" id="faq">
         <div class="container grid-2">
