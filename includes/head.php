@@ -27,6 +27,10 @@ $css_version = file_exists(__DIR__ . '/../css/index.css') ? filemtime(__DIR__ . 
     <meta http-equiv="Expires" content="0">
     <title><?php echo htmlspecialchars($page_title); ?></title>
     <meta name="description" content="<?php echo htmlspecialchars($meta_description); ?>">
+    <!-- Favicon -->
+    <link rel="icon" type="image/png" href="<?php echo $path_prefix; ?>assets/images/favicon.png">
+    <link rel="shortcut icon" href="<?php echo $path_prefix; ?>favicon.ico" type="image/x-icon">
+    <link rel="apple-touch-icon" href="<?php echo $path_prefix; ?>assets/images/favicon.png">
     <!-- Fonts & Icons -->
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
