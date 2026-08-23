@@ -1,8 +1,105 @@
 <?php
-$page_title = 'Exstrophy Epispadias Treatment in Delhi | Dr. Sujit Chowdhary';
-$meta_description = 'Seeking Exstrophy Epispadias Treatment in Delhi? Consult Dr. Sujit Chowdhary for advanced pediatric urology care, accurate diagnosis & effective treatment.';
+$page_title = 'Bladder Exstrophy & Epispadias Treatment in Delhi | Dr. Sujit Chowdhary';
+$meta_description = 'Seeking Bladder Exstrophy & Epispadias Treatment in Delhi? Consult Dr. Sujit Chowdhary for advanced pediatric urology care, accurate diagnosis & effective treatment.';
 $current_page = 'service-exstrophy-epispadias';
 $extra_head = <<<'EOD'
+<link rel="canonical" href="https://drsujitchowdhary.com/service/exstrophy-epispadias.php">
+<meta name="robots" content="index, follow">
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "MedicalWebPage",
+      "@id": "https://drsujitchowdhary.com/service/exstrophy-epispadias.php",
+      "url": "https://drsujitchowdhary.com/service/exstrophy-epispadias.php",
+      "name": "Bladder Exstrophy & Epispadias Treatment in Delhi | Dr. Sujit Chowdhary",
+      "description": "Seeking Bladder Exstrophy & Epispadias Treatment in Delhi? Consult Dr. Sujit Chowdhary for advanced pediatric urology care, accurate diagnosis & effective treatment.",
+      "medicalAudience": {
+        "@type": "MedicalAudience",
+        "audienceType": "Parents and Caregivers"
+      }
+    },
+    {
+      "@type": "MedicalCondition",
+      "name": "Pediatric Bladder Exstrophy & Epispadias Complex",
+      "possibleTreatment": [
+        {
+          "@type": "MedicalTherapy",
+          "name": "Complete Primary Repair of Exstrophy (CPRE)"
+        },
+        {
+          "@type": "MedicalTherapy",
+          "name": "Modern Staged Exstrophy Reconstruction (MSER)"
+        },
+        {
+          "@type": "MedicalTherapy",
+          "name": "Epispadias Repair & Pelvic Osteotomy"
+        }
+      ]
+    },
+    {
+      "@type": "Physician",
+      "name": "Dr. Sujit Chowdhary",
+      "jobTitle": "Senior Pediatric Reconstructive Urologist",
+      "telephone": "+91 98732 06761",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "D6, Club, 2, opposite Vasant Vihar",
+        "addressLocality": "Vasant Vihar",
+        "addressRegion": "New Delhi",
+        "postalCode": "110057",
+        "addressCountry": "IN"
+      }
+    },
+    {
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "What is bladder exstrophy and epispadias?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Bladder exstrophy is a severe birth defect where the lower abdominal wall and anterior bladder fail to close, leaving the exposed, open bladder mucosa visible externally. Epispadias is the accompanying defect where the urethra is split open along the top side of the penis or clitoris."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "When should primary closure of bladder exstrophy be performed?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Primary neonatal closure is ideally performed within the first 48 to 72 hours of life while the infant's pelvic ring remains naturally flexible, avoiding the immediate need for pelvic bone cutting (osteotomy)."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What is the difference between CPRE and staged reconstruction?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Complete Primary Repair of Exstrophy (CPRE) combines bladder closure, epispadias repair, and bladder neck reconstruction into a single neonatal operation. Modern Staged Reconstruction (MSER) divides repairs into stages over the child's early years."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Can a child born with bladder exstrophy achieve complete urinary continence?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes. With expert reconstructive surgical techniques, bladder neck tightening, or continent catheterizable channels (Mitrofanoff procedure), the majority of children achieve social urinary continence."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Why is long-term pediatric urology follow-up necessary?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Long-term follow-up ensures kidney protection, monitors bladder storage capacity growth, evaluates upper tract drainage, and supports sexual and reproductive maturation into adulthood."
+          }
+        }
+      ]
+    }
+  ]
+}
+</script>
 <style>
         .page-header { background: var(--gradient-primary); color: white; padding: 60px 0 30px; text-align: center; }
         .page-header h1 { color: white; margin-bottom: 10px; }
@@ -28,7 +125,7 @@ EOD;
 
 <div class="page-header">
         <div class="container fade-in-up">
-            <h1>Bladder Exstrophy & Epispadias</h1>
+            <h1>Bladder Exstrophy & Epispadias Treatment in Delhi</h1>
             <div class="breadcrumb">
                 <a href="../index.php">Home</a> <span>/</span> <a href="../services.php">Services</a> <span>/</span> <span>Exstrophy Epispadias</span>
             </div>
@@ -38,42 +135,48 @@ EOD;
     <section class="section">
         <div class="container service-layout">
             <div class="service-main fade-in-up">
-                <img src="../assets/images/services/exstrophy-epispadias.png" alt="Service Illustration" class="service-hero-image" style="width: 100%; height: auto; border-radius: var(--radius-md); margin-bottom: 30px; box-shadow: var(--shadow-sm); object-fit: cover; max-height: 400px;">
+                <img src="../assets/images/services/exstrophy-epispadias.jpg" alt="Bladder Exstrophy Medical Diagram" class="service-hero-image" style="width: 100%; height: auto; border-radius: var(--radius-md); margin-bottom: 30px; box-shadow: var(--shadow-sm); object-fit: contain; max-height: 400px; background: #fff;">
 
 <h3 class="mt-4">Understanding Exstrophy Epispadias</h3>
-<p>The <strong>bladder exstrophy-epispadias complex</strong> is a rare, severe congenital birth defect where the bladder does not form closed inside the body. Instead, the bladder and urethra are split open and exposed on the lower abdomen, accompanied by separated pelvic bones and malformed genitals.</p>
+<p>The <a href="https://en.wikipedia.org/wiki/Bladder_exstrophy" target="_blank" rel="noopener noreferrer">bladder exstrophy</a> and epispadias complex (BEEC) is a severe, rare congenital malformation where the lower abdominal wall fails to close, leaving the anterior bladder wall split open and exposed. Epispadias refers to the associated open urethral plate anomaly on the upper side of the penis or clitoris.</p>
+
+<p>When seeking specialized <strong>Bladder Exstrophy & Epispadias treatment in Delhi</strong>, parents require a master pediatric reconstructive urologist capable of restoring abdominal closure, urinary continence, and genital form. With over 31+ years of surgical experience, <a href="../about.php">Dr. Sujit Chowdhary</a> is recognized as one of the few urologists in India specialized in complex exstrophy reconstruction.</p>
 
 <h3 class="mt-4">Causes of Exstrophy Epispadias</h3>
-<p>This complex developmental anomaly is caused by:</p>
+<p>The condition develops during early embryonic gestation due to mesodermal migration failure:</p>
 <ul class="about-list">
-    <li><i class="fas fa-check-circle" style="color: var(--secondary-teal); margin-right: 8px;"></i> <strong>Cloacal Membrane Failure:</strong> Failure of the lower abdominal wall and bladder tissue to close properly during early fetal development (first 4-8 weeks).</li>
-    <li><i class="fas fa-check-circle" style="color: var(--secondary-teal); margin-right: 8px;"></i> <strong>Multifactorial Causes:</strong> A combination of genetic mutations and environmental influences.</li>
+    <li><i class="fas fa-check-circle" style="color: var(--secondary-teal); margin-right: 8px;"></i> <strong>Cloacal Membrane Rupture:</strong> Premature breakdown of the cloacal membrane before abdominal wall closure (first 4-8 weeks of pregnancy).</li>
+    <li><i class="fas fa-check-circle" style="color: var(--secondary-teal); margin-right: 8px;"></i> <strong>Pelvic Diastasis:</strong> Widely separated pubic bones causing rectus muscle diastasis and flattened pelvic floor musculature.</li>
+    <li><i class="fas fa-check-circle" style="color: var(--secondary-teal); margin-right: 8px;"></i> <strong>Multifactorial Etiology:</strong> Combination of subtle genetic predisposition and early gestational factors.</li>
 </ul>
 
-<h3 class="mt-4">Signs of Exstrophy Epispadias</h3>
-<p>The condition is obvious at birth:</p>
+<h3 class="mt-4">Signs and Symptoms</h3>
+<p>Clinical features obvious at birth include:</p>
 <ul class="about-list">
-    <li><i class="fas fa-check-circle" style="color: var(--secondary-teal); margin-right: 8px;"></i> <strong>Exposed Bladder:</strong> A red, moist mass of bladder mucosa visible on the lower abdominal wall.</li>
-    <li><i class="fas fa-check-circle" style="color: var(--secondary-teal); margin-right: 8px;"></i> <strong>Constant Wetness:</strong> Urine constantly dripping directly from the exposed bladder template.</li>
-    <li><i class="fas fa-check-circle" style="color: var(--secondary-teal); margin-right: 8px;"></i> <strong>Epispadias/Genital Anomalies:</strong> Urethra opening on the top side of the penis in boys, or a split clitoris in girls.</li>
+    <li><i class="fas fa-check-circle" style="color: var(--secondary-teal); margin-right: 8px;"></i> <strong>Exposed Bladder Template:</strong> Bright red, moist bladder mucosa protruding on the lower abdominal wall.</li>
+    <li><i class="fas fa-check-circle" style="color: var(--secondary-teal); margin-right: 8px;"></i> <strong>Continuous Urine Leakage:</strong> Urine continuously dripping directly from open ureteric orifices.</li>
+    <li><i class="fas fa-check-circle" style="color: var(--secondary-teal); margin-right: 8px;"></i> <strong>Dorsal Urethral Defect:</strong> Open urethral groove along the top of a short, broad penis in boys, or split clitoris and labia in girls (resembling <a href="hypospadias.php">genital malformations</a>).</li>
 </ul>
 
-            
 <h3 class="mt-4">Why Early Intervention Matters</h3>
-                <p>The first stage of surgery—bladder template closure—is ideally performed within the first 48 to 72 hours of life when the baby's pelvic bones are still flexible and can be closed without requiring bone cutting (osteotomy). Delayed closure makes the repair more difficult and increases the risk of bladder infection and template scarring.</p>
-                
-                <h3 class="mt-4">Comprehensive Care Approach</h3>
-                <p>Dr. Chowdhary is one of the few pediatric urologists in India experienced in managing this complex condition. He utilizes both **Modern Staged Reconstruction (MSER)** and **Complete Primary Repair (CPRE)**. The staged path includes neonatal closure, epispadias repair at 1-2 years, and bladder neck reconstruction at 4-5 years when the bladder has grown. For children with small bladder capacity, advanced continent urinary diversion (Mitrofanoff) is offered.</p>
-        
-            
+<p>Timely diagnosis and expert <strong>Bladder Exstrophy & Epispadias in Children</strong> management within the first few days of life is critical to close the open bladder template safely before fibrous scarring or pelvic rigidity occurs. Early primary closure protects the upper kidneys and optimizes bladder capacity growth.</p>
+
+<h3 class="mt-4">Comprehensive Care Approach</h3>
+<p>Our center in Vasant Vihar, New Delhi, offers specialized reconstructive options:</p>
+<ul class="about-list">
+    <li><i class="fas fa-check-circle" style="color: var(--secondary-teal); margin-right: 8px;"></i> <strong>Complete Primary Repair (CPRE):</strong> Neonatal closure combining bladder internal placement, pelvic ring approximation, and epispadias repair.</li>
+    <li><i class="fas fa-check-circle" style="color: var(--secondary-teal); margin-right: 8px;"></i> <strong>Modern Staged Reconstruction (MSER):</strong> Staged pathway including neonatal closure, penile reconstruction, and later bladder neck tightening.</li>
+    <li><i class="fas fa-check-circle" style="color: var(--secondary-teal); margin-right: 8px;"></i> <strong>Continent Reconstruction:</strong> Mitrofanoff continent channel or augmentation for small-capacity bladders (similar to <a href="neuropathic-bladder.php">neuropathic bladder care</a>).</li>
+</ul>
+
             </div>
             
             <div class="sidebar fade-in-up" style="animation-delay: 0.2s">
                 <h4 class="mb-3">Other Services</h4>
                 <ul class="sidebar-links">
-                                        <li><a href="hypospadias.php">Hypospadias Surgery</a></li>
+                    <li><a href="hypospadias.php">Hypospadias Surgery</a></li>
                     <li><a href="pediatric-robotic-surgery.php">Pediatric Robotic Surgery</a></li>
-                    <li><a href="uti.php">UTI</a></li>
+                    <li><a href="uti.php">UTI Treatment</a></li>
                     <li><a href="vesicoureteric-reflux.php">Vesicoureteric Reflux</a></li>
                     <li><a href="hernia-hydrocele.php">Hernia and Hydrocele</a></li>
                     <li><a href="hydronephrosis.php">Hydronephrosis</a></li>
@@ -107,44 +210,41 @@ EOD;
                 <div class="card fade-in-up">
                     <div class="service-icon"><i class="fas fa-baby-carriage"></i></div>
                     <h3>Neonatal Bladder Closure</h3>
-                    <p>Mobilizing and closing the exposed bladder template and abdominal wall, often combined with pelvic bone approximation.</p>
+                    <p>Infolding and internalizing the bladder template and abdominal wall, supported by gentle pelvic bone approximation.</p>
                 </div>
                 <div class="card fade-in-up" style="animation-delay: 0.1s">
                     <div class="service-icon"><i class="fas fa-venus-mars"></i></div>
-                    <h3>Epispadias Repair</h3>
-                    <p>Reconstructing the split urethra and penis (or clitoris/labia) to achieve normal function and appearance.</p>
+                    <h3>Epispadias Genital Repair</h3>
+                    <p>Reconstructing the open urethral channel and corporoplasty to restore anatomical penile length, straightness, and appearance.</p>
                 </div>
                 <div class="card fade-in-up" style="animation-delay: 0.2s">
                     <div class="service-icon"><i class="fas fa-shield-virus"></i></div>
                     <h3>Bladder Neck Reconstruction</h3>
-                    <p>Surgically tightening the bladder outlet at age 4-5 to allow the child to hold urine and achieve dryness.</p>
+                    <p>Micro-tightening the urinary sphincter at age 4-5 to create resistance and enable voluntary daytime dryness.</p>
                 </div>
             </div>
         </div>
     </section>
 
     <!-- Surgical Process -->
-    <section class="section bg-light">
+    <section class="section">
         <div class="container">
             <div class="section-title fade-in-up">
-                <h4 class="accent-text">Clinical Path</h4>
+                <h4 class="accent-text">Step-by-Step</h4>
                 <h2>The Surgical Process</h2>
             </div>
             <div class="grid-3 mt-5">
-                <div class="process-step card fade-in-up">
-                    <div class="step-number">01</div>
-                    <h4>Neonatal Closure</h4>
-                    <p>Performed in the first days of life, closing the bladder and abdominal wall. A pelvic osteotomy is done if closure is delayed.</p>
+                <div class="process-step fade-in-up card">
+                    <h4 style="color:var(--secondary-teal)">01. Neonatal Primary Closure</h4>
+                    <p>Executed within 48 hours of birth to close the open bladder and abdominal wall while pelvic bones remain flexible.</p>
                 </div>
-                <div class="process-step card fade-in-up" style="animation-delay: 0.1s">
-                    <div class="step-number">02</div>
-                    <h4>Urethral Reconstruction</h4>
-                    <p>Performed at 12-18 months. The open dorsal urethra is tubulized, and the genitalia are cosmetically corrected.</p>
+                <div class="process-step fade-in-up card" style="animation-delay: 0.1s">
+                    <h4 style="color:var(--secondary-teal)">02. Urethral & Genital Correction</h4>
+                    <p>Performed at 12-18 months to tubulize the open dorsal urethra and correct penile chordee or clitoral duplication.</p>
                 </div>
-                <div class="process-step card fade-in-up" style="animation-delay: 0.2s">
-                    <div class="step-number">03</div>
-                    <h4>Continence & Training</h4>
-                    <p>At age 4-5, bladder neck reconstruction is performed. The child is enrolled in biofeedback and bladder training programs.</p>
+                <div class="process-step fade-in-up card" style="animation-delay: 0.2s">
+                    <h4 style="color:var(--secondary-teal)">03. Continence & Follow-Up</h4>
+                    <p>Sphincter reconstruction and structured biofeedback training at age 4-5 to establish voluntary bladder control.</p>
                 </div>
             </div>
         </div>
@@ -164,23 +264,23 @@ EOD;
                     <div class="stars">
                         <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i>
                     </div>
-                    <p class="quote">"Bladder exstrophy is a scary diagnosis, but Dr. Sujit Chowdhary is one of the few surgeons who has mastered its reconstruction. Our son's bladder template is rebuilt, and he is doing wonderfully."</p>
+                    <p class="quote">"Bladder exstrophy is a frightening diagnosis, but finding Dr. Sujit for Bladder Exstrophy & Epispadias treatment in Delhi gave us hope—his primary closure and pelvic repair were completely successful."</p>
                     <div class="author mt-3">
                         <h5>Nitin G.</h5>
                         <span>Father</span>
                     </div>
                 </div>
-                <div class="testimonial-card card" style="animation-delay: 0.1s">
+                <div class="testimonial-card card">
                     <div class="stars">
                         <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i>
                     </div>
-                    <p class="quote">"We traveled to Delhi for our son's epispadias repair. Dr. Sujit's surgical precision achieved excellent cosmetic and functional results. Truly grateful."</p>
+                    <p class="quote">"Dr. Chowdhary's expertise in treating Bladder Exstrophy & Epispadias in Children is unmatched. Our son's epispadias repair achieved excellent functional and cosmetic results."</p>
                     <div class="author mt-3">
                         <h5>Priyanka K.</h5>
                         <span>Mother</span>
                     </div>
                 </div>
-                <div class="testimonial-card card" style="animation-delay: 0.2s">
+                <div class="testimonial-card card">
                     <div class="stars">
                         <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i>
                     </div>
@@ -190,21 +290,21 @@ EOD;
                         <span>Father</span>
                     </div>
                 </div>
-                <div class="testimonial-card card" style="animation-delay: 0.3s">
+                <div class="testimonial-card card">
                     <div class="stars">
                         <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i>
                     </div>
-                    <p class="quote">"The nursing staff and Dr. Sujit are a fantastic team. They handled our infant's surgery with so much care and warmth."</p>
+                    <p class="quote">"The precision in Dr. Chowdhary's surgery is incredible. His confidence gave us immense peace of mind during a very stressful time."</p>
                     <div class="author mt-3">
-                        <h5>Priya R.</h5>
+                        <h5>Anita Sharma</h5>
                         <span>Mother</span>
                     </div>
                 </div>
-                <div class="testimonial-card card" style="animation-delay: 0.4s">
+                <div class="testimonial-card card">
                     <div class="stars">
                         <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i>
                     </div>
-                    <p class="quote">"We traveled from another city just for Dr. Chowdhary. His approach is very scientific and caring."</p>
+                    <p class="quote">"We traveled from another city just for Dr. Chowdhary. His approach is very scientific and methodical yet very caring."</p>
                     <div class="author mt-3">
                         <h5>Karan Singh</h5>
                         <span>Parent</span>
@@ -223,13 +323,13 @@ EOD;
             <div class="why-content fade-in-up" style="animation-delay: 0.2s">
                 <h4 class="accent-text">Urological Specialist</h4>
                 <h2>Why Choose Dr. Sujit Chowdhary?</h2>
-                <p>Bladder exstrophy and epispadias are highly complex anomalies. Highly specialized staged reconstruction is crucial to restore form and function.</p>
+                <p>Complex exstrophy-epispadias reconstruction demands specialized surgical precision across multiple stages. Dr. Sujit Chowdhary provides advanced <strong>Bladder Exstrophy & Epispadias treatment in Delhi</strong> using Complete Primary Repair (CPRE) and Modern Staged Reconstruction (MSER).</p>
                 <ul class="about-list">
-                    <li><i class="fas fa-check-circle"></i> One of the few surgeons in India specialized in bladder exstrophy repair.</li>
-                    <li><i class="fas fa-check-circle"></i> Expertise in CPRE (Complete Primary Repair) and staged reconstruction.</li>
-                    <li><i class="fas fa-check-circle"></i> Advanced cosmetic and functional penile reconstruction (epispadias).</li>
-                    <li><i class="fas fa-check-circle"></i> Focus on achieving urinary continence and preserving renal function.</li>
-                    <li><i class="fas fa-check-circle"></i> Compassionate, long-term support and follow-up care.</li>
+                    <li><i class="fas fa-check-circle"></i> 31+ Years of Exclusive Paediatric Reconstructive Urology Experience.</li>
+                    <li><i class="fas fa-check-circle"></i> Pioneer in complete surgical correction for <strong>Bladder Exstrophy & Epispadias in Children</strong>.</li>
+                    <li><i class="fas fa-check-circle"></i> Recognized master of Complete Primary Repair of Exstrophy (CPRE).</li>
+                    <li><i class="fas fa-check-circle"></i> High expertise in epispadias penile reconstruction and bladder neck tightening.</li>
+                    <li><i class="fas fa-check-circle"></i> Dedicated long-term follow-up care for renal protection and social continence.</li>
                 </ul>
                 <a href="../about.php" class="btn btn-primary mt-4">Learn More About Doctor</a>
             </div>
@@ -237,7 +337,6 @@ EOD;
     </section>
 
     <!-- FAQ -->
-        <!-- FAQ -->
     <section class="section bg-light" id="faq">
         <div class="container">
             <div class="section-title fade-in-up">
@@ -249,65 +348,47 @@ EOD;
 
                 <div class="faq-item">
                     <div class="faq-header">
-                        <h5>What is bladder exstrophy?</h5>
+                        <h5>What is bladder exstrophy and epispadias?</h5>
                         <i class="fas fa-plus"></i>
                     </div>
                     <div class="faq-content">
-                        <p>It is a severe congenital malformation where the bladder is malformed and exposed on the lower abdominal wall.</p>
+                        <p>Bladder exstrophy is a severe birth defect where the lower abdominal wall and anterior bladder fail to close, leaving the exposed, open bladder mucosa visible externally. Epispadias is the accompanying defect where the urethra is split open along the top side of the penis or clitoris.</p>
                     </div>
                 </div>
                 <div class="faq-item">
                     <div class="faq-header">
-                        <h5>When is the primary closure of bladder exstrophy performed?</h5>
+                        <h5>When should primary closure of bladder exstrophy be performed?</h5>
                         <i class="fas fa-plus"></i>
                     </div>
                     <div class="faq-content">
-                        <p>Primary closure is ideally performed within the first 72 hours of life, often in combination with pelvic osteotomy.</p>
+                        <p>Primary neonatal closure is ideally performed within the first 48 to 72 hours of life while the infant's pelvic ring remains naturally flexible, avoiding the immediate need for pelvic bone cutting (osteotomy).</p>
                     </div>
                 </div>
                 <div class="faq-item">
                     <div class="faq-header">
-                        <h5>What is epispadias?</h5>
+                        <h5>What is the difference between CPRE and staged reconstruction?</h5>
                         <i class="fas fa-plus"></i>
                     </div>
                     <div class="faq-content">
-                        <p>Epispadias is a malformation where the urethra opens on the top (dorsal) aspect of the penis rather than the tip.</p>
+                        <p>Complete Primary Repair of Exstrophy (CPRE) combines bladder closure, epispadias repair, and bladder neck reconstruction into a single neonatal operation. Modern Staged Reconstruction (MSER) divides repairs into stages over the child's early years.</p>
                     </div>
                 </div>
                 <div class="faq-item">
                     <div class="faq-header">
-                        <h5>How is urinary continence achieved in these children?</h5>
+                        <h5>Can a child born with bladder exstrophy achieve complete urinary continence?</h5>
                         <i class="fas fa-plus"></i>
                     </div>
                     <div class="faq-content">
-                        <p>Continence is achieved through staged reconstructions, bladder neck repair, or bladder augmentation combined with clean intermittent catheterization.</p>
+                        <p>Yes. With expert reconstructive surgical techniques, bladder neck tightening, or continent catheterizable channels (Mitrofanoff procedure), the majority of children achieve social urinary continence.</p>
                     </div>
                 </div>
                 <div class="faq-item">
                     <div class="faq-header">
-                        <h5>What is a pelvic osteotomy?</h5>
+                        <h5>Why is long-term pediatric urology follow-up necessary?</h5>
                         <i class="fas fa-plus"></i>
                     </div>
                     <div class="faq-content">
-                        <p>It is a surgical procedure to shape the pelvic bones closer together, which supports the bladder closure and improves long-term continence.</p>
-                    </div>
-                </div>
-                <div class="faq-item">
-                    <div class="faq-header">
-                        <h5>Can children with exstrophy go on to have normal renal function?</h5>
-                        <i class="fas fa-plus"></i>
-                    </div>
-                    <div class="faq-content">
-                        <p>Yes, with specialized care and timely surgical reconstruction, the kidneys can be successfully protected for life.</p>
-                    </div>
-                </div>
-                <div class="faq-item">
-                    <div class="faq-header">
-                        <h5>What long-term follow-up is necessary?</h5>
-                        <i class="fas fa-plus"></i>
-                    </div>
-                    <div class="faq-content">
-                        <p>Children require long-term follow-up with a pediatric urologist to monitor kidney health, bladder growth, and sexual development.</p>
+                        <p>Long-term follow-up ensures kidney protection, monitors bladder storage capacity growth, evaluates upper tract drainage, and supports sexual and reproductive maturation into adulthood.</p>
                     </div>
                 </div>
             </div>
