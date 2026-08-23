@@ -66,7 +66,7 @@ EOD;
                         </div>
                     </div>
                     <div class="bubble" style="box-shadow:none; padding: 10px 0; background:transparent;">
-                        <i class="fas fa-phone-alt"></i>
+                        <i class="fas fa-phone"></i>
                         <div>
                             <h5>Phone & Email</h5>
                             <p>98732 06761 <br> sujitchowdhary@hotmail.com</p>

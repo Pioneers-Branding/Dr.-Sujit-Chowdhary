@@ -41,7 +41,7 @@
             <div class="footer-contact">
                 <h4>Contact Info</h4>
                 <p><i class="fas fa-map-marker-alt"></i> D6, Club, 2, opposite Vasant Vihar, Vasant Vihar, New Delhi, Delhi 110057</p>
-                <p><i class="fas fa-phone-alt"></i> 98732 06761</p>
+                <p><i class="fas fa-phone"></i> 98732 06761</p>
                 <p><i class="fas fa-envelope"></i> sujitchowdhary@hotmail.com</p>
                 <p><i class="fas fa-clock"></i> 24 Hours</p>
             </div>
@@ -62,6 +62,6 @@
         <i class="fab fa-whatsapp"></i>
     </a>
     <a href="tel:9873206761" class="float-icon callback" title="Call Now">
-        <i class="fas fa-phone-alt"></i>
+        <i class="fas fa-phone"></i>
     </a>
 </div>

@@ -133,7 +133,7 @@ EOD;
                     <li><a href="pediatric-oncosurgery.php" class="active">Pediatric Oncosurgery</a></li>
                 </ul>
                 <div class="contact-card text-center mt-5" style="background:var(--gradient-primary); padding:30px; border-radius:var(--radius-md); color:white;">
-                    <i class="fas fa-phone-alt font-2xl mb-3" style="font-size: 2rem;"></i>
+                    <i class="fas fa-phone font-2xl mb-3" style="font-size: 2rem;"></i>
                     <h4>Need Consultation?</h4>
                     <p style="color:white; opacity:0.8;">Book an appointment with Dr. Sujit Chowdhary today.</p>
                     <a href="../contact.php" class="btn mix-blend mt-2" style="background:white; color:var(--primary-blue); font-weight: 700;">Book Now</a>
@@ -411,7 +411,7 @@ EOD;
                             </div>
                         </div>
                         <div class="bubble mt-3">
-                            <i class="fas fa-phone-alt"></i>
+                            <i class="fas fa-phone"></i>
                             <div>
                                 <h5>Call for Emergency</h5>
                                 <p>+91 98732 06761</p>

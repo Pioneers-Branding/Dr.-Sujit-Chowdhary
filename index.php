@@ -435,7 +435,7 @@ EOD;
                             </div>
                         </div>
                         <div class="bubble mt-3">
-                            <i class="fas fa-phone-alt"></i>
+                            <i class="fas fa-phone"></i>
                             <div>
                                 <h5>Call for Emergency</h5>
                                 <p>+91 98732 06761</p>
