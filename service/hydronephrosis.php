@@ -3,6 +3,103 @@ $page_title = 'Hydronephrosis Treatment in Delhi | Dr. Sujit Chowdhary';
 $meta_description = 'Seeking Hydronephrosis Treatment in Delhi? Consult Dr. Sujit Chowdhary for advanced pediatric urology care, accurate diagnosis & effective treatment.';
 $current_page = 'service-hydronephrosis';
 $extra_head = <<<'EOD'
+<link rel="canonical" href="https://drsujitchowdhary.com/service/hydronephrosis.php">
+<meta name="robots" content="index, follow">
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "MedicalWebPage",
+      "@id": "https://drsujitchowdhary.com/service/hydronephrosis.php",
+      "url": "https://drsujitchowdhary.com/service/hydronephrosis.php",
+      "name": "Hydronephrosis Treatment in Delhi | Dr. Sujit Chowdhary",
+      "description": "Seeking Hydronephrosis Treatment in Delhi? Consult Dr. Sujit Chowdhary for advanced pediatric urology care, accurate diagnosis & effective treatment.",
+      "medicalAudience": {
+        "@type": "MedicalAudience",
+        "audienceType": "Parents and Caregivers"
+      }
+    },
+    {
+      "@type": "MedicalCondition",
+      "name": "Pediatric Hydronephrosis & Antenatal Renal Dilation",
+      "possibleTreatment": [
+        {
+          "@type": "MedicalTherapy",
+          "name": "Laparoscopic Anderson-Hynes Pyeloplasty"
+        },
+        {
+          "@type": "MedicalTherapy",
+          "name": "Robotic-Assisted Pyeloplasty"
+        },
+        {
+          "@type": "MedicalTherapy",
+          "name": "Active Ultrasound & MAG3 Renogram Surveillance"
+        }
+      ]
+    },
+    {
+      "@type": "Physician",
+      "name": "Dr. Sujit Chowdhary",
+      "jobTitle": "Senior Pediatric Urologist & Robotic Surgeon",
+      "telephone": "+91 98732 06761",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "D6, Club, 2, opposite Vasant Vihar",
+        "addressLocality": "Vasant Vihar",
+        "addressRegion": "New Delhi",
+        "postalCode": "110057",
+        "addressCountry": "IN"
+      }
+    },
+    {
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "What is hydronephrosis in infants and children?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Hydronephrosis is the anatomical swelling and dilation of the kidney's urine-collecting structure (renal pelvis and calyces). It occurs when urine backup is caused by an obstruction along the urinary tract or backward reflux from the bladder."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Does antenatal hydronephrosis detected on fetal scans always require surgery?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "No. Over 80% of antenatal (fetal) hydronephrosis cases are mild or transient physiological dilations that resolve spontaneously during the child's first year without requiring surgical intervention."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What is the most common cause of pediatric hydronephrosis?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Pelvi-Ureteric Junction Obstruction (PUJO) is the most frequent cause, where a congenital narrowing at the renal pelvis-ureter junction blocks urine flow from the kidney to the bladder."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "How is kidney function evaluated in a child with hydronephrosis?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Evaluation includes high-resolution postnatal renal ultrasound combined with a MAG3 or EC diuretic radionuclide scan to measure exact differential kidney function and clearance drainage times."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "When is laparoscopic or robotic pyeloplasty surgery recommended?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Surgery (Pyeloplasty) is indicated if serial nuclear scans demonstrate progressive obstruction, deterioration of differential renal function below 40%, severe renal pelvis enlargement, or recurrent febrile urinary tract infections."
+          }
+        }
+      ]
+    }
+  ]
+}
+</script>
 <style>
         .page-header { background: var(--gradient-primary); color: white; padding: 60px 0 30px; text-align: center; }
         .page-header h1 { color: white; margin-bottom: 10px; }
@@ -28,7 +125,7 @@ EOD;
 
 <div class="page-header">
         <div class="container fade-in-up">
-            <h1>Hydronephrosis in Children</h1>
+            <h1>Hydronephrosis Treatment in Delhi</h1>
             <div class="breadcrumb">
                 <a href="../index.php">Home</a> <span>/</span> <a href="../services.php">Services</a> <span>/</span> <span>Hydronephrosis</span>
             </div>
@@ -38,42 +135,48 @@ EOD;
     <section class="section">
         <div class="container service-layout">
             <div class="service-main fade-in-up">
-                <img src="../assets/images/services/hydronephrosis.png" alt="Service Illustration" class="service-hero-image" style="width: 100%; height: auto; border-radius: var(--radius-md); margin-bottom: 30px; box-shadow: var(--shadow-sm); object-fit: cover; max-height: 400px;">
+                <img src="../assets/images/services/hydronephrosis.jpg" alt="Healthy Kidney vs Hydronephrosis Diagram" class="service-hero-image" style="width: 100%; height: auto; border-radius: var(--radius-md); margin-bottom: 30px; box-shadow: var(--shadow-sm); object-fit: contain; max-height: 400px; background: #fff;">
 
 <h3 class="mt-4">Understanding Hydronephrosis</h3>
-<p><strong>Hydronephrosis</strong> is the swelling of one or both kidneys due to urine backup. It is not a disease in itself but rather a physical symptom of an underlying condition, such as a blockage in the urinary tract or urine flowing backward from the bladder (reflux).</p>
+<p><a href="https://en.wikipedia.org/wiki/Hydronephrosis" target="_blank" rel="noopener noreferrer">Hydronephrosis</a> is a condition characterized by swelling and dilation of the renal pelvis and calyces due to hindered urine flow or vesicoureteric reflux.</p>
+
+<p>When seeking specialized <strong>Hydronephrosis treatment in Delhi</strong>, parents require an experienced pediatric urologist to distinguish between self-resolving fetal dilation and progressive pelvic obstruction. With over 31+ years of experience, <a href="../about.php">Dr. Sujit Chowdhary</a> provides evidence-based diagnostic protocols and keyhole surgical solutions.</p>
 
 <h3 class="mt-4">Causes of Hydronephrosis</h3>
-<p>Hydronephrosis can be congenital or acquired, caused by:</p>
+<p>Pediatric hydronephrosis stems from structural blockages or abnormal urinary mechanics:</p>
 <ul class="about-list">
-    <li><i class="fas fa-check-circle" style="color: var(--secondary-teal); margin-right: 8px;"></i> <strong>Blockages (Obstruction):</strong> Narrowing at the kidney-ureter junction (UPJO), ureter-bladder junction (UVJO), or posterior urethral valves (PUV).</li>
-    <li><i class="fas fa-check-circle" style="color: var(--secondary-teal); margin-right: 8px;"></i> <strong>Vesicoureteral Reflux (VUR):</strong> Failure of the valve mechanism, letting urine travel backward into the kidney.</li>
+    <li><i class="fas fa-check-circle" style="color: var(--secondary-teal); margin-right: 8px;"></i> <strong>Pelvi-Ureteric Junction Obstruction (PUJO):</strong> Congenital narrowing at the kidney-ureter junction (detailed on our <a href="pujo.php">PUJO treatment page</a>).</li>
+    <li><i class="fas fa-check-circle" style="color: var(--secondary-teal); margin-right: 8px;"></i> <strong>Vesicoureteric Reflux (VUR):</strong> Incompetent ureteric valve letting urine backflow into the kidney (learn more about <a href="vesicoureteric-reflux.php">VUR management</a>).</li>
+    <li><i class="fas fa-check-circle" style="color: var(--secondary-teal); margin-right: 8px;"></i> <strong>Duplex System Anomalies:</strong> Ureteric duplication or ureterocele causing upper pole swelling (see <a href="duplex-renal-system.php">duplex renal system care</a>).</li>
 </ul>
 
-<h3 class="mt-4">Signs of Hydronephrosis</h3>
-<p>While frequently diagnosed during routine prenatal ultrasounds, postnatal signs include:</p>
+<h3 class="mt-4">Signs and Symptoms</h3>
+<p>Although frequently detected on routine prenatal ultrasounds, postnatal manifestations include:</p>
 <ul class="about-list">
-    <li><i class="fas fa-check-circle" style="color: var(--secondary-teal); margin-right: 8px;"></i> <strong>Recurrent UTIs:</strong> High-fever urinary infections due to pooled urine in the kidney.</li>
-    <li><i class="fas fa-check-circle" style="color: var(--secondary-teal); margin-right: 8px;"></i> <strong>Abdominal/Flank Pain:</strong> Pain in the side or back, which may worsen with high fluid intake.</li>
-    <li><i class="fas fa-check-circle" style="color: var(--secondary-teal); margin-right: 8px;"></i> <strong>Hematuria:</strong> Blood in the urine.</li>
-    <li><i class="fas fa-check-circle" style="color: var(--secondary-teal); margin-right: 8px;"></i> <strong>Palpable Abdominal Mass:</strong> An enlarged, swollen kidney that can be felt during physical exam.</li>
+    <li><i class="fas fa-check-circle" style="color: var(--secondary-teal); margin-right: 8px;"></i> <strong>Recurrent Febrile UTIs:</strong> High-fever <a href="uti.php">urinary tract infections</a> due to stagnant urine pool in the renal pelvis.</li>
+    <li><i class="fas fa-check-circle" style="color: var(--secondary-teal); margin-right: 8px;"></i> <strong>Flank or Abdominal Pain:</strong> Episodic side or back pain exacerbated by high fluid intake (Dietl's crisis).</li>
+    <li><i class="fas fa-check-circle" style="color: var(--secondary-teal); margin-right: 8px;"></i> <strong>Palpable Abdominal Mass:</strong> Enlarged, fluid-filled renal swelling felt during physical infant examination.</li>
 </ul>
 
-            
 <h3 class="mt-4">Why Early Intervention Matters</h3>
-                <p>While many cases of mild hydronephrosis resolve on their own, severe or worsening cases can indicate a significant blockage. If this obstruction is not addressed, the increased pressure can lead to irreversible kidney damage and loss of function. Regular monitoring and timely surgical intervention are vital to preserving the affected kidney's health and ensuring its proper growth.</p>
-                
-                <h3 class="mt-4">Comprehensive Care Approach</h3>
-                <p>Our approach is highly individualized, relying on advanced imaging like MAG3 diuretic renograms to assess kidney function and drainage. We prioritize non-operative management whenever safe, but when surgery is necessary, Dr. Chowdhary employs cutting-edge minimally invasive techniques. We also provide continuous follow-up care to monitor the kidney's development throughout childhood.</p>
-            
+<p>Prompt clinical evaluation of <strong>Hydronephrosis in Children</strong> is essential when high-grade kidney dilation threatens functional nephron preservation or causes recurrent urinary tract infections. Timely pyeloplasty eliminates backpressure and restores normal renal development.</p>
+
+<h3 class="mt-4">Comprehensive Care Approach</h3>
+<p>Our pediatric urology clinic in Vasant Vihar, New Delhi, emphasizes objective functional monitoring:</p>
+<ul class="about-list">
+    <li><i class="fas fa-check-circle" style="color: var(--secondary-teal); margin-right: 8px;"></i> <strong>MAG3 Diuretic Renography:</strong> Quantitative evaluation of split kidney function and urinary drainage half-times.</li>
+    <li><i class="fas fa-check-circle" style="color: var(--secondary-teal); margin-right: 8px;"></i> <strong>Laparoscopic Keyhole Pyeloplasty:</strong> Dissecting the blocked segment and reconstructing a wide, non-obstructed junction.</li>
+    <li><i class="fas fa-check-circle" style="color: var(--secondary-teal); margin-right: 8px;"></i> <strong><a href="pediatric-robotic-surgery.php">Robotic Pyeloplasty</a>:</strong> Ultra-precise 3D robotic reconstruction for complex renal anatomies.</li>
+</ul>
+
             </div>
             
             <div class="sidebar fade-in-up" style="animation-delay: 0.2s">
                 <h4 class="mb-3">Other Services</h4>
                 <ul class="sidebar-links">
-                                        <li><a href="hypospadias.php">Hypospadias Surgery</a></li>
+                    <li><a href="hypospadias.php">Hypospadias Surgery</a></li>
                     <li><a href="pediatric-robotic-surgery.php">Pediatric Robotic Surgery</a></li>
-                    <li><a href="uti.php">UTI</a></li>
+                    <li><a href="uti.php">UTI Treatment</a></li>
                     <li><a href="vesicoureteric-reflux.php">Vesicoureteric Reflux</a></li>
                     <li><a href="hernia-hydrocele.php">Hernia and Hydrocele</a></li>
                     <li><a href="hydronephrosis.php" class="active">Hydronephrosis</a></li>
@@ -96,8 +199,6 @@ EOD;
         </div>
     </section>
 
-    
-
     <!-- Treatment Options -->
     <section class="section bg-light">
         <div class="container">
@@ -108,18 +209,18 @@ EOD;
             <div class="grid-3 mt-5">
                 <div class="card fade-in-up">
                     <div class="service-icon"><i class="fas fa-eye"></i></div>
-                    <h3>Active Surveillance</h3>
-                    <p>Regular monitoring with ultrasounds and scans for mild cases that are likely to resolve spontaneously.</p>
+                    <h3>Active Ultrasound Surveillance</h3>
+                    <p>Serial ultrasonic monitoring and antibiotic prophylaxis for mild antenatal dilation likely to resolve spontaneously.</p>
                 </div>
                 <div class="card fade-in-up" style="animation-delay: 0.1s">
                     <div class="service-icon"><i class="fas fa-cut"></i></div>
                     <h3>Laparoscopic Pyeloplasty</h3>
-                    <p>Surgical correction of blockages at the ureteropelvic junction (UPJ) using minimally invasive keyhole surgery.</p>
+                    <p>Minimally invasive keyhole repair creating a funnel-shaped wide junction to drain urine freely from the kidney.</p>
                 </div>
                 <div class="card fade-in-up" style="animation-delay: 0.2s">
                     <div class="service-icon"><i class="fas fa-robot"></i></div>
-                    <h3>Robotic Pyeloplasty</h3>
-                    <p>Highly precise robotic-assisted reconstruction of the urinary tract for complex or delicate cases.</p>
+                    <h3>Robotic-Assisted Pyeloplasty</h3>
+                    <p>High-definition 3D robotic reconstruction ensuring flawless suturing and rapid infant recovery.</p>
                 </div>
             </div>
         </div>
@@ -134,16 +235,16 @@ EOD;
             </div>
             <div class="grid-3 mt-5">
                 <div class="process-step fade-in-up card">
-                    <h4 style="color:var(--secondary-teal)">01. Functional Assessment</h4>
-                    <p>We perform a MAG3 Renal Scan to determine the exact degree of obstruction and how much the kidney function is affected.</p>
+                    <h4 style="color:var(--secondary-teal)">01. Functional MAG3 Evaluation</h4>
+                    <p>Quantifying renal clearance, transit times, and differential function to confirm true mechanical obstruction.</p>
                 </div>
                 <div class="process-step fade-in-up card" style="animation-delay: 0.1s">
-                    <h4 style="color:var(--secondary-teal)">02. Laparoscopic Repair</h4>
-                    <p>Performed through three tiny 3mm incisions. The blockage is cleared and a wide opening is created for urine to flow freely.</p>
+                    <h4 style="color:var(--secondary-teal)">02. Keyhole Pyeloplasty</h4>
+                    <p>Performing precise laparoscopic or robotic pelvi-ureteric reconstruction with double-J stent insertion.</p>
                 </div>
                 <div class="process-step fade-in-up card" style="animation-delay: 0.2s">
-                    <h4 style="color:var(--secondary-teal)">03. Post-Operative Care</h4>
-                    <p>The child stays in the hospital for 48 hours. The internal stent is removed 4 weeks later via a simple daycare procedure.</p>
+                    <h4 style="color:var(--secondary-teal)">03. Stent Removal & Follow-Up</h4>
+                    <p>Stent removal after 4 weeks via simple daycare procedure, followed by follow-up ultrasound at 3 months.</p>
                 </div>
             </div>
         </div>
@@ -154,7 +255,7 @@ EOD;
         <div class="blob-bg"></div>
         <div class="container relative z-10">
             <div class="section-title fade-in-up">
-                <h4 class="accent-text">Patient Stories</h4>
+                <h4 class="accent-text">Success Stories</h4>
                 <h2>Hear From The Parents</h2>
             </div>
             
@@ -163,24 +264,22 @@ EOD;
                     <div class="stars">
                         <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i>
                     </div>
-                    <p class="quote">"My 3-month-old had severe hydronephrosis. Dr. Sujit performed lap pyeloplasty. His reassuring nature gave us strength, and the scar is barely visible!"</p>
+                    <p class="quote">"My 3-month-old infant had severe kidney swelling. Consulting Dr. Sujit for Hydronephrosis treatment in Delhi was the best decision—his laparoscopic pyeloplasty was completely successful."</p>
                     <div class="author mt-3">
                         <h5>Priya & Ankit Sharma</h5>
                         <span>Parents</span>
                     </div>
                 </div>
-                
                 <div class="testimonial-card card">
                     <div class="stars">
                         <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i>
                     </div>
-                    <p class="quote">"We were terrified after the antenatal scan showed kidney swelling. Dr. Chowdhary guided us throughout. No surgery was needed in the end, just monitoring."</p>
+                    <p class="quote">"Dr. Chowdhary's diagnostic precision in evaluating Hydronephrosis in Children saved us from an unnecessary procedure. His active surveillance plan gave us total confidence."</p>
                     <div class="author mt-3">
                         <h5>Vikram Singh</h5>
                         <span>Father</span>
                     </div>
                 </div>
-
                 <div class="testimonial-card card">
                     <div class="stars">
                         <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i>
@@ -191,37 +290,24 @@ EOD;
                         <span>Mother</span>
                     </div>
                 </div>
-
                 <div class="testimonial-card card">
                     <div class="stars">
                         <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i>
                     </div>
-                    <p class="quote">"The laparoscopic surgery for our baby's condition was so precise. Dr. Chowdhary's confidence gave us immense peace of mind during a very stressful time."</p>
+                    <p class="quote">"The precision in Dr. Chowdhary's surgery is incredible. His confidence gave us immense peace of mind during a very stressful time."</p>
                     <div class="author mt-3">
                         <h5>Anita Sharma</h5>
-                        <span>Mother of infant patient</span>
+                        <span>Mother</span>
                     </div>
                 </div>
-
                 <div class="testimonial-card card">
                     <div class="stars">
                         <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i>
                     </div>
-                    <p class="quote">"We traveled from another state just for Dr. Chowdhary. His reputation is well-deserved; his approach is very scientific and methodical yet very caring."</p>
+                    <p class="quote">"We traveled from another city just for Dr. Chowdhary. His approach is very scientific and methodical yet very caring."</p>
                     <div class="author mt-3">
                         <h5>Karan Singh</h5>
                         <span>Parent</span>
-                    </div>
-                </div>
-
-                <div class="testimonial-card card">
-                    <div class="stars">
-                        <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i>
-                    </div>
-                    <p class="quote">"The nursing staff and Dr. Sujit are a fantastic team. They handled our infant's surgery with so much care and warmth. Highly recommended for any parent."</p>
-                    <div class="author mt-3">
-                        <h5>Priya R.</h5>
-                        <span>Mother</span>
                     </div>
                 </div>
             </div>
@@ -235,23 +321,22 @@ EOD;
                 <img src="../assets/images/doctor.jpeg" alt="Dr. Sujit Chowdhary" style="width:100%; border-radius:var(--radius-lg); box-shadow:var(--shadow-lg);">
             </div>
             <div class="why-content fade-in-up" style="animation-delay: 0.2s">
-                <h4 class="accent-text">The Specialist Choice</h4>
+                <h4 class="accent-text">Urological Specialist</h4>
                 <h2>Why Choose Dr. Sujit Chowdhary?</h2>
-                <p>Hydronephrosis requires a nuanced approach—deciding when to operate and when to wait is the hallmark of an expert paediatric urologist.</p>
+                <p>Managing renal swelling requires careful discrimination between dynamic obstruction and non-obstructive dilation. Dr. Sujit Chowdhary provides advanced <strong>Hydronephrosis treatment in Delhi</strong> utilizing precise MAG3 nuclear scans and keyhole pyeloplasty.</p>
                 <ul class="about-list">
-                    <li><i class="fas fa-check-circle"></i> Decades of experience in managing neonatal urology.</li>
-                    <li><i class="fas fa-check-circle"></i> High success rate in minimally invasive Pyeloplasty.</li>
-                    <li><i class="fas fa-check-circle"></i> Precision imaging protocols to avoid unnecessary surgery.</li>
-                    <li><i class="fas fa-check-circle"></i> Advanced post-operative pain management protocols.</li>
-                    <li><i class="fas fa-check-circle"></i> Dedicated support for international and outstation patients.</li>
+                    <li><i class="fas fa-check-circle"></i> 31+ Years of Exclusive Paediatric Urology & Keyhole Reconstructive Experience.</li>
+                    <li><i class="fas fa-check-circle"></i> Leading specialist in managing severe <strong>Hydronephrosis in Children</strong>.</li>
+                    <li><i class="fas fa-check-circle"></i> High success rate in Laparoscopic & Robotic Anderson-Hynes Pyeloplasty.</li>
+                    <li><i class="fas fa-check-circle"></i> Conservative monitoring protocol to avoid unnecessary surgeries.</li>
+                    <li><i class="fas fa-check-circle"></i> Comprehensive follow-up ensuring long-term renal function preservation.</li>
                 </ul>
-                <a href="../about.php" class="btn btn-primary mt-4">Read Profile</a>
+                <a href="../about.php" class="btn btn-primary mt-4">Learn More About Doctor</a>
             </div>
         </div>
     </section>
 
     <!-- FAQ -->
-        <!-- FAQ -->
     <section class="section bg-light" id="faq">
         <div class="container">
             <div class="section-title fade-in-up">
@@ -263,65 +348,47 @@ EOD;
 
                 <div class="faq-item">
                     <div class="faq-header">
-                        <h5>What is hydronephrosis?</h5>
+                        <h5>What is hydronephrosis in infants and children?</h5>
                         <i class="fas fa-plus"></i>
                     </div>
                     <div class="faq-content">
-                        <p>Hydronephrosis is the swelling of one or both kidneys due to a buildup of urine, often caused by a blockage in the urinary tract.</p>
+                        <p>Hydronephrosis is the anatomical swelling and dilation of the kidney's urine-collecting structure (renal pelvis and calyces). It occurs when urine backup is caused by an obstruction along the urinary tract or backward reflux from the bladder.</p>
                     </div>
                 </div>
                 <div class="faq-item">
                     <div class="faq-header">
-                        <h5>Does antenatal hydronephrosis always require surgery after birth?</h5>
+                        <h5>Does antenatal hydronephrosis detected on fetal scans always require surgery?</h5>
                         <i class="fas fa-plus"></i>
                     </div>
                     <div class="faq-content">
-                        <p>No, many cases of hydronephrosis detected on pregnancy scans resolve spontaneously and only require ultrasound monitoring and antibiotic prophylaxis.</p>
+                        <p>No. Over 80% of antenatal (fetal) hydronephrosis cases are mild or transient physiological dilations that resolve spontaneously during the child's first year without requiring surgical intervention.</p>
                     </div>
                 </div>
                 <div class="faq-item">
                     <div class="faq-header">
-                        <h5>What is the most common cause of hydronephrosis in children?</h5>
+                        <h5>What is the most common cause of pediatric hydronephrosis?</h5>
                         <i class="fas fa-plus"></i>
                     </div>
                     <div class="faq-content">
-                        <p>Pelviureteric Junction Obstruction (PUJO) is the most common cause, where the junction between the kidney and ureter is narrowed.</p>
+                        <p>Pelvi-Ureteric Junction Obstruction (PUJO) is the most frequent cause, where a congenital narrowing at the renal pelvis-ureter junction blocks urine flow from the kidney to the bladder.</p>
                     </div>
                 </div>
                 <div class="faq-item">
                     <div class="faq-header">
-                        <h5>How is hydronephrosis evaluated?</h5>
+                        <h5>How is kidney function evaluated in a child with hydronephrosis?</h5>
                         <i class="fas fa-plus"></i>
                     </div>
                     <div class="faq-content">
-                        <p>Evaluation is done using postnatal ultrasound and a kidney scan (DTPA or MAG3) to measure kidney drainage and function.</p>
+                        <p>Evaluation includes high-resolution postnatal renal ultrasound combined with a MAG3 or EC diuretic radionuclide scan to measure exact differential kidney function and clearance drainage times.</p>
                     </div>
                 </div>
                 <div class="faq-item">
                     <div class="faq-header">
-                        <h5>When is surgery (pyeloplasty) indicated?</h5>
+                        <h5>When is laparoscopic or robotic pyeloplasty surgery recommended?</h5>
                         <i class="fas fa-plus"></i>
                     </div>
                     <div class="faq-content">
-                        <p>Surgery is indicated if there is a significant blockage, deterioration of kidney function, recurrent pain, or infections.</p>
-                    </div>
-                </div>
-                <div class="faq-item">
-                    <div class="faq-header">
-                        <h5>What is a pyeloplasty?</h5>
-                        <i class="fas fa-plus"></i>
-                    </div>
-                    <div class="faq-content">
-                        <p>It is a surgical procedure to remove the blocked segment and reconnect the ureter to the kidney pelvis. It is highly successful.</p>
-                    </div>
-                </div>
-                <div class="faq-item">
-                    <div class="faq-header">
-                        <h5>Can pyeloplasty be performed laparoscopically or robotically?</h5>
-                        <i class="fas fa-plus"></i>
-                    </div>
-                    <div class="faq-content">
-                        <p>Yes, minimally invasive laparoscopic or robotic pyeloplasty is standard, providing excellent results and quick recovery.</p>
+                        <p>Surgery (Pyeloplasty) is indicated if serial nuclear scans demonstrate progressive obstruction, deterioration of differential renal function below 40%, severe renal pelvis enlargement, or recurrent febrile urinary tract infections.</p>
                     </div>
                 </div>
             </div>
