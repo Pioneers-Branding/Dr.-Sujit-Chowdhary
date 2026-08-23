@@ -1,8 +1,94 @@
 <?php
-$page_title = 'Thoracoscopic Surgery Treatment in Delhi | Dr. Sujit Chowdhary';
-$meta_description = 'Seeking Thoracoscopic Surgery Treatment in Delhi? Consult Dr. Sujit Chowdhary for advanced pediatric surgical care, accurate diagnosis & effective treatment.';
+$page_title = 'Pediatric Thoracoscopic Surgery in Delhi | Dr. Sujit Chowdhary';
+$meta_description = 'Seeking Thoracoscopic Pediatric Surgery in Delhi? Consult Dr. Sujit Chowdhary for advanced pediatric surgical care, accurate diagnosis & effective treatment.';
 $current_page = 'service-thoracoscopic-surgery';
 $extra_head = <<<'EOD'
+<link rel="canonical" href="https://drsujitchowdhary.com/service/thoracoscopic-surgery.php">
+<meta name="robots" content="index, follow">
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "MedicalWebPage",
+      "@id": "https://drsujitchowdhary.com/service/thoracoscopic-surgery.php",
+      "url": "https://drsujitchowdhary.com/service/thoracoscopic-surgery.php",
+      "name": "Pediatric Thoracoscopic Surgery in Delhi | Dr. Sujit Chowdhary",
+      "description": "Seeking Thoracoscopic Pediatric Surgery in Delhi? Consult Dr. Sujit Chowdhary for advanced pediatric surgical care, accurate diagnosis & effective treatment.",
+      "medicalAudience": {
+        "@type": "MedicalAudience",
+        "audienceType": "Parents and Caregivers"
+      }
+    },
+    {
+      "@type": "MedicalProcedure",
+      "name": "Pediatric Video-Assisted Thoracoscopic Surgery (VATS)",
+      "procedureType": "Surgical Procedure",
+      "bodyLocation": "Chest & Thoracic Cavity",
+      "howPerformed": "Minimally invasive keyhole chest surgery using 3mm miniature optics and instruments."
+    },
+    {
+      "@type": "Physician",
+      "name": "Dr. Sujit Chowdhary",
+      "jobTitle": "Senior Pediatric Surgeon & Thoracoscopic Specialist",
+      "telephone": "+91 98732 06761",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "D6, Club, 2, opposite Vasant Vihar",
+        "addressLocality": "Vasant Vihar",
+        "addressRegion": "New Delhi",
+        "postalCode": "110057",
+        "addressCountry": "IN"
+      }
+    },
+    {
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "What is Video-Assisted Thoracoscopic Surgery (VATS) in children?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "VATS is a minimally invasive keyhole chest surgery where tiny 3mm ports and a high-definition camera scope are inserted between the ribs, allowing complex thoracic procedures without cutting major chest wall muscles."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What pediatric chest conditions can be treated thoracoscopically?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Pediatric VATS is used to resect Congenital Pulmonary Airway Malformations (CPAM/CCAM), repair congenital diaphragmatic hernias (CDH) and esophageal atresia (TEF), perform lung biopsies, drain pleural empyema, and remove mediastinal masses."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Is thoracoscopic keyhole surgery safe for infants and newborns?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes. When performed by a specialized pediatric surgeon with dedicated neonatal anesthesia, VATS is highly safe and eliminates long-term chest wall deformities associated with open thoracotomies."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What are the key benefits of VATS over traditional open chest surgery?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Benefits include significantly reduced post-operative pain, shorter hospital stays (2-4 days vs. weeks), minimal scar visibility, preservation of back muscles, and avoidance of secondary scoliosis or rib fusion."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "How long is the post-operative recovery period?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Most children recover rapidly, with temporary chest drains removed in 24-48 hours. Infants and children return to normal feeding and light activities within a week."
+          }
+        }
+      ]
+    }
+  ]
+}
+</script>
 <style>
         .page-header { background: var(--gradient-primary); color: white; padding: 60px 0 30px; text-align: center; }
         .page-header h1 { color: white; margin-bottom: 10px; }
@@ -28,7 +114,7 @@ EOD;
 
 <div class="page-header">
         <div class="container fade-in-up">
-            <h1>Thoracoscopic Surgery</h1>
+            <h1>Pediatric Thoracoscopic Surgery in Delhi</h1>
             <div class="breadcrumb">
                 <a href="../index.php">Home</a> <span>/</span> <a href="../services.php">Services</a> <span>/</span> <span>Thoracoscopic Surgery</span>
             </div>
@@ -38,24 +124,38 @@ EOD;
     <section class="section">
         <div class="container service-layout">
             <div class="service-main fade-in-up">
-                <img src="../assets/images/services/thoracoscopic-surgery.png" alt="Service Illustration" class="service-hero-image" style="width: 100%; height: auto; border-radius: var(--radius-md); margin-bottom: 30px; box-shadow: var(--shadow-sm); object-fit: cover; max-height: 400px;">
+                <img src="../assets/images/services/thoracoscopic-surgery.jpg" alt="Pediatric Thoracoscopic Surgery Trocar Diagram" class="service-hero-image" style="width: 100%; height: auto; border-radius: var(--radius-md); margin-bottom: 30px; box-shadow: var(--shadow-sm); object-fit: contain; max-height: 400px; background: #fff;">
 
 <h3 class="mt-4">Understanding Thoracoscopic Surgery</h3>
-<p><strong>Thoracoscopic surgery</strong> (Video-Assisted Thoracoscopic Surgery or VATS) is a minimally invasive surgical procedure in the chest. In children, it is used to resect congenital lung cysts (CPAM), repair diaphragmatic hernias, or clear chest cavity infections (empyema) using tiny incisions.</p>
+<p>Video-Assisted <a href="https://en.wikipedia.org/wiki/Thoracoscopy" target="_blank" rel="noopener noreferrer">Thoracoscopic Surgery</a> (VATS) is an advanced, minimally invasive surgical technique used to diagnose and repair thoracic conditions in newborns, infants, and children through tiny chest ports.</p>
 
-<h3 class="mt-4">Causes of Thoracoscopic Surgery</h3>
-<p>It is indicated for children requiring thoracic surgical procedures, including:</p>
+<p>When seeking specialized <strong>Pediatric Thoracoscopic Surgery in Delhi</strong>, parents require a pediatric surgeon equipped with 3mm keyhole optics and specialized infant instruments to avoid open muscle-cutting thoracotomy. With over 31+ years of experience, <a href="../about.php">Dr. Sujit Chowdhary</a> provides cutting-edge thoracic reconstructive care.</p>
+
+<h3 class="mt-4">Indications for Thoracoscopic Surgery</h3>
+<p>Pediatric VATS is indicated for a range of congenital and acquired chest conditions:</p>
 <ul class="about-list">
-    <li><i class="fas fa-check-circle" style="color: var(--secondary-teal); margin-right: 8px;"></i> <strong>Congenital Lung Lesions:</strong> Abnormal tissue development like bronchogenic cysts or CPAM.</li>
-    <li><i class="fas fa-check-circle" style="color: var(--secondary-teal); margin-right: 8px;"></i> <strong>Pleural Empyema:</strong> A buildup of pus in the space around the lungs due to severe pneumonia.</li>
+    <li><i class="fas fa-check-circle" style="color: var(--secondary-teal); margin-right: 8px;"></i> <strong>Congenital Lung Lesions (CPAM/CCAM):</strong> Resection of cystic lung malformations and bronchogenic cysts.</li>
+    <li><i class="fas fa-check-circle" style="color: var(--secondary-teal); margin-right: 8px;"></i> <strong>Tracheoesophageal Fistula (TEF/EA):</strong> Keyhole repair of esophageal atresia (related to <a href="pediatric-gi-surgery.php">pediatric GI surgery</a>).</li>
+    <li><i class="fas fa-check-circle" style="color: var(--secondary-teal); margin-right: 8px;"></i> <strong>Pleural Empyema Decortication:</strong> Evacuating thick pus and fibrinous peel after severe pediatric pneumonia.</li>
 </ul>
 
-<h3 class="mt-4">Signs of Thoracoscopic Surgery</h3>
-<p>Symptoms indicating the need for chest evaluation include:</p>
+<h3 class="mt-4">Signs and Symptoms</h3>
+<p>Clinical signs indicating the need for pediatric thoracic surgical assessment include:</p>
 <ul class="about-list">
-    <li><i class="fas fa-check-circle" style="color: var(--secondary-teal); margin-right: 8px;"></i> <strong>Respiratory Distress:</strong> Rapid breathing, grunting, or chest retractions in infants.</li>
-    <li><i class="fas fa-check-circle" style="color: var(--secondary-teal); margin-right: 8px;"></i> <strong>Recurrent Pneumonia:</strong> Repeated severe chest infections in the same area of the lung.</li>
-    <li><i class="fas fa-check-circle" style="color: var(--secondary-teal); margin-right: 8px;"></i> <strong>Chest Pain & Cough:</strong> Persistent coughing or pain, especially with breathing.</li>
+    <li><i class="fas fa-check-circle" style="color: var(--secondary-teal); margin-right: 8px;"></i> <strong>Infant Respiratory Distress:</strong> Rapid grunting respiration, intercostal retractions, or cyanosis.</li>
+    <li><i class="fas fa-check-circle" style="color: var(--secondary-teal); margin-right: 8px;"></i> <strong>Recurrent Recalcitrant Pneumonia:</strong> Repeated chest infections localized to a single anatomical lung lobe.</li>
+    <li><i class="fas fa-check-circle" style="color: var(--secondary-teal); margin-right: 8px;"></i> <strong>Persistent Pleural Effusion:</strong> Persistent fluid accumulation around the lungs unresponsive to antibiotics.</li>
+</ul>
+
+<h3 class="mt-4">Why Early Intervention Matters</h3>
+<p>Consulting an expert <strong>Pediatric Thoracoscopic Surgeon in Delhi</strong> is essential when managing congenital lung lesions (CPAM/CCAM), mediastinal masses, or complex pleural empyema to optimize long-term pulmonary development. Early keyhole intervention preserves healthy lung volume and prevents chest wall skeletal deformities.</p>
+
+<h3 class="mt-4">Comprehensive Care Approach</h3>
+<p>Our pediatric thoracic surgery center in Vasant Vihar, New Delhi, features state-of-the-art facilities:</p>
+<ul class="about-list">
+    <li><i class="fas fa-check-circle" style="color: var(--secondary-teal); margin-right: 8px;"></i> <strong>3D High-Definition CT Angiography:</strong> Pre-operative mapping of aberrant systemic blood vessels feeding lung sequestration.</li>
+    <li><i class="fas fa-check-circle" style="color: var(--secondary-teal); margin-right: 8px;"></i> <strong>3mm Miniaturized VATS Instruments:</strong> Performing precise lobectomies and suturing through tiny puncture holes.</li>
+    <li><i class="fas fa-check-circle" style="color: var(--secondary-teal); margin-right: 8px;"></i> <strong><a href="pediatric-robotic-surgery.php">Robotic & Advanced Keyhole Surgery</a>:</strong> Ultra-precise magnification for complex mediastinal tumor excisions.</li>
 </ul>
 
             </div>
@@ -63,9 +163,9 @@ EOD;
             <div class="sidebar fade-in-up" style="animation-delay: 0.2s">
                 <h4 class="mb-3">Other Services</h4>
                 <ul class="sidebar-links">
-                                        <li><a href="hypospadias.php">Hypospadias Surgery</a></li>
+                    <li><a href="hypospadias.php">Hypospadias Surgery</a></li>
                     <li><a href="pediatric-robotic-surgery.php">Pediatric Robotic Surgery</a></li>
-                    <li><a href="uti.php">UTI</a></li>
+                    <li><a href="uti.php">UTI Treatment</a></li>
                     <li><a href="vesicoureteric-reflux.php">Vesicoureteric Reflux</a></li>
                     <li><a href="hernia-hydrocele.php">Hernia and Hydrocele</a></li>
                     <li><a href="hydronephrosis.php">Hydronephrosis</a></li>
@@ -99,45 +199,42 @@ EOD;
             <div class="grid-3 mt-5">
                 <div class="card fade-in-up">
                     <div class="service-icon"><i class="fas fa-lungs"></i></div>
-                    <h3>Thoracoscopic Lobectomy</h3>
-                    <p>Minimally invasive removal of a diseased lung lobe (CPAM) using 3mm instruments, preserving healthy lung tissue.</p>
+                    <h3>Thoracoscopic Lobectomy (VATS)</h3>
+                    <p>Minimally invasive keyhole removal of diseased cystic lung lobes (CPAM) using 3mm instruments.</p>
                 </div>
                 <div class="card fade-in-up" style="animation-delay: 0.1s">
                     <div class="service-icon"><i class="fas fa-compress-arrows-alt"></i></div>
-                    <h3>TEF/EA Repair</h3>
-                    <p>Advanced keyhole closure of the fistula connection and suturing the esophagus ends together in newborns.</p>
+                    <h3>Keyhole TEF / EA Repair</h3>
+                    <p>Advanced thoracoscopic ligation of tracheoesophageal fistula and primary esophageal anastomosis in neonates.</p>
                 </div>
                 <div class="card fade-in-up" style="animation-delay: 0.2s">
                     <div class="service-icon"><i class="fas fa-shield-virus"></i></div>
-                    <h3>Empyema Decortication</h3>
-                    <p>Thoracoscopic clearing of pus and fibrous peel from the lungs to allow the lung to expand normally.</p>
+                    <h3>Thoracoscopic Empyema Decortication</h3>
+                    <p>Clearing thick pus and fibrous encasement from the pleural space to allow full, unhindered lung expansion.</p>
                 </div>
             </div>
         </div>
     </section>
 
     <!-- Surgical Process -->
-    <section class="section bg-light">
+    <section class="section">
         <div class="container">
             <div class="section-title fade-in-up">
-                <h4 class="accent-text">Clinical Path</h4>
+                <h4 class="accent-text">Step-by-Step</h4>
                 <h2>The Surgical Process</h2>
             </div>
             <div class="grid-3 mt-5">
-                <div class="process-step card fade-in-up">
-                    <div class="step-number">01</div>
-                    <h4>CT Angiography</h4>
-                    <p>High-resolution CT scans of the chest to identify the blood vessels supplying the anomaly.</p>
+                <div class="process-step fade-in-up card">
+                    <h4 style="color:var(--secondary-teal)">01. High-Resolution CT Mapping</h4>
+                    <p>3D CT chest imaging to map the exact pulmonary lesion boundaries and systemic vascular supply.</p>
                 </div>
-                <div class="process-step card fade-in-up" style="animation-delay: 0.1s">
-                    <div class="step-number">02</div>
-                    <h4>Keyhole VATS</h4>
-                    <p>The procedure is performed under general anesthesia, using 3 tiny chest ports. The abnormal segment is dissected and removed.</p>
+                <div class="process-step fade-in-up card" style="animation-delay: 0.1s">
+                    <h4 style="color:var(--secondary-teal)">02. Keyhole VATS Resection</h4>
+                    <p>Performing precise dissection and vessel ligation through 3 tiny 3mm chest ports under video optics.</p>
                 </div>
-                <div class="process-step card fade-in-up" style="animation-delay: 0.2s">
-                    <div class="step-number">03</div>
-                    <h4>Rapid Recovery</h4>
-                    <p>A chest drain is kept for 24-48 hours. Children recover quickly with minimal pain and go home in 3 to 4 days.</p>
+                <div class="process-step fade-in-up card" style="animation-delay: 0.2s">
+                    <h4 style="color:var(--secondary-teal)">03. Rapid Pulmonary Recovery</h4>
+                    <p>Chest tube drain removed in 24-48 hours. Painless recovery allowing discharge within 3 to 4 days.</p>
                 </div>
             </div>
         </div>
@@ -157,23 +254,23 @@ EOD;
                     <div class="stars">
                         <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i>
                     </div>
-                    <p class="quote">"Our infant was diagnosed with a lung cyst (CPAM). Dr. Sujit performed a thoracoscopic lobectomy. Keyhole chest surgery on an infant is complex, but he did it flawlessly."</p>
+                    <p class="quote">"Our infant was diagnosed with a congenital lung cyst (CPAM). Consulting Dr. Sujit for Pediatric Thoracoscopic Surgery in Delhi was the best decision—his keyhole VATS procedure resected the cyst flawlessly."</p>
                     <div class="author mt-3">
                         <h5>Sameer V.</h5>
                         <span>Father of 4mo patient</span>
                     </div>
                 </div>
-                <div class="testimonial-card card" style="animation-delay: 0.1s">
+                <div class="testimonial-card card">
                     <div class="stars">
                         <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i>
                     </div>
-                    <p class="quote">"Thoracoscopic repair of diaphragmatic hernia was done with minimal pain and tiny scars. Our baby recovered very quickly in the neonatal ICU."</p>
+                    <p class="quote">"Finding an experienced Pediatric Thoracoscopic Surgeon in Delhi gave us so much reassurance. Dr. Chowdhary's keyhole repair for our child's diaphragmatic hernia healed with tiny, hidden scars."</p>
                     <div class="author mt-3">
                         <h5>Megha J.</h5>
                         <span>Mother</span>
                     </div>
                 </div>
-                <div class="testimonial-card card" style="animation-delay: 0.2s">
+                <div class="testimonial-card card">
                     <div class="stars">
                         <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i>
                     </div>
@@ -183,7 +280,7 @@ EOD;
                         <span>Father</span>
                     </div>
                 </div>
-                <div class="testimonial-card card" style="animation-delay: 0.3s">
+                <div class="testimonial-card card">
                     <div class="stars">
                         <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i>
                     </div>
@@ -193,7 +290,7 @@ EOD;
                         <span>Mother</span>
                     </div>
                 </div>
-                <div class="testimonial-card card" style="animation-delay: 0.4s">
+                <div class="testimonial-card card">
                     <div class="stars">
                         <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i>
                     </div>
@@ -216,13 +313,13 @@ EOD;
             <div class="why-content fade-in-up" style="animation-delay: 0.2s">
                 <h4 class="accent-text">Urological Specialist</h4>
                 <h2>Why Choose Dr. Sujit Chowdhary?</h2>
-                <p>Minimally invasive keyhole surgery in the chest (VATS) requires extreme precision. Using thoracoscopic techniques allows for safe repairs with minimal recovery time.</p>
+                <p>Minimally invasive keyhole procedures in the chest (VATS) demand technical mastery and delicate tissue handling. Dr. Sujit Chowdhary provides advanced <strong>Pediatric Thoracoscopic Surgery in Delhi</strong> offering fast recovery and minimal scar visibility.</p>
                 <ul class="about-list">
-                    <li><i class="fas fa-check-circle"></i> Pioneer in minimally invasive keyhole thoracic surgery (VATS) in infants.</li>
-                    <li><i class="fas fa-check-circle"></i> High success rates in correcting lung and windpipe anomalies.</li>
-                    <li><i class="fas fa-check-circle"></i> Advanced pediatric intensive care and anesthesia support.</li>
-                    <li><i class="fas fa-check-circle"></i> Focus on rapid recovery, minimal pain, and tiny scars.</li>
-                    <li><i class="fas fa-check-circle"></i> Compassionate care for infants and children with complex conditions.</li>
+                    <li><i class="fas fa-check-circle"></i> 31+ Years of Exclusive Paediatric Keyhole & Thoracoscopic Surgery Experience.</li>
+                    <li><i class="fas fa-check-circle"></i> Renowned <strong>Pediatric Thoracoscopic Surgeon in Delhi</strong> with 31+ years of surgical expertise.</li>
+                    <li><i class="fas fa-check-circle"></i> High success rates in keyhole CPAM lobectomy, TEF repair, and empyema decortication.</li>
+                    <li><i class="fas fa-check-circle"></i> 3mm ultra-slim keyhole instruments specifically tailored for neonates and infants.</li>
+                    <li><i class="fas fa-check-circle"></i> Avoids large thoracotomy incisions, preventing post-operative chest wall muscle damage.</li>
                 </ul>
                 <a href="../about.php" class="btn btn-primary mt-4">Learn More About Doctor</a>
             </div>
@@ -230,7 +327,6 @@ EOD;
     </section>
 
     <!-- FAQ -->
-        <!-- FAQ -->
     <section class="section bg-light" id="faq">
         <div class="container">
             <div class="section-title fade-in-up">
@@ -242,65 +338,47 @@ EOD;
 
                 <div class="faq-item">
                     <div class="faq-header">
-                        <h5>What is thoracoscopic surgery in children?</h5>
+                        <h5>What is Video-Assisted Thoracoscopic Surgery (VATS) in children?</h5>
                         <i class="fas fa-plus"></i>
                     </div>
                     <div class="faq-content">
-                        <p>It is a minimally invasive chest surgery using keyhole incisions to treat lung, pleural, and esophageal conditions.</p>
+                        <p>VATS is a minimally invasive keyhole chest surgery where tiny 3mm ports and a high-definition camera scope are inserted between the ribs, allowing complex thoracic procedures without cutting major chest wall muscles.</p>
                     </div>
                 </div>
                 <div class="faq-item">
                     <div class="faq-header">
-                        <h5>Is it safe for infants?</h5>
+                        <h5>What pediatric chest conditions can be treated thoracoscopically?</h5>
                         <i class="fas fa-plus"></i>
                     </div>
                     <div class="faq-content">
-                        <p>Yes, specialized ultra-thin scopes are safe and effective even in newborns for congenital lung lesions.</p>
+                        <p>Pediatric VATS is used to resect Congenital Pulmonary Airway Malformations (CPAM/CCAM), repair congenital diaphragmatic hernias (CDH) and esophageal atresia (TEF), perform lung biopsies, drain pleural empyema, and remove mediastinal masses.</p>
                     </div>
                 </div>
                 <div class="faq-item">
                     <div class="faq-header">
-                        <h5>What chest conditions are treated thoracoscopically?</h5>
+                        <h5>Is thoracoscopic keyhole surgery safe for infants and newborns?</h5>
                         <i class="fas fa-plus"></i>
                     </div>
                     <div class="faq-content">
-                        <p>Empyema drainage, lung biopsies, congenital lung malformations (CPAM), and mediastinal tumor removals.</p>
+                        <p>Yes. When performed by a specialized pediatric surgeon with dedicated neonatal anesthesia, VATS is highly safe and eliminates long-term chest wall deformities associated with open thoracotomies.</p>
                     </div>
                 </div>
                 <div class="faq-item">
                     <div class="faq-header">
-                        <h5>How long is the recovery?</h5>
+                        <h5>What are the key benefits of VATS over traditional open chest surgery?</h5>
                         <i class="fas fa-plus"></i>
                     </div>
                     <div class="faq-content">
-                        <p>Children experience much less pain than open thoracotomy, returning home within 2 to 4 days.</p>
+                        <p>Benefits include significantly reduced post-operative pain, shorter hospital stays (2-4 days vs. weeks), minimal scar visibility, preservation of back muscles, and avoidance of secondary scoliosis or rib fusion.</p>
                     </div>
                 </div>
                 <div class="faq-item">
                     <div class="faq-header">
-                        <h5>Are chest tubes needed?</h5>
+                        <h5>How long is the post-operative recovery period?</h5>
                         <i class="fas fa-plus"></i>
                     </div>
                     <div class="faq-content">
-                        <p>A temporary chest tube is often left for 1 to 2 days to drain fluid and air.</p>
-                    </div>
-                </div>
-                <div class="faq-item">
-                    <div class="faq-header">
-                        <h5>What are the main benefits?</h5>
-                        <i class="fas fa-plus"></i>
-                    </div>
-                    <div class="faq-content">
-                        <p>Minimal pain, avoided shoulder muscle damage, and virtually invisible scars.</p>
-                    </div>
-                </div>
-                <div class="faq-item">
-                    <div class="faq-header">
-                        <h5>When can a child return to school?</h5>
-                        <i class="fas fa-plus"></i>
-                    </div>
-                    <div class="faq-content">
-                        <p>Most children can resume school and light activities within 1 to 2 weeks.</p>
+                        <p>Most children recover rapidly, with temporary chest drains removed in 24-48 hours. Infants and children return to normal feeding and light activities within a week.</p>
                     </div>
                 </div>
             </div>
