@@ -1,8 +1,105 @@
 <?php
-$page_title = 'Duplex Renal System Treatment in Delhi | Dr. Sujit Chowdhary';
-$meta_description = 'Seeking Duplex Renal System Treatment in Delhi? Consult Dr. Sujit Chowdhary for advanced pediatric urology care, accurate diagnosis & effective treatment.';
+$page_title = 'Pediatric Duplex Renal System Treatment in Delhi | Dr. Sujit Chowdhary';
+$meta_description = 'Seeking Pediatric Duplex Renal System Treatment in Delhi? Consult Dr. Sujit Chowdhary for advanced pediatric urology care, accurate diagnosis & effective treatment.';
 $current_page = 'service-duplex-renal-system';
 $extra_head = <<<'EOD'
+<link rel="canonical" href="https://drsujitchowdhary.com/service/duplex-renal-system.php">
+<meta name="robots" content="index, follow">
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "MedicalWebPage",
+      "@id": "https://drsujitchowdhary.com/service/duplex-renal-system.php",
+      "url": "https://drsujitchowdhary.com/service/duplex-renal-system.php",
+      "name": "Pediatric Duplex Renal System Treatment in Delhi | Dr. Sujit Chowdhary",
+      "description": "Seeking Pediatric Duplex Renal System Treatment in Delhi? Consult Dr. Sujit Chowdhary for advanced pediatric urology care, accurate diagnosis & effective treatment.",
+      "medicalAudience": {
+        "@type": "MedicalAudience",
+        "audienceType": "Parents and Caregivers"
+      }
+    },
+    {
+      "@type": "MedicalCondition",
+      "name": "Pediatric Duplex Kidney & Ectopic Ureter",
+      "possibleTreatment": [
+        {
+          "@type": "MedicalTherapy",
+          "name": "Endoscopic Ureterocele Decompression"
+        },
+        {
+          "@type": "MedicalTherapy",
+          "name": "Laparoscopic & Robotic Heminephrectomy"
+        },
+        {
+          "@type": "MedicalTherapy",
+          "name": "Robotic Ureteral Reimplantation"
+        }
+      ]
+    },
+    {
+      "@type": "Physician",
+      "name": "Dr. Sujit Chowdhary",
+      "jobTitle": "Senior Pediatric Urologist & Surgeon",
+      "telephone": "+91 98732 06761",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "D6, Club, 2, opposite Vasant Vihar",
+        "addressLocality": "Vasant Vihar",
+        "addressRegion": "New Delhi",
+        "postalCode": "110057",
+        "addressCountry": "IN"
+      }
+    },
+    {
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "What is a duplex renal system in children?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "A duplex renal system (or duplicated kidney) is a congenital condition where a single kidney has two separate collecting systems and two ureters draining urine into the bladder, either completely or partially joined."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Does a duplex kidney always require surgical treatment?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "No. Many children with an asymptomatic duplex kidney require no treatment and lead completely normal lives. Intervention is only needed if there is urine reflux, structural blockage, ureterocele, or continuous incontinence."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What is an ectopic ureter in a duplex system?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "In a complete duplex system, the upper pole ureter may drain outside the bladder (into the urethra, vagina, or seminal vesicle), causing continuous daytime and nighttime dribbling or incontinence in girls."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "How is a duplex renal system diagnosed?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Diagnosis is confirmed using high-resolution ultrasound, MCU/VCUG (to check for vesicoureteric reflux), MR urography, and DMSA/MAG3 renal nuclear scans to evaluate individual renal segment function."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What surgical options are available for duplex kidney complications?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Surgical procedures include endoscopic laser puncture of ureteroceles, robotic ureteral reimplantation to stop reflux or incontinence, and laparoscopic upper-pole heminephrectomy if one segment is non-functional."
+          }
+        }
+      ]
+    }
+  ]
+}
+</script>
 <style>
         .page-header { background: var(--gradient-primary); color: white; padding: 60px 0 30px; text-align: center; }
         .page-header h1 { color: white; margin-bottom: 10px; }
@@ -28,7 +125,7 @@ EOD;
 
 <div class="page-header">
         <div class="container fade-in-up">
-            <h1>Duplex Renal System</h1>
+            <h1>Pediatric Duplex Renal System Treatment in Delhi</h1>
             <div class="breadcrumb">
                 <a href="../index.php">Home</a> <span>/</span> <a href="../services.php">Services</a> <span>/</span> <span>Duplex Renal System</span>
             </div>
@@ -38,24 +135,38 @@ EOD;
     <section class="section">
         <div class="container service-layout">
             <div class="service-main fade-in-up">
-                <img src="../assets/images/services/duplex-renal-system.png" alt="Service Illustration" class="service-hero-image" style="width: 100%; height: auto; border-radius: var(--radius-md); margin-bottom: 30px; box-shadow: var(--shadow-sm); object-fit: cover; max-height: 400px;">
+                <img src="../assets/images/services/duplex-renal-system.jpg" alt="Normal System vs Duplex Kidney Diagram" class="service-hero-image" style="width: 100%; height: auto; border-radius: var(--radius-md); margin-bottom: 30px; box-shadow: var(--shadow-sm); object-fit: contain; max-height: 400px; background: #fff;">
 
 <h3 class="mt-4">Understanding Duplex Renal System</h3>
-<p>A <strong>duplex renal system</strong> is a congenital condition where a single kidney has two separate drainage tubes (ureters). It can be complete (two separate ureters opening into the bladder) or incomplete (ureters join together before reaching the bladder). While many children remain asymptomatic, it can cause reflux, blockage, or incontinence.</p>
+<p>A <a href="https://en.wikipedia.org/wiki/Duplicated_ureter" target="_blank" rel="noopener noreferrer">duplex renal system</a> (or duplicated ureter) is a congenital anatomical variation where a single kidney develops two separate collecting systems and two ureters. Duplication can be complete (two independent ureters draining into the bladder) or incomplete (two ureters joining into a single tube before reaching the bladder).</p>
 
-<h3 class="mt-4">Causes of Duplex Renal System</h3>
-<p>The duplex renal system occurs early in pregnancy due to:</p>
+<p>When seeking specialized <strong>Pediatric Duplex Renal System Treatment in Delhi</strong>, parents require accurate anatomical imaging and specialized pediatric urological care to determine whether conservative management or surgical correction is needed. With over 31+ years of international clinical experience, <a href="../about.php">Dr. Sujit Chowdhary</a> provides evidence-based evaluation and reconstructive solutions.</p>
+
+<h3 class="mt-4">Causes of Duplex System</h3>
+<p>A duplex collecting system develops early during fetal kidney development due to embryological variations:</p>
 <ul class="about-list">
-    <li><i class="fas fa-check-circle" style="color: var(--secondary-teal); margin-right: 8px;"></i> <strong>Duplicate Ureteric Buds:</strong> Two ureteric buds arise from the mesonephric duct during embryonic development, leading to duplication.</li>
-    <li><i class="fas fa-check-circle" style="color: var(--secondary-teal); margin-right: 8px;"></i> <strong>Genetic Factors:</strong> Tendency to run in families with a history of congenital kidney anomalies.</li>
+    <li><i class="fas fa-check-circle" style="color: var(--secondary-teal); margin-right: 8px;"></i> <strong>Dual Ureteric Buds:</strong> Two distinct ureteric buds sprout from the mesonephric duct and insert into the metanephric blastema.</li>
+    <li><i class="fas fa-check-circle" style="color: var(--secondary-teal); margin-right: 8px;"></i> <strong>Premature Bifurcation:</strong> A single ureteric bud splits prematurely before reaching the developing kidney mass.</li>
+    <li><i class="fas fa-check-circle" style="color: var(--secondary-teal); margin-right: 8px;"></i> <strong>Familial Predisposition:</strong> Congenital urinary tract duplication occasionally exhibits a hereditary pattern.</li>
 </ul>
 
-<h3 class="mt-4">Signs of Duplex Renal System</h3>
-<p>Common presentations include:</p>
+<h3 class="mt-4">Signs and Symptoms</h3>
+<p>While many asymptomatic duplex kidneys are discovered incidentally on ultrasound, symptomatic cases may exhibit:</p>
 <ul class="about-list">
-    <li><i class="fas fa-check-circle" style="color: var(--secondary-teal); margin-right: 8px;"></i> <strong>Recurrent UTIs:</strong> Urinary tract infections caused by urine pooling in the duplicate system.</li>
-    <li><i class="fas fa-check-circle" style="color: var(--secondary-teal); margin-right: 8px;"></i> <strong>Urinary Incontinence:</strong> Continuous urine leakage or dribbling if one of the ureters is ectopic (opens outside the bladder).</li>
-    <li><i class="fas fa-check-circle" style="color: var(--secondary-teal); margin-right: 8px;"></i> <strong>Kidney Swelling:</strong> Hydronephrosis or swelling in the upper part of the kidney.</li>
+    <li><i class="fas fa-check-circle" style="color: var(--secondary-teal); margin-right: 8px;"></i> <strong>Recurrent UTIs:</strong> Frequent <a href="uti.php">urinary tract infections</a> caused by stasis or urinary reflux in the duplicated system.</li>
+    <li><i class="fas fa-check-circle" style="color: var(--secondary-teal); margin-right: 8px;"></i> <strong>Continuous Urinary Dribbling:</strong> Ectopic ureter opening below the bladder sphincter, causing continuous dampness despite normal voiding.</li>
+    <li><i class="fas fa-check-circle" style="color: var(--secondary-teal); margin-right: 8px;"></i> <strong>Flank Mass & Hydronephrosis:</strong> Upper pole obstruction or ureterocele swelling (<a href="hydronephrosis.php">hydronephrosis</a>).</li>
+</ul>
+
+<h3 class="mt-4">Why Early Intervention Matters</h3>
+<p>Timely evaluation and <strong>Treatment for Duplex Renal System in Children</strong> prevents recurrent kidney infections, secondary <a href="vesicoureteric-reflux.php">Vesicoureteric Reflux (VUR)</a>, and progressive renal impairment. Early correction preserves maximum functional kidney tissue and resolves embarrassing urinary dribbling.</p>
+
+<h3 class="mt-4">Comprehensive Care Approach</h3>
+<p>Our pediatric urology center in Vasant Vihar, New Delhi, employs advanced diagnostic mapping:</p>
+<ul class="about-list">
+    <li><i class="fas fa-check-circle" style="color: var(--secondary-teal); margin-right: 8px;"></i> <strong>High-Resolution Ultrasound & MR Urography:</strong> Mapping duplex kidney anatomy and checking for ureterocele or ectopic insertion.</li>
+    <li><i class="fas fa-check-circle" style="color: var(--secondary-teal); margin-right: 8px;"></i> <strong>MCUG / VCUG Fluoroscopy:</strong> Assessing reflux into lower or upper pole ureters.</li>
+    <li><i class="fas fa-check-circle" style="color: var(--secondary-teal); margin-right: 8px;"></i> <strong>DMSA / MAG3 Nuclear Scan:</strong> Quantifying differential function between upper and lower kidney segments.</li>
 </ul>
 
             </div>
@@ -63,9 +174,9 @@ EOD;
             <div class="sidebar fade-in-up" style="animation-delay: 0.2s">
                 <h4 class="mb-3">Other Services</h4>
                 <ul class="sidebar-links">
-                                        <li><a href="hypospadias.php">Hypospadias Surgery</a></li>
+                    <li><a href="hypospadias.php">Hypospadias Surgery</a></li>
                     <li><a href="pediatric-robotic-surgery.php">Pediatric Robotic Surgery</a></li>
-                    <li><a href="uti.php">UTI</a></li>
+                    <li><a href="uti.php">UTI Treatment</a></li>
                     <li><a href="vesicoureteric-reflux.php">Vesicoureteric Reflux</a></li>
                     <li><a href="hernia-hydrocele.php">Hernia and Hydrocele</a></li>
                     <li><a href="hydronephrosis.php">Hydronephrosis</a></li>
@@ -99,44 +210,41 @@ EOD;
                 <div class="card fade-in-up">
                     <div class="service-icon"><i class="fas fa-video"></i></div>
                     <h3>Endoscopic Decompression</h3>
-                    <p>A 10-minute keyhole procedure using a laser to puncture and drain a ureterocele, relieving obstruction.</p>
+                    <p>A brief 10-minute daycare keyhole procedure to puncture an obstructive ureterocele and relieve urine blockage.</p>
                 </div>
                 <div class="card fade-in-up" style="animation-delay: 0.1s">
-                    <div class="service-icon"><i class="fas fa-cut"></i></div>
-                    <h3>Laparoscopic Heminephrectomy</h3>
-                    <p>Minimally invasive removal of the non-functioning, damaged half of the duplex kidney while preserving the healthy half.</p>
+                    <div class="service-icon"><i class="fas fa-robot"></i></div>
+                    <h3>Robotic Ureteral Reimplantation</h3>
+                    <p>Re-attaching the ectopic or refluxing ureter into the bladder using <a href="pediatric-robotic-surgery.php">robotic surgery</a> to achieve complete continence.</p>
                 </div>
                 <div class="card fade-in-up" style="animation-delay: 0.2s">
-                    <div class="service-icon"><i class="fas fa-robot"></i></div>
-                    <h3>Ureteral Reimplantation</h3>
-                    <p>Re-routing the ectopic ureter into the bladder wall to stop urinary leakage and prevent reflux.</p>
+                    <div class="service-icon"><i class="fas fa-cut"></i></div>
+                    <h3>Laparoscopic Heminephrectomy</h3>
+                    <p>Keyhole removal of a non-functioning, damaged upper segment of the duplex kidney while preserving the healthy lower segment.</p>
                 </div>
             </div>
         </div>
     </section>
 
     <!-- Surgical Process -->
-    <section class="section bg-light">
+    <section class="section">
         <div class="container">
             <div class="section-title fade-in-up">
-                <h4 class="accent-text">Clinical Path</h4>
-                <h2>The Surgical Process</h2>
+                <h4 class="accent-text">Step-by-Step</h4>
+                <h2>The Treatment Process</h2>
             </div>
             <div class="grid-3 mt-5">
-                <div class="process-step card fade-in-up">
-                    <div class="step-number">01</div>
-                    <h4>Anatomical Profiling</h4>
-                    <p>MCU scans and MR urography are used to establish the exact layout of the two ureters and assess segment function.</p>
+                <div class="process-step fade-in-up card">
+                    <h4 style="color:var(--secondary-teal)">01. Diagnostic Evaluation</h4>
+                    <p>Comprehensive ultrasound, MR urography, and nuclear scans to establish exact duplex anatomy and segment function.</p>
                 </div>
-                <div class="process-step card fade-in-up" style="animation-delay: 0.1s">
-                    <div class="step-number">02</div>
-                    <h4>Targeted Intervention</h4>
-                    <p>Performing endoscopic puncture, keyhole segment removal, or robotic reimplantation based on the patient's anatomy.</p>
+                <div class="process-step fade-in-up card" style="animation-delay: 0.1s">
+                    <h4 style="color:var(--secondary-teal)">02. Customized Surgical Plan</h4>
+                    <p>Selecting endoscopic decompression, robotic reimplantation, or keyhole heminephrectomy based on individual anatomy.</p>
                 </div>
-                <div class="process-step card fade-in-up" style="animation-delay: 0.2s">
-                    <div class="step-number">03</div>
-                    <h4>Drainage Monitoring</h4>
-                    <p>Follow-up ultrasounds to verify the resolution of swelling and check that the bladder empties fully.</p>
+                <div class="process-step fade-in-up card" style="animation-delay: 0.2s">
+                    <h4 style="color:var(--secondary-teal)">03. Follow-up & Recovery</h4>
+                    <p>Post-operative ultrasound monitoring to confirm complete resolution of swelling and ensure normal urinary drainage.</p>
                 </div>
             </div>
         </div>
@@ -156,23 +264,23 @@ EOD;
                     <div class="stars">
                         <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i>
                     </div>
-                    <p class="quote">"Our daughter had constant urine leakage due to an ectopic ureter in a duplex system. Dr. Sujit performed robotic ureteral reimplantation, and she is completely dry now!"</p>
+                    <p class="quote">"Our daughter had constant urine leakage due to an ectopic ureter in a duplex system. Consulting Dr. Sujit for Pediatric Duplex Renal System Treatment in Delhi was the best decision—she is completely dry now!"</p>
                     <div class="author mt-3">
                         <h5>Kirti Sharma</h5>
                         <span>Mother</span>
                     </div>
                 </div>
-                <div class="testimonial-card card" style="animation-delay: 0.1s">
+                <div class="testimonial-card card">
                     <div class="stars">
                         <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i>
                     </div>
-                    <p class="quote">"A duplex kidney with a severe ureterocele was causing recurrent UTIs in our baby. Dr. Sujit's endoscopic decompression solved it quickly and safely."</p>
+                    <p class="quote">"Dr. Chowdhary's expertise in providing Treatment for Duplex Renal System in Children resolved our baby's ureterocele quickly and safely."</p>
                     <div class="author mt-3">
                         <h5>Rahul Dev</h5>
                         <span>Father of 6mo patient</span>
                     </div>
                 </div>
-                <div class="testimonial-card card" style="animation-delay: 0.2s">
+                <div class="testimonial-card card">
                     <div class="stars">
                         <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i>
                     </div>
@@ -182,7 +290,7 @@ EOD;
                         <span>Father</span>
                     </div>
                 </div>
-                <div class="testimonial-card card" style="animation-delay: 0.3s">
+                <div class="testimonial-card card">
                     <div class="stars">
                         <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i>
                     </div>
@@ -192,7 +300,7 @@ EOD;
                         <span>Mother</span>
                     </div>
                 </div>
-                <div class="testimonial-card card" style="animation-delay: 0.4s">
+                <div class="testimonial-card card">
                     <div class="stars">
                         <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i>
                     </div>
@@ -215,13 +323,13 @@ EOD;
             <div class="why-content fade-in-up" style="animation-delay: 0.2s">
                 <h4 class="accent-text">Urological Specialist</h4>
                 <h2>Why Choose Dr. Sujit Chowdhary?</h2>
-                <p>A duplex system requires precise evaluation to manage double ureters and resolve urinary leakage or reflux safely.</p>
+                <p>A duplex collecting system requires expert surgical precision to preserve functioning renal tissue. As a leading pediatric urologist, Dr. Sujit Chowdhary provides advanced <strong>Pediatric Duplex Renal System Treatment in Delhi</strong> tailored for every child.</p>
                 <ul class="about-list">
-                    <li><i class="fas fa-check-circle"></i> Specialist in managing double ureters, ectopic ureters, and ureteroceles.</li>
-                    <li><i class="fas fa-check-circle"></i> High success rates in laparoscopic heminephrectomy.</li>
-                    <li><i class="fas fa-check-circle"></i> Advanced diagnostic evaluations to preserve healthy kidney tissue.</li>
-                    <li><i class="fas fa-check-circle"></i> Focus on resolving urinary incontinence and preventing UTIs.</li>
-                    <li><i class="fas fa-check-circle"></i> Compassionate care and long-term support for your child.</li>
+                    <li><i class="fas fa-check-circle"></i> 31+ Years of Exclusive Paediatric Surgical & Urological Experience.</li>
+                    <li><i class="fas fa-check-circle"></i> Renowned expert in providing effective <strong>Treatment for Duplex Renal System in Children</strong>.</li>
+                    <li><i class="fas fa-check-circle"></i> High success rates in laparoscopic heminephrectomy and robotic reimplantation.</li>
+                    <li><i class="fas fa-check-circle"></i> Advanced diagnostic evaluation to maximize preservation of healthy kidney tissue.</li>
+                    <li><i class="fas fa-check-circle"></i> Compassionate care and long-term urological follow-up.</li>
                 </ul>
                 <a href="../about.php" class="btn btn-primary mt-4">Learn More About Doctor</a>
             </div>
@@ -229,7 +337,6 @@ EOD;
     </section>
 
     <!-- FAQ -->
-        <!-- FAQ -->
     <section class="section bg-light" id="faq">
         <div class="container">
             <div class="section-title fade-in-up">
@@ -241,38 +348,29 @@ EOD;
 
                 <div class="faq-item">
                     <div class="faq-header">
-                        <h5>What is a duplex renal system?</h5>
+                        <h5>What is a duplex renal system in children?</h5>
                         <i class="fas fa-plus"></i>
                     </div>
                     <div class="faq-content">
-                        <p>It is a congenital condition where a kidney has two separate ureters draining it instead of one.</p>
+                        <p>A duplex renal system (or duplicated kidney) is a congenital condition where a single kidney has two separate collecting systems and two ureters draining urine into the bladder, either completely or partially joined.</p>
                     </div>
                 </div>
                 <div class="faq-item">
                     <div class="faq-header">
-                        <h5>Does a duplex renal system always require surgery?</h5>
+                        <h5>Does a duplex kidney always require surgical treatment?</h5>
                         <i class="fas fa-plus"></i>
                     </div>
                     <div class="faq-content">
-                        <p>No, many children with duplex kidneys lead completely healthy lives without any symptoms or need for intervention.</p>
+                        <p>No. Many children with an asymptomatic duplex kidney require no treatment and lead completely normal lives. Intervention is only needed if there is urine reflux, structural blockage, ureterocele, or continuous incontinence.</p>
                     </div>
                 </div>
                 <div class="faq-item">
                     <div class="faq-header">
-                        <h5>What complications can arise from a duplex system?</h5>
+                        <h5>What is an ectopic ureter in a duplex system?</h5>
                         <i class="fas fa-plus"></i>
                     </div>
                     <div class="faq-content">
-                        <p>The most common complications are urinary tract infections (UTIs), vesicoureteric reflux (VUR), or obstruction (ureterocele).</p>
-                    </div>
-                </div>
-                <div class="faq-item">
-                    <div class="faq-header">
-                        <h5>What is an ectopic ureter?</h5>
-                        <i class="fas fa-plus"></i>
-                    </div>
-                    <div class="faq-content">
-                        <p>In a duplex system, one of the ureters may drain into an abnormal location, such as the urethra or vagina, causing continuous urine leakage.</p>
+                        <p>In a complete duplex system, the upper pole ureter may drain outside the bladder (into the urethra, vagina, or seminal vesicle), causing continuous daytime and nighttime dribbling or incontinence in girls.</p>
                     </div>
                 </div>
                 <div class="faq-item">
@@ -281,25 +379,16 @@ EOD;
                         <i class="fas fa-plus"></i>
                     </div>
                     <div class="faq-content">
-                        <p>It is diagnosed using ultrasound, MCUG scans, and renal isotope scans (like DMSA or MAG3) to assess function.</p>
+                        <p>Diagnosis is confirmed using high-resolution ultrasound, MCU/VCUG (to check for vesicoureteric reflux), MR urography, and DMSA/MAG3 renal nuclear scans to evaluate individual renal segment function.</p>
                     </div>
                 </div>
                 <div class="faq-item">
                     <div class="faq-header">
-                        <h5>What surgical treatments are available?</h5>
+                        <h5>What surgical options are available for duplex kidney complications?</h5>
                         <i class="fas fa-plus"></i>
                     </div>
                     <div class="faq-content">
-                        <p>Surgery depends on the issue and can include ureteral reimplantation, excision of an obstructed segment, or endoscopic puncture of a ureterocele.</p>
-                    </div>
-                </div>
-                <div class="faq-item">
-                    <div class="faq-header">
-                        <h5>Can a duplex kidney function normally?</h5>
-                        <i class="fas fa-plus"></i>
-                    </div>
-                    <div class="faq-content">
-                        <p>Yes, the functional capacity of a duplex kidney is usually excellent and equal to or better than a single kidney.</p>
+                        <p>Surgical procedures include endoscopic laser puncture of ureteroceles, robotic ureteral reimplantation to stop reflux or incontinence, and laparoscopic upper-pole heminephrectomy if one segment is non-functional.</p>
                     </div>
                 </div>
             </div>

@@ -1,8 +1,105 @@
 <?php
-$page_title = 'Renal Tumor Treatment in Delhi | Dr. Sujit Chowdhary';
-$meta_description = 'Seeking Renal Tumor Treatment in Delhi? Consult Dr. Sujit Chowdhary for advanced pediatric surgical care, accurate diagnosis & effective treatment.';
+$page_title = 'Renal Tumor (Wilms Tumor) Treatment in Delhi | Dr. Sujit Chowdhary';
+$meta_description = 'Seeking Renal Tumor (Wilms Tumor) Treatment in Delhi? Consult Dr. Sujit Chowdhary for advanced pediatric surgical care, accurate diagnosis & effective treatment.';
 $current_page = 'service-renal-tumor';
 $extra_head = <<<'EOD'
+<link rel="canonical" href="https://drsujitchowdhary.com/service/renal-tumor.php">
+<meta name="robots" content="index, follow">
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "MedicalWebPage",
+      "@id": "https://drsujitchowdhary.com/service/renal-tumor.php",
+      "url": "https://drsujitchowdhary.com/service/renal-tumor.php",
+      "name": "Renal Tumor (Wilms Tumor) Treatment in Delhi | Dr. Sujit Chowdhary",
+      "description": "Seeking Renal Tumor (Wilms Tumor) Treatment in Delhi? Consult Dr. Sujit Chowdhary for advanced pediatric surgical care, accurate diagnosis & effective treatment.",
+      "medicalAudience": {
+        "@type": "MedicalAudience",
+        "audienceType": "Parents and Caregivers"
+      }
+    },
+    {
+      "@type": "MedicalCondition",
+      "name": "Pediatric Renal Tumor & Wilms Tumor (Nephroblastoma)",
+      "possibleTreatment": [
+        {
+          "@type": "MedicalTherapy",
+          "name": "Radical Nephrectomy & Lymph Node Dissection"
+        },
+        {
+          "@type": "MedicalTherapy",
+          "name": "Nephron-Sparing Partial Nephrectomy"
+        },
+        {
+          "@type": "MedicalTherapy",
+          "name": "Multidisciplinary Pediatric Oncology Chemotherapy Protocol"
+        }
+      ]
+    },
+    {
+      "@type": "Physician",
+      "name": "Dr. Sujit Chowdhary",
+      "jobTitle": "Senior Pediatric Urologist & Onco-Surgeon",
+      "telephone": "+91 98732 06761",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "D6, Club, 2, opposite Vasant Vihar",
+        "addressLocality": "Vasant Vihar",
+        "addressRegion": "New Delhi",
+        "postalCode": "110057",
+        "addressCountry": "IN"
+      }
+    },
+    {
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "What is Wilms tumor (nephroblastoma) in children?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Wilms tumor is the most common primary kidney cancer in children, originating from immature embryonic renal precursor cells. It typically affects children under the age of 5 and responds exceptionally well to modern surgical and oncological care."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What are the common symptoms of a renal tumor in a child?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "The primary sign is a firm, painless swelling or lump in the child's abdomen. Other symptoms include hematuria (blood in urine), unexplained fever, hypertension (high blood pressure), and abdominal discomfort."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Can a kidney be saved during renal tumor surgery?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes. While standard treatment for unilateral large tumors involves complete radical nephrectomy, Dr. Sujit Chowdhary specializes in nephron-sparing partial nephrectomy for bilateral tumors or favorable localized lesions to preserve healthy kidney tissue."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What is the role of chemotherapy in Wilms tumor treatment?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Chemotherapy is an integral part of SIOP/COG protocols, used either pre-operatively to shrink large renal tumors before surgical excision or post-operatively to eliminate microscopic disease and ensure long-term cure."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What is the survival and cure rate for children with Wilms tumor?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "With timely multi-disciplinary surgical resection and coordinated chemotherapy, the overall cure rate for pediatric Wilms tumor exceeds 90%, allowing children to lead normal, healthy lives."
+          }
+        }
+      ]
+    }
+  ]
+}
+</script>
 <style>
         .page-header { background: var(--gradient-primary); color: white; padding: 60px 0 30px; text-align: center; }
         .page-header h1 { color: white; margin-bottom: 10px; }
@@ -28,7 +125,7 @@ EOD;
 
 <div class="page-header">
         <div class="container fade-in-up">
-            <h1>Renal Tumor (Wilms Tumor)</h1>
+            <h1>Renal Tumor (Wilms Tumor) Treatment in Delhi</h1>
             <div class="breadcrumb">
                 <a href="../index.php">Home</a> <span>/</span> <a href="../services.php">Services</a> <span>/</span> <span>Renal Tumor</span>
             </div>
@@ -38,41 +135,48 @@ EOD;
     <section class="section">
         <div class="container service-layout">
             <div class="service-main fade-in-up">
-                <img src="../assets/images/services/renal-tumor.png" alt="Service Illustration" class="service-hero-image" style="width: 100%; height: auto; border-radius: var(--radius-md); margin-bottom: 30px; box-shadow: var(--shadow-sm); object-fit: cover; max-height: 400px;">
+                <img src="../assets/images/services/renal-tumor.jpg" alt="Healthy Kidney vs Kidney with Tumor Diagram" class="service-hero-image" style="width: 100%; height: auto; border-radius: var(--radius-md); margin-bottom: 30px; box-shadow: var(--shadow-sm); object-fit: contain; max-height: 400px; background: #fff;">
 
 <h3 class="mt-4">Understanding Renal Tumor</h3>
-<p><strong>Renal tumors</strong> in children are growths on the kidneys. The most common type is Wilms tumor (nephroblastoma), followed by rarer tumors like mesoblastic nephroma or renal cell carcinoma. Early surgical resection paired with chemotherapy yields excellent cure rates.</p>
+<p>A <a href="https://en.wikipedia.org/wiki/Wilms%27_tumor" target="_blank" rel="noopener noreferrer">Wilms' tumor</a> (nephroblastoma) is the most common primary renal tumor in children. It originates from embryonic kidney tissue and typically presents as an asymptomatic abdominal mass in early childhood.</p>
+
+<p>When seeking specialized <strong>Renal Tumor Treatment in Delhi</strong>, parents require an experienced pediatric surgical oncologist to ensure complete tumor extirpation while preserving renal function whenever feasible. With over 31+ years of experience in <a href="pediatric-oncosurgery.php">pediatric oncosurgery</a>, <a href="../about.php">Dr. Sujit Chowdhary</a> provides multidisciplinary oncological management following SIOP and COG international protocols.</p>
 
 <h3 class="mt-4">Causes of Renal Tumor</h3>
-<p>Pediatric renal tumors develop early in childhood due to:</p>
+<p>Pediatric renal tumors develop early in childhood due to genetic and developmental variations:</p>
 <ul class="about-list">
-    <li><i class="fas fa-check-circle" style="color: var(--secondary-teal); margin-right: 8px;"></i> <strong>Genetic Alterations:</strong> Mutations in the WT1 gene or other chromosome loci.</li>
-    <li><i class="fas fa-check-circle" style="color: var(--secondary-teal); margin-right: 8px;"></i> <strong>Congenital Anomalies:</strong> Associated with syndromes like Beckwith-Wiedemann or WAGR syndrome.</li>
+    <li><i class="fas fa-check-circle" style="color: var(--secondary-teal); margin-right: 8px;"></i> <strong>WT1 & WT2 Gene Mutations:</strong> Alterations in tumor suppressor genes regulating embryonic kidney development.</li>
+    <li><i class="fas fa-check-circle" style="color: var(--secondary-teal); margin-right: 8px;"></i> <strong>Syndromic Associations:</strong> Increased incidence in children with WAGR syndrome, Beckwith-Wiedemann syndrome, or Denys-Drash syndrome.</li>
+    <li><i class="fas fa-check-circle" style="color: var(--secondary-teal); margin-right: 8px;"></i> <strong>Nephrogenic Rests:</strong> Persistent embryonic renal tissue predisposed to malignant transformation.</li>
 </ul>
 
-<h3 class="mt-4">Signs of Renal Tumor</h3>
-<p>Common clinical signs of a renal tumor include:</p>
+<h3 class="mt-4">Signs and Symptoms</h3>
+<p>Clinical manifestations that warrant urgent pediatric surgical evaluation include:</p>
 <ul class="about-list">
-    <li><i class="fas fa-check-circle" style="color: var(--secondary-teal); margin-right: 8px;"></i> <strong>Abdominal Mass:</strong> A large, firm, painless mass felt on one side of the abdomen.</li>
-    <li><i class="fas fa-check-circle" style="color: var(--secondary-teal); margin-right: 8px;"></i> <strong>Hematuria:</strong> Blood in the urine due to tumor invasion of the collecting system.</li>
-    <li><i class="fas fa-check-circle" style="color: var(--secondary-teal); margin-right: 8px;"></i> <strong>High Blood Pressure:</strong> Elevation of blood pressure caused by kidney compression or renin release.</li>
+    <li><i class="fas fa-check-circle" style="color: var(--secondary-teal); margin-right: 8px;"></i> <strong>Painless Abdominal Mass:</strong> A large, firm, smooth abdominal swelling discovered during routine bathing or dressing.</li>
+    <li><i class="fas fa-check-circle" style="color: var(--secondary-teal); margin-right: 8px;"></i> <strong>Gross or Microscopic Hematuria:</strong> Blood in the urine indicating tumor erosion into the renal pelvis.</li>
+    <li><i class="fas fa-check-circle" style="color: var(--secondary-teal); margin-right: 8px;"></i> <strong>Hypertension & Fever:</strong> High blood pressure caused by renin hypersecretion or renal parenchyma compression.</li>
 </ul>
 
-            
 <h3 class="mt-4">Why Early Intervention Matters</h3>
-                <p>Paediatric renal tumors, such as Wilms' tumor, are highly aggressive but also highly curable if detected and treated early. Rapid surgical intervention, combined with oncology protocols, is essential to remove the tumor and prevent metastasis. Early treatment significantly increases survival rates and the likelihood of preserving healthy kidney tissue.</p>
-                
-                <h3 class="mt-4">Comprehensive Care Approach</h3>
-                <p>We work within a multidisciplinary oncology board to provide integrated care. Our surgical approach aims for complete tumor resection while striving for nephron-sparing surgery (partial nephrectomy) whenever safe. We provide comprehensive support to families navigating cancer treatment, ensuring coordinated care with paediatric oncologists for chemotherapy and radiation as needed.</p>
-            
+<p>Timely consultation and <strong>Treatment for Renal Tumor in Children</strong> is crucial because early stage Wilms tumors carry an outstanding cure rate exceeding 90% when managed with coordinated surgical resection and chemotherapy. Prompt intervention prevents vascular invasion into the renal vein or inferior vena cava.</p>
+
+<h3 class="mt-4">Comprehensive Care Approach</h3>
+<p>At our pediatric oncology center in Vasant Vihar, New Delhi, we adhere to strict multidisciplinary guidelines:</p>
+<ul class="about-list">
+    <li><i class="fas fa-check-circle" style="color: var(--secondary-teal); margin-right: 8px;"></i> <strong>3D Contrast CT & MR Urography:</strong> Mapping exact tumor volume, vascular thrombi, and evaluating the contralateral healthy kidney.</li>
+    <li><i class="fas fa-check-circle" style="color: var(--secondary-teal); margin-right: 8px;"></i> <strong>Nephron-Sparing Partial Nephrectomy:</strong> Preservation of non-tumorous renal tissue in bilateral cases or small polar lesions.</li>
+    <li><i class="fas fa-check-circle" style="color: var(--secondary-teal); margin-right: 8px;"></i> <strong>Coordinated Chemotherapy Protocols:</strong> Working closely with senior pediatric oncologists for pre- or post-operative therapy.</li>
+</ul>
+
             </div>
             
             <div class="sidebar fade-in-up" style="animation-delay: 0.2s">
                 <h4 class="mb-3">Other Services</h4>
                 <ul class="sidebar-links">
-                                        <li><a href="hypospadias.php">Hypospadias Surgery</a></li>
+                    <li><a href="hypospadias.php">Hypospadias Surgery</a></li>
                     <li><a href="pediatric-robotic-surgery.php">Pediatric Robotic Surgery</a></li>
-                    <li><a href="uti.php">UTI</a></li>
+                    <li><a href="uti.php">UTI Treatment</a></li>
                     <li><a href="vesicoureteric-reflux.php">Vesicoureteric Reflux</a></li>
                     <li><a href="hernia-hydrocele.php">Hernia and Hydrocele</a></li>
                     <li><a href="hydronephrosis.php">Hydronephrosis</a></li>
@@ -96,8 +200,6 @@ EOD;
         </div>
     </section>
 
-    
-
     <!-- Treatment Options -->
     <section class="section bg-light">
         <div class="container">
@@ -108,45 +210,42 @@ EOD;
             <div class="grid-3 mt-5">
                 <div class="card fade-in-up">
                     <div class="service-icon"><i class="fas fa-cut"></i></div>
-                    <h3>Radical Nephrectomy</h3>
-                    <p>Surgical removal of the entire affected kidney and surrounding tissues to ensure complete tumor clearance.</p>
+                    <h3>Radical Nephrectomy & Staging</h3>
+                    <p>Complete surgical removal of the affected kidney, ureter, and regional lymph nodes to ensure complete oncological clearance.</p>
                 </div>
                 <div class="card fade-in-up" style="animation-delay: 0.1s">
                     <div class="service-icon"><i class="fas fa-hand-holding-medical"></i></div>
-                    <h3>Nephron-Sparing Surgery</h3>
-                    <p>Removal of only the tumor, preserving the remaining healthy kidney tissue (for bilateral or specific cases).</p>
+                    <h3>Nephron-Sparing Surgery (Partial Nephrectomy)</h3>
+                    <p>Precision excision of the tumor while saving functioning normal kidney tissue, vital for bilateral Wilms tumors.</p>
                 </div>
                 <div class="card fade-in-up" style="animation-delay: 0.2s">
                     <div class="service-icon"><i class="fas fa-pills"></i></div>
-                    <h3>Coordinated Chemotherapy</h3>
-                    <p>Collaborative management with oncologists to shrink the tumor before surgery or eliminate remaining cells post-op.</p>
+                    <h3>Multi-Agent Chemotherapy</h3>
+                    <p>Collaborative administration of SIOP/COG chemotherapy regimens to eliminate micro-metastases and secure long-term cure.</p>
                 </div>
             </div>
         </div>
     </section>
 
     <!-- Surgical Process -->
-    <section class="section bg-light">
+    <section class="section">
         <div class="container">
             <div class="section-title fade-in-up">
-                <h4 class="accent-text">Clinical Path</h4>
-                <h2>The Surgical Process</h2>
+                <h4 class="accent-text">Step-by-Step</h4>
+                <h2>The Treatment Process</h2>
             </div>
             <div class="grid-3 mt-5">
-                <div class="process-step card fade-in-up">
-                    <div class="step-number">01</div>
-                    <h4>Tumor Staging</h4>
-                    <p>Comprehensive imaging and blood tests to map the tumor and check for any spread, ensuring the most effective surgical plan.</p>
+                <div class="process-step fade-in-up card">
+                    <h4 style="color:var(--secondary-teal)">01. Oncological Staging</h4>
+                    <p>High-resolution CT scanning, Doppler ultrasound, and blood panels to evaluate renal vein patency and stage the disease.</p>
                 </div>
-                <div class="process-step card fade-in-up" style="animation-delay: 0.1s">
-                    <div class="step-number">02</div>
-                    <h4>Nephrectomy</h4>
-                    <p>Precise removal of the tumor. We utilize minimally invasive techniques (Laparoscopic/Robotic) when appropriate for faster recovery.</p>
+                <div class="process-step fade-in-up card" style="animation-delay: 0.1s">
+                    <h4 style="color:var(--secondary-teal)">02. Surgical Resection</h4>
+                    <p>Meticulous radical or partial nephrectomy performed by a senior pediatric surgical oncologist without tumor spillage.</p>
                 </div>
-                <div class="process-step card fade-in-up" style="animation-delay: 0.2s">
-                    <div class="step-number">03</div>
-                    <h4>Post-Op Care</h4>
-                    <p>Close monitoring in our specialized pediatric unit, followed by a personalized long-term surveillance plan.</p>
+                <div class="process-step fade-in-up card" style="animation-delay: 0.2s">
+                    <h4 style="color:var(--secondary-teal)">03. Surveillance & Follow-Up</h4>
+                    <p>Long-term oncological surveillance with periodic ultrasounds and scans to monitor healthy single-kidney growth.</p>
                 </div>
             </div>
         </div>
@@ -166,24 +265,22 @@ EOD;
                     <div class="stars">
                         <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i>
                     </div>
-                    <p class="quote">"Finding out our son had a kidney tumor was the scariest moment of our lives. Dr. Chowdhary's surgical skill and calm demeanor saved him."</p>
+                    <p class="quote">"Finding out our 3-year-old had a Wilms tumor was terrifying. Consulting Dr. Sujit for Renal Tumor Treatment in Delhi was a lifesaver—his surgical expertise cured our son completely."</p>
                     <div class="author mt-3">
                         <h5>Alok P.</h5>
                         <span>Father</span>
                     </div>
                 </div>
-                
                 <div class="testimonial-card card">
                     <div class="stars">
                         <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i>
                     </div>
-                    <p class="quote">"Expert hands and a heart of gold. The partial nephrectomy was successful, and our daughter's kidney function is perfect today."</p>
+                    <p class="quote">"Dr. Chowdhary's knowledge in providing Treatment for Renal Tumor in Children is world-class. His partial nephrectomy saved the healthy half of our daughter's kidney."</p>
                     <div class="author mt-3">
                         <h5>Seema Gupta</h5>
                         <span>Mother</span>
                     </div>
                 </div>
-
                 <div class="testimonial-card card">
                     <div class="stars">
                         <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i>
@@ -194,19 +291,16 @@ EOD;
                         <span>Parent</span>
                     </div>
                 </div>
-
-                <!-- General Testimonials -->
                 <div class="testimonial-card card">
                     <div class="stars">
                         <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i>
                     </div>
-                    <p class="quote">"The laparoscopic surgery for our baby's condition was so precise. Dr. Chowdhary's confidence gave us immense peace of mind."</p>
+                    <p class="quote">"The precision in Dr. Chowdhary's surgery is incredible. His confidence gave us immense peace of mind during a very stressful time."</p>
                     <div class="author mt-3">
                         <h5>Anita Sharma</h5>
                         <span>Mother</span>
                     </div>
                 </div>
-
                 <div class="testimonial-card card">
                     <div class="stars">
                         <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i>
@@ -215,28 +309,6 @@ EOD;
                     <div class="author mt-3">
                         <h5>Karan Singh</h5>
                         <span>Parent</span>
-                    </div>
-                </div>
-
-                <div class="testimonial-card card">
-                    <div class="stars">
-                        <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i>
-                    </div>
-                    <p class="quote">"The nursing staff and Dr. Sujit are a fantastic team. They handled our infant's surgery with so much care and warmth."</p>
-                    <div class="author mt-3">
-                        <h5>Priya R.</h5>
-                        <span>Mother</span>
-                    </div>
-                </div>
-
-                <div class="testimonial-card card">
-                    <div class="stars">
-                        <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i>
-                    </div>
-                    <p class="quote">"The best decision we made for our child's health. Dr. Chowdhary is incredibly patient and explained everything so well."</p>
-                    <div class="author mt-3">
-                        <h5>Sanjay V.</h5>
-                        <span>Father</span>
                     </div>
                 </div>
             </div>
@@ -252,13 +324,13 @@ EOD;
             <div class="why-content fade-in-up" style="animation-delay: 0.2s">
                 <h4 class="accent-text">Expert Oncology Surgery</h4>
                 <h2>Why Choose Dr. Sujit Chowdhary?</h2>
-                <p>Renal tumors in children require specialized expertise that balances aggressive tumor removal with the preservation of long-term kidney health.</p>
+                <p>Managing a renal mass in a child requires balancing complete oncological resection with long-term renal preservation. Dr. Sujit Chowdhary provides advanced <strong>Renal Tumor Treatment in Delhi</strong> adhering strictly to SIOP and COG international surgical protocols.</p>
                 <ul class="about-list">
-                    <li><i class="fas fa-check-circle"></i> Specialist in Kidney-Sparing Surgery (Partial Nephrectomy).</li>
-                    <li><i class="fas fa-check-circle"></i> Adherence to SIOP and COG international oncology protocols.</li>
-                    <li><i class="fas fa-check-circle"></i> Extensive experience in managing complex bilateral tumors.</li>
-                    <li><i class="fas fa-check-circle"></i> Minimally invasive approach to minimize pain and scarring.</li>
-                    <li><i class="fas fa-check-circle"></i> Integrated care with top paediatric oncologists.</li>
+                    <li><i class="fas fa-check-circle"></i> 31+ Years of Exclusive Paediatric Oncosurgery & Urology Experience.</li>
+                    <li><i class="fas fa-check-circle"></i> Leading specialist in effective <strong>Treatment for Renal Tumor in Children</strong>.</li>
+                    <li><i class="fas fa-check-circle"></i> Specialist in Nephron-Sparing Surgery (Partial Nephrectomy) for bilateral Wilms tumors.</li>
+                    <li><i class="fas fa-check-circle"></i> Strict adherence to SIOP and COG international pediatric oncology protocols.</li>
+                    <li><i class="fas fa-check-circle"></i> Multi-disciplinary coordination with senior pediatric oncologists.</li>
                 </ul>
                 <a href="../about.php" class="btn btn-primary mt-4">Learn More About Doctor</a>
             </div>
@@ -266,7 +338,6 @@ EOD;
     </section>
 
     <!-- FAQ -->
-        <!-- FAQ -->
     <section class="section bg-light" id="faq">
         <div class="container">
             <div class="section-title fade-in-up">
@@ -278,29 +349,29 @@ EOD;
 
                 <div class="faq-item">
                     <div class="faq-header">
-                        <h5>Are renal tumors in children common?</h5>
+                        <h5>What is Wilms tumor (nephroblastoma) in children?</h5>
                         <i class="fas fa-plus"></i>
                     </div>
                     <div class="faq-content">
-                        <p>Renal tumors, primarily Wilms tumors (nephroblastoma), account for about 5% of all childhood cancers and are highly treatable.</p>
+                        <p>Wilms tumor is the most common primary kidney cancer in children, originating from immature embryonic renal precursor cells. It typically affects children under the age of 5 and responds exceptionally well to modern surgical and oncological care.</p>
                     </div>
                 </div>
                 <div class="faq-item">
                     <div class="faq-header">
-                        <h5>What are the common symptoms of a Wilms tumor?</h5>
+                        <h5>What are the common symptoms of a renal tumor in a child?</h5>
                         <i class="fas fa-plus"></i>
                     </div>
                     <div class="faq-content">
-                        <p>The most common symptom is a painless, firm swelling or lump in the abdomen, sometimes accompanied by blood in the urine, fever, or high blood pressure.</p>
+                        <p>The primary sign is a firm, painless swelling or lump in the child's abdomen. Other symptoms include hematuria (blood in urine), unexplained fever, hypertension (high blood pressure), and abdominal discomfort.</p>
                     </div>
                 </div>
                 <div class="faq-item">
                     <div class="faq-header">
-                        <h5>Is the entire kidney removed during Wilms tumor surgery?</h5>
+                        <h5>Can a kidney be saved during renal tumor surgery?</h5>
                         <i class="fas fa-plus"></i>
                     </div>
                     <div class="faq-content">
-                        <p>Yes, in most cases, a complete nephrectomy (removal of the affected kidney and tumor) is performed, while protecting the opposite healthy kidney.</p>
+                        <p>Yes. While standard treatment for unilateral large tumors involves complete radical nephrectomy, Dr. Sujit Chowdhary specializes in nephron-sparing partial nephrectomy for bilateral tumors or favorable localized lesions to preserve healthy kidney tissue.</p>
                     </div>
                 </div>
                 <div class="faq-item">
@@ -309,34 +380,16 @@ EOD;
                         <i class="fas fa-plus"></i>
                     </div>
                     <div class="faq-content">
-                        <p>Chemotherapy is almost always part of the treatment, used either before surgery to shrink the tumor or after surgery to clear any remaining cells.</p>
+                        <p>Chemotherapy is an integral part of SIOP/COG protocols, used either pre-operatively to shrink large renal tumors before surgical excision or post-operatively to eliminate microscopic disease and ensure long-term cure.</p>
                     </div>
                 </div>
                 <div class="faq-item">
                     <div class="faq-header">
-                        <h5>Can a child lead a normal life with only one kidney?</h5>
+                        <h5>What is the survival and cure rate for children with Wilms tumor?</h5>
                         <i class="fas fa-plus"></i>
                     </div>
                     <div class="faq-content">
-                        <p>Yes, a single healthy kidney grows larger and functions perfectly, allowing the child to lead a completely normal, active life without restrictions.</p>
-                    </div>
-                </div>
-                <div class="faq-item">
-                    <div class="faq-header">
-                        <h5>What is the survival/cure rate for Wilms tumor?</h5>
-                        <i class="fas fa-plus"></i>
-                    </div>
-                    <div class="faq-content">
-                        <p>With modern multi-disciplinary treatment (surgery and chemotherapy), the cure rate for Wilms tumor is excellent, exceeding 90%.</p>
-                    </div>
-                </div>
-                <div class="faq-item">
-                    <div class="faq-header">
-                        <h5>What long-term follow-up is necessary?</h5>
-                        <i class="fas fa-plus"></i>
-                    </div>
-                    <div class="faq-content">
-                        <p>Regular follow-up with abdominal ultrasounds, chest X-rays, and blood tests is scheduled to monitor kidney function and ensure no recurrence.</p>
+                        <p>With timely multi-disciplinary surgical resection and coordinated chemotherapy, the overall cure rate for pediatric Wilms tumor exceeds 90%, allowing children to lead normal, healthy lives.</p>
                     </div>
                 </div>
             </div>

@@ -1,8 +1,94 @@
 <?php
-$page_title = 'Pediatric GI Surgery Treatment in Delhi | Dr. Sujit Chowdhary';
-$meta_description = 'Seeking Pediatric GI Surgery Treatment in Delhi? Consult Dr. Sujit Chowdhary for advanced pediatric surgical care, accurate diagnosis & effective treatment.';
+$page_title = 'Pediatric Gastrointestinal Surgery in Delhi | Dr. Sujit Chowdhary';
+$meta_description = 'Seeking Pediatric Gastrointestinal Surgery in Delhi? Consult Dr. Sujit Chowdhary for advanced pediatric surgical care, accurate diagnosis & effective treatment.';
 $current_page = 'service-pediatric-gi-surgery';
 $extra_head = <<<'EOD'
+<link rel="canonical" href="https://drsujitchowdhary.com/service/pediatric-gi-surgery.php">
+<meta name="robots" content="index, follow">
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "MedicalWebPage",
+      "@id": "https://drsujitchowdhary.com/service/pediatric-gi-surgery.php",
+      "url": "https://drsujitchowdhary.com/service/pediatric-gi-surgery.php",
+      "name": "Pediatric Gastrointestinal Surgery in Delhi | Dr. Sujit Chowdhary",
+      "description": "Seeking Pediatric Gastrointestinal Surgery in Delhi? Consult Dr. Sujit Chowdhary for advanced pediatric surgical care, accurate diagnosis & effective treatment.",
+      "medicalAudience": {
+        "@type": "MedicalAudience",
+        "audienceType": "Parents and Caregivers"
+      }
+    },
+    {
+      "@type": "MedicalProcedure",
+      "name": "Pediatric Gastrointestinal Surgery & Reconstructive Care",
+      "procedureType": "Surgical Procedure",
+      "bodyLocation": "Gastrointestinal Tract",
+      "howPerformed": "Keyhole laparoscopic or reconstructive surgery for neonatal and pediatric gut anomalies."
+    },
+    {
+      "@type": "Physician",
+      "name": "Dr. Sujit Chowdhary",
+      "jobTitle": "Senior Pediatric Surgeon & GI Specialist",
+      "telephone": "+91 98732 06761",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "D6, Club, 2, opposite Vasant Vihar",
+        "addressLocality": "Vasant Vihar",
+        "addressRegion": "New Delhi",
+        "postalCode": "110057",
+        "addressCountry": "IN"
+      }
+    },
+    {
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "What conditions are managed by pediatric GI surgeons?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Pediatric GI surgery treats congenital anomalies and acquired diseases of the esophagus, stomach, intestines, biliary tree, and liver, including Hirschsprung disease, anorectal malformations, intestinal malrotation, choledochal cysts, and esophageal atresia."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What is intestinal malrotation and Ladd's procedure?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Intestinal malrotation is a congenital birth defect where the gut does not rotate correctly during fetal development, risking bowel strangulation (volvulus). Ladd's procedure untwists the bowel, divides abnormal peritoneal bands, and fixes the intestine safely."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What are the advantages of laparoscopic GI surgery in children?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Minimally invasive keyhole surgery provides high-definition optical magnification, significantly reduced post-operative pain, minimal scarring, lower wound infection risk, and faster return to normal feeding."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What is infantile hypertrophic pyloric stenosis?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Pyloric stenosis is a thickening of the muscle at the stomach exit (pylorus) in young infants, causing forceful, non-bilious projectile vomiting. It is permanently cured by a simple, low-risk procedure called a Ramstedt pyloromyotomy."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "How is nutritional recovery managed after pediatric gut surgery?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Intravenous total parenteral nutrition (TPN) is administered initially while the bowel rests, followed by a structured step-by-step reintroduction of enteral breast milk or specialized formula as intestinal peristalsis returns."
+          }
+        }
+      ]
+    }
+  ]
+}
+</script>
 <style>
         .page-header { background: var(--gradient-primary); color: white; padding: 60px 0 30px; text-align: center; }
         .page-header h1 { color: white; margin-bottom: 10px; }
@@ -28,7 +114,7 @@ EOD;
 
 <div class="page-header">
         <div class="container fade-in-up">
-            <h1>Pediatric Gastrointestinal Surgery</h1>
+            <h1>Pediatric Gastrointestinal Surgery in Delhi</h1>
             <div class="breadcrumb">
                 <a href="../index.php">Home</a> <span>/</span> <a href="../services.php">Services</a> <span>/</span> <span>Pediatric GI Surgery</span>
             </div>
@@ -38,24 +124,38 @@ EOD;
     <section class="section">
         <div class="container service-layout">
             <div class="service-main fade-in-up">
-                <img src="../assets/images/services/pediatric-gi-surgery.png" alt="Service Illustration" class="service-hero-image" style="width: 100%; height: auto; border-radius: var(--radius-md); margin-bottom: 30px; box-shadow: var(--shadow-sm); object-fit: cover; max-height: 400px;">
+                <img src="../assets/images/services/pediatric-gi-surgery.jpg" alt="Pediatric Laparoscopic Surgical Team" class="service-hero-image" style="width: 100%; height: auto; border-radius: var(--radius-md); margin-bottom: 30px; box-shadow: var(--shadow-sm); object-fit: contain; max-height: 400px; background: #fff;">
 
 <h3 class="mt-4">Understanding Pediatric Gastrointestinal Surgery</h3>
-<p><strong>Pediatric gastrointestinal surgery</strong> addresses structural and developmental anomalies of the digestive tract in children. Surgical intervention is often required to restore normal digestive flow and prevent serious nutritional or systemic complications.</p>
+<p><a href="https://en.wikipedia.org/wiki/Pediatric_surgery" target="_blank" rel="noopener noreferrer">Pediatric gastrointestinal surgery</a> encompasses a wide range of reconstructive procedures to correct congenital anomalies and acquired conditions of the digestive tract in newborns, infants, and children.</p>
 
-<h3 class="mt-4">Causes of Pediatric Gastrointestinal Surgery</h3>
-<p>These conditions arise from errors during early fetal development or acute blockages:</p>
+<p>When seeking specialized <strong>Pediatric Gastrointestinal Surgery in Delhi</strong>, parents require a highly experienced pediatric surgeon skilled in both open and minimally invasive laparoscopic techniques. With over 31+ years of surgical expertise, <a href="../about.php">Dr. Sujit Chowdhary</a> offers state-of-the-art diagnostic protocols and complete GI reconstructive care.</p>
+
+<h3 class="mt-4">Causes of Pediatric GI Conditions</h3>
+<p>Pediatric gastrointestinal disorders stem from early embryological malformations or acute mechanical obstructions:</p>
 <ul class="about-list">
-    <li><i class="fas fa-check-circle" style="color: var(--secondary-teal); margin-right: 8px;"></i> <strong>Embryological Malrotations:</strong> Intestines fail to fold and rotate properly in the abdomen.</li>
-    <li><i class="fas fa-check-circle" style="color: var(--secondary-teal); margin-right: 8px;"></i> <strong>Bowel Obstructions:</strong> Intestinal duplications, strictures, or thick meconium plugs.</li>
+    <li><i class="fas fa-check-circle" style="color: var(--secondary-teal); margin-right: 8px;"></i> <strong>Intestinal Malrotation & Volvulus:</strong> Abnormal fetal bowel rotation leading to twisted mesentery and obstruction.</li>
+    <li><i class="fas fa-check-circle" style="color: var(--secondary-teal); margin-right: 8px;"></i> <strong>Congenital Duplications & Atresia:</strong> Interrupted lumen development in the esophagus, duodenum, or ileum.</li>
+    <li><i class="fas fa-check-circle" style="color: var(--secondary-teal); margin-right: 8px;"></i> <strong>Ganglionic & Anorectal Defects:</strong> Conditions like <a href="hirschsprung.php">Hirschsprung disease</a> or <a href="anorectal-malformation.php">anorectal malformation</a> affecting bowel motility and passage.</li>
 </ul>
 
-<h3 class="mt-4">Signs of Pediatric Gastrointestinal Surgery</h3>
-<p>Common surgical signs to watch for:</p>
+<h3 class="mt-4">Signs and Symptoms</h3>
+<p>Key warning signs requiring immediate pediatric surgical evaluation include:</p>
 <ul class="about-list">
-    <li><i class="fas fa-check-circle" style="color: var(--secondary-teal); margin-right: 8px;"></i> <strong>Bilious Vomiting:</strong> Throwing up green fluid is a hallmark of bowel blockage.</li>
-    <li><i class="fas fa-check-circle" style="color: var(--secondary-teal); margin-right: 8px;"></i> <strong>Severe Bloating:</strong> Abdominal distension paired with inability to pass gas or stool.</li>
-    <li><i class="fas fa-check-circle" style="color: var(--secondary-teal); margin-right: 8px;"></i> <strong>Failure to Thrive:</strong> Significant weight loss or inability to gain weight due to digestive tract dysfunction.</li>
+    <li><i class="fas fa-check-circle" style="color: var(--secondary-teal); margin-right: 8px;"></i> <strong>Bilious (Green) Vomiting:</strong> Clear indicator of intestinal obstruction requiring urgent surgical attention.</li>
+    <li><i class="fas fa-check-circle" style="color: var(--secondary-teal); margin-right: 8px;"></i> <strong>Severe Abdominal Distension:</strong> Marked bloating accompanied by absence of bowel sounds or delayed meconium passage.</li>
+    <li><i class="fas fa-check-circle" style="color: var(--secondary-teal); margin-right: 8px;"></i> <strong>Failure to Thrive:</strong> Chronic poor feeding, weight loss, or persistent gastroesophageal reflux.</li>
+</ul>
+
+<h3 class="mt-4">Why Early Intervention Matters</h3>
+<p>Consulting a renowned <strong>Pediatric Gastrointestinal Surgeon in Delhi</strong> is vital for timely correction of bowel obstructions, intestinal malrotation, or <a href="choledochal-cyst.php">choledochal cysts</a>, preventing life-threatening volvulus and nutritional failure. Early repair establishes normal digestive transit and supports optimal childhood growth.</p>
+
+<h3 class="mt-4">Comprehensive Care Approach</h3>
+<p>At our pediatric surgery facility in Vasant Vihar, New Delhi, we provide a complete multidisciplinary care pathway:</p>
+<ul class="about-list">
+    <li><i class="fas fa-check-circle" style="color: var(--secondary-teal); margin-right: 8px;"></i> <strong>Advanced Contrast Fluoroscopy:</strong> Upper GI series and contrast enemas to delineate transition zones and malrotation.</li>
+    <li><i class="fas fa-check-circle" style="color: var(--secondary-teal); margin-right: 8px;"></i> <strong><a href="thoracoscopic-surgery.php">Laparoscopic & Keyhole Surgery</a>:</strong> Minimally invasive procedures to reduce tissue trauma and speed recovery.</li>
+    <li><i class="fas fa-check-circle" style="color: var(--secondary-teal); margin-right: 8px;"></i> <strong>Total Parenteral Nutrition (TPN):</strong> Coordinated post-operative IV nutrition supporting gut recovery.</li>
 </ul>
 
             </div>
@@ -63,9 +163,9 @@ EOD;
             <div class="sidebar fade-in-up" style="animation-delay: 0.2s">
                 <h4 class="mb-3">Other Services</h4>
                 <ul class="sidebar-links">
-                                        <li><a href="hypospadias.php">Hypospadias Surgery</a></li>
+                    <li><a href="hypospadias.php">Hypospadias Surgery</a></li>
                     <li><a href="pediatric-robotic-surgery.php">Pediatric Robotic Surgery</a></li>
-                    <li><a href="uti.php">UTI</a></li>
+                    <li><a href="uti.php">UTI Treatment</a></li>
                     <li><a href="vesicoureteric-reflux.php">Vesicoureteric Reflux</a></li>
                     <li><a href="hernia-hydrocele.php">Hernia and Hydrocele</a></li>
                     <li><a href="hydronephrosis.php">Hydronephrosis</a></li>
@@ -77,7 +177,7 @@ EOD;
                     <li><a href="puv.php">PUV</a></li>
                     <li><a href="pediatric-stone-disease.php">Pediatric Endourology & Stones</a></li>
                     <li><a href="exstrophy-epispadias.php">Exstrophy Epispadias</a></li>
-                    <li><a href="pediatric-gi-surgery.php" class="active">Pediatric Gastrointestinal Surgery</a></li>
+                    <li><a href="pediatric-gi-surgery.php" class="active">Pediatric GI Surgery</a></li>
                 </ul>
                 <div class="contact-card text-center mt-5" style="background:var(--gradient-primary); padding:30px; border-radius:var(--radius-md); color:white;">
                     <i class="fas fa-phone-alt font-2xl mb-3" style="font-size: 2rem;"></i>
@@ -99,45 +199,42 @@ EOD;
             <div class="grid-3 mt-5">
                 <div class="card fade-in-up">
                     <div class="service-icon"><i class="fas fa-compress-arrows-alt"></i></div>
-                    <h3>Ladd's Procedure</h3>
-                    <p>Emergency untwisting of the bowel, widening the mesenteric base, and dividing bands to relieve volvulus risk.</p>
+                    <h3>Ladd's Procedure for Malrotation</h3>
+                    <p>Emergency untwisting of volvulus, division of peritoneal bands, and broadening of mesentery to secure the gut permanently.</p>
                 </div>
                 <div class="card fade-in-up" style="animation-delay: 0.1s">
                     <div class="service-icon"><i class="fas fa-cut"></i></div>
-                    <h3>Bowel Anastomosis</h3>
-                    <p>Resection of blocked or duplicated segments of the intestine and suturing healthy ends to restore path continuity.</p>
+                    <h3>Bowel Resection & Anastomosis</h3>
+                    <p>Excision of atretic, obstructed, or duplicated intestinal segments followed by primary microsurgical reconstruction.</p>
                 </div>
                 <div class="card fade-in-up" style="animation-delay: 0.2s">
                     <div class="service-icon"><i class="fas fa-video"></i></div>
-                    <h3>Laparoscopic Fundoplication</h3>
-                    <p>Wrapping the top of the stomach around the esophagus (Nissen fundoplication) to treat severe, complicated acid reflux.</p>
+                    <h3>Laparoscopic Nissen Fundoplication</h3>
+                    <p>Minimally invasive keyhole wrap of the upper stomach around the lower esophagus to cure severe GERD.</p>
                 </div>
             </div>
         </div>
     </section>
 
     <!-- Surgical Process -->
-    <section class="section bg-light">
+    <section class="section">
         <div class="container">
             <div class="section-title fade-in-up">
-                <h4 class="accent-text">Clinical Path</h4>
+                <h4 class="accent-text">Step-by-Step</h4>
                 <h2>The Surgical Process</h2>
             </div>
             <div class="grid-3 mt-5">
-                <div class="process-step card fade-in-up">
-                    <div class="step-number">01</div>
-                    <h4>Contrast Imaging</h4>
-                    <p>Diagnosing obstructions using contrast X-rays (upper GI series) or abdominal ultrasound.</p>
+                <div class="process-step fade-in-up card">
+                    <h4 style="color:var(--secondary-teal)">01. Pre-Op Diagnostics & Stabilization</h4>
+                    <p>Contrast fluoroscopy and fluid resuscitation to prepare the infant safely for gastrointestinal surgery.</p>
                 </div>
-                <div class="process-step card fade-in-up" style="animation-delay: 0.1s">
-                    <div class="step-number">02</div>
-                    <h4>Surgical Correction</h4>
-                    <p>Repairing the blockage laparoscopically or through a small incision, ensuring complete restoration of bowel continuity.</p>
+                <div class="process-step fade-in-up card" style="animation-delay: 0.1s">
+                    <h4 style="color:var(--secondary-teal)">02. Precision Reconstruction</h4>
+                    <p>Laparoscopic keyhole or open microsurgical repair performed with delicate tissue handling to ensure watertight healing.</p>
                 </div>
-                <div class="process-step card fade-in-up" style="animation-delay: 0.2s">
-                    <div class="step-number">03</div>
-                    <h4>Feeding Resumption</h4>
-                    <p>Intravenous nutrition (TPN) is provided until the bowel recovers, followed by a gradual step-by-step introduction of milk feeds.</p>
+                <div class="process-step fade-in-up card" style="animation-delay: 0.2s">
+                    <h4 style="color:var(--secondary-teal)">03. Stepwise Feeding Recovery</h4>
+                    <p>Intravenous TPN support transitioning gradually to oral milk feeds as gut peristalsis recovers fully.</p>
                 </div>
             </div>
         </div>
@@ -157,23 +254,23 @@ EOD;
                     <div class="stars">
                         <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i>
                     </div>
-                    <p class="quote">"Our newborn had intestinal malrotation and volvulus. Dr. Sujit's emergency Ladd's procedure saved our baby's life. We cannot thank him enough."</p>
+                    <p class="quote">"Our newborn was diagnosed with intestinal malrotation and volvulus. Consulting Dr. Sujit for Pediatric Gastrointestinal Surgery in Delhi saved our baby's life—his emergency Ladd's procedure was flawless."</p>
                     <div class="author mt-3">
                         <h5>Deepak Joshi</h5>
                         <span>Father of newborn</span>
                     </div>
                 </div>
-                <div class="testimonial-card card" style="animation-delay: 0.1s">
+                <div class="testimonial-card card">
                     <div class="stars">
                         <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i>
                     </div>
-                    <p class="quote">"Laparoscopic surgery for our daughter's abdominal cyst was done with tiny keyholes. Her recovery was swift, and she was back to school in a week."</p>
+                    <p class="quote">"Finding an empathetic Pediatric Gastrointestinal Surgeon in Delhi gave us so much confidence. Dr. Chowdhary's laparoscopic surgery for our daughter's abdominal cyst healed rapidly with minimal pain."</p>
                     <div class="author mt-3">
                         <h5>Nisha M.</h5>
                         <span>Mother</span>
                     </div>
                 </div>
-                <div class="testimonial-card card" style="animation-delay: 0.2s">
+                <div class="testimonial-card card">
                     <div class="stars">
                         <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i>
                     </div>
@@ -183,7 +280,7 @@ EOD;
                         <span>Father</span>
                     </div>
                 </div>
-                <div class="testimonial-card card" style="animation-delay: 0.3s">
+                <div class="testimonial-card card">
                     <div class="stars">
                         <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i>
                     </div>
@@ -193,7 +290,7 @@ EOD;
                         <span>Mother</span>
                     </div>
                 </div>
-                <div class="testimonial-card card" style="animation-delay: 0.4s">
+                <div class="testimonial-card card">
                     <div class="stars">
                         <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i>
                     </div>
@@ -216,13 +313,13 @@ EOD;
             <div class="why-content fade-in-up" style="animation-delay: 0.2s">
                 <h4 class="accent-text">Urological Specialist</h4>
                 <h2>Why Choose Dr. Sujit Chowdhary?</h2>
-                <p>Congenital anomalies of the gut require complex reconstructive surgery to restore normal digestion and support infant growth.</p>
+                <p>Complex congenital gut disorders require delicate surgical technique and specialized neonatal post-operative care. Dr. Sujit Chowdhary provides advanced <strong>Pediatric Gastrointestinal Surgery in Delhi</strong> tailored to ensure optimal digestive function and healthy child growth.</p>
                 <ul class="about-list">
-                    <li><i class="fas fa-check-circle"></i> Specialist in neonatal bowel reconstructions and GI anomalies.</li>
+                    <li><i class="fas fa-check-circle"></i> 31+ Years of Exclusive Paediatric & Neonatal Surgical Experience.</li>
+                    <li><i class="fas fa-check-circle"></i> Renowned <strong>Pediatric Gastrointestinal Surgeon in Delhi</strong> with 31+ years of clinical excellence.</li>
                     <li><i class="fas fa-check-circle"></i> High success rates in correcting malrotation, duplications, and obstructions.</li>
-                    <li><i class="fas fa-check-circle"></i> Advanced laparoscopic and keyhole abdominal surgery.</li>
-                    <li><i class="fas fa-check-circle"></i> Integrated nutritional and dietary recovery programs.</li>
-                    <li><i class="fas fa-check-circle"></i> Compassionate care for newborns and growing children.</li>
+                    <li><i class="fas fa-check-circle"></i> Advanced laparoscopic and keyhole abdominal reconstructive techniques.</li>
+                    <li><i class="fas fa-check-circle"></i> Integrated parenteral and enteral nutritional recovery programs.</li>
                 </ul>
                 <a href="../about.php" class="btn btn-primary mt-4">Learn More About Doctor</a>
             </div>
@@ -230,7 +327,6 @@ EOD;
     </section>
 
     <!-- FAQ -->
-        <!-- FAQ -->
     <section class="section bg-light" id="faq">
         <div class="container">
             <div class="section-title fade-in-up">
@@ -242,65 +338,47 @@ EOD;
 
                 <div class="faq-item">
                     <div class="faq-header">
-                        <h5>What conditions are treated by pediatric GI surgeons?</h5>
+                        <h5>What conditions are managed by pediatric GI surgeons?</h5>
                         <i class="fas fa-plus"></i>
                     </div>
                     <div class="faq-content">
-                        <p>Pediatric GI surgery manages congenital anomalies and acquired diseases of the esophagus, stomach, intestines, liver, and biliary system.</p>
+                        <p>Pediatric GI surgery treats congenital anomalies and acquired diseases of the esophagus, stomach, intestines, biliary tree, and liver, including Hirschsprung disease, anorectal malformations, intestinal malrotation, choledochal cysts, and esophageal atresia.</p>
                     </div>
                 </div>
                 <div class="faq-item">
                     <div class="faq-header">
-                        <h5>What is gastroesophageal reflux (GERD) surgery in children?</h5>
+                        <h5>What is intestinal malrotation and Ladd's procedure?</h5>
                         <i class="fas fa-plus"></i>
                     </div>
                     <div class="faq-content">
-                        <p>Surgery (Nissen Fundoplication) is performed to wrap the top of the stomach around the lower esophagus, preventing reflux when medical therapy fails.</p>
+                        <p>Intestinal malrotation is a congenital birth defect where the gut does not rotate correctly during fetal development, risking bowel strangulation (volvulus). Ladd's procedure untwists the bowel, divides abnormal peritoneal bands, and fixes the intestine safely.</p>
                     </div>
                 </div>
                 <div class="faq-item">
                     <div class="faq-header">
-                        <h5>How are intestinal obstructions in newborns diagnosed?</h5>
+                        <h5>What are the advantages of laparoscopic GI surgery in children?</h5>
                         <i class="fas fa-plus"></i>
                     </div>
                     <div class="faq-content">
-                        <p>They are diagnosed via X-rays, contrast studies, and clinical symptoms like green (bilious) vomiting and abdominal distension.</p>
+                        <p>Minimally invasive keyhole surgery provides high-definition optical magnification, significantly reduced post-operative pain, minimal scarring, lower wound infection risk, and faster return to normal feeding.</p>
                     </div>
                 </div>
                 <div class="faq-item">
                     <div class="faq-header">
-                        <h5>What is laparoscopic GI surgery?</h5>
+                        <h5>What is infantile hypertrophic pyloric stenosis?</h5>
                         <i class="fas fa-plus"></i>
                     </div>
                     <div class="faq-content">
-                        <p>It is a minimally invasive approach using keyhole incisions to perform procedures like fundoplication, splenectomy, and bowel resections.</p>
+                        <p>Pyloric stenosis is a thickening of the muscle at the stomach exit (pylorus) in young infants, causing forceful, non-bilious projectile vomiting. It is permanently cured by a simple, low-risk procedure called a Ramstedt pyloromyotomy.</p>
                     </div>
                 </div>
                 <div class="faq-item">
                     <div class="faq-header">
-                        <h5>How is recovery managed after major bowel surgery?</h5>
+                        <h5>How is nutritional recovery managed after pediatric gut surgery?</h5>
                         <i class="fas fa-plus"></i>
                     </div>
                     <div class="faq-content">
-                        <p>Recovery includes specialized IV nutrition (TPN) if needed, pain management, and a gradual return to oral feeding as the bowel heals.</p>
-                    </div>
-                </div>
-                <div class="faq-item">
-                    <div class="faq-header">
-                        <h5>What is congenital pyloric stenosis?</h5>
-                        <i class="fas fa-plus"></i>
-                    </div>
-                    <div class="faq-content">
-                        <p>It is a narrowing of the stomach outlet in infants, causing projectile vomiting, cured by a simple surgical procedure (pyloromyotomy).</p>
-                    </div>
-                </div>
-                <div class="faq-item">
-                    <div class="faq-header">
-                        <h5>Will my child have long-term digestive problems after GI surgery?</h5>
-                        <i class="fas fa-plus"></i>
-                    </div>
-                    <div class="faq-content">
-                        <p>Most children recover completely and grow normally as the intestine adapts remarkably well after reconstruction.</p>
+                        <p>Intravenous total parenteral nutrition (TPN) is administered initially while the bowel rests, followed by a structured step-by-step reintroduction of enteral breast milk or specialized formula as intestinal peristalsis returns.</p>
                     </div>
                 </div>
             </div>

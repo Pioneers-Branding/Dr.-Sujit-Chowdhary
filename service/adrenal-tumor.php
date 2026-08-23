@@ -1,8 +1,105 @@
 <?php
-$page_title = 'Adrenal Tumor Treatment in Delhi, India | Dr. Sujit Chowdhary';
-$meta_description = 'Seeking Adrenal Tumor Treatment in Delhi? Consult Dr. Sujit Chowdhary for advanced pediatric surgical care, accurate diagnosis & effective treatment.';
+$page_title = 'Pediatric Adrenal Tumor Treatment in Delhi | Dr. Sujit Chowdhary';
+$meta_description = 'Seeking Pediatric Adrenal Tumor Treatment in Delhi? Consult Dr. Sujit Chowdhary for advanced pediatric surgical care, accurate diagnosis & effective treatment.';
 $current_page = 'service-adrenal-tumor';
 $extra_head = <<<'EOD'
+<link rel="canonical" href="https://drsujitchowdhary.com/service/adrenal-tumor.php">
+<meta name="robots" content="index, follow">
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "MedicalWebPage",
+      "@id": "https://drsujitchowdhary.com/service/adrenal-tumor.php",
+      "url": "https://drsujitchowdhary.com/service/adrenal-tumor.php",
+      "name": "Pediatric Adrenal Tumor Treatment in Delhi | Dr. Sujit Chowdhary",
+      "description": "Seeking Pediatric Adrenal Tumor Treatment in Delhi? Consult Dr. Sujit Chowdhary for advanced pediatric surgical care, accurate diagnosis & effective treatment.",
+      "medicalAudience": {
+        "@type": "MedicalAudience",
+        "audienceType": "Parents and Caregivers"
+      }
+    },
+    {
+      "@type": "MedicalCondition",
+      "name": "Pediatric Adrenal Tumor & Neuroblastoma",
+      "possibleTreatment": [
+        {
+          "@type": "MedicalTherapy",
+          "name": "Robotic & Laparoscopic Adrenalectomy"
+        },
+        {
+          "@type": "MedicalTherapy",
+          "name": "Nephron-Preserving Tumor Resection"
+        },
+        {
+          "@type": "MedicalTherapy",
+          "name": "Pre-Operative Endocrine Stabilization"
+        }
+      ]
+    },
+    {
+      "@type": "Physician",
+      "name": "Dr. Sujit Chowdhary",
+      "jobTitle": "Senior Pediatric Urologist & Surgeon",
+      "telephone": "+91 98732 06761",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "D6, Club, 2, opposite Vasant Vihar",
+        "addressLocality": "Vasant Vihar",
+        "addressRegion": "New Delhi",
+        "postalCode": "110057",
+        "addressCountry": "IN"
+      }
+    },
+    {
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Are adrenal tumors in children always cancerous?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Not always. While neuroblastomas are malignant pediatric adrenal growths, many adrenocortical adenomas or pheochromocytomas can be benign, though surgical removal is still necessary to prevent hormone imbalances or growth."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Can the kidney be preserved during adrenal tumor surgery?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes. The adrenal gland sits above the kidney inside its own fascia. Dr. Sujit Chowdhary specializes in nephron-preserving surgical techniques to carefully detach the tumor while preserving the underlying kidney intact."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What is a pheochromocytoma in children?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "A pheochromocytoma is a rare adrenal gland tumor that secretes excess catecholamines (adrenaline), leading to severe hypertension, rapid heart rate, headaches, and profuse sweating."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What are the benefits of laparoscopic or robotic adrenalectomy?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Minimally invasive keyhole surgery offers 3D magnification around major blood vessels, minimal blood loss, significantly less post-operative pain, tiny cosmetically hidden scars, and much faster recovery for young children."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Will my child need long-term hormone replacement after surgery?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "If only one adrenal gland is removed, the remaining healthy opposite adrenal gland quickly adapts and produces normal hormone levels, eliminating the need for long-term hormone replacement."
+          }
+        }
+      ]
+    }
+  ]
+}
+</script>
 <style>
         .page-header { background: var(--gradient-primary); color: white; padding: 60px 0 30px; text-align: center; }
         .page-header h1 { color: white; margin-bottom: 10px; }
@@ -28,7 +125,7 @@ EOD;
 
 <div class="page-header">
         <div class="container fade-in-up">
-            <h1>Adrenal Tumor</h1>
+            <h1>Pediatric Adrenal Tumor Treatment in Delhi</h1>
             <div class="breadcrumb">
                 <a href="../index.php">Home</a> <span>/</span> <a href="../services.php">Services</a> <span>/</span> <span>Adrenal Tumor</span>
             </div>
@@ -38,25 +135,38 @@ EOD;
     <section class="section">
         <div class="container service-layout">
             <div class="service-main fade-in-up">
-                <img src="../assets/images/services/adrenal-tumor.png" alt="Service Illustration" class="service-hero-image" style="width: 100%; height: auto; border-radius: var(--radius-md); margin-bottom: 30px; box-shadow: var(--shadow-sm); object-fit: cover; max-height: 400px;">
+                <img src="../assets/images/services/adrenal-tumor.jpg" alt="Diagram of The Tumor of The Adrenal Gland" class="service-hero-image" style="width: 100%; height: auto; border-radius: var(--radius-md); margin-bottom: 30px; box-shadow: var(--shadow-sm); object-fit: contain; max-height: 400px; background: #fff;">
 
 <h3 class="mt-4">Understanding Adrenal Tumor</h3>
-<p><strong>Adrenal tumors</strong> in children are rare growths that form on the adrenal glands, which sit on top of the kidneys. The most common type is neuroblastoma (arising from the adrenal medulla), followed by rarer adrenocortical tumors (adenomas or carcinomas) and pheochromocytomas. These tumors can affect hormone production and require specialized multi-disciplinary care.</p>
+<p>An <a href="https://en.wikipedia.org/wiki/Adrenal_tumor" target="_blank" rel="noopener noreferrer">adrenal tumor</a> in children is a rare abnormal growth forming in the adrenal gland located atop each kidney. These growths include neuroblastomas, pheochromocytomas, and adrenocortical tumors, often impacting hormone regulation.</p>
+
+<p>When seeking specialized <strong>Pediatric Adrenal Tumor Treatment in Delhi</strong>, parents require advanced pediatric surgical expertise to ensure complete tumor excision while preserving kidney function and endocrine stability. With over 31+ years of experience in <a href="pediatric-oncosurgery.php">pediatric oncosurgery</a>, <a href="../about.php">Dr. Sujit Chowdhary</a> provides state-of-the-art diagnostic protocols and keyhole surgical solutions.</p>
 
 <h3 class="mt-4">Causes of Adrenal Tumor</h3>
-<p>Most pediatric adrenal tumors occur due to genetic predisposition, inherited syndromes, or spontaneous gene mutations during development. Key contributing factors include:</p>
+<p>Most pediatric adrenal masses occur due to genetic factors or spontaneous mutations during embryonic development:</p>
 <ul class="about-list">
-    <li><i class="fas fa-check-circle" style="color: var(--secondary-teal); margin-right: 8px;"></i> <strong>Genetic Syndromes:</strong> Conditions like Beckwith-Wiedemann syndrome, Li-Fraumeni syndrome, or Carney complex are strongly linked to adrenal growths.</li>
-    <li><i class="fas fa-check-circle" style="color: var(--secondary-teal); margin-right: 8px;"></i> <strong>Spontaneous Mutations:</strong> Cellular errors during rapid embryonic development of the adrenal gland.</li>
-    <li><i class="fas fa-check-circle" style="color: var(--secondary-teal); margin-right: 8px;"></i> <strong>Endocrine Imbalances:</strong> Abnormal signals causing localized cell hyperplasia.</li>
+    <li><i class="fas fa-check-circle" style="color: var(--secondary-teal); margin-right: 8px;"></i> <strong>Genetic Predisposition:</strong> Conditions such as Beckwith-Wiedemann syndrome or Li-Fraumeni syndrome increase susceptibility to adrenal lesions.</li>
+    <li><i class="fas fa-check-circle" style="color: var(--secondary-teal); margin-right: 8px;"></i> <strong>Cellular Mutations:</strong> Spontaneous gene alterations occurring during adrenal gland organogenesis.</li>
+    <li><i class="fas fa-check-circle" style="color: var(--secondary-teal); margin-right: 8px;"></i> <strong>Hormonal Hyperplasia:</strong> Abnormal endocrine signaling triggering localized tissue overgrowth.</li>
 </ul>
 
-<h3 class="mt-4">Signs of Adrenal Tumor</h3>
-<p>Signs vary depending on the tumor type and whether it secretes excess hormones:</p>
+<h3 class="mt-4">Signs and Symptoms</h3>
+<p>Symptoms depend on the size of the tumor and whether it actively secretes hormones:</p>
 <ul class="about-list">
-    <li><i class="fas fa-check-circle" style="color: var(--secondary-teal); margin-right: 8px;"></i> <strong>Abdominal Swelling:</strong> A firm, palpable mass in the abdomen or upper side.</li>
-    <li><i class="fas fa-check-circle" style="color: var(--secondary-teal); margin-right: 8px;"></i> <strong>Hormonal Symptoms:</strong> Early signs of puberty (virilization), rapid hair growth, acne, or rapid weight gain.</li>
-    <li><i class="fas fa-check-circle" style="color: var(--secondary-teal); margin-right: 8px;"></i> <strong>Hypertension:</strong> High blood pressure, sweating, and heart palpitations (typical of pheochromocytoma).</li>
+    <li><i class="fas fa-check-circle" style="color: var(--secondary-teal); margin-right: 8px;"></i> <strong>Abdominal Mass:</strong> A firm, palpable swelling in the upper abdomen or flank area.</li>
+    <li><i class="fas fa-check-circle" style="color: var(--secondary-teal); margin-right: 8px;"></i> <strong>Hormonal Alterations:</strong> Premature puberty, facial hair growth, acne, or rapid weight changes caused by adrenocortical adenomas.</li>
+    <li><i class="fas fa-check-circle" style="color: var(--secondary-teal); margin-right: 8px;"></i> <strong>Hypertension & Palpitations:</strong> Severe high blood pressure and rapid pulse associated with catecholamine-secreting pheochromocytomas.</li>
+</ul>
+
+<h3 class="mt-4">Why Early Intervention Matters</h3>
+<p>Timely evaluation is critical when managing an <strong>adrenal tumor in children</strong> to prevent malignant progression or dangerous blood pressure spikes. Specialized surgical removal prevents local vascular invasion while preserving the adjacent kidney intact.</p>
+
+<h3 class="mt-4">Comprehensive Care Approach</h3>
+<p>At our center in Vasant Vihar, New Delhi, we provide multidisciplinary management:</p>
+<ul class="about-list">
+    <li><i class="fas fa-check-circle" style="color: var(--secondary-teal); margin-right: 8px;"></i> <strong>Hormonal & Biochemical Profiling:</strong> Measuring blood and 24-hour urine catecholamines, cortisol, and adrenal steroids.</li>
+    <li><i class="fas fa-check-circle" style="color: var(--secondary-teal); margin-right: 8px;"></i> <strong>High-Resolution Imaging:</strong> Contrast CT and MRI scans to map vascular anatomy relative to the inferior vena cava and renal vessels.</li>
+    <li><i class="fas fa-check-circle" style="color: var(--secondary-teal); margin-right: 8px;"></i> <strong><a href="pediatric-robotic-surgery.php">Pediatric Robotic Surgery</a>:</strong> Precision keyhole adrenalectomy for minimal trauma and rapid recovery.</li>
 </ul>
 
             </div>
@@ -64,9 +174,9 @@ EOD;
             <div class="sidebar fade-in-up" style="animation-delay: 0.2s">
                 <h4 class="mb-3">Other Services</h4>
                 <ul class="sidebar-links">
-                                        <li><a href="hypospadias.php">Hypospadias Surgery</a></li>
+                    <li><a href="hypospadias.php">Hypospadias Surgery</a></li>
                     <li><a href="pediatric-robotic-surgery.php">Pediatric Robotic Surgery</a></li>
-                    <li><a href="uti.php">UTI</a></li>
+                    <li><a href="uti.php">UTI Treatment</a></li>
                     <li><a href="vesicoureteric-reflux.php">Vesicoureteric Reflux</a></li>
                     <li><a href="hernia-hydrocele.php">Hernia and Hydrocele</a></li>
                     <li><a href="hydronephrosis.php">Hydronephrosis</a></li>
@@ -100,45 +210,42 @@ EOD;
             <div class="grid-3 mt-5">
                 <div class="card fade-in-up">
                     <div class="service-icon"><i class="fas fa-robot"></i></div>
-                    <h3>Robotic Adrenalectomy</h3>
-                    <p>Minimally invasive removal of the adrenal gland using robotic arms for precise dissection near the vena cava.</p>
+                    <h3>Robotic & Laparoscopic Adrenalectomy</h3>
+                    <p>Minimally invasive keyhole removal of the adrenal mass using robotic precision near major blood vessels.</p>
                 </div>
                 <div class="card fade-in-up" style="animation-delay: 0.1s">
                     <div class="service-icon"><i class="fas fa-prescription-bottle-alt"></i></div>
-                    <h3>Endocrine Management</h3>
-                    <p>Pre-operative medication controls hormone levels to ensure safety during anesthesia.</p>
+                    <h3>Endocrine Pre-Conditioning</h3>
+                    <p>Pre-operative pharmacological control of hormone levels to ensure safe blood pressure during anesthesia.</p>
                 </div>
                 <div class="card fade-in-up" style="animation-delay: 0.2s">
                     <div class="service-icon"><i class="fas fa-user-md"></i></div>
                     <h3>Nephron-Preserving Resection</h3>
-                    <p>Carefully separating the adrenal tumor from the underlying kidney, avoiding the need to remove the kidney.</p>
+                    <p>Delicate dissection separating the adrenal mass from the underlying kidney, preserving 100% of renal function.</p>
                 </div>
             </div>
         </div>
     </section>
 
     <!-- Surgical Process -->
-    <section class="section bg-light">
+    <section class="section">
         <div class="container">
             <div class="section-title fade-in-up">
-                <h4 class="accent-text">Clinical Path</h4>
-                <h2>The Surgical Process</h2>
+                <h4 class="accent-text">Step-by-Step</h4>
+                <h2>The Treatment Process</h2>
             </div>
             <div class="grid-3 mt-5">
-                <div class="process-step card fade-in-up">
-                    <div class="step-number">01</div>
-                    <h4>Endocrine Workup</h4>
-                    <p>Blood and urine tests measure catecholamines and hormone levels. CT/MRI scans locate the tumor's vessel boundaries.</p>
+                <div class="process-step fade-in-up card">
+                    <h4 style="color:var(--secondary-teal)">01. Diagnostic Workup</h4>
+                    <p>Endocrine hormone panels and high-resolution MRI/CT scans to map tumor boundaries and blood vessels.</p>
                 </div>
-                <div class="process-step card fade-in-up" style="animation-delay: 0.1s">
-                    <div class="step-number">02</div>
-                    <h4>Robotic Dissection</h4>
-                    <p>The adrenal gland is carefully isolated from the kidney and major vessels. The tumor blood supply is clipped first.</p>
+                <div class="process-step fade-in-up card" style="animation-delay: 0.1s">
+                    <h4 style="color:var(--secondary-teal)">02. Minimally Invasive Surgery</h4>
+                    <p>Precision robotic dissection to isolate and remove the adrenal mass while protecting the kidney and surrounding tissues.</p>
                 </div>
-                <div class="process-step card fade-in-up" style="animation-delay: 0.2s">
-                    <div class="step-number">03</div>
-                    <h4>ICU Monitoring</h4>
-                    <p>Close post-operative monitoring in the PICU to manage blood pressure stabilization and hormone baseline recovery.</p>
+                <div class="process-step fade-in-up card" style="animation-delay: 0.2s">
+                    <h4 style="color:var(--secondary-teal)">03. Post-Operative Monitoring</h4>
+                    <p>Specialized monitoring to track hormone recovery, ensure stable blood pressure, and facilitate rapid discharge.</p>
                 </div>
             </div>
         </div>
@@ -158,23 +265,23 @@ EOD;
                     <div class="stars">
                         <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i>
                     </div>
-                    <p class="quote">"We were devastated when our daughter was diagnosed with a neuroblastoma. Dr. Sujit Chowdhary coordinated her surgery perfectly. Today she is cancer-free."</p>
+                    <p class="quote">"We were terrified when our child was diagnosed with an adrenal mass. Finding Dr. Sujit Chowdhary for Pediatric Adrenal Tumor Treatment in Delhi gave us hope—his surgical precision cured our daughter completely."</p>
                     <div class="author mt-3">
                         <h5>Amit S.</h5>
                         <span>Father of 2yo patient</span>
                     </div>
                 </div>
-                <div class="testimonial-card card" style="animation-delay: 0.1s">
+                <div class="testimonial-card card">
                     <div class="stars">
                         <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i>
                     </div>
-                    <p class="quote">"Our son's pheochromocytoma was causing severe hypertension. Dr. Sujit stabilized him and did a laparoscopic adrenalectomy. Outstanding results."</p>
+                    <p class="quote">"Dr. Chowdhary's experience in treating an adrenal tumor in children is unmatched. His robotic adrenalectomy healed so quickly with minimal pain."</p>
                     <div class="author mt-3">
                         <h5>Vikas R.</h5>
                         <span>Father</span>
                     </div>
                 </div>
-                <div class="testimonial-card card" style="animation-delay: 0.2s">
+                <div class="testimonial-card card">
                     <div class="stars">
                         <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i>
                     </div>
@@ -184,7 +291,7 @@ EOD;
                         <span>Mother</span>
                     </div>
                 </div>
-                <div class="testimonial-card card" style="animation-delay: 0.3s">
+                <div class="testimonial-card card">
                     <div class="stars">
                         <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i>
                     </div>
@@ -194,7 +301,7 @@ EOD;
                         <span>Mother</span>
                     </div>
                 </div>
-                <div class="testimonial-card card" style="animation-delay: 0.4s">
+                <div class="testimonial-card card">
                     <div class="stars">
                         <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i>
                     </div>
@@ -217,13 +324,13 @@ EOD;
             <div class="why-content fade-in-up" style="animation-delay: 0.2s">
                 <h4 class="accent-text">Urological Specialist</h4>
                 <h2>Why Choose Dr. Sujit Chowdhary?</h2>
-                <p>Adrenal masses require specialized excision and hormone monitoring. Minimally invasive adrenalectomy speeds up child recovery.</p>
+                <p>Managing an <strong>adrenal tumor in children</strong> requires delicate surgical technique and precise endocrine monitoring. Dr. Sujit Chowdhary provides multidisciplinary surgical care to ensure complete recovery for every child.</p>
                 <ul class="about-list">
-                    <li><i class="fas fa-check-circle"></i> Specialist in laparoscopic and robotic adrenalectomy in children.</li>
-                    <li><i class="fas fa-check-circle"></i> Expertise in managing pheochromocytoma and neuroblastoma.</li>
-                    <li><i class="fas fa-check-circle"></i> Coordinated care with pediatric endocrinologists.</li>
-                    <li><i class="fas fa-check-circle"></i> Focus on safe resection, hormone balance, and minimal pain.</li>
-                    <li><i class="fas fa-check-circle"></i> Compassionate and focused support for your child's recovery.</li>
+                    <li><i class="fas fa-check-circle"></i> 31+ Years of Exclusive Paediatric Surgical Experience.</li>
+                    <li><i class="fas fa-check-circle"></i> Premier specialist for <strong>Pediatric Adrenal Tumor Treatment in Delhi</strong>.</li>
+                    <li><i class="fas fa-check-circle"></i> Pioneer in keyhole laparoscopic & robotic adrenalectomy.</li>
+                    <li><i class="fas fa-check-circle"></i> Specialized in total nephron-sparing tumor excision.</li>
+                    <li><i class="fas fa-check-circle"></i> Multi-disciplinary coordination with pediatric endocrinologists & oncologists.</li>
                 </ul>
                 <a href="../about.php" class="btn btn-primary mt-4">Learn More About Doctor</a>
             </div>
@@ -231,7 +338,6 @@ EOD;
     </section>
 
     <!-- FAQ -->
-        <!-- FAQ -->
     <section class="section bg-light" id="faq">
         <div class="container">
             <div class="section-title fade-in-up">
@@ -247,61 +353,43 @@ EOD;
                         <i class="fas fa-plus"></i>
                     </div>
                     <div class="faq-content">
-                        <p>Not always. While neuroblastomas are malignant, many adrenocortical tumors or pheochromocytomas can be benign, though they still require removal.</p>
+                        <p>Not always. While neuroblastomas are malignant pediatric adrenal growths, many adrenocortical adenomas or pheochromocytomas can be benign, though surgical removal is still necessary to prevent hormone imbalances or growth.</p>
                     </div>
                 </div>
                 <div class="faq-item">
                     <div class="faq-header">
-                        <h5>Can the kidney be saved during adrenal surgery?</h5>
+                        <h5>Can the kidney be preserved during adrenal tumor surgery?</h5>
                         <i class="fas fa-plus"></i>
                     </div>
                     <div class="faq-content">
-                        <p>Yes, since the adrenal gland sits adjacent to the kidney but has its own separate capsule, the kidney is successfully preserved in almost all cases.</p>
+                        <p>Yes. The adrenal gland sits above the kidney inside its own fascia. Dr. Sujit Chowdhary specializes in nephron-preserving surgical techniques to carefully detach the tumor while preserving the underlying kidney intact.</p>
                     </div>
                 </div>
                 <div class="faq-item">
                     <div class="faq-header">
-                        <h5>What is the role of laparoscopic surgery in adrenal tumors?</h5>
+                        <h5>What is a pheochromocytoma in children?</h5>
                         <i class="fas fa-plus"></i>
                     </div>
                     <div class="faq-content">
-                        <p>For smaller, well-localized adrenal tumors, minimally invasive laparoscopic or robotic-assisted surgery is highly effective, leading to faster recovery.</p>
+                        <p>A pheochromocytoma is a rare adrenal gland tumor that secretes excess catecholamines (adrenaline), leading to severe hypertension, rapid heart rate, headaches, and profuse sweating.</p>
                     </div>
                 </div>
                 <div class="faq-item">
                     <div class="faq-header">
-                        <h5>What is a pheochromocytoma?</h5>
+                        <h5>What are the benefits of laparoscopic or robotic adrenalectomy?</h5>
                         <i class="fas fa-plus"></i>
                     </div>
                     <div class="faq-content">
-                        <p>It is a rare adrenal tumor that secretes hormones (adrenaline), causing symptoms like severe high blood pressure and rapid heart rate.</p>
+                        <p>Minimally invasive keyhole surgery offers 3D magnification around major blood vessels, minimal blood loss, significantly less post-operative pain, tiny cosmetically hidden scars, and much faster recovery for young children.</p>
                     </div>
                 </div>
                 <div class="faq-item">
                     <div class="faq-header">
-                        <h5>What preparation is needed before adrenal tumor surgery?</h5>
+                        <h5>Will my child need long-term hormone replacement after surgery?</h5>
                         <i class="fas fa-plus"></i>
                     </div>
                     <div class="faq-content">
-                        <p>Certain tumors (like pheochromocytomas) require pre-operative medication to stabilize blood pressure before surgical removal.</p>
-                    </div>
-                </div>
-                <div class="faq-item">
-                    <div class="faq-header">
-                        <h5>How long is the hospital stay after adrenalectomy?</h5>
-                        <i class="fas fa-plus"></i>
-                    </div>
-                    <div class="faq-content">
-                        <p>Typically, children stay in the hospital for 3 to 5 days, depending on whether the surgery was laparoscopic or open.</p>
-                    </div>
-                </div>
-                <div class="faq-item">
-                    <div class="faq-header">
-                        <h5>Will my child need hormone replacements after surgery?</h5>
-                        <i class="fas fa-plus"></i>
-                    </div>
-                    <div class="faq-content">
-                        <p>If only one adrenal gland is removed, the remaining healthy gland takes over, and hormone replacement is generally not required.</p>
+                        <p>If only one adrenal gland is removed, the remaining healthy opposite adrenal gland quickly adapts and produces normal hormone levels, eliminating the need for long-term hormone replacement.</p>
                     </div>
                 </div>
             </div>

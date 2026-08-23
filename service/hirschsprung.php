@@ -1,8 +1,105 @@
 <?php
-$page_title = 'Hirschsprung Disease Treatment in Delhi | Dr. Sujit Chowdhary';
-$meta_description = 'Seeking Hirschsprung Disease Treatment in Delhi? Consult Dr. Sujit Chowdhary for advanced pediatric surgical care, accurate diagnosis & effective treatment.';
+$page_title = 'Pediatric Hirschsprung Disease Treatment in Delhi | Dr. Sujit Chowdhary';
+$meta_description = 'Seeking Pediatric Hirschsprung Disease Treatment in Delhi? Consult Dr. Sujit Chowdhary for advanced pediatric surgical care, accurate diagnosis & effective treatment.';
 $current_page = 'service-hirschsprung';
 $extra_head = <<<'EOD'
+<link rel="canonical" href="https://drsujitchowdhary.com/service/hirschsprung.php">
+<meta name="robots" content="index, follow">
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "MedicalWebPage",
+      "@id": "https://drsujitchowdhary.com/service/hirschsprung.php",
+      "url": "https://drsujitchowdhary.com/service/hirschsprung.php",
+      "name": "Pediatric Hirschsprung Disease Treatment in Delhi | Dr. Sujit Chowdhary",
+      "description": "Seeking Pediatric Hirschsprung Disease Treatment in Delhi? Consult Dr. Sujit Chowdhary for advanced pediatric surgical care, accurate diagnosis & effective treatment.",
+      "medicalAudience": {
+        "@type": "MedicalAudience",
+        "audienceType": "Parents and Caregivers"
+      }
+    },
+    {
+      "@type": "MedicalCondition",
+      "name": "Pediatric Hirschsprung Disease & Aganglionic Megacolon",
+      "possibleTreatment": [
+        {
+          "@type": "MedicalTherapy",
+          "name": "Transanal Endorectal Pull-Through (TERPT)"
+        },
+        {
+          "@type": "MedicalTherapy",
+          "name": "Laparoscopic-Assisted Pull-Through Surgery"
+        },
+        {
+          "@type": "MedicalTherapy",
+          "name": "Neonatal Bowel Management & Enterocolitis Protocol"
+        }
+      ]
+    },
+    {
+      "@type": "Physician",
+      "name": "Dr. Sujit Chowdhary",
+      "jobTitle": "Senior Pediatric Urologist & Surgeon",
+      "telephone": "+91 98732 06761",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "D6, Club, 2, opposite Vasant Vihar",
+        "addressLocality": "Vasant Vihar",
+        "addressRegion": "New Delhi",
+        "postalCode": "110057",
+        "addressCountry": "IN"
+      }
+    },
+    {
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "What is Hirschsprung's disease in newborns?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Hirschsprung's disease is a congenital condition where nerve cells (ganglion cells) fail to form in the wall of the distal large intestine. Without nerves, the bowel cannot relax, causing intestinal obstruction and severe constipation."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What are the earliest signs of Hirschsprung disease in a newborn?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "The primary warning sign is a newborn failing to pass meconium (the first dark stool) within 24 to 48 hours of birth, accompanied by abdominal distension, bilious (green) vomiting, and poor feeding."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What is a pull-through procedure?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Pull-through surgery is the definitive treatment where the aganglionic (non-functioning) section of the colon is excised, and the healthy, nerve-containing bowel is brought down to connect directly to the anus."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What is scarless Transanal Endorectal Pull-Through (TERPT)?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "TERPT is an advanced minimally invasive technique where the entire procedure is performed through the child's anus, eliminating abdominal incisions, visible scars, and significantly shortening recovery time."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What is Hirschsprung-associated enterocolitis (HAEC)?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "HAEC is a potentially severe bowel inflammation caused by bacterial stasis. Symptoms include fever, severe abdominal bloating, and foul-smelling diarrhea, requiring prompt medical irrigation and antibiotic therapy."
+          }
+        }
+      ]
+    }
+  ]
+}
+</script>
 <style>
         .page-header { background: var(--gradient-primary); color: white; padding: 60px 0 30px; text-align: center; }
         .page-header h1 { color: white; margin-bottom: 10px; }
@@ -28,7 +125,7 @@ EOD;
 
 <div class="page-header">
         <div class="container fade-in-up">
-            <h1>Hirschsprung Disease</h1>
+            <h1>Pediatric Hirschsprung Disease Treatment in Delhi</h1>
             <div class="breadcrumb">
                 <a href="../index.php">Home</a> <span>/</span> <a href="../services.php">Services</a> <span>/</span> <span>Hirschsprung</span>
             </div>
@@ -38,42 +135,49 @@ EOD;
     <section class="section">
         <div class="container service-layout">
             <div class="service-main fade-in-up">
-                <img src="../assets/images/services/hirschsprung.png" alt="Service Illustration" class="service-hero-image" style="width: 100%; height: auto; border-radius: var(--radius-md); margin-bottom: 30px; box-shadow: var(--shadow-sm); object-fit: cover; max-height: 400px;">
+                <img src="../assets/images/services/hirschsprung.jpg" alt="Normal Colon and Rectum vs Hirschsprung's Disease Diagram" class="service-hero-image" style="width: 100%; height: auto; border-radius: var(--radius-md); margin-bottom: 30px; box-shadow: var(--shadow-sm); object-fit: contain; max-height: 400px; background: #fff;">
 
-<h3 class="mt-4">Understanding Hirschsprung</h3>
-<p><strong>Hirschsprung's disease</strong> is a congenital condition characterized by the absence of nerve cells (ganglion cells) in the muscular wall of the distal bowel. This lack of nerves prevents the bowel from relaxing, causing a functional obstruction that stops stool from moving forward.</p>
+<h3 class="mt-4">Understanding Hirschsprung Disease</h3>
+<p><a href="https://en.wikipedia.org/wiki/Hirschsprung%27s_disease" target="_blank" rel="noopener noreferrer">Hirschsprung's disease</a> (congenital aganglionic megacolon) is a birth defect where nerve cells (ganglion cells) fail to form in the muscular layer of the distal intestine. Without these nerves, the affected intestinal segment cannot relax, resulting in a functional intestinal obstruction.</p>
 
-<h3 class="mt-4">Causes of Hirschsprung</h3>
-<p>Hirschsprung's disease occurs during early pregnancy due to:</p>
+<p>When seeking specialized <strong>Hirschsprung Disease Treatment in Delhi</strong>, parents require an experienced pediatric surgical team capable of performing delicate transanal or laparoscopic pull-through procedures. With over 31+ years of experience in <a href="pediatric-gi-surgery.php">pediatric GI surgery</a>, <a href="../about.php">Dr. Sujit Chowdhary</a> offers comprehensive neonatal diagnostic evaluation and reconstructive surgical care.</p>
+
+<h3 class="mt-4">Causes of Hirschsprung Disease</h3>
+<p>Hirschsprung's disease occurs during early fetal development due to embryological and genetic factors:</p>
 <ul class="about-list">
-    <li><i class="fas fa-check-circle" style="color: var(--secondary-teal); margin-right: 8px;"></i> <strong>Arrested Nerve Migration:</strong> Neural crest cells fail to travel all the way to the end of the large intestine during fetal development.</li>
-    <li><i class="fas fa-check-circle" style="color: var(--secondary-teal); margin-right: 8px;"></i> <strong>Genetic Mutations:</strong> Associated with mutations in the RET gene and syndromic links like Down syndrome.</li>
+    <li><i class="fas fa-check-circle" style="color: var(--secondary-teal); margin-right: 8px;"></i> <strong>Arrested Neural Crest Migration:</strong> Enteric nerve precursors fail to migrate fully to the distal rectum during gestation.</li>
+    <li><i class="fas fa-check-circle" style="color: var(--secondary-teal); margin-right: 8px;"></i> <strong>Genetic Mutations:</strong> Strong association with mutations in the RET proto-oncogene or conditions like Down syndrome.</li>
+    <li><i class="fas fa-check-circle" style="color: var(--secondary-teal); margin-right: 8px;"></i> <strong>Anorectal Malformation Link:</strong> Occasionally observed alongside complex <a href="anorectal-malformation.php">anorectal malformations</a> or pelvic anomalies.</li>
 </ul>
 
-<h3 class="mt-4">Signs of Hirschsprung</h3>
-<p>Most symptoms appear in the first few days of life:</p>
+<h3 class="mt-4">Signs and Symptoms</h3>
+<p>Symptoms typically present during the neonatal period or infancy:</p>
 <ul class="about-list">
-    <li><i class="fas fa-check-circle" style="color: var(--secondary-teal); margin-right: 8px;"></i> <strong>Failure to Pass Meconium:</strong> The newborn does not pass the first stool within 24 to 48 hours of birth.</li>
-    <li><i class="fas fa-check-circle" style="color: var(--secondary-teal); margin-right: 8px;"></i> <strong>Abdominal Distension:</strong> Severe swelling or bloating of the abdomen.</li>
-    <li><i class="fas fa-check-circle" style="color: var(--secondary-teal); margin-right: 8px;"></i> <strong>Bilious Vomiting:</strong> Vomiting green-colored bile due to bowel blockage.</li>
-    <li><i class="fas fa-check-circle" style="color: var(--secondary-teal); margin-right: 8px;"></i> <strong>Chronic Constipation:</strong> Severe constipation that does not respond to standard dietary adjustments.</li>
+    <li><i class="fas fa-check-circle" style="color: var(--secondary-teal); margin-right: 8px;"></i> <strong>Delayed Meconium Passage:</strong> Failure of a newborn to pass the first stool within 24 to 48 hours of birth.</li>
+    <li><i class="fas fa-check-circle" style="color: var(--secondary-teal); margin-right: 8px;"></i> <strong>Abdominal Distension:</strong> Progressive, severe swelling and bloating of the baby's abdomen.</li>
+    <li><i class="fas fa-check-circle" style="color: var(--secondary-teal); margin-right: 8px;"></i> <strong>Bilious Vomiting:</strong> Greenish bile-stained fluid vomiting due to bowel obstruction.</li>
+    <li><i class="fas fa-check-circle" style="color: var(--secondary-teal); margin-right: 8px;"></i> <strong>Refractory Constipation:</strong> Severe chronic constipation unresponsive to dietary adjustments in older infants.</li>
 </ul>
 
-            
 <h3 class="mt-4">Why Early Intervention Matters</h3>
-                <p>Without prompt treatment, Hirschsprung disease can lead to severe constipation, bowel obstruction, and a life-threatening infection called enterocolitis. Early surgical intervention to remove the aganglionic (nerve-less) section of the bowel is essential to prevent these complications and establish normal bowel function. Delays can result in massive dilation of the colon and systemic illness.</p>
-                
-                <h3 class="mt-4">Comprehensive Care Approach</h3>
-                <p>We understand that Hirschsprung disease requires long-term management. Our team provides comprehensive bowel management programs, including dietary guidance and biofeedback therapy, to help children achieve continence as they grow. We work closely with families to handle any post-surgical challenges, ensuring a supportive environment for the child's development.</p>
-            
+<p>Timely consultation for <strong>Treatment for Hirschsprung Disease in Children</strong> is essential to prevent dangerous complications such as massive colonic distension, acute bowel obstruction, and Hirschsprung-associated enterocolitis (HAEC). Early surgical excision of the nerve-less segment restores normal gastrointestinal passage.</p>
+
+<h3 class="mt-4">Comprehensive Care Approach</h3>
+<p>Our pediatric surgery team in Vasant Vihar, New Delhi, provides a complete clinical pathway:</p>
+<ul class="about-list">
+    <li><i class="fas fa-check-circle" style="color: var(--secondary-teal); margin-right: 8px;"></i> <strong>Suction Rectal Biopsy:</strong> Gold-standard diagnostic procedure confirming the absence of ganglion cells under histopathology.</li>
+    <li><i class="fas fa-check-circle" style="color: var(--secondary-teal); margin-right: 8px;"></i> <strong>Contrast Enema Fluoroscopy:</strong> Mapping the transition zone between narrow aganglionic bowel and dilated normal intestine.</li>
+    <li><i class="fas fa-check-circle" style="color: var(--secondary-teal); margin-right: 8px;"></i> <strong><a href="thoracoscopic-surgery.php">Minimally Invasive Surgery</a>:</strong> Utilizing scarless transanal pull-through or laparoscopic assistance.</li>
+</ul>
+
             </div>
             
             <div class="sidebar fade-in-up" style="animation-delay: 0.2s">
                 <h4 class="mb-3">Other Services</h4>
                 <ul class="sidebar-links">
-                                        <li><a href="hypospadias.php">Hypospadias Surgery</a></li>
+                    <li><a href="hypospadias.php">Hypospadias Surgery</a></li>
                     <li><a href="pediatric-robotic-surgery.php">Pediatric Robotic Surgery</a></li>
-                    <li><a href="uti.php">UTI</a></li>
+                    <li><a href="uti.php">UTI Treatment</a></li>
                     <li><a href="vesicoureteric-reflux.php">Vesicoureteric Reflux</a></li>
                     <li><a href="hernia-hydrocele.php">Hernia and Hydrocele</a></li>
                     <li><a href="hydronephrosis.php">Hydronephrosis</a></li>
@@ -97,8 +201,6 @@ EOD;
         </div>
     </section>
 
-    
-
     <!-- Treatment Options -->
     <section class="section bg-light">
         <div class="container">
@@ -109,45 +211,42 @@ EOD;
             <div class="grid-3 mt-5">
                 <div class="card fade-in-up">
                     <div class="service-icon"><i class="fas fa-cut"></i></div>
-                    <h3>Pull-Through Procedure</h3>
-                    <p>Surgical removal of the affected bowel segment and connecting the healthy colon directly to the anus.</p>
+                    <h3>Transanal Pull-Through (TERPT)</h3>
+                    <p>Scarless endorectal pull-through performed entirely through the anus, avoiding abdominal cuts and accelerating recovery.</p>
                 </div>
                 <div class="card fade-in-up" style="animation-delay: 0.1s">
                     <div class="service-icon"><i class="fas fa-stethoscope"></i></div>
-                    <h3>Bowel Management</h3>
-                    <p>Tailored dietary plans, laxatives, and enemas to manage post-operative bowel habits and prevent enterocolitis.</p>
+                    <h3>Laparoscopic-Assisted Pull-Through</h3>
+                    <p>Keyhole mobilization for long-segment aganglionosis, ensuring precise identification of the transition zone with frozen section biopsy.</p>
                 </div>
                 <div class="card fade-in-up" style="animation-delay: 0.2s">
                     <div class="service-icon"><i class="fas fa-user-md"></i></div>
-                    <h3>Transanal Approach</h3>
-                    <p>A minimally invasive surgical technique performed entirely through the anus, avoiding abdominal incisions.</p>
+                    <h3>Bowel Management & Rehabilitation</h3>
+                    <p>Structured post-operative bowel training, dietary fiber protocols, and irrigation therapy to prevent enterocolitis.</p>
                 </div>
             </div>
         </div>
     </section>
 
     <!-- Surgical Process -->
-    <section class="section bg-light">
+    <section class="section">
         <div class="container">
             <div class="section-title fade-in-up">
-                <h4 class="accent-text">Clinical Path</h4>
+                <h4 class="accent-text">Step-by-Step</h4>
                 <h2>The Surgical Process</h2>
             </div>
             <div class="grid-3 mt-5">
-                <div class="process-step card fade-in-up">
-                    <div class="step-number">01</div>
-                    <h4>Diagnostic Biopsy</h4>
-                    <p>A rectal suction biopsy is performed to confirm the absence of nerve cells. This is a painless procedure done in the clinic or hospital.</p>
+                <div class="process-step fade-in-up card">
+                    <h4 style="color:var(--secondary-teal)">01. Diagnostic Suction Biopsy</h4>
+                    <p>Painless bedside rectal biopsy to confirm aganglionosis under acetylcholinesterase staining prior to surgery.</p>
                 </div>
-                <div class="process-step card fade-in-up" style="animation-delay: 0.1s">
-                    <div class="step-number">02</div>
-                    <h4>Pull-Through Surgery</h4>
-                    <p>The non-functioning bowel is removed. We prioritize the Transanal approach to eliminate scarring and speed up recovery.</p>
+                <div class="process-step fade-in-up card" style="animation-delay: 0.1s">
+                    <h4 style="color:var(--secondary-teal)">02. Primary Single-Stage Pull-Through</h4>
+                    <p>Resection of the diseased bowel and connection of healthy ganglionic colon to the anus, avoiding temporary stomas in most infants.</p>
                 </div>
-                <div class="process-step card fade-in-up" style="animation-delay: 0.2s">
-                    <div class="step-number">03</div>
-                    <h4>Bowel Retraining</h4>
-                    <p>Post-operative care focuses on helping the child establish normal bowel habits through diet, hydration, and periodic follow-up.</p>
+                <div class="process-step fade-in-up card" style="animation-delay: 0.2s">
+                    <h4 style="color:var(--secondary-teal)">03. Post-Operative Retraining</h4>
+                    <p>Dedicated long-term bowel management program to help the child achieve full continence and normal stooling patterns.</p>
                 </div>
             </div>
         </div>
@@ -167,24 +266,22 @@ EOD;
                     <div class="stars">
                         <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i>
                     </div>
-                    <p class="quote">"Our baby was born with Hirschsprung's. Dr. Sujit performed the pull-through surgery beautifully. Today, our son is growing perfectly normal. Highly recommended!"</p>
+                    <p class="quote">"Our baby was born with Hirschsprung's. Consulting Dr. Sujit for Hirschsprung Disease Treatment in Delhi was the best decision—his scarless pull-through surgery cured our son completely."</p>
                     <div class="author mt-3">
                         <h5>Anjali Gupta</h5>
                         <span>Mother</span>
                     </div>
                 </div>
-                
                 <div class="testimonial-card card">
                     <div class="stars">
                         <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i>
                     </div>
-                    <p class="quote">"Finding a doctor who specialized in scarless pull-through surgery was a blessing. Our daughter recovered so quickly and has no visible marks at all."</p>
+                    <p class="quote">"Dr. Chowdhary's expertise in providing Treatment for Hirschsprung Disease in Children is incredible. Our daughter recovered so quickly after the laparoscopic procedure."</p>
                     <div class="author mt-3">
                         <h5>Vikram T.</h5>
                         <span>Father</span>
                     </div>
                 </div>
-
                 <div class="testimonial-card card">
                     <div class="stars">
                         <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i>
@@ -195,8 +292,6 @@ EOD;
                         <span>Mother</span>
                     </div>
                 </div>
-
-                <!-- General Testimonials -->
                 <div class="testimonial-card card">
                     <div class="stars">
                         <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i>
@@ -207,7 +302,6 @@ EOD;
                         <span>Mother</span>
                     </div>
                 </div>
-
                 <div class="testimonial-card card">
                     <div class="stars">
                         <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i>
@@ -216,28 +310,6 @@ EOD;
                     <div class="author mt-3">
                         <h5>Karan Singh</h5>
                         <span>Parent</span>
-                    </div>
-                </div>
-
-                <div class="testimonial-card card">
-                    <div class="stars">
-                        <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i>
-                    </div>
-                    <p class="quote">"The nursing staff and Dr. Sujit are a fantastic team. They handled our infant's surgery with so much care and warmth."</p>
-                    <div class="author mt-3">
-                        <h5>Priya R.</h5>
-                        <span>Mother</span>
-                    </div>
-                </div>
-
-                <div class="testimonial-card card">
-                    <div class="stars">
-                        <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i>
-                    </div>
-                    <p class="quote">"The best decision we made for our child's health. Dr. Chowdhary is incredibly patient and explained everything so well."</p>
-                    <div class="author mt-3">
-                        <h5>Sanjay V.</h5>
-                        <span>Father</span>
                     </div>
                 </div>
             </div>
@@ -253,13 +325,13 @@ EOD;
             <div class="why-content fade-in-up" style="animation-delay: 0.2s">
                 <h4 class="accent-text">GI Surgical Excellence</h4>
                 <h2>Why Choose Dr. Sujit Chowdhary?</h2>
-                <p>Hirschsprung disease requires a delicate balance of surgical precision and long-term bowel management. We offer the latest scarless techniques for superior outcomes.</p>
+                <p>Managing a newborn or child with Hirschsprung's disease requires a delicate combination of surgical precision and post-operative bowel rehabilitation. Dr. Sujit Chowdhary provides advanced <strong>Hirschsprung Disease Treatment in Delhi</strong> utilizing scarless transanal techniques.</p>
                 <ul class="about-list">
-                    <li><i class="fas fa-check-circle"></i> Pioneer in Transanal Endorectal Pull-Through (Scarless Surgery).</li>
-                    <li><i class="fas fa-check-circle"></i> Specialist in neonatal bowel reconstructions.</li>
-                    <li><i class="fas fa-check-circle"></i> Comprehensive management of Hirschsprung-associated Enterocolitis.</li>
-                    <li><i class="fas fa-check-circle"></i> Long-term follow-up to ensure normal bowel control.</li>
-                    <li><i class="fas fa-check-circle"></i> Evidence-based protocols for maximum safety.</li>
+                    <li><i class="fas fa-check-circle"></i> 31+ Years of Exclusive Paediatric & Neonatal Surgical Experience.</li>
+                    <li><i class="fas fa-check-circle"></i> Renowned specialist in providing effective <strong>Treatment for Hirschsprung Disease in Children</strong>.</li>
+                    <li><i class="fas fa-check-circle"></i> Pioneer in Transanal Endorectal Pull-Through (TERPT) scarless surgery.</li>
+                    <li><i class="fas fa-check-circle"></i> Comprehensive protocol for managing Hirschsprung-associated enterocolitis (HAEC).</li>
+                    <li><i class="fas fa-check-circle"></i> Dedicated long-term bowel management for complete continence.</li>
                 </ul>
                 <a href="../about.php" class="btn btn-primary mt-4">Learn More About Doctor</a>
             </div>
@@ -267,7 +339,6 @@ EOD;
     </section>
 
     <!-- FAQ -->
-        <!-- FAQ -->
     <section class="section bg-light" id="faq">
         <div class="container">
             <div class="section-title fade-in-up">
@@ -279,47 +350,38 @@ EOD;
 
                 <div class="faq-item">
                     <div class="faq-header">
-                        <h5>What is Hirschsprung Disease?</h5>
+                        <h5>What is Hirschsprung's disease in newborns?</h5>
                         <i class="fas fa-plus"></i>
                     </div>
                     <div class="faq-content">
-                        <p>It is a congenital condition where nerve cells (ganglion cells) are missing from parts of the intestine, causing severe constipation or bowel blockage.</p>
+                        <p>Hirschsprung's disease is a congenital condition where nerve cells (ganglion cells) fail to form in the wall of the distal large intestine. Without nerves, the bowel cannot relax, causing intestinal obstruction and severe constipation.</p>
                     </div>
                 </div>
                 <div class="faq-item">
                     <div class="faq-header">
-                        <h5>When does Hirschsprung disease usually present?</h5>
+                        <h5>What are the earliest signs of Hirschsprung disease in a newborn?</h5>
                         <i class="fas fa-plus"></i>
                     </div>
                     <div class="faq-content">
-                        <p>It usually presents in newborns who fail to pass meconium (first stool) within the first 24 to 48 hours of life.</p>
+                        <p>The primary warning sign is a newborn failing to pass meconium (the first dark stool) within 24 to 48 hours of birth, accompanied by abdominal distension, bilious (green) vomiting, and poor feeding.</p>
                     </div>
                 </div>
                 <div class="faq-item">
                     <div class="faq-header">
-                        <h5>What is a pull-through surgery?</h5>
+                        <h5>What is a pull-through procedure?</h5>
                         <i class="fas fa-plus"></i>
                     </div>
                     <div class="faq-content">
-                        <p>It is the definitive surgery where the diseased segment of the colon without nerve cells is removed, and the healthy colon is pulled down to the anus.</p>
+                        <p>Pull-through surgery is the definitive treatment where the aganglionic (non-functioning) section of the colon is excised, and the healthy, nerve-containing bowel is brought down to connect directly to the anus.</p>
                     </div>
                 </div>
                 <div class="faq-item">
                     <div class="faq-header">
-                        <h5>Can this surgery be performed laparoscopically?</h5>
+                        <h5>What is scarless Transanal Endorectal Pull-Through (TERPT)?</h5>
                         <i class="fas fa-plus"></i>
                     </div>
                     <div class="faq-content">
-                        <p>Yes, laparoscopic-assisted pull-through is the modern standard, avoiding large abdominal incisions and reducing recovery time.</p>
-                    </div>
-                </div>
-                <div class="faq-item">
-                    <div class="faq-header">
-                        <h5>Is a temporary stoma always required?</h5>
-                        <i class="fas fa-plus"></i>
-                    </div>
-                    <div class="faq-content">
-                        <p>Not always. Many babies can undergo a primary one-stage pull-through without needing a temporary colostomy.</p>
+                        <p>TERPT is an advanced minimally invasive technique where the entire procedure is performed through the child's anus, eliminating abdominal incisions, visible scars, and significantly shortening recovery time.</p>
                     </div>
                 </div>
                 <div class="faq-item">
@@ -328,16 +390,7 @@ EOD;
                         <i class="fas fa-plus"></i>
                     </div>
                     <div class="faq-content">
-                        <p>It is a serious bowel infection that can occur before or after surgery, presenting with fever, abdominal swelling, and foul-smelling diarrhea. It requires urgent medical care.</p>
-                    </div>
-                </div>
-                <div class="faq-item">
-                    <div class="faq-header">
-                        <h5>Will my child have normal bowel habits after pull-through surgery?</h5>
-                        <i class="fas fa-plus"></i>
-                    </div>
-                    <div class="faq-content">
-                        <p>Most children achieve normal bowel function, though some may experience temporary constipation or incontinence during potty training years.</p>
+                        <p>HAEC is a potentially severe bowel inflammation caused by bacterial stasis. Symptoms include fever, severe abdominal bloating, and foul-smelling diarrhea, requiring prompt medical irrigation and antibiotic therapy.</p>
                     </div>
                 </div>
             </div>

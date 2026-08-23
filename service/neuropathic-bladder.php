@@ -3,6 +3,103 @@ $page_title = 'Neuropathic Bladder Treatment in Delhi | Dr. Sujit Chowdhary';
 $meta_description = 'Seeking Neuropathic Bladder Treatment in Delhi? Consult Dr. Sujit Chowdhary for advanced pediatric urology care, accurate diagnosis & effective treatment.';
 $current_page = 'service-neuropathic-bladder';
 $extra_head = <<<'EOD'
+<link rel="canonical" href="https://drsujitchowdhary.com/service/neuropathic-bladder.php">
+<meta name="robots" content="index, follow">
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "MedicalWebPage",
+      "@id": "https://drsujitchowdhary.com/service/neuropathic-bladder.php",
+      "url": "https://drsujitchowdhary.com/service/neuropathic-bladder.php",
+      "name": "Neuropathic Bladder Treatment in Delhi | Dr. Sujit Chowdhary",
+      "description": "Seeking Neuropathic Bladder Treatment in Delhi? Consult Dr. Sujit Chowdhary for advanced pediatric urology care, accurate diagnosis & effective treatment.",
+      "medicalAudience": {
+        "@type": "MedicalAudience",
+        "audienceType": "Parents and Caregivers"
+      }
+    },
+    {
+      "@type": "MedicalCondition",
+      "name": "Pediatric Neuropathic Bladder & Spina Bifida",
+      "possibleTreatment": [
+        {
+          "@type": "MedicalTherapy",
+          "name": "Clean Intermittent Catheterization (CIC)"
+        },
+        {
+          "@type": "MedicalTherapy",
+          "name": "Bladder Augmentation & Mitrofanoff Procedure"
+        },
+        {
+          "@type": "MedicalTherapy",
+          "name": "Pediatric Video Urodynamics & Anticholinergic Therapy"
+        }
+      ]
+    },
+    {
+      "@type": "Physician",
+      "name": "Dr. Sujit Chowdhary",
+      "jobTitle": "Senior Pediatric Urologist & Surgeon",
+      "telephone": "+91 98732 06761",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "D6, Club, 2, opposite Vasant Vihar",
+        "addressLocality": "Vasant Vihar",
+        "addressRegion": "New Delhi",
+        "postalCode": "110057",
+        "addressCountry": "IN"
+      }
+    },
+    {
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "What is a neuropathic bladder in children?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "A neuropathic bladder (or neurogenic bladder) is a bladder dysfunction caused by neurological nerve impairment—commonly secondary to spina bifida, sacral agenesis, or spinal cord injury—preventing proper urine storage or bladder emptying."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What are the risks of an untreated neuropathic bladder?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Untreated neuropathic bladder generates dangerously high internal pressures that transmit backward into the kidneys, leading to vesicoureteric reflux, recurrent febrile kidney infections, hydronephrosis, and irreversible renal scarring."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What is Clean Intermittent Catheterization (CIC)?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "CIC is a safe, painless routine where a thin, soft tube is gently passed into the bladder several times daily to drain urine completely, keeping bladder pressures low and protecting kidney function."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What is a Mitrofanoff procedure?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "The Mitrofanoff procedure creates a small continent catheterizable channel from the bladder to the belly button (using the appendix or small bowel), allowing older children to self-catheterize easily through their belly button."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Can a child with a neuropathic bladder achieve complete dryness?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes. With proactive urodynamic monitoring, targeted anticholinergic medications, regular CIC, and reconstructive surgery (such as bladder augmentation or Mitrofanoff), over 90% of children achieve full social continence."
+          }
+        }
+      ]
+    }
+  ]
+}
+</script>
 <style>
         .page-header { background: var(--gradient-primary); color: white; padding: 60px 0 30px; text-align: center; }
         .page-header h1 { color: white; margin-bottom: 10px; }
@@ -28,7 +125,7 @@ EOD;
 
 <div class="page-header">
         <div class="container fade-in-up">
-            <h1>Neuropathic Bladder in Children</h1>
+            <h1>Neuropathic Bladder Treatment in Delhi</h1>
             <div class="breadcrumb">
                 <a href="../index.php">Home</a> <span>/</span> <a href="../services.php">Services</a> <span>/</span> <span>Neuropathic Bladder</span>
             </div>
@@ -38,43 +135,49 @@ EOD;
     <section class="section">
         <div class="container service-layout">
             <div class="service-main fade-in-up">
-                <img src="../assets/images/services/neuropathic-bladder.png" alt="Service Illustration" class="service-hero-image" style="width: 100%; height: auto; border-radius: var(--radius-md); margin-bottom: 30px; box-shadow: var(--shadow-sm); object-fit: cover; max-height: 400px;">
+                <img src="../assets/images/services/neuropathic-bladder.jpg" alt="Normal Bladder vs Neuropathic Bladder Dysfunction Diagram" class="service-hero-image" style="width: 100%; height: auto; border-radius: var(--radius-md); margin-bottom: 30px; box-shadow: var(--shadow-sm); object-fit: contain; max-height: 400px; background: #fff;">
 
 <h3 class="mt-4">Understanding Neuropathic Bladder</h3>
-<p>A <strong>neuropathic bladder</strong> (or neurogenic bladder) is a bladder dysfunction caused by a neurological disease or spinal cord injury. The bladder may either fail to store urine (causing leaks) or fail to empty completely (causing urine backup and high kidney pressures).</p>
+<p>A <a href="https://en.wikipedia.org/wiki/Neurogenic_bladder_dysfunction" target="_blank" rel="noopener noreferrer">neuropathic bladder</a> (or neurogenic bladder) is a complex voiding dysfunction resulting from spinal cord malformations, trauma, or neurological nerve impairment. The bladder may either fail to store urine appropriately or fail to empty completely, generating high pressures that threaten kidney health.</p>
+
+<p>When seeking specialized <strong>Neuropathic Bladder Treatment in Delhi</strong>, parents require dedicated pediatric urology expertise to preserve long-term kidney function and achieve social continence. With over 31+ years of international clinical experience, <a href="../about.php">Dr. Sujit Chowdhary</a> provides advanced diagnostic protocols, catheterization training, and complex reconstructive surgery.</p>
 
 <h3 class="mt-4">Causes of Neuropathic Bladder</h3>
-<p>Neuropathic bladder results from spinal nerve malformations or injuries, including:</p>
+<p>In children, neuropathic bladder dysfunction primarily stems from congenital or acquired neurological disorders:</p>
 <ul class="about-list">
-    <li><i class="fas fa-check-circle" style="color: var(--secondary-teal); margin-right: 8px;"></i> <strong>Spina Bifida (Myelomeningocele):</strong> A congenital defect where the spinal cord does not close properly during gestation.</li>
-    <li><i class="fas fa-check-circle" style="color: var(--secondary-teal); margin-right: 8px;"></i> <strong>Tethered Cord Syndrome:</strong> The spinal cord is abnormally stretched or bound.</li>
-    <li><i class="fas fa-check-circle" style="color: var(--secondary-teal); margin-right: 8px;"></i> <strong>Spinal Trauma or Tumors:</strong> Acquired nerve damage affecting the bladder reflex pathways.</li>
+    <li><i class="fas fa-check-circle" style="color: var(--secondary-teal); margin-right: 8px;"></i> <strong>Spina Bifida (Myelomeningocele):</strong> Congenital failure of spinal tube closure, altering bladder nerve innervation.</li>
+    <li><i class="fas fa-check-circle" style="color: var(--secondary-teal); margin-right: 8px;"></i> <strong>Tethered Cord Syndrome:</strong> Abnormally stretched spinal cord restricting nerve signal transmission to the sphincter.</li>
+    <li><i class="fas fa-check-circle" style="color: var(--secondary-teal); margin-right: 8px;"></i> <strong>Sacral Agenesis & Spinal Trauma:</strong> Absence of lower sacral vertebrae or spinal cord injuries affecting detrusor compliance.</li>
 </ul>
 
-<h3 class="mt-4">Signs of Neuropathic Bladder</h3>
-<p>Common signs in children include:</p>
+<h3 class="mt-4">Signs and Symptoms</h3>
+<p>Key clinical indicators requiring urgent pediatric urological evaluation include:</p>
 <ul class="about-list">
-    <li><i class="fas fa-check-circle" style="color: var(--secondary-teal); margin-right: 8px;"></i> <strong>Urinary Incontinence:</strong> Continuous dribbling of urine or frequent daytime/nighttime wetting.</li>
-    <li><i class="fas fa-check-circle" style="color: var(--secondary-teal); margin-right: 8px;"></i> <strong>Difficulty Emptying:</strong> Straining or poor urine stream, leaving a full bladder.</li>
-    <li><i class="fas fa-check-circle" style="color: var(--secondary-teal); margin-right: 8px;"></i> <strong>Recurrent UTIs:</strong> Frequent bladder or kidney infections accompanied by unexplained fevers.</li>
-    <li><i class="fas fa-check-circle" style="color: var(--secondary-teal); margin-right: 8px;"></i> <strong>Renal Hydronephrosis:</strong> Swollen kidneys on ultrasound scans due to high backup pressures.</li>
+    <li><i class="fas fa-check-circle" style="color: var(--secondary-teal); margin-right: 8px;"></i> <strong>Urinary Incontinence & Dribbling:</strong> Continuous leakage, loss of urge sensation, or inability to achieve dryness.</li>
+    <li><i class="fas fa-check-circle" style="color: var(--secondary-teal); margin-right: 8px;"></i> <strong>High Post-Void Residual:</strong> Incomplete bladder emptying leaving stagnant urine inside the bladder.</li>
+    <li><i class="fas fa-check-circle" style="color: var(--secondary-teal); margin-right: 8px;"></i> <strong>Recurrent Febrile UTIs:</strong> Repeated severe <a href="uti.php">urinary tract infections</a> accompanied by high fever.</li>
+    <li><i class="fas fa-check-circle" style="color: var(--secondary-teal); margin-right: 8px;"></i> <strong>Renal Hydronephrosis:</strong> Upper tract swelling (<a href="hydronephrosis.php">hydronephrosis</a>) caused by backward urine pressure.</li>
 </ul>
 
-            
 <h3 class="mt-4">Why Early Intervention Matters</h3>
-                <p>A neuropathic bladder can cause abnormally high pressures within the urinary tract, leading to severe kidney damage over time. It can also cause persistent incontinence, which significantly impacts a child's quality of life and social development. Early and proactive management is crucial to protect kidney function, achieve urinary continence, and foster the child's independence.</p>
-                
-                <h3 class="mt-4">Comprehensive Care Approach</h3>
-                <p>Managing a neuropathic bladder is a lifelong journey. We provide a customized care plan that includes urodynamic testing, medication, and specialized catheterization training. Our team works closely with parents and children to develop a routine that fits their lifestyle, aiming for maximum independence and confidence as the child transitions into adolescence and adulthood.</p>
-            
+<p>Timely evaluation and comprehensive <strong>Treatment for Neuropathic Bladder in Children</strong> is essential to prevent chronic urinary tract infections, severe upper tract dilatation (<a href="hydronephrosis.php">hydronephrosis</a>), and progressive renal failure. Proactive management protects renal nephrons while enabling children to attend school confidently.</p>
+
+<h3 class="mt-4">Comprehensive Care Approach</h3>
+<p>At our pediatric urology center in Vasant Vihar, New Delhi, we employ advanced diagnostic and therapeutic strategies:</p>
+<ul class="about-list">
+    <li><i class="fas fa-check-circle" style="color: var(--secondary-teal); margin-right: 8px;"></i> <strong><a href="pediatric-urodynamics.php">Pediatric Video Urodynamics</a>:</strong> Gold-standard evaluation measuring detrusor leak point pressure, bladder compliance, and sphincter dyssynergia.</li>
+    <li><i class="fas fa-check-circle" style="color: var(--secondary-teal); margin-right: 8px;"></i> <strong>Clean Intermittent Catheterization (CIC):</strong> Structured regimen to regularly drain urine and maintain low bladder storage pressure.</li>
+    <li><i class="fas fa-check-circle" style="color: var(--secondary-teal); margin-right: 8px;"></i> <strong>Anticholinergic Pharmacotherapy:</strong> Targeted medications to relax hypertonic bladder detrusor muscles.</li>
+</ul>
+
             </div>
             
             <div class="sidebar fade-in-up" style="animation-delay: 0.2s">
                 <h4 class="mb-3">Other Services</h4>
                 <ul class="sidebar-links">
-                                        <li><a href="hypospadias.php">Hypospadias Surgery</a></li>
+                    <li><a href="hypospadias.php">Hypospadias Surgery</a></li>
                     <li><a href="pediatric-robotic-surgery.php">Pediatric Robotic Surgery</a></li>
-                    <li><a href="uti.php">UTI</a></li>
+                    <li><a href="uti.php">UTI Treatment</a></li>
                     <li><a href="vesicoureteric-reflux.php">Vesicoureteric Reflux</a></li>
                     <li><a href="hernia-hydrocele.php">Hernia and Hydrocele</a></li>
                     <li><a href="hydronephrosis.php">Hydronephrosis</a></li>
@@ -97,8 +200,6 @@ EOD;
         </div>
     </section>
 
-    
-
     <!-- Treatment Options -->
     <section class="section bg-light">
         <div class="container">
@@ -108,19 +209,19 @@ EOD;
             </div>
             <div class="grid-3 mt-5">
                 <div class="card fade-in-up">
-                    <div class="service-icon"><i class="fas fa-pills"></i></div>
-                    <h3>Medical Management</h3>
-                    <p>Use of anticholinergic medications to relax the bladder muscle and lower internal pressures.</p>
+                    <div class="service-icon"><i class="fas fa-hands-wash"></i></div>
+                    <h3>Clean Intermittent Catheterization (CIC)</h3>
+                    <p>Painless self-catheterization routine empowering children to drain the bladder safely and maintain low resting pressure.</p>
                 </div>
                 <div class="card fade-in-up" style="animation-delay: 0.1s">
-                    <div class="service-icon"><i class="fas fa-hands-wash"></i></div>
-                    <h3>Clean Intermittent Catheterization</h3>
-                    <p>Training families and children to safely empty the bladder using a catheter to prevent kidney damage.</p>
+                    <div class="service-icon"><i class="fas fa-hospital-user"></i></div>
+                    <h3>Bladder Augmentation Enterocystoplasty</h3>
+                    <p>Reconstructive procedure using a small bowel segment to enlarge small, low-capacity bladders and prevent kidney damage.</p>
                 </div>
                 <div class="card fade-in-up" style="animation-delay: 0.2s">
-                    <div class="service-icon"><i class="fas fa-hospital-user"></i></div>
-                    <h3>Bladder Augmentation</h3>
-                    <p>A major surgical procedure using a segment of the bowel to enlarge the bladder and reduce pressure.</p>
+                    <div class="service-icon"><i class="fas fa-user-md"></i></div>
+                    <h3>Mitrofanoff Continent Channel</h3>
+                    <p>Surgical creation of a hidden continent abdominal stoma (using the appendix) for easy catheterization through the navel.</p>
                 </div>
             </div>
         </div>
@@ -135,16 +236,16 @@ EOD;
             </div>
             <div class="grid-3 mt-5">
                 <div class="process-step fade-in-up card">
-                    <h4 style="color:var(--secondary-teal)">01. Urodynamic Testing</h4>
-                    <p>A vital diagnostic step to measure bladder pressure, capacity, and sphincter function, which dictates the surgical plan.</p>
+                    <h4 style="color:var(--secondary-teal)">01. Urodynamic Evaluation</h4>
+                    <p>Baseline video urodynamics to accurately measure bladder elasticity, sphincter pressures, and upper tract safety margins.</p>
                 </div>
                 <div class="process-step fade-in-up card" style="animation-delay: 0.1s">
-                    <h4 style="color:var(--secondary-teal)">02. Complex Reconstruction</h4>
-                    <p>Dr. Chowdhary performs major reconstructive procedures focused on achieving both kidney safety and social continence.</p>
+                    <h4 style="color:var(--secondary-teal)">02. Reconstructive Surgery</h4>
+                    <p>Precision bladder enlargement and continent catheterizable channel creation performed with advanced surgical techniques.</p>
                 </div>
                 <div class="process-step fade-in-up card" style="animation-delay: 0.2s">
-                    <h4 style="color:var(--secondary-teal)">03. Independence Training</h4>
-                    <p>Post-surgery, our specialized nurses work with the family to master the care of the new urinary channel and ensure long-term success.</p>
+                    <h4 style="color:var(--secondary-teal)">03. Continence & Independence Training</h4>
+                    <p>Dedicated clinical support to train parents and children in channel care, ensuring long-term dryness and confidence.</p>
                 </div>
             </div>
         </div>
@@ -164,24 +265,22 @@ EOD;
                     <div class="stars">
                         <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i>
                     </div>
-                    <p class="quote">"He treated my son for a neuropathic bladder. Thanks to his systematic treatment plan, my boy can now attend school normally without any stigma. Thank you, Doctor."</p>
+                    <p class="quote">"Our son was diagnosed with a neurogenic bladder due to spina bifida. Consulting Dr. Sujit for Neuropathic Bladder Treatment in Delhi gave us hope—his systematic catheterization plan and care transformed our son's life."</p>
                     <div class="author mt-3">
                         <h5>Sunita Reddy</h5>
                         <span>Mother of patient with Spina Bifida</span>
                     </div>
                 </div>
-                
                 <div class="testimonial-card card">
                     <div class="stars">
                         <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i>
                     </div>
-                    <p class="quote">"The Mitrofanoff surgery changed our daughter's life. She is now independent and dry for the first time in 10 years. Dr. Chowdhary is a true miracle worker."</p>
+                    <p class="quote">"Dr. Chowdhary's expertise in providing Treatment for Neuropathic Bladder in Children is unmatched. The Mitrofanoff procedure changed our daughter's life and made her completely dry and independent."</p>
                     <div class="author mt-3">
                         <h5>Karan Malhotra</h5>
                         <span>Father</span>
                     </div>
                 </div>
-
                 <div class="testimonial-card card">
                     <div class="stars">
                         <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i>
@@ -192,37 +291,24 @@ EOD;
                         <span>Father</span>
                     </div>
                 </div>
-
                 <div class="testimonial-card card">
                     <div class="stars">
                         <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i>
                     </div>
-                    <p class="quote">"The laparoscopic surgery for our baby's condition was so precise. Dr. Chowdhary's confidence gave us immense peace of mind during a very stressful time."</p>
+                    <p class="quote">"The precision in Dr. Chowdhary's surgery is incredible. His confidence gave us immense peace of mind during a very stressful time."</p>
                     <div class="author mt-3">
                         <h5>Anita Sharma</h5>
-                        <span>Mother of infant patient</span>
+                        <span>Mother</span>
                     </div>
                 </div>
-
                 <div class="testimonial-card card">
                     <div class="stars">
                         <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i>
                     </div>
-                    <p class="quote">"We traveled from another state just for Dr. Chowdhary. His reputation is well-deserved; his approach is very scientific and methodical yet very caring."</p>
+                    <p class="quote">"We traveled from another city just for Dr. Chowdhary. His approach is very scientific and methodical yet very caring."</p>
                     <div class="author mt-3">
                         <h5>Karan Singh</h5>
                         <span>Parent</span>
-                    </div>
-                </div>
-
-                <div class="testimonial-card card">
-                    <div class="stars">
-                        <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i>
-                    </div>
-                    <p class="quote">"The nursing staff and Dr. Sujit are a fantastic team. They handled our infant's surgery with so much care and warmth. Highly recommended for any parent."</p>
-                    <div class="author mt-3">
-                        <h5>Priya R.</h5>
-                        <span>Mother</span>
                     </div>
                 </div>
             </div>
@@ -238,21 +324,20 @@ EOD;
             <div class="why-content fade-in-up" style="animation-delay: 0.2s">
                 <h4 class="accent-text">Dedicated Care</h4>
                 <h2>Why Choose Dr. Sujit Chowdhary?</h2>
-                <p>Neuropathic bladder management is a lifelong commitment. You need a surgeon who understands the long-term journey.</p>
+                <p>Managing a neuropathic bladder requires lifelong commitment and precise urodynamic evaluation. As a senior pediatric urologist, Dr. Sujit Chowdhary provides advanced <strong>Neuropathic Bladder Treatment in Delhi</strong> tailored for every child.</p>
                 <ul class="about-list">
-                    <li><i class="fas fa-check-circle"></i> Expert in Urodynamic-guided surgical planning.</li>
-                    <li><i class="fas fa-check-circle"></i> Hundreds of successful Bladder Augmentations performed.</li>
-                    <li><i class="fas fa-check-circle"></i> Comprehensive support for CIC and stoma management.</li>
-                    <li><i class="fas fa-check-circle"></i> Multidisciplinary coordination with neurosurgeons.</li>
-                    <li><i class="fas fa-check-circle"></i> Focus on achieving the highest quality of life for the child.</li>
+                    <li><i class="fas fa-check-circle"></i> 31+ Years of Exclusive Paediatric Urology & Reconstructive Experience.</li>
+                    <li><i class="fas fa-check-circle"></i> Leading specialist in providing effective <strong>Treatment for Neuropathic Bladder in Children</strong>.</li>
+                    <li><i class="fas fa-check-circle"></i> Expert in Video Urodynamic-guided bladder rehabilitation and surgery.</li>
+                    <li><i class="fas fa-check-circle"></i> High expertise in Bladder Augmentation and Mitrofanoff continent channels.</li>
+                    <li><i class="fas fa-check-circle"></i> Comprehensive multidisciplinary coordination for long-term renal safety.</li>
                 </ul>
-                <a href="../about.php" class="btn btn-primary mt-4">Learn More</a>
+                <a href="../about.php" class="btn btn-primary mt-4">Learn More About Doctor</a>
             </div>
         </div>
     </section>
 
     <!-- FAQ -->
-        <!-- FAQ -->
     <section class="section bg-light" id="faq">
         <div class="container">
             <div class="section-title fade-in-up">
@@ -264,20 +349,20 @@ EOD;
 
                 <div class="faq-item">
                     <div class="faq-header">
-                        <h5>What is a neuropathic bladder?</h5>
+                        <h5>What is a neuropathic bladder in children?</h5>
                         <i class="fas fa-plus"></i>
                     </div>
                     <div class="faq-content">
-                        <p>It is a bladder dysfunction caused by nerve damage, common in children with spina bifida, spinal cord injuries, or sacral agenesis.</p>
+                        <p>A neuropathic bladder (or neurogenic bladder) is a bladder dysfunction caused by neurological nerve impairment—commonly secondary to spina bifida, sacral agenesis, or spinal cord injury—preventing proper urine storage or bladder emptying.</p>
                     </div>
                 </div>
                 <div class="faq-item">
                     <div class="faq-header">
-                        <h5>What are the risks of untreated neuropathic bladder?</h5>
+                        <h5>What are the risks of an untreated neuropathic bladder?</h5>
                         <i class="fas fa-plus"></i>
                     </div>
                     <div class="faq-content">
-                        <p>Untreated neuropathic bladder can lead to high bladder pressures, kidney damage (hydronephrosis), and recurrent kidney infections.</p>
+                        <p>Untreated neuropathic bladder generates dangerously high internal pressures that transmit backward into the kidneys, leading to vesicoureteric reflux, recurrent febrile kidney infections, hydronephrosis, and irreversible renal scarring.</p>
                     </div>
                 </div>
                 <div class="faq-item">
@@ -286,25 +371,7 @@ EOD;
                         <i class="fas fa-plus"></i>
                     </div>
                     <div class="faq-content">
-                        <p>CIC is a safe and painless procedure where a small tube is inserted into the bladder regularly to empty it completely, reducing pressure and infection risks.</p>
-                    </div>
-                </div>
-                <div class="faq-item">
-                    <div class="faq-header">
-                        <h5>What medications are used for neuropathic bladder?</h5>
-                        <i class="fas fa-plus"></i>
-                    </div>
-                    <div class="faq-content">
-                        <p>Anticholinergic medications are often prescribed to relax the bladder muscle, decrease bladder pressure, and increase capacity.</p>
-                    </div>
-                </div>
-                <div class="faq-item">
-                    <div class="faq-header">
-                        <h5>When is bladder augmentation surgery required?</h5>
-                        <i class="fas fa-plus"></i>
-                    </div>
-                    <div class="faq-content">
-                        <p>Augmentation is required if medication and CIC fail to control high bladder pressure, using a piece of bowel to enlarge the bladder.</p>
+                        <p>CIC is a safe, painless routine where a thin, soft tube is gently passed into the bladder several times daily to drain urine completely, keeping bladder pressures low and protecting kidney function.</p>
                     </div>
                 </div>
                 <div class="faq-item">
@@ -313,16 +380,16 @@ EOD;
                         <i class="fas fa-plus"></i>
                     </div>
                     <div class="faq-content">
-                        <p>It is a surgical creation of a small channel between the bladder and abdominal wall (often using the appendix) for easy catheterization.</p>
+                        <p>The Mitrofanoff procedure creates a small continent catheterizable channel from the bladder to the belly button (using the appendix or small bowel), allowing older children to self-catheterize easily through their belly button.</p>
                     </div>
                 </div>
                 <div class="faq-item">
                     <div class="faq-header">
-                        <h5>Can a child with a neuropathic bladder achieve dryness?</h5>
+                        <h5>Can a child with a neuropathic bladder achieve complete dryness?</h5>
                         <i class="fas fa-plus"></i>
                     </div>
                     <div class="faq-content">
-                        <p>Yes, with a combination of CIC, medication, and timely surgery, most children can achieve complete social dryness and protect their kidneys.</p>
+                        <p>Yes. With proactive urodynamic monitoring, targeted anticholinergic medications, regular CIC, and reconstructive surgery (such as bladder augmentation or Mitrofanoff), over 90% of children achieve full social continence.</p>
                     </div>
                 </div>
             </div>

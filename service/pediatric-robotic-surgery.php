@@ -1,8 +1,94 @@
 <?php
-$page_title = 'Pediatric Robotic Surgery Treatment in Delhi | Dr. Sujit Chowdhary';
-$meta_description = 'Seeking Pediatric Robotic Surgery Treatment in Delhi? Consult Dr. Sujit Chowdhary for advanced pediatric urology & surgery care, accurate diagnosis & effective treatment.';
+$page_title = 'Pediatric Robotic Surgery in Delhi | Dr. Sujit Chowdhary';
+$meta_description = 'Seeking Pediatric Robotic Surgery in Delhi? Consult Dr. Sujit Chowdhary for advanced pediatric urology & surgery care, accurate diagnosis & effective treatment.';
 $current_page = 'service-pediatric-robotic-surgery';
 $extra_head = <<<'EOD'
+<link rel="canonical" href="https://drsujitchowdhary.com/service/pediatric-robotic-surgery.php">
+<meta name="robots" content="index, follow">
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "MedicalWebPage",
+      "@id": "https://drsujitchowdhary.com/service/pediatric-robotic-surgery.php",
+      "url": "https://drsujitchowdhary.com/service/pediatric-robotic-surgery.php",
+      "name": "Pediatric Robotic Surgery in Delhi | Dr. Sujit Chowdhary",
+      "description": "Seeking Pediatric Robotic Surgery in Delhi? Consult Dr. Sujit Chowdhary for advanced pediatric urology & surgery care, accurate diagnosis & effective treatment.",
+      "medicalAudience": {
+        "@type": "MedicalAudience",
+        "audienceType": "Parents and Caregivers"
+      }
+    },
+    {
+      "@type": "MedicalProcedure",
+      "name": "Pediatric Robotic Surgery & Micro-Reconstruction",
+      "procedureType": "Minimally Invasive Robotic Surgery",
+      "bodyLocation": "Urinary Tract & Abdomen",
+      "howPerformed": "Surgeon-controlled da Vinci robotic arms with 3D high-definition magnification through keyhole ports."
+    },
+    {
+      "@type": "Physician",
+      "name": "Dr. Sujit Chowdhary",
+      "jobTitle": "Senior Pediatric Urologist & Robotic Surgeon",
+      "telephone": "+91 98732 06761",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "D6, Club, 2, opposite Vasant Vihar",
+        "addressLocality": "Vasant Vihar",
+        "addressRegion": "New Delhi",
+        "postalCode": "110057",
+        "addressCountry": "IN"
+      }
+    },
+    {
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Is robotic surgery safe for infants and young children?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes. Robotic-assisted surgery is proven safe and highly effective in infants and children. Specialized micro-instruments and precise port placements allow complex delicate repairs inside small anatomical spaces."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What are the main advantages of robotic surgery over open surgery?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Robotic surgery provides 10x 3D high-definition magnification, 360-degree wristed instrument dexterity, filtration of hand tremors, significantly less post-operative pain, tiny keyhole scars, and rapid recovery within 24 to 48 hours."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Which pediatric conditions are commonly treated with robotic surgery?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Robotic surgery is ideal for robotic pyeloplasty (PUJO obstruction), robotic ureteral reimplantation (vesicoureteric reflux), robotic heminephrectomy (duplex kidneys), robotic adrenalectomy, and choledochal cyst excision."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Does the surgical robot operate autonomously?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "No. The robotic system never acts autonomously. It is 100% controlled in real-time by the operating surgeon, who translates natural hand movements into precise micro-dissections at the console."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "How fast is recovery after robotic pyeloplasty or reimplantation?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Most children experience minimal post-operative pain, resume oral feeding within hours of surgery, and are discharged home comfortably within 24 to 48 hours."
+          }
+        }
+      ]
+    }
+  ]
+}
+</script>
 <style>
         .page-header { background: var(--gradient-primary); color: white; padding: 60px 0 30px; text-align: center; }
         .page-header h1 { color: white; margin-bottom: 10px; }
@@ -28,7 +114,7 @@ EOD;
 
 <div class="page-header">
         <div class="container fade-in-up">
-            <h1>Pediatric Robotic Surgery</h1>
+            <h1>Pediatric Robotic Surgery in Delhi</h1>
             <div class="breadcrumb">
                 <a href="../index.php">Home</a> <span>/</span> <a href="../services.php">Services</a> <span>/</span> <span>Pediatric Robotic Surgery</span>
             </div>
@@ -38,24 +124,38 @@ EOD;
     <section class="section">
         <div class="container service-layout">
             <div class="service-main fade-in-up">
-                <img src="../assets/images/services/pediatric-robotic-surgery.png" alt="Service Illustration" class="service-hero-image" style="width: 100%; height: auto; border-radius: var(--radius-md); margin-bottom: 30px; box-shadow: var(--shadow-sm); object-fit: cover; max-height: 400px;">
+                <img src="../assets/images/services/pediatric-robotic-surgery.jpg" alt="Futuristic Robotic Surgical Suite Diagram" class="service-hero-image" style="width: 100%; height: auto; border-radius: var(--radius-md); margin-bottom: 30px; box-shadow: var(--shadow-sm); object-fit: contain; max-height: 400px; background: #fff;">
 
-<h3 class="mt-4">Understanding Pediatric Robotic Surgery</h3>
-<p><strong>Pediatric robotic surgery</strong> is an advanced minimally invasive surgical technique that uses high-precision robotic arms controlled by a specialized surgeon. It provides 3D magnification and extreme precision for delicate reconstructions, particularly in pediatric urology.</p>
+<h3 class="mt-4">Understanding Robotic Surgery in Children</h3>
+<p><a href="https://en.wikipedia.org/wiki/Robot-assisted_surgery" target="_blank" rel="noopener noreferrer">Robot-assisted surgery</a> in children represents the pinnacle of modern minimally invasive surgical technology. Utilizing high-definition 3D visualization and 7-degree-of-freedom wristed micro-instruments, robotic platforms allow delicate reconstructive procedures to be performed through keyhole incisions with unparalleled accuracy.</p>
 
-<h3 class="mt-4">Causes of Pediatric Robotic Surgery</h3>
-<p>It is used to correct congenital anatomical anomalies that require complex suturing, including:</p>
+<p>When seeking state-of-the-art <strong>Pediatric Robotic Surgery in Delhi</strong>, families require a pioneer with extensive international training and clinical mastery. With over 31+ years of experience and more than 800 robotic cases performed in young patients, <a href="../about.php">Dr. Sujit Chowdhary</a> is recognized as a leader in pediatric robotic urology.</p>
+
+<h3 class="mt-4">Indications for Robotic Surgery</h3>
+<p>Robotic assistance is ideal for complex reconstructive procedures requiring delicate suturing within tight anatomical spaces:</p>
 <ul class="about-list">
-    <li><i class="fas fa-check-circle" style="color: var(--secondary-teal); margin-right: 8px;"></i> <strong>Urinary Blockages:</strong> Ureteropelvic junction obstruction (UPJO) requiring robotic pyeloplasty.</li>
-    <li><i class="fas fa-check-circle" style="color: var(--secondary-teal); margin-right: 8px;"></i> <strong>Vesicoureteral Reflux:</strong> Bilateral VUR requiring robotic ureteric reimplantation.</li>
-    <li><i class="fas fa-check-circle" style="color: var(--secondary-teal); margin-right: 8px;"></i> <strong>Cysts/Tumors:</strong> Choledochal cysts or renal tumors requiring minimally invasive excision.</li>
+    <li><i class="fas fa-check-circle" style="color: var(--secondary-teal); margin-right: 8px;"></i> <strong>Robotic Pyeloplasty:</strong> Correcting pelvi-ureteric junction obstruction (<a href="pujo.php">PUJO</a>) to restore kidney outflow.</li>
+    <li><i class="fas fa-check-circle" style="color: var(--secondary-teal); margin-right: 8px;"></i> <strong>Robotic Ureteral Reimplantation:</strong> Fixing <a href="vesicoureteric-reflux.php">Vesicoureteric Reflux (VUR)</a> or ectopic ureters.</li>
+    <li><i class="fas fa-check-circle" style="color: var(--secondary-teal); margin-right: 8px;"></i> <strong>Robotic Adrenalectomy & Heminephrectomy:</strong> Precision removal of <a href="adrenal-tumor.php">adrenal tumors</a> or non-functioning segments of a <a href="duplex-renal-system.php">duplex renal system</a>.</li>
 </ul>
 
-<h3 class="mt-4">Signs of Pediatric Robotic Surgery</h3>
-<p>The need for robotic reconstruction is usually identified during diagnostic scans:</p>
+<h3 class="mt-4">Key Diagnostic Signs</h3>
+<p>Pediatric conditions requiring robotic surgical intervention are identified through specialized diagnostics:</p>
 <ul class="about-list">
-    <li><i class="fas fa-check-circle" style="color: var(--secondary-teal); margin-right: 8px;"></i> <strong>Kidney Swelling (Hydronephrosis):</strong> Found on ultrasounds or MAG3 nuclear kidney scans.</li>
-    <li><i class="fas fa-check-circle" style="color: var(--secondary-teal); margin-right: 8px;"></i> <strong>Recurrent Kidney Infections:</strong> Accompanied by high fevers and flank pain.</li>
+    <li><i class="fas fa-check-circle" style="color: var(--secondary-teal); margin-right: 8px;"></i> <strong>Progressive Hydronephrosis:</strong> Antenatal or post-natal kidney swelling (<a href="hydronephrosis.php">hydronephrosis</a>) detected on ultrasound.</li>
+    <li><i class="fas fa-check-circle" style="color: var(--secondary-teal); margin-right: 8px;"></i> <strong>Functional Obstruction on MAG3 Scan:</strong> Nuclear scan confirming impaired renal clearance.</li>
+    <li><i class="fas fa-check-circle" style="color: var(--secondary-teal); margin-right: 8px;"></i> <strong>Recurrent Febrile UTIs:</strong> Severe urinary tract infections risking renal parenchymal scarring.</li>
+</ul>
+
+<h3 class="mt-4">Why Choose Robotic Surgery</h3>
+<p>Compared to traditional open operations, robotic surgery provides 10x 3D optical magnification, tremor suppression, and micro-articulating instruments. This eliminates tissue traction, drastically reduces post-operative pain, and leaves tiny, cosmetically hidden keyhole scars.</p>
+
+<h3 class="mt-4">Comprehensive Care Approach</h3>
+<p>At our center in Vasant Vihar, New Delhi, we provide a complete robotic clinical pathway:</p>
+<ul class="about-list">
+    <li><i class="fas fa-check-circle" style="color: var(--secondary-teal); margin-right: 8px;"></i> <strong>Pre-Operative 3D Imaging:</strong> High-resolution CT/MR urography mapping vascular and ureteric paths.</li>
+    <li><i class="fas fa-check-circle" style="color: var(--secondary-teal); margin-right: 8px;"></i> <strong>Master Console Execution:</strong> Direct surgeon control using micro-articulating Endowrist instruments.</li>
+    <li><i class="fas fa-check-circle" style="color: var(--secondary-teal); margin-right: 8px;"></i> <strong>Rapid Recovery Pathway:</strong> Fast-track recovery protocols allowing discharge in 24 to 48 hours.</li>
 </ul>
 
             </div>
@@ -63,9 +163,9 @@ EOD;
             <div class="sidebar fade-in-up" style="animation-delay: 0.2s">
                 <h4 class="mb-3">Other Services</h4>
                 <ul class="sidebar-links">
-                                        <li><a href="hypospadias.php">Hypospadias Surgery</a></li>
+                    <li><a href="hypospadias.php">Hypospadias Surgery</a></li>
                     <li><a href="pediatric-robotic-surgery.php" class="active">Pediatric Robotic Surgery</a></li>
-                    <li><a href="uti.php">UTI</a></li>
+                    <li><a href="uti.php">UTI Treatment</a></li>
                     <li><a href="vesicoureteric-reflux.php">Vesicoureteric Reflux</a></li>
                     <li><a href="hernia-hydrocele.php">Hernia and Hydrocele</a></li>
                     <li><a href="hydronephrosis.php">Hydronephrosis</a></li>
@@ -99,44 +199,41 @@ EOD;
                 <div class="card fade-in-up">
                     <div class="service-icon"><i class="fas fa-project-diagram"></i></div>
                     <h3>Robotic Pyeloplasty</h3>
-                    <p>Highly precise reconstruction of the obstructed pelvi-ureteric junction (PUJO) to restore normal kidney drainage.</p>
+                    <p>Microsurgical dismembered reconstruction of PUJ obstruction with high success and minimal scarring.</p>
                 </div>
                 <div class="card fade-in-up" style="animation-delay: 0.1s">
                     <div class="service-icon"><i class="fas fa-exchange-alt"></i></div>
-                    <h3>Robotic Reimplantation</h3>
-                    <p>Correction of Vesicoureteric Reflux (VUR) by re-routing the ureter into the bladder wall with a flap mechanism.</p>
+                    <h3>Robotic Ureteral Reimplantation</h3>
+                    <p>Extravesical or intravesical anti-reflux repair for severe VUR and megaureters using 3D wristed precision.</p>
                 </div>
                 <div class="card fade-in-up" style="animation-delay: 0.2s">
                     <div class="service-icon"><i class="fas fa-cut"></i></div>
                     <h3>Robotic Heminephrectomy</h3>
-                    <p>Selective removal of a non-functioning portion of a duplex kidney while preserving the healthy segment.</p>
+                    <p>Keyhole excision of a non-functioning renal upper pole in duplex kidney systems while protecting normal lower nephrons.</p>
                 </div>
             </div>
         </div>
     </section>
 
     <!-- Surgical Process -->
-    <section class="section bg-light">
+    <section class="section">
         <div class="container">
             <div class="section-title fade-in-up">
-                <h4 class="accent-text">Clinical Path</h4>
+                <h4 class="accent-text">Step-by-Step</h4>
                 <h2>The Surgical Process</h2>
             </div>
             <div class="grid-3 mt-5">
-                <div class="process-step card fade-in-up">
-                    <div class="step-number">01</div>
-                    <h4>Anatomical Scans</h4>
-                    <p>Pre-operative ultrasound and nuclear imaging to map out the exact urinary path and plan the port placements.</p>
+                <div class="process-step fade-in-up card">
+                    <h4 style="color:var(--secondary-teal)">01. Robotic Console Setup</h4>
+                    <p>Keyhole ports (5mm-8mm) are placed and the robotic arms are docked, giving the surgeon a 10x magnified 3D view.</p>
                 </div>
-                <div class="process-step card fade-in-up" style="animation-delay: 0.1s">
-                    <div class="step-number">02</div>
-                    <h4>Robotic Procedure</h4>
-                    <p>Under general anesthesia, 3-4 tiny ports are created. The surgeon sits at the console controlling microrobotic arms with 3D views.</p>
+                <div class="process-step fade-in-up card" style="animation-delay: 0.1s">
+                    <h4 style="color:var(--secondary-teal)">02. Micro-Dissection & Reconstruction</h4>
+                    <p>Endowrist micro-instruments perform precise tissue mobilization and watertight suturing without hand tremors.</p>
                 </div>
-                <div class="process-step card fade-in-up" style="animation-delay: 0.2s">
-                    <div class="step-number">03</div>
-                    <h4>Post-op Care</h4>
-                    <p>Most children wake up pain-free due to localized blocks, resume a liquid diet in hours, and are discharged within 24-48 hours.</p>
+                <div class="process-step fade-in-up card" style="animation-delay: 0.2s">
+                    <h4 style="color:var(--secondary-teal)">03. Fast-Track Recovery</h4>
+                    <p>Infants wake up with minimal pain, resume diet within hours, and return home comfortably in 24-48 hours.</p>
                 </div>
             </div>
         </div>
@@ -156,13 +253,13 @@ EOD;
                     <div class="stars">
                         <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i>
                     </div>
-                    <p class="quote">"Our son had a kidney blockage. Dr. Sujit performed robotic pyeloplasty. The recovery was incredibly fast, pain was minimal, and the scars are barely visible."</p>
+                    <p class="quote">"Our son was diagnosed with severe UPJ obstruction. Consulting Dr. Sujit for Pediatric Robotic Surgery in Delhi was the best choice—his robotic pyeloplasty healed quickly with tiny hidden marks."</p>
                     <div class="author mt-3">
                         <h5>Amit Gupta</h5>
                         <span>Father of 5yo patient</span>
                     </div>
                 </div>
-                <div class="testimonial-card card" style="animation-delay: 0.1s">
+                <div class="testimonial-card card">
                     <div class="stars">
                         <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i>
                     </div>
@@ -172,7 +269,7 @@ EOD;
                         <span>Mother</span>
                     </div>
                 </div>
-                <div class="testimonial-card card" style="animation-delay: 0.2s">
+                <div class="testimonial-card card">
                     <div class="stars">
                         <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i>
                     </div>
@@ -182,7 +279,7 @@ EOD;
                         <span>Father</span>
                     </div>
                 </div>
-                <div class="testimonial-card card" style="animation-delay: 0.3s">
+                <div class="testimonial-card card">
                     <div class="stars">
                         <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i>
                     </div>
@@ -192,7 +289,7 @@ EOD;
                         <span>Mother</span>
                     </div>
                 </div>
-                <div class="testimonial-card card" style="animation-delay: 0.4s">
+                <div class="testimonial-card card">
                     <div class="stars">
                         <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i>
                     </div>
@@ -215,13 +312,13 @@ EOD;
             <div class="why-content fade-in-up" style="animation-delay: 0.2s">
                 <h4 class="accent-text">Urological Specialist</h4>
                 <h2>Why Choose Dr. Sujit Chowdhary?</h2>
-                <p>Robotic surgery in children offers unmatched precision, 3D visualization, and minimal trauma, allowing delicate repairs to heal rapidly.</p>
+                <p>As a leading pioneer of <strong>Pediatric Robotic Surgery in Delhi</strong>, Dr. Sujit Chowdhary offers world-class minimally invasive reconstructive procedures that minimize pain, eliminate large scars, and ensure rapid post-operative recovery.</p>
                 <ul class="about-list">
-                    <li><i class="fas fa-check-circle"></i> Pioneer of robotic pediatric urology in the Asia-Pacific region.</li>
-                    <li><i class="fas fa-check-circle"></i> Over 800 robotic surgeries performed in children.</li>
-                    <li><i class="fas fa-check-circle"></i> Advanced precision, 3D high-definition vision, and tremor filtration.</li>
-                    <li><i class="fas fa-check-circle"></i> Focus on faster recovery, less pain, and minimal scarring.</li>
-                    <li><i class="fas fa-check-circle"></i> Compassionate, world-class surgical care for infants and children.</li>
+                    <li><i class="fas fa-check-circle"></i> 31+ Years of Exclusive Paediatric Surgical Experience.</li>
+                    <li><i class="fas fa-check-circle"></i> Premier expert for <strong>Pediatric Robotic Surgery in Delhi</strong> with over 800+ successful cases.</li>
+                    <li><i class="fas fa-check-circle"></i> Pioneer of pediatric robotic urology in the Asia-Pacific region.</li>
+                    <li><i class="fas fa-check-circle"></i> Advanced 3D high-definition optics and tremor-filtered micro-articulating instruments.</li>
+                    <li><i class="fas fa-check-circle"></i> Fast-track recovery protocols ensuring short hospital stay and minimal pain.</li>
                 </ul>
                 <a href="../about.php" class="btn btn-primary mt-4">Learn More About Doctor</a>
             </div>
@@ -229,7 +326,6 @@ EOD;
     </section>
 
     <!-- FAQ -->
-        <!-- FAQ -->
     <section class="section bg-light" id="faq">
         <div class="container">
             <div class="section-title fade-in-up">
@@ -241,65 +337,47 @@ EOD;
 
                 <div class="faq-item">
                     <div class="faq-header">
-                        <h5>Is robotic surgery safe for infants and small children?</h5>
+                        <h5>Is robotic surgery safe for infants and young children?</h5>
                         <i class="fas fa-plus"></i>
                     </div>
                     <div class="faq-content">
-                        <p>Yes, robotic surgery is highly safe and precise, using specialized micro-instruments designed specifically for pediatric anatomy.</p>
+                        <p>Yes. Robotic-assisted surgery is proven safe and highly effective in infants and children. Specialized micro-instruments and precise port placements allow complex delicate repairs inside small anatomical spaces.</p>
                     </div>
                 </div>
                 <div class="faq-item">
                     <div class="faq-header">
-                        <h5>What are the main advantages of robotic-assisted surgery?</h5>
+                        <h5>What are the main advantages of robotic surgery over open surgery?</h5>
                         <i class="fas fa-plus"></i>
                     </div>
                     <div class="faq-content">
-                        <p>It offers 3D high-definition visualization, 360-degree instrument articulation, greater precision, smaller scars, and faster recovery.</p>
+                        <p>Robotic surgery provides 10x 3D high-definition magnification, 360-degree wristed instrument dexterity, filtration of hand tremors, significantly less post-operative pain, tiny keyhole scars, and rapid recovery within 24 to 48 hours.</p>
                     </div>
                 </div>
                 <div class="faq-item">
                     <div class="faq-header">
-                        <h5>Which pediatric procedures are commonly performed robotically?</h5>
+                        <h5>Which pediatric conditions are commonly treated with robotic surgery?</h5>
                         <i class="fas fa-plus"></i>
                     </div>
                     <div class="faq-content">
-                        <p>Pyeloplasty for hydronephrosis, ureteral reimplantation for VUR, adrenalectomy, and choledochal cyst excision are commonly performed.</p>
+                        <p>Robotic surgery is ideal for robotic pyeloplasty (PUJO obstruction), robotic ureteral reimplantation (vesicoureteric reflux), robotic heminephrectomy (duplex kidneys), robotic adrenalectomy, and choledochal cyst excision.</p>
                     </div>
                 </div>
                 <div class="faq-item">
                     <div class="faq-header">
-                        <h5>Does the robot perform the surgery automatically?</h5>
+                        <h5>Does the surgical robot operate autonomously?</h5>
                         <i class="fas fa-plus"></i>
                     </div>
                     <div class="faq-content">
-                        <p>No, the surgeon is in complete control of the robotic arms at all times, translating their hand movements into precise micro-actions.</p>
+                        <p>No. The robotic system never acts autonomously. It is 100% controlled in real-time by the operating surgeon, who translates natural hand movements into precise micro-dissections at the console.</p>
                     </div>
                 </div>
                 <div class="faq-item">
                     <div class="faq-header">
-                        <h5>How small are the incisions in robotic surgery?</h5>
+                        <h5>How fast is recovery after robotic pyeloplasty or reimplantation?</h5>
                         <i class="fas fa-plus"></i>
                     </div>
                     <div class="faq-content">
-                        <p>The incisions are keyhole-sized, typically ranging between 5mm to 8mm, resulting in minimal post-operative discomfort.</p>
-                    </div>
-                </div>
-                <div class="faq-item">
-                    <div class="faq-header">
-                        <h5>What is the recovery time after robotic pyeloplasty?</h5>
-                        <i class="fas fa-plus"></i>
-                    </div>
-                    <div class="faq-content">
-                        <p>Most children can go home within 24 to 48 hours and return to light activities in a few days.</p>
-                    </div>
-                </div>
-                <div class="faq-item">
-                    <div class="faq-header">
-                        <h5>Is robotic surgery covered by health insurance?</h5>
-                        <i class="fas fa-plus"></i>
-                    </div>
-                    <div class="faq-content">
-                        <p>Most major health insurance policies cover robotic-assisted procedures in the same way they cover traditional laparoscopic surgeries.</p>
+                        <p>Most children experience minimal post-operative pain, resume oral feeding within hours of surgery, and are discharged home comfortably within 24 to 48 hours.</p>
                     </div>
                 </div>
             </div>

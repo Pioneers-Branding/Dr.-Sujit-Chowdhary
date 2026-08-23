@@ -1,8 +1,113 @@
 <?php
 $page_title = 'Voiding Dysfunction Treatment in Delhi | Dr. Sujit Chowdhary';
-$meta_description = 'Seeking Voiding Dysfunction Treatment in Delhi? Consult Dr. Sujit Chowdhary for advanced pediatric urology care, accurate diagnosis & effective treatment.';
+$meta_description = 'Seeking Voiding Dysfunction Treatment in Delhi? Consult Dr. Sujit Chowdhary for advanced pediatric urology care, accurate urotherapy & effective treatment.';
 $current_page = 'service-voiding-dysfunction';
 $extra_head = <<<'EOD'
+<link rel="canonical" href="https://drsujitchowdhary.com/service/voiding-dysfunction.php">
+<meta name="robots" content="index, follow">
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "MedicalWebPage",
+      "@id": "https://drsujitchowdhary.com/service/voiding-dysfunction.php",
+      "url": "https://drsujitchowdhary.com/service/voiding-dysfunction.php",
+      "name": "Voiding Dysfunction Treatment in Delhi | Dr. Sujit Chowdhary",
+      "description": "Seeking Voiding Dysfunction Treatment in Delhi? Consult Dr. Sujit Chowdhary for advanced pediatric urology care, accurate urotherapy & effective treatment.",
+      "medicalAudience": {
+        "@type": "MedicalAudience",
+        "audienceType": "Parents and Caregivers"
+      }
+    },
+    {
+      "@type": "MedicalCondition",
+      "name": "Pediatric Voiding Dysfunction & Wetting",
+      "possibleTreatment": [
+        {
+          "@type": "MedicalTherapy",
+          "name": "Standard Urotherapy & Timed Voiding Protocols"
+        },
+        {
+          "@type": "MedicalTherapy",
+          "name": "Pediatric Urodynamics & Non-Invasive Biofeedback"
+        },
+        {
+          "@type": "MedicalTherapy",
+          "name": "Bowel Rehabilitation & Targeted Pharmacotherapy"
+        }
+      ]
+    },
+    {
+      "@type": "Physician",
+      "name": "Dr. Sujit Chowdhary",
+      "jobTitle": "Senior Pediatric Urologist & Surgeon",
+      "telephone": "+91 98732 06761",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "D6, Club, 2, opposite Vasant Vihar",
+        "addressLocality": "Vasant Vihar",
+        "addressRegion": "New Delhi",
+        "postalCode": "110057",
+        "addressCountry": "IN"
+      }
+    },
+    {
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "What is pediatric voiding dysfunction?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Pediatric voiding dysfunction refers to an abnormal pattern of bladder filling or emptying in toilet-trained children, leading to daytime wetting, urinary urgency, frequency, bedwetting, or recurrent urinary tract infections."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What causes voiding dysfunction in children?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "It is most frequently caused by dysfunctional elimination habits, such as urine holding during play, pelvic floor muscle incoordination, chronic bowel constipation pressing on the bladder, or emotional stress."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "How is voiding dysfunction evaluated and diagnosed?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Evaluation includes a 3-day voiding/bowel diary, non-invasive uroflowmetry with pelvic floor electromyography (EMG), renal and bladder ultrasound to check post-void residual urine, and specialized pediatric urodynamics if required."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What is the link between bowel constipation and daytime wetting?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "A stool-filled rectum directly compresses the adjacent bladder, reducing its storage capacity and causing involuntary bladder spasms, incomplete emptying, and daytime incontinence."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What does urotherapy and bladder retraining involve?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Urotherapy is a structured non-invasive program including timed voiding every 2-3 hours, optimal posture with foot support, proper hydration habits, high-fiber dietary management, and biofeedback muscle training."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Are medications or surgery required for voiding dysfunction?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Most children respond completely to non-invasive urotherapy and bowel management. Medications like anticholinergics may be temporarily prescribed for overactive bladders, while surgery is rarely needed unless structural anomalies exist."
+          }
+        }
+      ]
+    }
+  ]
+}
+</script>
 <style>
         .page-header { background: var(--gradient-primary); color: white; padding: 60px 0 30px; text-align: center; }
         .page-header h1 { color: white; margin-bottom: 10px; }
@@ -28,7 +133,7 @@ EOD;
 
 <div class="page-header">
         <div class="container fade-in-up">
-            <h1>Voiding Dysfunction & Wetting</h1>
+            <h1>Voiding Dysfunction Treatment in Delhi</h1>
             <div class="breadcrumb">
                 <a href="../index.php">Home</a> <span>/</span> <a href="../services.php">Services</a> <span>/</span> <span>Voiding Dysfunction</span>
             </div>
@@ -38,25 +143,39 @@ EOD;
     <section class="section">
         <div class="container service-layout">
             <div class="service-main fade-in-up">
-                <img src="../assets/images/services/voiding-dysfunction.png" alt="Service Illustration" class="service-hero-image" style="width: 100%; height: auto; border-radius: var(--radius-md); margin-bottom: 30px; box-shadow: var(--shadow-sm); object-fit: cover; max-height: 400px;">
+                <img src="../assets/images/services/voiding-dysfunction.jpg" alt="Pediatric Clinical Examination for Voiding Dysfunction" class="service-hero-image" style="width: 100%; height: auto; border-radius: var(--radius-md); margin-bottom: 30px; box-shadow: var(--shadow-sm); object-fit: cover; max-height: 400px;">
 
 <h3 class="mt-4">Understanding Voiding Dysfunction</h3>
-<p><strong>Voiding dysfunction</strong> refers to a range of urination problems in children who have already been toilet trained. It is characterized by abnormal bladder storage or emptying patterns, usually caused by functional coordination issues rather than nerve defects.</p>
+<p><strong>Voiding dysfunction</strong> refers to a broad spectrum of bladder filling and emptying disturbances in children who have reached an age where toilet training is expected. It encompasses daytime <a href="https://en.wikipedia.org/wiki/Urinary_incontinence" target="_blank" rel="noopener noreferrer">urinary incontinence</a>, sudden urgency, extreme voiding frequency, bedwetting (enuresis), or straining during urination. Unlike <a href="neuropathic-bladder.php">neuropathic bladder</a>, which stems from spinal or neurological defects, voiding dysfunction in most children is functional in origin—arising from learned habits, muscle incoordination, or bowel issues.</p>
+<p>If your child struggles with daytime accidents or frequent lower urinary tract symptoms, consulting a renowned <strong>Voiding Dysfunction Treatment Doctor in Delhi</strong> is the first step toward restoring confidence and preventing urinary complications. With over 31+ years of specialized pediatric urology experience, <a href="../about.php">Dr. Sujit Chowdhary</a> provides gentle, non-invasive, evidence-based care tailored to empower children and reassure parents.</p>
 
 <h3 class="mt-4">Causes of Voiding Dysfunction</h3>
-<p>Voiding dysfunction is most commonly a functional, learned behavior:</p>
+<p>In most children, voiding dysfunction develops gradually due to behavioral, anatomical, or functional factors:</p>
 <ul class="about-list">
-    <li><i class="fas fa-check-circle" style="color: var(--secondary-teal); margin-right: 8px;"></i> <strong>Habitual Urine Holding:</strong> Children hold their urine too long because they do not want to interrupt play.</li>
-    <li><i class="fas fa-check-circle" style="color: var(--secondary-teal); margin-right: 8px;"></i> <strong>Constipation:</strong> A full rectum presses against the bladder, disrupting normal sphincter relaxation.</li>
-    <li><i class="fas fa-check-circle" style="color: var(--secondary-teal); margin-right: 8px;"></i> <strong>History of Pain:</strong> A past painful UTI makes the child afraid to urinate, causing them to contract their muscles.</li>
+    <li><i class="fas fa-check-circle" style="color: var(--secondary-teal); margin-right: 8px;"></i> <strong>Habitual Urine Holding:</strong> Children frequently ignore bladder signals during school or play, leading to bladder overdistension and pelvic sphincter incoordination.</li>
+    <li><i class="fas fa-check-circle" style="color: var(--secondary-teal); margin-right: 8px;"></i> <strong>Dysfunctional Elimination Syndrome (DES):</strong> Chronic bowel constipation directly compresses the bladder neck, triggering involuntary detrusor contractions and incomplete bladder emptying.</li>
+    <li><i class="fas fa-check-circle" style="color: var(--secondary-teal); margin-right: 8px;"></i> <strong>Recurrent Infections:</strong> A prior <a href="uti.php">urinary tract infection (UTI)</a> causes burning or pain, leading the child to contract the external sphincter while voiding.</li>
+    <li><i class="fas fa-check-circle" style="color: var(--secondary-teal); margin-right: 8px;"></i> <strong>Overactive Bladder (OAB):</strong> Sudden, uninhibited bladder muscle spasms that result in urgent, frequent trips to the bathroom.</li>
 </ul>
 
-<h3 class="mt-4">Signs of Voiding Dysfunction</h3>
-<p>Symptoms indicating a voiding dysfunction include:</p>
+<h3 class="mt-4">Signs and Symptoms</h3>
+<p>Common clinical signs indicating a child may need specialized evaluation include:</p>
 <ul class="about-list">
-    <li><i class="fas fa-check-circle" style="color: var(--secondary-teal); margin-right: 8px;"></i> <strong>Urinary Incontinence:</strong> Daytime wetting or sudden accidents in toilet-trained children.</li>
-    <li><i class="fas fa-check-circle" style="color: var(--secondary-teal); margin-right: 8px;"></i> <strong>Urgency and Frequency:</strong> Feeling a sudden, intense need to urinate and going very frequently.</li>
-    <li><i class="fas fa-check-circle" style="color: var(--secondary-teal); margin-right: 8px;"></i> <strong>Interrupted Stream:</strong> Dribbling, straining, or a start-and-stop stream during voiding.</li>
+    <li><i class="fas fa-check-circle" style="color: var(--secondary-teal); margin-right: 8px;"></i> <strong>Daytime Wetting & Accidents:</strong> Damp clothing, squirming, or Vincent's curtsy (crossing legs or squatting to hold urine).</li>
+    <li><i class="fas fa-check-circle" style="color: var(--secondary-teal); margin-right: 8px;"></i> <strong>Urgency & Frequency:</strong> Urinating more than 8 times daily or waiting until the last second to rush to the bathroom.</li>
+    <li><i class="fas fa-check-circle" style="color: var(--secondary-teal); margin-right: 8px;"></i> <strong>Interrupted Urinary Stream:</strong> Straining, hesitation, weak stream, or start-and-stop voiding patterns.</li>
+    <li><i class="fas fa-check-circle" style="color: var(--secondary-teal); margin-right: 8px;"></i> <strong>Secondary Bedwetting:</strong> Nighttime bedwetting returning after months or years of nocturnal dryness.</li>
+</ul>
+
+<h3 class="mt-4">Why Early Intervention Matters</h3>
+<p>Unmanaged voiding dysfunction does not merely cause emotional stress and low self-esteem for the child; it can also have physical health consequences. Persistent high bladder pressures and incomplete emptying increase the risk of recurrent kidney infections, secondary <a href="vesicoureteric-reflux.php">Vesicoureteric Reflux (VUR)</a>, or upper tract dilatation (<a href="hydronephrosis.php">hydronephrosis</a>). Timely consultation for <strong>Voiding Dysfunction Treatment in Delhi</strong> with an expert pediatric urologist ensures early retraining, protecting long-term kidney function.</p>
+
+<h3 class="mt-4">Comprehensive Care Approach</h3>
+<p>At our pediatric urology clinic in Vasant Vihar, New Delhi, we employ advanced diagnostic and non-invasive therapeutic protocols:</p>
+<ul class="about-list">
+    <li><i class="fas fa-check-circle" style="color: var(--secondary-teal); margin-right: 8px;"></i> <strong>Non-Invasive Uroflowmetry & EMG:</strong> Measuring urine flow velocity and muscle relaxation during natural voiding without discomfort.</li>
+    <li><i class="fas fa-check-circle" style="color: var(--secondary-teal); margin-right: 8px;"></i> <strong>Bladder & Renal Ultrasound:</strong> Assessing post-void residual (PVR) urine volume and checking bladder wall thickness.</li>
+    <li><i class="fas fa-check-circle" style="color: var(--secondary-teal); margin-right: 8px;"></i> <strong><a href="pediatric-urodynamics.php">Pediatric Urodynamics</a>:</strong> Specialized evaluation for refractory or complex voiding disorders.</li>
 </ul>
 
             </div>
@@ -64,9 +183,9 @@ EOD;
             <div class="sidebar fade-in-up" style="animation-delay: 0.2s">
                 <h4 class="mb-3">Other Services</h4>
                 <ul class="sidebar-links">
-                                        <li><a href="hypospadias.php">Hypospadias Surgery</a></li>
+                    <li><a href="hypospadias.php">Hypospadias Surgery</a></li>
                     <li><a href="pediatric-robotic-surgery.php">Pediatric Robotic Surgery</a></li>
-                    <li><a href="uti.php">UTI</a></li>
+                    <li><a href="uti.php">UTI Treatment</a></li>
                     <li><a href="vesicoureteric-reflux.php">Vesicoureteric Reflux</a></li>
                     <li><a href="hernia-hydrocele.php">Hernia and Hydrocele</a></li>
                     <li><a href="hydronephrosis.php">Hydronephrosis</a></li>
@@ -98,46 +217,43 @@ EOD;
             </div>
             <div class="grid-3 mt-5">
                 <div class="card fade-in-up">
-                    <div class="service-icon"><i class="fas fa-calendar-alt"></i></div>
-                    <h3>Urotherapy & Retraining</h3>
-                    <p>Structured voiding schedules, dietary modifications, and optimal bathroom postures to retrain bladder habits.</p>
+                    <div class="service-icon"><i class="fas fa-clock"></i></div>
+                    <h3>Urotherapy & Timed Voiding</h3>
+                    <p>Structured voiding schedules (every 2-3 hours), optimal seating posture with footstool support, and adequate fluid intake to retrain natural bladder sensation.</p>
                 </div>
                 <div class="card fade-in-up" style="animation-delay: 0.1s">
                     <div class="service-icon"><i class="fas fa-apple-alt"></i></div>
                     <h3>Bowel Management</h3>
-                    <p>Treating underlying constipation with high-fiber diets and laxatives to relieve physical pressure on the bladder.</p>
+                    <p>Active treatment of chronic constipation using high-fiber diets, adequate hydration, and stool softeners to relieve physical pressure on the bladder neck.</p>
                 </div>
                 <div class="card fade-in-up" style="animation-delay: 0.2s">
-                    <div class="service-icon"><i class="fas fa-pills"></i></div>
-                    <h3>Pharmacotherapy</h3>
-                    <p>Targeted medications to control bladder spasms or reduce overnight urine output for bedwetting.</p>
+                    <div class="service-icon"><i class="fas fa-brain"></i></div>
+                    <h3>Biofeedback & Pharmacotherapy</h3>
+                    <p>Animated pelvic floor muscle re-education (biofeedback) combined with temporary, targeted medications for overactive bladder or severe urgency when needed.</p>
                 </div>
             </div>
         </div>
     </section>
 
     <!-- Surgical Process -->
-    <section class="section bg-light">
+    <section class="section">
         <div class="container">
             <div class="section-title fade-in-up">
-                <h4 class="accent-text">Clinical Path</h4>
-                <h2>The Surgical Process</h2>
+                <h4 class="accent-text">Step-by-Step</h4>
+                <h2>The Treatment Process</h2>
             </div>
             <div class="grid-3 mt-5">
-                <div class="process-step card fade-in-up">
-                    <div class="step-number">01</div>
-                    <h4>Voiding Diary & Scans</h4>
-                    <p>Parents complete a 3-day intake/output diary. A non-invasive uroflowmetry and ultrasound check residual urine.</p>
+                <div class="process-step fade-in-up card">
+                    <h4 style="color:var(--secondary-teal)">01. Voiding & Bowel Diary</h4>
+                    <p>Parents complete a detailed 3-day intake and output log to map fluid intake, voiding frequency, urgency episodes, and bowel movements.</p>
                 </div>
-                <div class="process-step card fade-in-up" style="animation-delay: 0.1s">
-                    <div class="step-number">02</div>
-                    <h4>Bladder Retraining</h4>
-                    <p>Implementation of scheduled toilet times, biofeedback exercises, and lifestyle adjustments.</p>
+                <div class="process-step fade-in-up card" style="animation-delay: 0.1s">
+                    <h4 style="color:var(--secondary-teal)">02. Non-Invasive Assessment</h4>
+                    <p>Child undergoes friendly, painless uroflowmetry and post-void ultrasound to measure flow curve and check if bladder empties completely.</p>
                 </div>
-                <div class="process-step card fade-in-up" style="animation-delay: 0.2s">
-                    <div class="step-number">03</div>
-                    <h4>Follow-up</h4>
-                    <p>Periodic reviews to measure flow rates, adjust medication doses, and celebrate dryness milestones.</p>
+                <div class="process-step fade-in-up card" style="animation-delay: 0.2s">
+                    <h4 style="color:var(--secondary-teal)">03. Personalized Retraining & Follow-up</h4>
+                    <p>Tailored bladder rehabilitation plan with periodic clinical reviews to monitor progress, adjust protocols, and celebrate complete dryness milestones.</p>
                 </div>
             </div>
         </div>
@@ -157,23 +273,23 @@ EOD;
                     <div class="stars">
                         <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i>
                     </div>
-                    <p class="quote">"Our son was suffering from daytime wetting and bedwetting. Dr. Sujit's bladder training program and uroflowmetry resolved the problem completely."</p>
+                    <p class="quote">"Our son was suffering from daytime wetting and bedwetting. Consulting Dr. Sujit for Voiding Dysfunction Treatment in Delhi was a game changer—his bladder training program and uroflowmetry resolved the problem completely."</p>
                     <div class="author mt-3">
                         <h5>Kamlesh S.</h5>
                         <span>Father of 8yo patient</span>
                     </div>
                 </div>
-                <div class="testimonial-card card" style="animation-delay: 0.1s">
+                <div class="testimonial-card card">
                     <div class="stars">
                         <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i>
                     </div>
-                    <p class="quote">"Excellent pediatric voiding clinic. The doctor explained the biofeedback training in a way that our daughter loved. Her wetting has stopped."</p>
+                    <p class="quote">"We searched for a trusted Voiding Dysfunction Treatment Doctor in Delhi after months of daytime accidents. The doctor explained the biofeedback training in a way that our daughter loved. Her wetting has stopped."</p>
                     <div class="author mt-3">
                         <h5>Poonam D.</h5>
                         <span>Mother</span>
                     </div>
                 </div>
-                <div class="testimonial-card card" style="animation-delay: 0.2s">
+                <div class="testimonial-card card">
                     <div class="stars">
                         <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i>
                     </div>
@@ -183,17 +299,17 @@ EOD;
                         <span>Father</span>
                     </div>
                 </div>
-                <div class="testimonial-card card" style="animation-delay: 0.3s">
+                <div class="testimonial-card card">
                     <div class="stars">
                         <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i>
                     </div>
-                    <p class="quote">"The precision in Dr. Chowdhary's surgery is incredible. His confidence gave us immense peace of mind during a very stressful time."</p>
+                    <p class="quote">"Finding a specialist who understood my son's bladder holding habit changed everything. Dr. Sujit is extremely reassuring and methodical."</p>
                     <div class="author mt-3">
                         <h5>Anita Sharma</h5>
                         <span>Mother</span>
                     </div>
                 </div>
-                <div class="testimonial-card card" style="animation-delay: 0.4s">
+                <div class="testimonial-card card">
                     <div class="stars">
                         <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i>
                     </div>
@@ -216,12 +332,12 @@ EOD;
             <div class="why-content fade-in-up" style="animation-delay: 0.2s">
                 <h4 class="accent-text">Urological Specialist</h4>
                 <h2>Why Choose Dr. Sujit Chowdhary?</h2>
-                <p>Voiding dysfunction is a common but manageable issue. Using advanced urotherapy and diagnostic techniques ensures the best functional outcomes for your child.</p>
+                <p>Voiding dysfunction is a common but manageable issue. As a leading <strong>Voiding Dysfunction Treatment Doctor in Delhi</strong>, Dr. Sujit Chowdhary provides comprehensive care using advanced non-invasive urotherapy and pediatric urodynamics to ensure the best functional outcomes for your child.</p>
                 <ul class="about-list">
-                    <li><i class="fas fa-check-circle"></i> Specialist in evaluating and managing pediatric voiding dysfunction.</li>
-                    <li><i class="fas fa-check-circle"></i> Expertise in non-invasive bladder training and urotherapy.</li>
-                    <li><i class="fas fa-check-circle"></i> Advanced diagnostic support using pediatric urodynamics.</li>
-                    <li><i class="fas fa-check-circle"></i> Focus on improving child's quality of life and confidence.</li>
+                    <li><i class="fas fa-check-circle"></i> Specialist for <strong>Voiding Dysfunction Treatment in Delhi</strong> with 31+ years of clinical experience.</li>
+                    <li><i class="fas fa-check-circle"></i> Renowned pediatric urologist specializing in non-invasive bladder retraining.</li>
+                    <li><i class="fas fa-check-circle"></i> Advanced diagnostic support using pediatric urodynamics, uroflowmetry, and pelvic EMG.</li>
+                    <li><i class="fas fa-check-circle"></i> Focus on restoring child confidence and long-term bladder health.</li>
                     <li><i class="fas fa-check-circle"></i> Compassionate and child-friendly clinical environment.</li>
                 </ul>
                 <a href="../about.php" class="btn btn-primary mt-4">Learn More About Doctor</a>
@@ -230,7 +346,6 @@ EOD;
     </section>
 
     <!-- FAQ -->
-        <!-- FAQ -->
     <section class="section bg-light" id="faq">
         <div class="container">
             <div class="section-title fade-in-up">
@@ -246,7 +361,7 @@ EOD;
                         <i class="fas fa-plus"></i>
                     </div>
                     <div class="faq-content">
-                        <p>It is an abnormal bladder emptying pattern in a toilet-trained child, causing wetting, urgency, or urinary retention.</p>
+                        <p>Pediatric voiding dysfunction refers to an abnormal pattern of bladder filling or emptying in toilet-trained children, leading to daytime wetting, urinary urgency, frequency, bedwetting, or recurrent urinary tract infections.</p>
                     </div>
                 </div>
                 <div class="faq-item">
@@ -255,52 +370,43 @@ EOD;
                         <i class="fas fa-plus"></i>
                     </div>
                     <div class="faq-content">
-                        <p>It is commonly caused by poor toilet habits, holding urine too long, pelvic floor muscle incoordination, and chronic constipation.</p>
+                        <p>It is most frequently caused by dysfunctional elimination habits, such as urine holding during play, pelvic floor muscle incoordination, chronic bowel constipation pressing on the bladder, or emotional stress.</p>
                     </div>
                 </div>
                 <div class="faq-item">
                     <div class="faq-header">
-                        <h5>How is voiding dysfunction diagnosed?</h5>
+                        <h5>How is voiding dysfunction evaluated and diagnosed?</h5>
                         <i class="fas fa-plus"></i>
                     </div>
                     <div class="faq-content">
-                        <p>Diagnosis is based on a voiding diary, uroflowmetry test, bladder ultrasound scans, and sometimes urodynamics.</p>
+                        <p>Evaluation includes a 3-day voiding/bowel diary, non-invasive uroflowmetry with pelvic floor electromyography (EMG), renal and bladder ultrasound to check post-void residual urine, and specialized pediatric urodynamics if required.</p>
                     </div>
                 </div>
                 <div class="faq-item">
                     <div class="faq-header">
-                        <h5>What is the link between constipation and bladder wetting?</h5>
+                        <h5>What is the link between bowel constipation and daytime wetting?</h5>
                         <i class="fas fa-plus"></i>
                     </div>
                     <div class="faq-content">
-                        <p>A full rectum presses against the bladder, reducing its capacity and causing bladder muscle contractions, leading to wetting.</p>
+                        <p>A stool-filled rectum directly compresses the adjacent bladder, reducing its storage capacity and causing involuntary bladder spasms, incomplete emptying, and daytime incontinence.</p>
                     </div>
                 </div>
                 <div class="faq-item">
                     <div class="faq-header">
-                        <h5>What is uroflowmetry?</h5>
+                        <h5>What does urotherapy and bladder retraining involve?</h5>
                         <i class="fas fa-plus"></i>
                     </div>
                     <div class="faq-content">
-                        <p>It is a non-invasive test where the child voids into a special toilet to measure urine flow rate and pattern.</p>
+                        <p>Urotherapy is a structured non-invasive program including timed voiding every 2-3 hours, optimal posture with foot support, proper hydration habits, high-fiber dietary management, and biofeedback muscle training.</p>
                     </div>
                 </div>
                 <div class="faq-item">
                     <div class="faq-header">
-                        <h5>What does bladder rehabilitation/training involve?</h5>
+                        <h5>Are medications or surgery required for voiding dysfunction?</h5>
                         <i class="fas fa-plus"></i>
                     </div>
                     <div class="faq-content">
-                        <p>It involves timed voiding (every 2-3 hours), proper posture, biofeedback, high-fiber diet, and treating constipation.</p>
-                    </div>
-                </div>
-                <div class="faq-item">
-                    <div class="faq-header">
-                        <h5>Are medications used to treat bladder wetting?</h5>
-                        <i class="fas fa-plus"></i>
-                    </div>
-                    <div class="faq-content">
-                        <p>Yes, medications like anticholinergics or desmopressin are sometimes used alongside bladder training for symptom control.</p>
+                        <p>Most children respond completely to non-invasive urotherapy and bowel management. Medications like anticholinergics may be temporarily prescribed for overactive bladders, while surgery is rarely needed unless structural anomalies exist.</p>
                     </div>
                 </div>
             </div>
