@@ -1,8 +1,105 @@
 <?php
-$page_title = 'Pediatric Stone Disease Treatment in Delhi | Dr. Sujit Chowdhary';
-$meta_description = 'Seeking Pediatric Stone Disease Treatment in Delhi? Consult Dr. Sujit Chowdhary for advanced pediatric urology care, accurate diagnosis & effective treatment.';
+$page_title = 'Pediatric Stone Treatment in Delhi | Dr. Sujit Chowdhary';
+$meta_description = 'Seeking Pediatric Endourology & Stone Treatment in Delhi? Consult Dr. Sujit Chowdhary for advanced pediatric urology care, accurate diagnosis & effective treatment.';
 $current_page = 'service-pediatric-stone-disease';
 $extra_head = <<<'EOD'
+<link rel="canonical" href="https://drsujitchowdhary.com/service/pediatric-stone-disease.php">
+<meta name="robots" content="index, follow">
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "MedicalWebPage",
+      "@id": "https://drsujitchowdhary.com/service/pediatric-stone-disease.php",
+      "url": "https://drsujitchowdhary.com/service/pediatric-stone-disease.php",
+      "name": "Pediatric Stone Treatment in Delhi | Dr. Sujit Chowdhary",
+      "description": "Seeking Pediatric Endourology & Stone Treatment in Delhi? Consult Dr. Sujit Chowdhary for advanced pediatric urology care, accurate diagnosis & effective treatment.",
+      "medicalAudience": {
+        "@type": "MedicalAudience",
+        "audienceType": "Parents and Caregivers"
+      }
+    },
+    {
+      "@type": "MedicalCondition",
+      "name": "Pediatric Urolithiasis & Kidney Stone Disease",
+      "possibleTreatment": [
+        {
+          "@type": "MedicalTherapy",
+          "name": "Retrograde Intrarenal Surgery (RIRS) with Laser Dusting"
+        },
+        {
+          "@type": "MedicalTherapy",
+          "name": "Miniaturized Percutaneous Nephrolithotomy (Mini-PCNL)"
+        },
+        {
+          "@type": "MedicalTherapy",
+          "name": "Metabolic Stone Evaluation & Prophylaxis"
+        }
+      ]
+    },
+    {
+      "@type": "Physician",
+      "name": "Dr. Sujit Chowdhary",
+      "jobTitle": "Senior Pediatric Endourologist & Surgeon",
+      "telephone": "+91 98732 06761",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "D6, Club, 2, opposite Vasant Vihar",
+        "addressLocality": "Vasant Vihar",
+        "addressRegion": "New Delhi",
+        "postalCode": "110057",
+        "addressCountry": "IN"
+      }
+    },
+    {
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Are kidney stones common in children?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "While less frequent than in adults, pediatric urolithiasis is increasingly diagnosed due to metabolic risk factors, dietary changes, structural urinary blockages, or chronic dehydration."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What is RIRS (Retrograde Intrarenal Surgery) in children?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "RIRS is an incisionless procedure where an ultra-thin, flexible video endoscope is passed through the urethra into the kidney calyces. A Holmium laser fiber is then used to pulverize the stone into fine dust."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What is Mini-PCNL for pediatric kidney stones?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Mini-PCNL is a keyhole surgical technique used for large renal stones (greater than 1.5 cm) where a miniature sheath (11-14 Fr) is placed through the back to break and vacuum out stone fragments safely."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Why is a metabolic workup essential after stone removal in a child?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Children have a high stone recurrence rate of up to 50% if underlying metabolic causes (such as hypercalciuria, hyperoxaluria, or cystinuria) are not evaluated via 24-hour urine metabolic profiles and corrected with specific diets or medications."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Is a DJ stent required after pediatric stone surgery?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "A soft internal stent (Double-J stent) is temporarily placed for 1 to 2 weeks post-procedure to ensure free urinary drainage and prevent ureteric spasm while the urinary tract heals, followed by quick daycare removal."
+          }
+        }
+      ]
+    }
+  ]
+}
+</script>
 <style>
         .page-header { background: var(--gradient-primary); color: white; padding: 60px 0 30px; text-align: center; }
         .page-header h1 { color: white; margin-bottom: 10px; }
@@ -28,7 +125,7 @@ EOD;
 
 <div class="page-header">
         <div class="container fade-in-up">
-            <h1>Pediatric Endourology & Stones</h1>
+            <h1>Pediatric Endourology & Stones Treatment in Delhi</h1>
             <div class="breadcrumb">
                 <a href="../index.php">Home</a> <span>/</span> <a href="../services.php">Services</a> <span>/</span> <span>Pediatric Stones</span>
             </div>
@@ -38,26 +135,38 @@ EOD;
     <section class="section">
         <div class="container service-layout">
             <div class="service-main fade-in-up">
-                <img src="../assets/images/services/pediatric-stone-disease.png" alt="Service Illustration" class="service-hero-image" style="width: 100%; height: auto; border-radius: var(--radius-md); margin-bottom: 30px; box-shadow: var(--shadow-sm); object-fit: cover; max-height: 400px;">
+                <img src="../assets/images/services/pediatric-stone-disease.jpg" alt="Kidney Stones Medical Diagram" class="service-hero-image" style="width: 100%; height: auto; border-radius: var(--radius-md); margin-bottom: 30px; box-shadow: var(--shadow-sm); object-fit: contain; max-height: 400px; background: #fff;">
 
 <h3 class="mt-4">Understanding Pediatric Endourology & Stones</h3>
-<p><strong>Pediatric stone disease</strong> (urolithiasis) is the formation of solid mineral deposits (stones) in the kidneys, ureters, or bladder of children. Endourology uses tiny endoscopes inserted through natural passages (urethra) to locate and fragment these stones without incisions.</p>
+<p><a href="https://en.wikipedia.org/wiki/Kidney_stone_disease" target="_blank" rel="noopener noreferrer">Kidney stone disease</a> (urolithiasis) in children involves the formation of hard mineral deposits within the renal calyces, ureters, or urinary bladder. Pediatric endourology utilizes ultra-miniaturized flexible scopes to fragment and clear stones stitchlessly.</p>
 
-<h3 class="mt-4">Causes of Pediatric Endourology & Stones</h3>
-<p>Stones form due to mineral accumulation in the urinary tract. Causes include:</p>
+<p>When seeking specialized <strong>Pediatric Stones treatment in Delhi</strong>, parents require a pediatric urologist equipped with state-of-the-art Holmium laser technology and infant-sized endoscopic instruments. With over 31+ years of experience, <a href="../about.php">Dr. Sujit Chowdhary</a> provides comprehensive endourological care and metabolic recurrence prevention.</p>
+
+<h3 class="mt-4">Causes of Pediatric Urinary Stones</h3>
+<p>Childhood urolithiasis is driven by metabolic variations or anatomical urinary stasis:</p>
 <ul class="about-list">
-    <li><i class="fas fa-check-circle" style="color: var(--secondary-teal); margin-right: 8px;"></i> <strong>Metabolic Disorders:</strong> Conditions like hypercalciuria (excess calcium in urine) or cystinuria.</li>
-    <li><i class="fas fa-check-circle" style="color: var(--secondary-teal); margin-right: 8px;"></i> <strong>Anatomical Blockages:</strong> Slow urine drainage allows minerals to crystallize and grow into stones.</li>
-    <li><i class="fas fa-check-circle" style="color: var(--secondary-teal); margin-right: 8px;"></i> <strong>Dehydration:</strong> Inadequate fluid intake concentrates urine, increasing stone risk.</li>
+    <li><i class="fas fa-check-circle" style="color: var(--secondary-teal); margin-right: 8px;"></i> <strong>Metabolic Hypercalciuria & Cystinuria:</strong> Genetic or dietary excretion of excess calcium, oxalate, or cystine in urine.</li>
+    <li><i class="fas fa-check-circle" style="color: var(--secondary-teal); margin-right: 8px;"></i> <strong>Anatomical Obstruction:</strong> Conditions like <a href="pujo.php">PUJO</a> or <a href="hydronephrosis.php">hydronephrosis</a> causing urinary stasis and crystal precipitation.</li>
+    <li><i class="fas fa-check-circle" style="color: var(--secondary-teal); margin-right: 8px;"></i> <strong>Infection Calculi (Struvite):</strong> Recurrent <a href="uti.php">urinary tract infections</a> caused by urease-producing bacteria.</li>
 </ul>
 
-<h3 class="mt-4">Signs of Pediatric Endourology & Stones</h3>
-<p>Children present with symptoms that differ from adults:</p>
+<h3 class="mt-4">Signs and Symptoms</h3>
+<p>Symptoms in young children differ from adults and require prompt evaluation:</p>
 <ul class="about-list">
-    <li><i class="fas fa-check-circle" style="color: var(--secondary-teal); margin-right: 8px;"></i> <strong>Sudden, Severe Pain:</strong> Sharp pain in the lower back, side (flank), or lower abdomen.</li>
-    <li><i class="fas fa-check-circle" style="color: var(--secondary-teal); margin-right: 8px;"></i> <strong>Hematuria:</strong> Pink, red, or brown blood in the urine.</li>
-    <li><i class="fas fa-check-circle" style="color: var(--secondary-teal); margin-right: 8px;"></i> <strong>Painful/Frequent Urination:</strong> Crying during urination (especially in infants) or constant urgency.</li>
-    <li><i class="fas fa-check-circle" style="color: var(--secondary-teal); margin-right: 8px;"></i> <strong>UTIs & Fever:</strong> High fever and chills indicating a stone block paired with infection.</li>
+    <li><i class="fas fa-check-circle" style="color: var(--secondary-teal); margin-right: 8px;"></i> <strong>Flank & Abdominal Colic:</strong> Paroxysmal severe abdominal pain, fussiness, or crying in non-verbal infants.</li>
+    <li><i class="fas fa-check-circle" style="color: var(--secondary-teal); margin-right: 8px;"></i> <strong>Gross or Microscopic Hematuria:</strong> Reddish or tea-colored urine resulting from stone mucosal trauma.</li>
+    <li><i class="fas fa-check-circle" style="color: var(--secondary-teal); margin-right: 8px;"></i> <strong>Dysuria & Irritative Voiding:</strong> Burning sensation or frequent painful urination (often related to <a href="voiding-dysfunction.php">voiding dysfunction</a>).</li>
+</ul>
+
+<h3 class="mt-4">Why Early Intervention Matters</h3>
+<p>Timely consultation and <strong>Pediatric Endourology treatment in Delhi</strong> is vital when urinary calculi cause severe colic, ureteric obstruction, or recurrent febrile urinary tract infections. Early laser dusting prevents acute renal impairment and relieves obstruction safely.</p>
+
+<h3 class="mt-4">Comprehensive Care Approach</h3>
+<p>Our pediatric endourology clinic in Vasant Vihar, New Delhi, features ultra-miniaturized technologies:</p>
+<ul class="about-list">
+    <li><i class="fas fa-check-circle" style="color: var(--secondary-teal); margin-right: 8px;"></i> <strong>RIRS (Retrograde Intrarenal Surgery):</strong> Incisionless laser dusting using 7.5 Fr flexible ureteroscopes.</li>
+    <li><i class="fas fa-check-circle" style="color: var(--secondary-teal); margin-right: 8px;"></i> <strong>Mini-PCNL (Miniaturized PCNL):</strong> Ultra-fine 11-14 Fr keyhole tract for clearing large kidney stones in infants.</li>
+    <li><i class="fas fa-check-circle" style="color: var(--secondary-teal); margin-right: 8px;"></i> <strong>Metabolic Evaluation & Prevention:</strong> Comprehensive 24-hour urine metabolic testing to customize preventative therapies.</li>
 </ul>
 
             </div>
@@ -65,9 +174,9 @@ EOD;
             <div class="sidebar fade-in-up" style="animation-delay: 0.2s">
                 <h4 class="mb-3">Other Services</h4>
                 <ul class="sidebar-links">
-                                        <li><a href="hypospadias.php">Hypospadias Surgery</a></li>
+                    <li><a href="hypospadias.php">Hypospadias Surgery</a></li>
                     <li><a href="pediatric-robotic-surgery.php">Pediatric Robotic Surgery</a></li>
-                    <li><a href="uti.php">UTI</a></li>
+                    <li><a href="uti.php">UTI Treatment</a></li>
                     <li><a href="vesicoureteric-reflux.php">Vesicoureteric Reflux</a></li>
                     <li><a href="hernia-hydrocele.php">Hernia and Hydrocele</a></li>
                     <li><a href="hydronephrosis.php">Hydronephrosis</a></li>
@@ -100,45 +209,42 @@ EOD;
             <div class="grid-3 mt-5">
                 <div class="card fade-in-up">
                     <div class="service-icon"><i class="fas fa-bolt"></i></div>
-                    <h3>Laser Lithotripsy (RIRS)</h3>
-                    <p>Using a flexible endoscope and Holmium laser to vaporize kidney stones into fine dust without incisions.</p>
+                    <h3>Incisionless Laser RIRS</h3>
+                    <p>Passing a ultra-slim flexible video endoscope through the urethra to pulverize kidney stones with Holmium laser.</p>
                 </div>
                 <div class="card fade-in-up" style="animation-delay: 0.1s">
                     <div class="service-icon"><i class="fas fa-compress"></i></div>
-                    <h3>Mini-PCNL</h3>
-                    <p>A miniature keyhole entry through the back to break and vacuum out large kidney stones.</p>
+                    <h3>Mini-PCNL Keyhole Surgery</h3>
+                    <p>Miniature 11 Fr keyhole entry through the flank to fragment and vacuum out complex or staghorn kidney stones.</p>
                 </div>
                 <div class="card fade-in-up" style="animation-delay: 0.2s">
-                    <div class="service-icon"><i class="fas fa-apple-alt"></i></div>
-                    <h3>Metabolic Profiling</h3>
-                    <p>Analyzing stone composition and urine parameters to design preventative diets and medical therapies.</p>
+                    <div class="service-icon"><i class="fas fa-flask"></i></div>
+                    <h3>Metabolic Profiling & Prophylaxis</h3>
+                    <p>24-hour urine metabolic evaluation, stone composition analysis, and tailored dietary or medical prophylaxis.</p>
                 </div>
             </div>
         </div>
     </section>
 
     <!-- Surgical Process -->
-    <section class="section bg-light">
+    <section class="section">
         <div class="container">
             <div class="section-title fade-in-up">
-                <h4 class="accent-text">Clinical Path</h4>
+                <h4 class="accent-text">Step-by-Step</h4>
                 <h2>The Surgical Process</h2>
             </div>
             <div class="grid-3 mt-5">
-                <div class="process-step card fade-in-up">
-                    <div class="step-number">01</div>
-                    <h4>Stone Mapping</h4>
-                    <p>High-resolution ultrasound or low-dose non-contrast CT scan to locate the stones and measure their density.</p>
+                <div class="process-step fade-in-up card">
+                    <h4 style="color:var(--secondary-teal)">01. Low-Dose Imaging & Mapping</h4>
+                    <p>Low-radiation CT or ultrasound to locate stones accurately and evaluate urinary tract anatomy.</p>
                 </div>
-                <div class="process-step card fade-in-up" style="animation-delay: 0.1s">
-                    <div class="step-number">02</div>
-                    <h4>Laser Fragmentation</h4>
-                    <p>Daycare or short-stay endoscopic surgery to pulverize the stones. A temporary internal stent (DJ stent) is placed.</p>
+                <div class="process-step fade-in-up card" style="animation-delay: 0.1s">
+                    <h4 style="color:var(--secondary-teal)">02. Incisionless Endoscopic Laser Dusting</h4>
+                    <p>Daycare laser fragmentation using pediatric scopes, followed by placement of a soft temporary DJ stent.</p>
                 </div>
-                <div class="process-step card fade-in-up" style="animation-delay: 0.2s">
-                    <div class="step-number">03</div>
-                    <h4>Metabolic Follow-up</h4>
-                    <p>Stent removal after 1-2 weeks, followed by a metabolic workup to check calcium, oxalate, and uric acid levels.</p>
+                <div class="process-step fade-in-up card" style="animation-delay: 0.2s">
+                    <h4 style="color:var(--secondary-teal)">03. Stent Removal & Metabolic Prevention</h4>
+                    <p>Quick daycare stent removal in 1-2 weeks, alongside metabolic profiling to prevent future stone formation.</p>
                 </div>
             </div>
         </div>
@@ -158,23 +264,23 @@ EOD;
                     <div class="stars">
                         <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i>
                     </div>
-                    <p class="quote">"Our 6-year-old had a painful kidney stone. Dr. Sujit performed laser lithotripsy (RIRS) and cleared the stone completely without any incision. Brilliant care!"</p>
+                    <p class="quote">"Our 6-year-old had a painful kidney stone. Consulting Dr. Sujit for Pediatric Stones treatment in Delhi was a blessing—his laser RIRS procedure cleared the stone completely without any incision!"</p>
                     <div class="author mt-3">
                         <h5>Mahesh K.</h5>
                         <span>Father of 6yo patient</span>
                     </div>
                 </div>
-                <div class="testimonial-card card" style="animation-delay: 0.1s">
+                <div class="testimonial-card card">
                     <div class="stars">
                         <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i>
                     </div>
-                    <p class="quote">"Minimally invasive cystoscopy for bladder stone removal was done as a daycare procedure. Our son recovered within 24 hours. Very satisfied."</p>
+                    <p class="quote">"Dr. Chowdhary's mastery in providing Pediatric Endourology treatment in Delhi made our infant's stone removal painless and quick. The daycare procedure was seamless."</p>
                     <div class="author mt-3">
                         <h5>Neelam J.</h5>
                         <span>Mother</span>
                     </div>
                 </div>
-                <div class="testimonial-card card" style="animation-delay: 0.2s">
+                <div class="testimonial-card card">
                     <div class="stars">
                         <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i>
                     </div>
@@ -184,7 +290,7 @@ EOD;
                         <span>Father</span>
                     </div>
                 </div>
-                <div class="testimonial-card card" style="animation-delay: 0.3s">
+                <div class="testimonial-card card">
                     <div class="stars">
                         <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i>
                     </div>
@@ -194,7 +300,7 @@ EOD;
                         <span>Mother</span>
                     </div>
                 </div>
-                <div class="testimonial-card card" style="animation-delay: 0.4s">
+                <div class="testimonial-card card">
                     <div class="stars">
                         <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i>
                     </div>
@@ -217,13 +323,13 @@ EOD;
             <div class="why-content fade-in-up" style="animation-delay: 0.2s">
                 <h4 class="accent-text">Urological Specialist</h4>
                 <h2>Why Choose Dr. Sujit Chowdhary?</h2>
-                <p>Urinary stones in children require miniaturized equipment and laser precision. Active metabolic screening helps prevent future recurrences.</p>
+                <p>Childhood urolithiasis requires precision laser fragmentation paired with comprehensive metabolic screening to prevent recurrence. Dr. Sujit Chowdhary offers world-class <strong>Pediatric Stones treatment in Delhi</strong> prioritizing stitchless, daycare endoscopic recovery.</p>
                 <ul class="about-list">
-                    <li><i class="fas fa-check-circle"></i> Specialist in advanced pediatric endourology and laser lithotripsy.</li>
-                    <li><i class="fas fa-check-circle"></i> High success rates in Mini-PCNL, RIRS, and endoscopic stone removal.</li>
-                    <li><i class="fas fa-check-circle"></i> Miniaturized instruments specifically designed for infants and children.</li>
-                    <li><i class="fas fa-check-circle"></i> Focus on metabolic evaluation to prevent future stone recurrence.</li>
-                    <li><i class="fas fa-check-circle"></i> Compassionate and child-centered post-operative recovery.</li>
+                    <li><i class="fas fa-check-circle"></i> 31+ Years of Exclusive Paediatric Endourology & Laser Lithotripsy Experience.</li>
+                    <li><i class="fas fa-check-circle"></i> Pioneer in stitchless <strong>Pediatric Endourology treatment in Delhi</strong>.</li>
+                    <li><i class="fas fa-check-circle"></i> High success rates in Mini-PCNL, RIRS, and endoscopic stone clearance.</li>
+                    <li><i class="fas fa-check-circle"></i> Equipped with ultra-miniaturized pediatric flexible video ureteroscopes.</li>
+                    <li><i class="fas fa-check-circle"></i> Complete metabolic screening program to eliminate future stone recurrence.</li>
                 </ul>
                 <a href="../about.php" class="btn btn-primary mt-4">Learn More About Doctor</a>
             </div>
@@ -231,7 +337,6 @@ EOD;
     </section>
 
     <!-- FAQ -->
-        <!-- FAQ -->
     <section class="section bg-light" id="faq">
         <div class="container">
             <div class="section-title fade-in-up">
@@ -247,61 +352,43 @@ EOD;
                         <i class="fas fa-plus"></i>
                     </div>
                     <div class="faq-content">
-                        <p>Kidney stones are less common in children than adults, but their incidence is rising due to dietary factors and metabolic abnormalities.</p>
+                        <p>While less frequent than in adults, pediatric urolithiasis is increasingly diagnosed due to metabolic risk factors, dietary changes, structural urinary blockages, or chronic dehydration.</p>
                     </div>
                 </div>
                 <div class="faq-item">
                     <div class="faq-header">
-                        <h5>What are the symptoms of kidney stones in a child?</h5>
+                        <h5>What is RIRS (Retrograde Intrarenal Surgery) in children?</h5>
                         <i class="fas fa-plus"></i>
                     </div>
                     <div class="faq-content">
-                        <p>Symptoms include severe flank or abdominal pain, blood in the urine (hematuria), nausea, vomiting, and recurrent UTIs.</p>
+                        <p>RIRS is an incisionless procedure where an ultra-thin, flexible video endoscope is passed through the urethra into the kidney calyces. A Holmium laser fiber is then used to pulverize the stone into fine dust.</p>
                     </div>
                 </div>
                 <div class="faq-item">
                     <div class="faq-header">
-                        <h5>What is PCNL (Percutaneous Nephrolithotomy) in children?</h5>
+                        <h5>What is Mini-PCNL for pediatric kidney stones?</h5>
                         <i class="fas fa-plus"></i>
                     </div>
                     <div class="faq-content">
-                        <p>PCNL is a minimally invasive procedure where a small scope is inserted through a tiny back incision to break and remove large kidney stones.</p>
+                        <p>Mini-PCNL is a keyhole surgical technique used for large renal stones (greater than 1.5 cm) where a miniature sheath (11-14 Fr) is placed through the back to break and vacuum out stone fragments safely.</p>
                     </div>
                 </div>
                 <div class="faq-item">
                     <div class="faq-header">
-                        <h5>What is Mini-PCNL?</h5>
+                        <h5>Why is a metabolic workup essential after stone removal in a child?</h5>
                         <i class="fas fa-plus"></i>
                     </div>
                     <div class="faq-content">
-                        <p>Mini-PCNL uses ultra-thin instruments (miniaturized scopes) designed specifically to perform safe stone removal in infants and young children.</p>
+                        <p>Children have a high stone recurrence rate of up to 50% if underlying metabolic causes (such as hypercalciuria, hyperoxaluria, or cystinuria) are not evaluated via 24-hour urine metabolic profiles and corrected with specific diets or medications.</p>
                     </div>
                 </div>
                 <div class="faq-item">
                     <div class="faq-header">
-                        <h5>What is RIRS (Retrograde Intrarenal Surgery)?</h5>
+                        <h5>Is a DJ stent required after pediatric stone surgery?</h5>
                         <i class="fas fa-plus"></i>
                     </div>
                     <div class="faq-content">
-                        <p>RIRS is a stitchless procedure where a flexible laser scope is passed through the urethra into the kidney to dust stones.</p>
-                    </div>
-                </div>
-                <div class="faq-item">
-                    <div class="faq-header">
-                        <h5>How can recurrent kidney stones be prevented in children?</h5>
-                        <i class="fas fa-plus"></i>
-                    </div>
-                    <div class="faq-content">
-                        <p>Prevention involves a metabolic workup (24-hour urine test), increased fluid intake, reduced sodium diet, and specific medical therapy.</p>
-                    </div>
-                </div>
-                <div class="faq-item">
-                    <div class="faq-header">
-                        <h5>Is a stent left in the ureter after stone surgery?</h5>
-                        <i class="fas fa-plus"></i>
-                    </div>
-                    <div class="faq-content">
-                        <p>A temporary soft tube (DJ Stent) is often left in place for 1 to 2 weeks to ensure urine flows freely while the ureter heals.</p>
+                        <p>A soft internal stent (Double-J stent) is temporarily placed for 1 to 2 weeks post-procedure to ensure free urinary drainage and prevent ureteric spasm while the urinary tract heals, followed by quick daycare removal.</p>
                     </div>
                 </div>
             </div>
