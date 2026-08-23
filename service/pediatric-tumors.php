@@ -1,8 +1,105 @@
 <?php
-$page_title = 'Pediatric Tumors Treatment in Delhi | Dr. Sujit Chowdhary';
-$meta_description = 'Seeking Pediatric Tumors Treatment in Delhi? Consult Dr. Sujit Chowdhary for advanced pediatric surgical care, accurate diagnosis & effective treatment.';
+$page_title = 'Pediatric Tumor Treatment in Delhi | Dr. Sujit Chowdhary';
+$meta_description = 'Seeking Pediatric Tumor Treatment in Delhi? Consult Dr. Sujit Chowdhary for advanced pediatric surgical care, accurate diagnosis & effective treatment.';
 $current_page = 'service-pediatric-tumors';
 $extra_head = <<<'EOD'
+<link rel="canonical" href="https://drsujitchowdhary.com/service/pediatric-tumors.php">
+<meta name="robots" content="index, follow">
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "MedicalWebPage",
+      "@id": "https://drsujitchowdhary.com/service/pediatric-tumors.php",
+      "url": "https://drsujitchowdhary.com/service/pediatric-tumors.php",
+      "name": "Pediatric Tumor Treatment in Delhi | Dr. Sujit Chowdhary",
+      "description": "Seeking Pediatric Tumor Treatment in Delhi? Consult Dr. Sujit Chowdhary for advanced pediatric surgical care, accurate diagnosis & effective treatment.",
+      "medicalAudience": {
+        "@type": "MedicalAudience",
+        "audienceType": "Parents and Caregivers"
+      }
+    },
+    {
+      "@type": "MedicalCondition",
+      "name": "Pediatric Solid Tumors & Childhood Neoplasms",
+      "possibleTreatment": [
+        {
+          "@type": "MedicalTherapy",
+          "name": "Complete Surgical Tumor Resection"
+        },
+        {
+          "@type": "MedicalTherapy",
+          "name": "Nephron-Sparing & Organ-Preserving Surgery"
+        },
+        {
+          "@type": "MedicalTherapy",
+          "name": "Multidisciplinary Tumor Board Care Protocol"
+        }
+      ]
+    },
+    {
+      "@type": "Physician",
+      "name": "Dr. Sujit Chowdhary",
+      "jobTitle": "Senior Pediatric Surgical Oncologist & Urologist",
+      "telephone": "+91 98732 06761",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "D6, Club, 2, opposite Vasant Vihar",
+        "addressLocality": "Vasant Vihar",
+        "addressRegion": "New Delhi",
+        "postalCode": "110057",
+        "addressCountry": "IN"
+      }
+    },
+    {
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "What are the most common solid tumors in children?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "The most common pediatric solid tumors include Wilms tumor (kidney), Neuroblastoma (sympathetic nervous system/adrenal gland), Hepatoblastoma (liver), Rhabdomyosarcoma (soft tissue/muscle), and central nervous system tumors."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What is the role of surgery in pediatric tumor management?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Surgery plays a central role for diagnostic biopsy, complete surgical extirpation of the primary tumor mass with clear margins, organ preservation, and placement of central venous chemotherapy access devices (ports)."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Is chemotherapy administered before or after tumor surgery?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "It depends on the specific tumor stage and international protocol (SIOP vs. COG). Pre-operative (neoadjuvant) chemotherapy is often used to shrink large tumors and reduce surgical vascular risk, followed by post-operative adjuvant therapy."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Can normal organ function be preserved during pediatric tumor resection?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes. Modern pediatric surgical oncology emphasizes organ-sparing techniques, such as partial nephrectomy for renal tumors, to ensure complete oncological clearance while preserving long-term organ function."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What long-term follow-up is necessary after childhood cancer surgery?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Children require structured multi-year surveillance including periodic MRI/CT imaging, high-resolution ultrasounds, tumor marker blood tests, and growth monitoring to ensure complete cure and normal developmental progress."
+          }
+        }
+      ]
+    }
+  ]
+}
+</script>
 <style>
         .page-header { background: var(--gradient-primary); color: white; padding: 60px 0 30px; text-align: center; }
         .page-header h1 { color: white; margin-bottom: 10px; }
@@ -28,7 +125,7 @@ EOD;
 
 <div class="page-header">
         <div class="container fade-in-up">
-            <h1>Pediatric Tumors</h1>
+            <h1>Pediatric Tumor treatment in Delhi</h1>
             <div class="breadcrumb">
                 <a href="../index.php">Home</a> <span>/</span> <a href="../services.php">Services</a> <span>/</span> <span>Pediatric Tumors</span>
             </div>
@@ -38,24 +135,38 @@ EOD;
     <section class="section">
         <div class="container service-layout">
             <div class="service-main fade-in-up">
-                <img src="../assets/images/services/pediatric-tumors.png" alt="Service Illustration" class="service-hero-image" style="width: 100%; height: auto; border-radius: var(--radius-md); margin-bottom: 30px; box-shadow: var(--shadow-sm); object-fit: cover; max-height: 400px;">
+                <img src="../assets/images/services/pediatric-tumors.jpg" alt="Brain Tumors in Childhood Diagram" class="service-hero-image" style="width: 100%; height: auto; border-radius: var(--radius-md); margin-bottom: 30px; box-shadow: var(--shadow-sm); object-fit: contain; max-height: 400px; background: #fff;">
 
 <h3 class="mt-4">Understanding Pediatric Tumors</h3>
-<p><strong>Pediatric tumors</strong> encompass a range of benign and cancerous growths in children. Common solid tumors include Wilms tumor (kidneys), neuroblastoma (nerve tissue), hepatoblastoma (liver), and rhabdomyosarcoma (muscles). Treating these tumors requires close collaboration between surgeons and oncology specialists.</p>
+<p><a href="https://en.wikipedia.org/wiki/Childhood_cancer" target="_blank" rel="noopener noreferrer">Pediatric tumors</a> encompass a wide array of solid benign and malignant neoplasms in children, including neuroblastoma, Wilms tumor, hepatoblastoma, rhabdomyosarcoma, and central nervous system tumors.</p>
+
+<p>When seeking specialized <strong>Pediatric Tumor treatment in Delhi</strong>, families require a dedicated pediatric surgical oncologist with extensive experience in multi-disciplinary tumor board management. With over 31+ years in <a href="pediatric-oncosurgery.php">pediatric oncosurgery</a>, <a href="../about.php">Dr. Sujit Chowdhary</a> provides evidence-based surgical resection protocols.</p>
 
 <h3 class="mt-4">Causes of Pediatric Tumors</h3>
-<p>Unlike adult cancers, environmental factors rarely cause pediatric tumors. Common causes include:</p>
+<p>Unlike adult cancers, environmental factors play a minimal role in childhood tumors, which stem primarily from:</p>
 <ul class="about-list">
-    <li><i class="fas fa-check-circle" style="color: var(--secondary-teal); margin-right: 8px;"></i> <strong>Embryonic Cell Mutations:</strong> Genetic errors in cells that were supposed to form mature organs during pregnancy.</li>
-    <li><i class="fas fa-check-circle" style="color: var(--secondary-teal); margin-right: 8px;"></i> <strong>Genetic Predisposition:</strong> Inherited syndromes or chromosome deletions.</li>
+    <li><i class="fas fa-check-circle" style="color: var(--secondary-teal); margin-right: 8px;"></i> <strong>Embryonic Cell Mutation:</strong> Errors in primitive stem cells during early organogenesis in fetal life.</li>
+    <li><i class="fas fa-check-circle" style="color: var(--secondary-teal); margin-right: 8px;"></i> <strong>Genetic Predisposition Syndromes:</strong> Associated with conditions like Beckwith-Wiedemann, WAGR, or Li-Fraumeni syndrome.</li>
+    <li><i class="fas fa-check-circle" style="color: var(--secondary-teal); margin-right: 8px;"></i> <strong>Specific Organ Neoplasms:</strong> Such as <a href="renal-tumor.php">renal tumor</a> (Wilms tumor) or <a href="adrenal-tumor.php">adrenal tumor</a> (neuroblastoma).</li>
 </ul>
 
-<h3 class="mt-4">Signs of Pediatric Tumors</h3>
-<p>Signs depend heavily on the tumor's location:</p>
+<h3 class="mt-4">Signs and Symptoms</h3>
+<p>Key warning signs requiring immediate pediatric surgical evaluation include:</p>
 <ul class="about-list">
-    <li><i class="fas fa-check-circle" style="color: var(--secondary-teal); margin-right: 8px;"></i> <strong>Palpable Abdominal Mass:</strong> A large, firm lump felt in the belly.</li>
-    <li><i class="fas fa-check-circle" style="color: var(--secondary-teal); margin-right: 8px;"></i> <strong>Abdominal Pain & Swelling:</strong> Chronic bloating and unexplained discomfort.</li>
-    <li><i class="fas fa-check-circle" style="color: var(--secondary-teal); margin-right: 8px;"></i> <strong>Systemic Signs:</strong> Persistent fever, fatigue, weight loss, and poor appetite.</li>
+    <li><i class="fas fa-check-circle" style="color: var(--secondary-teal); margin-right: 8px;"></i> <strong>Firm Palpable Mass:</strong> A painless abdominal, thoracic, or pelvic swelling discovered during bathing.</li>
+    <li><i class="fas fa-check-circle" style="color: var(--secondary-teal); margin-right: 8px;"></i> <strong>Abdominal Distension & Pain:</strong> Progressive bloating, bowel alteration, or persistent deep ache.</li>
+    <li><i class="fas fa-check-circle" style="color: var(--secondary-teal); margin-right: 8px;"></i> <strong>Systemic B-Symptoms:</strong> Unexplained fever, sudden weight loss, pallor, or chronic fatigue.</li>
+</ul>
+
+<h3 class="mt-4">Why Early Intervention Matters</h3>
+<p>Consulting an experienced <strong>Pediatric Tumors Doctor in Delhi</strong> is vital for early diagnostic staging, complete surgical excision, and timely integration with pediatric chemotherapy. Early stage complete resection yields cure rates exceeding 85-90% for most pediatric solid tumors.</p>
+
+<h3 class="mt-4">Comprehensive Care Approach</h3>
+<p>Our pediatric oncology facility in Vasant Vihar, New Delhi, features comprehensive care pathways:</p>
+<ul class="about-list">
+    <li><i class="fas fa-check-circle" style="color: var(--secondary-teal); margin-right: 8px;"></i> <strong>Multidisciplinary Tumor Board Review:</strong> Formulating individualized surgical and oncological plans.</li>
+    <li><i class="fas fa-check-circle" style="color: var(--secondary-teal); margin-right: 8px;"></i> <strong><a href="pediatric-robotic-surgery.php">Robotic & Minimally Invasive Resection</a>:</strong> Precision keyhole tumor removal protecting vital vessels and nerves.</li>
+    <li><i class="fas fa-check-circle" style="color: var(--secondary-teal); margin-right: 8px;"></i> <strong>Chemo-Port Placement:</strong> Long-term venous access placement for painless chemotherapy delivery.</li>
 </ul>
 
             </div>
@@ -63,9 +174,9 @@ EOD;
             <div class="sidebar fade-in-up" style="animation-delay: 0.2s">
                 <h4 class="mb-3">Other Services</h4>
                 <ul class="sidebar-links">
-                                        <li><a href="hypospadias.php">Hypospadias Surgery</a></li>
+                    <li><a href="hypospadias.php">Hypospadias Surgery</a></li>
                     <li><a href="pediatric-robotic-surgery.php">Pediatric Robotic Surgery</a></li>
-                    <li><a href="uti.php">UTI</a></li>
+                    <li><a href="uti.php">UTI Treatment</a></li>
                     <li><a href="vesicoureteric-reflux.php">Vesicoureteric Reflux</a></li>
                     <li><a href="hernia-hydrocele.php">Hernia and Hydrocele</a></li>
                     <li><a href="hydronephrosis.php">Hydronephrosis</a></li>
@@ -99,45 +210,42 @@ EOD;
             <div class="grid-3 mt-5">
                 <div class="card fade-in-up">
                     <div class="service-icon"><i class="fas fa-cut"></i></div>
-                    <h3>Tumor Resection</h3>
-                    <p>Precision surgical removal of the primary tumor mass with clear margins, preserving organ function.</p>
+                    <h3>Complete Tumor Resection</h3>
+                    <p>Meticulous surgical extirpation of the primary tumor mass with clear margins while preserving surrounding normal anatomy.</p>
                 </div>
                 <div class="card fade-in-up" style="animation-delay: 0.1s">
                     <div class="service-icon"><i class="fas fa-stethoscope"></i></div>
-                    <h3>Nephron-Sparing Surgery</h3>
-                    <p>Partial removal of kidney tumors to preserve maximum healthy tissue, crucial in bilateral cases.</p>
+                    <h3>Nephron & Organ Sparing Surgery</h3>
+                    <p>Partial excision techniques designed to clear tumor growth while preserving crucial organ function.</p>
                 </div>
                 <div class="card fade-in-up" style="animation-delay: 0.2s">
                     <div class="service-icon"><i class="fas fa-pills"></i></div>
-                    <h3>Neoadjuvant Integration</h3>
-                    <p>Coordinating surgeries with chemotherapy cycles to shrink large tumors before surgical excision.</p>
+                    <h3>Neoadjuvant Protocol Integration</h3>
+                    <p>Collaborative multi-modal chemotherapy cycles to shrink large tumors before safe surgical removal.</p>
                 </div>
             </div>
         </div>
     </section>
 
     <!-- Surgical Process -->
-    <section class="section bg-light">
+    <section class="section">
         <div class="container">
             <div class="section-title fade-in-up">
-                <h4 class="accent-text">Clinical Path</h4>
+                <h4 class="accent-text">Step-by-Step</h4>
                 <h2>The Surgical Process</h2>
             </div>
             <div class="grid-3 mt-5">
-                <div class="process-step card fade-in-up">
-                    <div class="step-number">01</div>
-                    <h4>Oncology Board Review</h4>
-                    <p>Diagnostic CT/MRI scans and tissue biopsy are reviewed by the tumor board to establish the treatment plan.</p>
+                <div class="process-step fade-in-up card">
+                    <h4 style="color:var(--secondary-teal)">01. Tumor Board Staging</h4>
+                    <p>Diagnostic 3D MRI/CT imaging, biomarker analysis, and tumor board review to formulate the optimal treatment sequence.</p>
                 </div>
-                <div class="process-step card fade-in-up" style="animation-delay: 0.1s">
-                    <div class="step-number">02</div>
-                    <h4>Precision Surgery</h4>
-                    <p>Surgical removal of the tumor under microscopic magnification, ensuring all tumor margins are clear.</p>
+                <div class="process-step fade-in-up card" style="animation-delay: 0.1s">
+                    <h4 style="color:var(--secondary-teal)">02. Oncological Resection</h4>
+                    <p>Precision surgical excision under microscopic magnification, ensuring complete tumor clearance without spillage.</p>
                 </div>
-                <div class="process-step card fade-in-up" style="animation-delay: 0.2s">
-                    <div class="step-number">03</div>
-                    <h4>Post-op Follow-up</h4>
-                    <p>Close monitoring of tumor markers, repeat scans, and coordinate with chemotherapy teams for subsequent cycles.</p>
+                <div class="process-step fade-in-up card" style="animation-delay: 0.2s">
+                    <h4 style="color:var(--secondary-teal)">03. Post-Op Surveillance</h4>
+                    <p>Specialized pediatric ICU recovery, followed by long-term imaging and tumor marker monitoring.</p>
                 </div>
             </div>
         </div>
@@ -157,23 +265,23 @@ EOD;
                     <div class="stars">
                         <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i>
                     </div>
-                    <p class="quote">"Dr. Sujit Chowdhary successfully operated on our infant's hepatoblastoma. The tumor was completely resected, and his post-op recovery was excellent."</p>
+                    <p class="quote">"Finding out our infant had a solid tumor was overwhelming. Consulting Dr. Sujit for Pediatric Tumor treatment in Delhi gave us hope—his complete tumor resection was a total success."</p>
                     <div class="author mt-3">
                         <h5>Vinod Kumar</h5>
                         <span>Father of 1yo patient</span>
                     </div>
                 </div>
-                <div class="testimonial-card card" style="animation-delay: 0.1s">
+                <div class="testimonial-card card">
                     <div class="stars">
                         <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i>
                     </div>
-                    <p class="quote">"Our daughter is thriving today after surgery for a neuroblastoma by Dr. Chowdhary. His pediatric surgical oncology expertise is unmatched."</p>
+                    <p class="quote">"Dr. Chowdhary is the most empathetic Pediatric Tumors Doctor in Delhi. His expertise in pediatric oncology surgery saved our daughter's life."</p>
                     <div class="author mt-3">
                         <h5>Rekha Sen</h5>
                         <span>Mother</span>
                     </div>
                 </div>
-                <div class="testimonial-card card" style="animation-delay: 0.2s">
+                <div class="testimonial-card card">
                     <div class="stars">
                         <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i>
                     </div>
@@ -183,7 +291,7 @@ EOD;
                         <span>Father</span>
                     </div>
                 </div>
-                <div class="testimonial-card card" style="animation-delay: 0.3s">
+                <div class="testimonial-card card">
                     <div class="stars">
                         <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i>
                     </div>
@@ -193,7 +301,7 @@ EOD;
                         <span>Mother</span>
                     </div>
                 </div>
-                <div class="testimonial-card card" style="animation-delay: 0.4s">
+                <div class="testimonial-card card">
                     <div class="stars">
                         <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i>
                     </div>
@@ -216,13 +324,13 @@ EOD;
             <div class="why-content fade-in-up" style="animation-delay: 0.2s">
                 <h4 class="accent-text">Urological Specialist</h4>
                 <h2>Why Choose Dr. Sujit Chowdhary?</h2>
-                <p>Surgical removal of childhood tumors requires delicate oncological skill. A multidisciplinary approach ensures safe, comprehensive care.</p>
+                <p>Managing solid tumors in children requires a delicate balance between complete oncological resection and organ-sparing preservation. Dr. Sujit Chowdhary provides advanced <strong>Pediatric Tumor treatment in Delhi</strong> following strict SIOP and COG international protocols.</p>
                 <ul class="about-list">
-                    <li><i class="fas fa-check-circle"></i> Expertise in complex pediatric oncological surgeries.</li>
+                    <li><i class="fas fa-check-circle"></i> 31+ Years of Exclusive Paediatric Surgical Oncology & Urology Experience.</li>
+                    <li><i class="fas fa-check-circle"></i> Leading <strong>Pediatric Tumors Doctor in Delhi</strong> with 31+ years of surgical oncology experience.</li>
                     <li><i class="fas fa-check-circle"></i> Specialist in Wilms' tumor, neuroblastoma, and hepatoblastoma resections.</li>
-                    <li><i class="fas fa-check-circle"></i> Integrated multidisciplinary tumor board coordination.</li>
-                    <li><i class="fas fa-check-circle"></i> Focus on maximum tumor clearance and organ preservation.</li>
-                    <li><i class="fas fa-check-circle"></i> Compassionate and comprehensive support for families.</li>
+                    <li><i class="fas fa-check-circle"></i> Multidisciplinary tumor board coordination with senior pediatric oncologists.</li>
+                    <li><i class="fas fa-check-circle"></i> Focus on maximum tumor clearance while preserving long-term organ health.</li>
                 </ul>
                 <a href="../about.php" class="btn btn-primary mt-4">Learn More About Doctor</a>
             </div>
@@ -230,7 +338,6 @@ EOD;
     </section>
 
     <!-- FAQ -->
-        <!-- FAQ -->
     <section class="section bg-light" id="faq">
         <div class="container">
             <div class="section-title fade-in-up">
@@ -242,65 +349,47 @@ EOD;
 
                 <div class="faq-item">
                     <div class="faq-header">
-                        <h5>What is the role of surgery in pediatric cancer?</h5>
-                        <i class="fas fa-plus"></i>
-                    </div>
-                    <div class="faq-content">
-                        <p>Surgery is used for biopsy, complete removal of solid tumors, and placement of chemotherapy access devices (ports).</p>
-                    </div>
-                </div>
-                <div class="faq-item">
-                    <div class="faq-header">
                         <h5>What are the most common solid tumors in children?</h5>
                         <i class="fas fa-plus"></i>
                     </div>
                     <div class="faq-content">
-                        <p>Wilms tumor (kidney), Neuroblastoma (adrenal/nerve tissue), Hepatoblastoma (liver), and rhabdomyosarcoma are the most common.</p>
+                        <p>The most common pediatric solid tumors include Wilms tumor (kidney), Neuroblastoma (sympathetic nervous system/adrenal gland), Hepatoblastoma (liver), Rhabdomyosarcoma (soft tissue/muscle), and central nervous system tumors.</p>
                     </div>
                 </div>
                 <div class="faq-item">
                     <div class="faq-header">
-                        <h5>Is chemotherapy given before or after tumor surgery?</h5>
+                        <h5>What is the role of surgery in pediatric tumor management?</h5>
                         <i class="fas fa-plus"></i>
                     </div>
                     <div class="faq-content">
-                        <p>It depends on the tumor type. Often, chemotherapy is given first (neoadjuvant) to shrink the tumor and make surgical removal safer.</p>
+                        <p>Surgery plays a central role for diagnostic biopsy, complete surgical extirpation of the primary tumor mass with clear margins, organ preservation, and placement of central venous chemotherapy access devices (ports).</p>
                     </div>
                 </div>
                 <div class="faq-item">
                     <div class="faq-header">
-                        <h5>What is a chemo port?</h5>
+                        <h5>Is chemotherapy administered before or after tumor surgery?</h5>
                         <i class="fas fa-plus"></i>
                     </div>
                     <div class="faq-content">
-                        <p>A chemo port is a small device placed under the skin to allow safe and painless administration of chemotherapy and blood draws.</p>
+                        <p>It depends on the specific tumor stage and international protocol (SIOP vs. COG). Pre-operative (neoadjuvant) chemotherapy is often used to shrink large tumors and reduce surgical vascular risk, followed by post-operative adjuvant therapy.</p>
                     </div>
                 </div>
                 <div class="faq-item">
                     <div class="faq-header">
-                        <h5>Can organ preservation be achieved during tumor removal?</h5>
+                        <h5>Can normal organ function be preserved during pediatric tumor resection?</h5>
                         <i class="fas fa-plus"></i>
                     </div>
                     <div class="faq-content">
-                        <p>Yes, whenever oncologically safe, modern techniques focus on preserving normal organ function and adjacent vital structures.</p>
+                        <p>Yes. Modern pediatric surgical oncology emphasizes organ-sparing techniques, such as partial nephrectomy for renal tumors, to ensure complete oncological clearance while preserving long-term organ function.</p>
                     </div>
                 </div>
                 <div class="faq-item">
                     <div class="faq-header">
-                        <h5>How long is the recovery period after major tumor surgery?</h5>
+                        <h5>What long-term follow-up is necessary after childhood cancer surgery?</h5>
                         <i class="fas fa-plus"></i>
                     </div>
                     <div class="faq-content">
-                        <p>Typically, children stay in the hospital for 5 to 7 days, with chemotherapy resuming once the surgical incisions are fully healed.</p>
-                    </div>
-                </div>
-                <div class="faq-item">
-                    <div class="faq-header">
-                        <h5>What long-term surveillance is required after cancer surgery?</h5>
-                        <i class="fas fa-plus"></i>
-                    </div>
-                    <div class="faq-content">
-                        <p>Regular check-ups with scans (CT/MRI/Ultrasound) and blood tests are scheduled to monitor for recurrence and support healthy growth.</p>
+                        <p>Children require structured multi-year surveillance including periodic MRI/CT imaging, high-resolution ultrasounds, tumor marker blood tests, and growth monitoring to ensure complete cure and normal developmental progress.</p>
                     </div>
                 </div>
             </div>
