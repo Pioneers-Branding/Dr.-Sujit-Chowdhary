@@ -7,11 +7,69 @@
     RewriteRule ^index\.php$ https://drsujitchowdhary.com/ [R=301,L]
 
     # 301 Redirect deleted undescended testis service to homepage
-    RewriteRule ^service/undescended-testis(\.php)?$ / [R=301,L]
-    RewriteRule ^service-undescended-testis(\.(php|html))?$ / [R=301,L]
+    RewriteRule ^service/undescended-testis(\.php)?$ https://drsujitchowdhary.com/ [R=301,L]
+    RewriteRule ^service-undescended-testis(\.(php|html))?$ https://drsujitchowdhary.com/ [R=301,L]
 
-    # 301 Redirect old service-name.php, service-name.html, or service-name to /service/name.php
-    RewriteRule ^service-([a-z0-9-]+)(\.(php|html))?$ /service/$1.php [R=301,L]
+    # 301 Redirect service pages using RewriteRule (Apache mod_rewrite compatible)
+    RewriteRule ^service-absent-testis(\.php)?$ https://drsujitchowdhary.com/service/absent-testis.php [R=301,L]
+    RewriteRule ^service-adrenal-tumor(\.php)?$ https://drsujitchowdhary.com/service/adrenal-tumor.php [R=301,L]
+    RewriteRule ^service-anorectal-malformation(\.php)?$ https://drsujitchowdhary.com/service/anorectal-malformation.php [R=301,L]
+    RewriteRule ^service-biliary-atresia(\.php)?$ https://drsujitchowdhary.com/service/biliary-atresia.php [R=301,L]
+    RewriteRule ^service-choledochal-cyst(\.php)?$ https://drsujitchowdhary.com/service/choledochal-cyst.php [R=301,L]
+    RewriteRule ^service-duplex-renal-system(\.php)?$ https://drsujitchowdhary.com/service/duplex-renal-system.php [R=301,L]
+    RewriteRule ^service-exstrophy-epispadias(\.php)?$ https://drsujitchowdhary.com/service/exstrophy-epispadias.php [R=301,L]
+    RewriteRule ^service-hernia-hydrocele(\.php)?$ https://drsujitchowdhary.com/service/hernia-hydrocele.php [R=301,L]
+    RewriteRule ^service-hirschsprung(\.php)?$ https://drsujitchowdhary.com/service/hirschsprung.php [R=301,L]
+    RewriteRule ^service-hydronephrosis(\.php)?$ https://drsujitchowdhary.com/service/hydronephrosis.php [R=301,L]
+    RewriteRule ^service-hypospadias(\.php)?$ https://drsujitchowdhary.com/service/hypospadias.php [R=301,L]
+    RewriteRule ^service-neuropathic-bladder(\.php)?$ https://drsujitchowdhary.com/service/neuropathic-bladder.php [R=301,L]
+    RewriteRule ^service-paediatric-gi(\.php)?$ https://drsujitchowdhary.com/service/paediatric-gi.php [R=301,L]
+    RewriteRule ^service-pediatric-gi-surgery(\.php)?$ https://drsujitchowdhary.com/service/pediatric-gi-surgery.php [R=301,L]
+    RewriteRule ^service-pediatric-oncosurgery(\.php)?$ https://drsujitchowdhary.com/service/pediatric-oncosurgery.php [R=301,L]
+    RewriteRule ^service-pediatric-robotic-surgery(\.php)?$ https://drsujitchowdhary.com/service/pediatric-robotic-surgery.php [R=301,L]
+    RewriteRule ^service-pediatric-stone-disease(\.php)?$ https://drsujitchowdhary.com/service/pediatric-stone-disease.php [R=301,L]
+    RewriteRule ^service-pediatric-tumors(\.php)?$ https://drsujitchowdhary.com/service/pediatric-tumors.php [R=301,L]
+    RewriteRule ^service-pediatric-urodynamics(\.php)?$ https://drsujitchowdhary.com/service/pediatric-urodynamics.php [R=301,L]
+    RewriteRule ^service-phimosis(\.php)?$ https://drsujitchowdhary.com/service/phimosis.php [R=301,L]
+    RewriteRule ^service-pujo(\.php)?$ https://drsujitchowdhary.com/service/pujo.php [R=301,L]
+    RewriteRule ^service-puv(\.php)?$ https://drsujitchowdhary.com/service/puv.php [R=301,L]
+    RewriteRule ^service-renal-tumor(\.php)?$ https://drsujitchowdhary.com/service/renal-tumor.php [R=301,L]
+    RewriteRule ^service-thoracoscopic-surgery(\.php)?$ https://drsujitchowdhary.com/service/thoracoscopic-surgery.php [R=301,L]
+    RewriteRule ^service-uti(\.php)?$ https://drsujitchowdhary.com/service/uti.php [R=301,L]
+    RewriteRule ^service-vesicoureteric-reflux(\.php)?$ https://drsujitchowdhary.com/service/vesicoureteric-reflux.php [R=301,L]
+    RewriteRule ^service-voiding-dysfunction(\.php)?$ https://drsujitchowdhary.com/service/voiding-dysfunction.php [R=301,L]
+
+    # Catch-all pattern for old service-name.php, service-name.html, or service-name to /service/name.php
+    RewriteRule ^service-([a-z0-9-]+)(\.(php|html))?$ https://drsujitchowdhary.com/service/$1.php [R=301,L]
+
+    # 301 Redirect directives (mod_alias fallback)
+    Redirect 301 /service-absent-testis.php https://drsujitchowdhary.com/service/absent-testis.php
+    Redirect 301 /service-adrenal-tumor.php https://drsujitchowdhary.com/service/adrenal-tumor.php
+    Redirect 301 /service-anorectal-malformation.php https://drsujitchowdhary.com/service/anorectal-malformation.php
+    Redirect 301 /service-biliary-atresia.php https://drsujitchowdhary.com/service/biliary-atresia.php
+    Redirect 301 /service-choledochal-cyst.php https://drsujitchowdhary.com/service/choledochal-cyst.php
+    Redirect 301 /service-duplex-renal-system.php https://drsujitchowdhary.com/service/duplex-renal-system.php
+    Redirect 301 /service-exstrophy-epispadias.php https://drsujitchowdhary.com/service/exstrophy-epispadias.php
+    Redirect 301 /service-hernia-hydrocele.php https://drsujitchowdhary.com/service/hernia-hydrocele.php
+    Redirect 301 /service-hirschsprung.php https://drsujitchowdhary.com/service/hirschsprung.php
+    Redirect 301 /service-hydronephrosis.php https://drsujitchowdhary.com/service/hydronephrosis.php
+    Redirect 301 /service-hypospadias.php https://drsujitchowdhary.com/service/hypospadias.php
+    Redirect 301 /service-neuropathic-bladder.php https://drsujitchowdhary.com/service/neuropathic-bladder.php
+    Redirect 301 /service-paediatric-gi.php https://drsujitchowdhary.com/service/paediatric-gi.php
+    Redirect 301 /service-pediatric-gi-surgery.php https://drsujitchowdhary.com/service/pediatric-gi-surgery.php
+    Redirect 301 /service-pediatric-oncosurgery.php https://drsujitchowdhary.com/service/pediatric-oncosurgery.php
+    Redirect 301 /service-pediatric-robotic-surgery.php https://drsujitchowdhary.com/service/pediatric-robotic-surgery.php
+    Redirect 301 /service-pediatric-stone-disease.php https://drsujitchowdhary.com/service/pediatric-stone-disease.php
+    Redirect 301 /service-pediatric-tumors.php https://drsujitchowdhary.com/service/pediatric-tumors.php
+    Redirect 301 /service-pediatric-urodynamics.php https://drsujitchowdhary.com/service/pediatric-urodynamics.php
+    Redirect 301 /service-phimosis.php https://drsujitchowdhary.com/service/phimosis.php
+    Redirect 301 /service-pujo.php https://drsujitchowdhary.com/service/pujo.php
+    Redirect 301 /service-puv.php https://drsujitchowdhary.com/service/puv.php
+    Redirect 301 /service-renal-tumor.php https://drsujitchowdhary.com/service/renal-tumor.php
+    Redirect 301 /service-thoracoscopic-surgery.php https://drsujitchowdhary.com/service/thoracoscopic-surgery.php
+    Redirect 301 /service-uti.php https://drsujitchowdhary.com/service/uti.php
+    Redirect 301 /service-vesicoureteric-reflux.php https://drsujitchowdhary.com/service/vesicoureteric-reflux.php
+    Redirect 301 /service-voiding-dysfunction.php https://drsujitchowdhary.com/service/voiding-dysfunction.php
 
     # 301 Redirect any other .html requests to .php equivalent
     RewriteCond %{THE_REQUEST} \s/+(.+)\.html[\s?] [NC]
