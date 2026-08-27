@@ -42,6 +42,22 @@ EOD;
                 <!-- Featured Blog Card 1 -->
                 <div class="card fade-in-up" style="padding: 0; overflow: hidden;">
                     <div style="height: 200px; overflow: hidden;">
+                        <img src="assets/images/blog/hydronephrosis-in-children.jpg" alt="Hydronephrosis in Children | Symptoms, Diagnosis & Treatment" style="width: 100%; height: 100%; object-fit: cover;">
+                    </div>
+                    <div style="padding: 25px;">
+                        <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 8px;">
+                            <span style="color: var(--secondary-teal); font-weight: 600; font-size: 0.85rem;">Pediatric Urology</span>
+                            <span style="color: #777; font-size: 0.8rem;"><i class="fas fa-calendar-alt"></i> 12 Aug 2026</span>
+                        </div>
+                        <h3 style="font-size: 1.25rem; line-height: 1.4;">Hydronephrosis in Children | Symptoms, Diagnosis & Treatment</h3>
+                        <p class="mt-2" style="font-size: 0.92rem; color: #555;">Learn about pediatric kidney swelling, antenatal vs postnatal causes like PUJO and VUR, symptoms, SFU grading, and treatment...</p>
+                        <a href="blog/hydronephrosis-in-children.php" class="btn btn-outline mt-3" style="padding: 8px 15px; font-size: 0.9rem;">Read More</a>
+                    </div>
+                </div>
+
+                <!-- Featured Blog Card 2 -->
+                <div class="card fade-in-up" style="animation-delay: 0.1s; padding: 0; overflow: hidden;">
+                    <div style="height: 200px; overflow: hidden;">
                         <img src="assets/images/blog/causes-of-red-urine-in-a-child.png" alt="Causes of Red Urine in a Child? {Complete Guide}" style="width: 100%; height: 100%; object-fit: cover;">
                     </div>
                     <div style="padding: 25px;">
