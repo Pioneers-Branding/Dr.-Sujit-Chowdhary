@@ -1,5 +1,5 @@
 <?php
-$page_title = 'How to recognize urological problems in newborns';
+$page_title = 'How to Recognize Urological problems in Newborns?';
 $meta_description = 'Learn how to recognize urological problems in newborns, including visual diaper signs, weak urine stream, scrotal swelling, hypospadias, UTIs, and expert pediatric urology care.';
 $current_page = 'blog';
 $path_prefix = '../';
@@ -14,7 +14,7 @@ $extra_head = <<<'EOD'
       "@type": "BlogPosting",
       "@id": "https://drsujitchowdhary.com/blog/how-to-recognize-urological-problems-in-newborns.php#blogposting",
       "url": "https://drsujitchowdhary.com/blog/how-to-recognize-urological-problems-in-newborns.php",
-      "headline": "How to recognize urological problems in newborns",
+      "headline": "How to Recognize Urological problems in Newborns?",
       "description": "A detailed parent guide on recognizing urological problems in newborns, physical signs in diaper changes, urinary stream anomalies, scrotal swelling, and early diagnostic evaluation.",
       "datePublished": "2026-08-18",
       "dateModified": "2026-08-18",
@@ -41,7 +41,7 @@ $extra_head = <<<'EOD'
       "@type": "MedicalWebPage",
       "@id": "https://drsujitchowdhary.com/blog/how-to-recognize-urological-problems-in-newborns.php#webpage",
       "url": "https://drsujitchowdhary.com/blog/how-to-recognize-urological-problems-in-newborns.php",
-      "name": "How to recognize urological problems in newborns",
+      "name": "How to Recognize Urological problems in Newborns?",
       "description": "Medical guide on recognizing neonatal urology symptoms and congenital urinary tract conditions.",
       "medicalAudience": {
         "@type": "MedicalAudience",
@@ -194,7 +194,7 @@ EOD;
 <!-- Page Header -->
 <div class="page-header">
     <div class="container fade-in-up">
-        <h1>How to recognize urological problems in newborns</h1>
+        <h1>How to Recognize Urological problems in Newborns?</h1>
         <div class="breadcrumb">
             <a href="../index.php">Home</a> <span>/</span> <a href="../blog.php">Blog</a> <span>/</span> <span>Urological Problems in Newborns</span>
         </div>
