@@ -50,7 +50,7 @@ EOD;
                             <span style="color: #777; font-size: 0.8rem;"><i class="fas fa-calendar-alt"></i> 12 Aug 2026</span>
                         </div>
                         <h3 style="font-size: 1.25rem; line-height: 1.4;">Hydronephrosis in Children | Symptoms, Diagnosis & Treatment</h3>
-                        <p class="mt-2" style="font-size: 0.92rem; color: #555;">Learn about pediatric kidney swelling, antenatal vs postnatal causes like PUJO and VUR, symptoms, SFU grading, and treatment...</p>
+                        <p class="mt-2" style="font-size: 0.92rem; color: #555;">Learn about pediatric hydronephrosis, causes like PUJO and VUR, symptoms, ultrasound grading, and robotic treatment options...</p>
                         <a href="blog/hydronephrosis-in-children.php" class="btn btn-outline mt-3" style="padding: 8px 15px; font-size: 0.9rem;">Read More</a>
                     </div>
                 </div>
