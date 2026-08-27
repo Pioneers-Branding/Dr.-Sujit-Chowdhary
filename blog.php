@@ -39,16 +39,19 @@ EOD;
             </div>
             
             <div class="grid-3 mt-5">
-                <!-- Blog Card 1 -->
+                <!-- Featured Blog Card 1 -->
                 <div class="card fade-in-up" style="padding: 0; overflow: hidden;">
-                    <div style="background: #e9ecef; height: 200px; display: flex; align-items: center; justify-content: center; color: var(--text-light);">
-                        <i class="fas fa-image font-2xl"></i>
+                    <div style="height: 200px; overflow: hidden;">
+                        <img src="assets/images/blog/causes-of-red-urine-in-a-child.png" alt="Causes of Red Urine in a Child? {Complete Guide}" style="width: 100%; height: 100%; object-fit: cover;">
                     </div>
                     <div style="padding: 25px;">
-                        <span style="color: var(--secondary-teal); font-weight: 600; font-size: 0.9rem;">Pediatric Urology</span>
-                        <h3 class="mt-2" style="font-size: 1.3rem;">Understanding Hydronephrosis in Infants</h3>
-                        <p class="mt-2" style="font-size: 0.95rem;">A comprehensive guide for parents to understand the causes, symptoms, and modern treatment options...</p>
-                        <a href="#" class="btn btn-outline mt-3" style="padding: 8px 15px; font-size: 0.9rem;">Read More</a>
+                        <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 8px;">
+                            <span style="color: var(--secondary-teal); font-weight: 600; font-size: 0.85rem;">Pediatric Urology</span>
+                            <span style="color: #777; font-size: 0.8rem;"><i class="fas fa-calendar-alt"></i> 05 Aug 2026</span>
+                        </div>
+                        <h3 style="font-size: 1.25rem; line-height: 1.4;">Causes of Red Urine in a Child? {Complete Guide}</h3>
+                        <p class="mt-2" style="font-size: 0.92rem; color: #555;">Learn about benign dietary causes and clinical causes of red blood cells in urine (hematuria), symptoms, and treatment...</p>
+                        <a href="blog/causes-of-red-urine-in-a-child.php" class="btn btn-outline mt-3" style="padding: 8px 15px; font-size: 0.9rem;">Read More</a>
                     </div>
                 </div>
 

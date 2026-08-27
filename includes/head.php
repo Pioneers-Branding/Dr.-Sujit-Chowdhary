@@ -1,7 +1,7 @@
 <?php
 if (!isset($path_prefix)) {
     $script_dir = basename(dirname($_SERVER['SCRIPT_NAME'] ?? ''));
-    $path_prefix = ($script_dir === 'service') ? '../' : '';
+    $path_prefix = ($script_dir === 'service' || $script_dir === 'blog') ? '../' : '';
 }
 // Prevent browser caching for dynamic page content safely
 if (!headers_sent()) {

@@ -48,7 +48,7 @@ foreach ($f in $files) {
             <i class="fab fa-whatsapp"></i>
         </a>
         <a href="tel:9873206761" class="float-icon callback">
-            <i class="fas fa-phone-alt"></i>
+            <i class="fas fa-phone"></i>
         </a>
     </div>
 </body>

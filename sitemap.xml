@@ -32,8 +32,14 @@
   </url>
   <url>
     <loc>https://drsujitchowdhary.com/blog.php</loc>
-    <lastmod>2026-08-22</lastmod>
+    <lastmod>2026-08-27</lastmod>
     <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://drsujitchowdhary.com/blog/causes-of-red-urine-in-a-child.php</loc>
+    <lastmod>2026-08-05</lastmod>
+    <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
