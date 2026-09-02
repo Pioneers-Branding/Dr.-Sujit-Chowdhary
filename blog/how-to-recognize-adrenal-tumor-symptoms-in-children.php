@@ -425,10 +425,11 @@ EOD;
         <!-- Sidebar Widget -->
         <aside class="sidebar fade-in-up">
             <div class="sidebar-widget doctor-mini-card">
-                <img src="../assets/images/doctor.png" alt="Dr. Sujit Chowdhary - Senior Consultant Pediatric Surgeon & Urologist">
-                <h4 style="border-bottom: none; margin-bottom: 5px;">Dr. Sujit Chowdhary</h4>
-                <p style="font-size: 0.85rem; color: #666; margin-bottom: 15px;">MBBS, MS, MCh (Ped Surg), FRCS (Eng), FRCS (Paed Surg)<br><strong>Senior Consultant Pediatric Surgeon & Urologist</strong></p>
-                <a href="../contact.php" class="btn btn-primary btn-block" style="font-size: 0.85rem; width: 100%;">Book Appointment</a>
+                <img src="../assets/images/doctor.jpeg" alt="Dr. Sujit Chowdhary - Senior Pediatric Urologist in Delhi">
+                <h4 style="border-bottom: none; margin-bottom: 5px; color: var(--primary-blue);"><a href="../about.php">Dr. Sujit Chowdhary</a></h4>
+                <p style="font-size: 0.88rem; color: var(--secondary-teal); font-weight: 600; margin-bottom: 10px;">Senior Pediatric Urologist & Surgeon</p>
+                <p style="font-size: 0.85rem; color: #666; line-height: 1.5; margin-bottom: 15px;">MBBS, MS, FRCS (Edin), FRCS (Eng), MCh (Paed Surg). Over 31+ years of clinical excellence in pediatric urology and minimally invasive robotic surgery.</p>
+                <a href="../about.php" class="btn btn-outline" style="padding: 6px 15px; font-size: 0.85rem; width: 100%;">View Full Profile</a>
             </div>
 
             <div class="sidebar-widget" style="background: white; padding: 20px; border-radius: var(--radius-md); box-shadow: var(--shadow-sm);">
