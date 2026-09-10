@@ -114,6 +114,9 @@
     RewriteRule ^(Esophageal-Subtitution|Duplex-Pelvicalyceal|Pediatric-urodynamics|Biliary-Atresia|Robotic|Urology|Exstrophy-epispadias|Hirschsprung'?s-Disease|anorectal-malformation|Pediatric-Laparoscopy|EHBA|Pelvic-ureteric|Conjoined-twin-surgery|Circumcision|Pediatric-urology|Urinary-Tract|Thoracoscopic-surgery|Testis-undescended|International-Patients|Hypsopadias|Undescended-testis|Hernia-and-Hydrocele|Neuropathic-bladder|Testicular-Torsion|daycare-surgery|Antenatal-Hydronephrosis|Cholechodd-cyst|Hydronephrosis|Urinary-stone|Rectourethral-Fistula|Disorder-of-sexual-differentiation|Vesicoureteric)\.php$ https://drsujitchowdhary.com/ [R=301,L,NC]
     RewriteRule ^service-hirschsprung\.html$ https://drsujitchowdhary.com/ [R=301,L,NC]
 
+    # Redirect legacy assets/reviews files (.xlsx, .xls, extensionless) to homepage
+    RewriteRule ^assets/reviews(/.*)?$ https://drsujitchowdhary.com/ [R=301,L,NC]
+
     # 301 Redirect any other .html requests to .php equivalent
     RewriteCond %{THE_REQUEST} \s/+(.+)\.html[\s?] [NC]
     RewriteRule ^ /%1.php [R=301,L]

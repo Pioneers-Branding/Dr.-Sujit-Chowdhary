@@ -60,6 +60,12 @@ if (preg_match('#^/(Esophageal-Subtitution|Duplex-Pelvicalyceal|Pediatric-urodyn
     exit;
 }
 
+// 10. Redirect legacy assets/reviews files to homepage
+if (preg_match('#^/assets/reviews(/.*)?$#i', $uri)) {
+    header("Location: /", true, 301);
+    exit;
+}
+
 // 10. Redirect deleted undescended testis service to homepage
 if (preg_match('#^/service-?undescended-testis(\.(php|html))?$#i', $uri)) {
     header("Location: /", true, 301);
