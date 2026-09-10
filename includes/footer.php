@@ -56,12 +56,4 @@
 <!-- Scripts -->
 <?php $js_version = file_exists(__DIR__ . '/../js/script.js') ? filemtime(__DIR__ . '/../js/script.js') : time(); ?>
 <script src="<?php echo $path_prefix; ?>js/script.js?v=<?php echo $js_version; ?>"></script>
-<!-- Floating Icons -->
-<div class="floating-icons">
-    <a href="https://wa.me/919873206761" target="_blank" class="float-icon whatsapp" title="Chat on WhatsApp">
-        <i class="fab fa-whatsapp"></i>
-    </a>
-    <a href="tel:9873206761" class="float-icon callback" title="Call Now">
-        <i class="fas fa-phone"></i>
-    </a>
-</div>
+

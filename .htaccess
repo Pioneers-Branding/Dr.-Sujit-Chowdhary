@@ -76,6 +76,11 @@
     RewriteRule ^blogs/.+$ https://drsujitchowdhary.com/blog.php [R=301,L]
     RedirectMatch 301 ^/blogs/.+$ https://drsujitchowdhary.com/blog.php
 
+    RewriteCond %{REQUEST_FILENAME} !-f
+    RewriteCond %{REQUEST_FILENAME} !-d
+    RewriteCond %{REQUEST_FILENAME}\.php !-f
+    RewriteRule ^blog/.+$ https://drsujitchowdhary.com/blog.php [R=301,L]
+
     # Redirect old /pin/ URLs and query string ?pin/* to homepage
     RewriteCond %{QUERY_STRING} ^pin/ [NC]
     RewriteRule ^index\.php$ https://drsujitchowdhary.com/? [R=301,L]

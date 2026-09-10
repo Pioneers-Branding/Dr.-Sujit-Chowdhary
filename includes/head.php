@@ -38,5 +38,7 @@ $css_version = file_exists(__DIR__ . '/../css/index.css') ? filemtime(__DIR__ . 
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
     <!-- Custom CSS -->
     <link rel="stylesheet" href="<?php echo $path_prefix; ?>css/index.css?v=<?php echo $css_version; ?>">
+    <!-- WACRS Widget -->
+    <script defer src="https://app.wacrs.com/install-widget/bundle.js?key=22beae32-c23d-413e-95db-dea6c006c2f1"></script>
     <?php if (isset($extra_head) && !empty($extra_head)) { echo $extra_head; } ?>
 </head>

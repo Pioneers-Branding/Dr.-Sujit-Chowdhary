@@ -12,6 +12,15 @@ if (preg_match('#^/blogs/.+$#i', $uri)) {
     exit;
 }
 
+// Redirect non-existent /blog/* URLs to blog.php
+if (preg_match('#^/blog/(.+)$#i', $uri)) {
+    $targetPath = __DIR__ . $uri;
+    if (!file_exists($targetPath) && !file_exists($targetPath . '.php')) {
+        header("Location: /blog.php", true, 301);
+        exit;
+    }
+}
+
 // 2. Redirect /pin, /pin/*, or ?pin/* query strings to homepage
 if (preg_match('#^/pin(/.*)?$#i', $uri) || (isset($_SERVER['QUERY_STRING']) && preg_match('#^pin/#i', $_SERVER['QUERY_STRING']))) {
     header("Location: /", true, 301);
