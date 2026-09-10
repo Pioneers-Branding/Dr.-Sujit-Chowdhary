@@ -71,6 +71,10 @@
     Redirect 301 /service-vesicoureteric-reflux.php https://drsujitchowdhary.com/service/vesicoureteric-reflux.php
     Redirect 301 /service-voiding-dysfunction.php https://drsujitchowdhary.com/service/voiding-dysfunction.php
 
+    # Redirect old/error blog URLs to the main blog page
+    RewriteRule ^blogs/.*$ https://drsujitchowdhary.com/blog.php [R=301,L]
+    RedirectMatch 301 ^/blogs/.*$ https://drsujitchowdhary.com/blog.php
+
     # 301 Redirect any other .html requests to .php equivalent
     RewriteCond %{THE_REQUEST} \s/+(.+)\.html[\s?] [NC]
     RewriteRule ^ /%1.php [R=301,L]
