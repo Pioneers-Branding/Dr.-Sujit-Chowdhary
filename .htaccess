@@ -75,6 +75,10 @@
     RewriteRule ^blogs/.*$ https://drsujitchowdhary.com/blog.php [R=301,L]
     RedirectMatch 301 ^/blogs/.*$ https://drsujitchowdhary.com/blog.php
 
+    # Redirect old /pin/ URLs to homepage
+    RewriteRule ^pin/.*$ https://drsujitchowdhary.com/ [R=301,L]
+    RedirectMatch 301 ^/pin/.*$ https://drsujitchowdhary.com/
+
     # 301 Redirect any other .html requests to .php equivalent
     RewriteCond %{THE_REQUEST} \s/+(.+)\.html[\s?] [NC]
     RewriteRule ^ /%1.php [R=301,L]

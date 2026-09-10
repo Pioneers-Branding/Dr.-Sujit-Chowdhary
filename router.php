@@ -8,6 +8,12 @@ if (preg_match('#^/blogs(/.*)?$#i', $uri)) {
     exit;
 }
 
+// 2. Redirect /pin or /pin/* to homepage
+if (preg_match('#^/pin(/.*)?$#i', $uri)) {
+    header("Location: /", true, 301);
+    exit;
+}
+
 // 2. Redirect deleted undescended testis service to homepage
 if (preg_match('#^/service-?undescended-testis(\.(php|html))?$#i', $uri)) {
     header("Location: /", true, 301);
