@@ -72,12 +72,47 @@
     Redirect 301 /service-voiding-dysfunction.php https://drsujitchowdhary.com/service/voiding-dysfunction.php
 
     # Redirect old/error blog URLs to the main blog page
-    RewriteRule ^blogs/.*$ https://drsujitchowdhary.com/blog.php [R=301,L]
-    RedirectMatch 301 ^/blogs/.*$ https://drsujitchowdhary.com/blog.php
+    RewriteRule ^blogs/?$ https://drsujitchowdhary.com/ [R=301,L]
+    RewriteRule ^blogs/.+$ https://drsujitchowdhary.com/blog.php [R=301,L]
+    RedirectMatch 301 ^/blogs/.+$ https://drsujitchowdhary.com/blog.php
 
-    # Redirect old /pin/ URLs to homepage
+    # Redirect old /pin/ URLs and query string ?pin/* to homepage
+    RewriteCond %{QUERY_STRING} ^pin/ [NC]
+    RewriteRule ^index\.php$ https://drsujitchowdhary.com/? [R=301,L]
     RewriteRule ^pin/.*$ https://drsujitchowdhary.com/ [R=301,L]
     RedirectMatch 301 ^/pin/.*$ https://drsujitchowdhary.com/
+
+    # -------------------------------------------------------------
+    # 301 Redirect Rules (Additional Legacy & Spam Cleanup)
+    # -------------------------------------------------------------
+
+    # Redirect specific legacy URLs to gallery.php
+    RewriteRule ^service/gallery\.php$ https://drsujitchowdhary.com/gallery.php [R=301,L,NC]
+    RewriteRule ^EHBA\.php/gallery\.php$ https://drsujitchowdhary.com/gallery.php [R=301,L,NC]
+    RewriteRule ^case-study\.php$ https://drsujitchowdhary.com/gallery.php [R=301,L,NC]
+
+    # Redirect legacy tumor URLs to pediatric-tumours page (/service/pediatric-tumors.php)
+    RewriteRule ^pediatric-tumours\.php(/.*)?$ https://drsujitchowdhary.com/service/pediatric-tumors.php [R=301,L,NC]
+    RewriteRule ^Wilms'?s-tumour\.php(/.*)?$ https://drsujitchowdhary.com/service/pediatric-tumors.php [R=301,L,NC]
+    RewriteRule ^Renal-Tumor\.php(/.*)?$ https://drsujitchowdhary.com/service/pediatric-tumors.php [R=301,L,NC]
+
+    # Redirect double service prefix (service/service/...) and service index to homepage
+    RewriteRule ^service/service/.*$ https://drsujitchowdhary.com/ [R=301,L,NC]
+    RewriteRule ^service/index\.php$ https://drsujitchowdhary.com/ [R=301,L,NC]
+
+    # Redirect foreign / spam / old CMS directory paths to homepage
+    RewriteRule ^(shop|contents|toyu|cate-[0-9-]+|information|reserve)(/.*)?$ https://drsujitchowdhary.com/ [R=301,L,NC]
+    RewriteRule ^index\.php/(shop|contents|toyu|cate-[0-9-]+|information|reserve)(/.*)?$ https://drsujitchowdhary.com/ [R=301,L,NC]
+
+    # Redirect legacy clinic & landing pages to homepage
+    RewriteRule ^(children'?s-hospital-urology-clinic|kids-urologist-in-delhi|paediatric-urology-clinic|paediatric-urologist-in-delhi|paediatric-urology-surgery|best-paediatric-urologist)(/.*)?$ https://drsujitchowdhary.com/ [R=301,L,NC]
+
+    # Redirect compound .php/ URLs to homepage
+    RewriteRule ^[A-Za-z0-9_'-]+\.php/.+$ https://drsujitchowdhary.com/ [R=301,L,NC]
+
+    # Redirect legacy condition/procedure .php and .html files to homepage
+    RewriteRule ^(Esophageal-Subtitution|Duplex-Pelvicalyceal|Pediatric-urodynamics|Biliary-Atresia|Robotic|Urology|Exstrophy-epispadias|Hirschsprung'?s-Disease|anorectal-malformation|Pediatric-Laparoscopy|EHBA|Pelvic-ureteric|Conjoined-twin-surgery|Circumcision|Pediatric-urology|Urinary-Tract|Thoracoscopic-surgery|Testis-undescended|International-Patients|Hypsopadias|Undescended-testis|Hernia-and-Hydrocele|Neuropathic-bladder|Testicular-Torsion|daycare-surgery|Antenatal-Hydronephrosis|Cholechodd-cyst|Hydronephrosis|Urinary-stone|Rectourethral-Fistula|Disorder-of-sexual-differentiation|Vesicoureteric)\.php$ https://drsujitchowdhary.com/ [R=301,L,NC]
+    RewriteRule ^service-hirschsprung\.html$ https://drsujitchowdhary.com/ [R=301,L,NC]
 
     # 301 Redirect any other .html requests to .php equivalent
     RewriteCond %{THE_REQUEST} \s/+(.+)\.html[\s?] [NC]
