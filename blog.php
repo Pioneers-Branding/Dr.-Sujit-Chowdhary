@@ -39,6 +39,22 @@ EOD;
             </div>
             
             <div class="grid-3 mt-5">
+                <!-- Featured Blog Card (Antenatal ARM Diagnosis) -->
+                <div class="card fade-in-up" style="padding: 0; overflow: hidden;">
+                    <div style="height: 200px; overflow: hidden;">
+                        <img src="assets/images/blog/can-anorectal-malformation-be-diagnosed-antenatally.jpg" alt="Can Anorectal Malformation be diagnosed Antenatally?" style="width: 100%; height: 100%; object-fit: cover;">
+                    </div>
+                    <div style="padding: 25px;">
+                        <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 8px;">
+                            <span style="color: var(--secondary-teal); font-weight: 600; font-size: 0.85rem;">Pediatric Surgery</span>
+                            <span style="color: #777; font-size: 0.8rem;"><i class="fas fa-calendar-alt"></i> 20 Sep 2026</span>
+                        </div>
+                        <h3 style="font-size: 1.2rem; line-height: 1.4;">Can Anorectal Malformation be diagnosed Antenatally?</h3>
+                        <p class="mt-2" style="font-size: 0.9rem; color: #555;">Learn whether imperforate anus / ARM can be diagnosed during pregnancy ultrasound, key sonographic markers, fetal MRI, and expert surgical planning...</p>
+                        <a href="blog/can-anorectal-malformation-be-diagnosed-antenatally.php" class="btn btn-outline mt-3" style="padding: 8px 15px; font-size: 0.9rem;">Read More</a>
+                    </div>
+                </div>
+
                 <!-- Featured Blog Card (Biliary Atresia) -->
                 <div class="card fade-in-up" style="padding: 0; overflow: hidden;">
                     <div style="height: 200px; overflow: hidden;">

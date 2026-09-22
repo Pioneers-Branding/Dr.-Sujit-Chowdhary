@@ -422,31 +422,32 @@ EOD;
 
         </article>
 
-        <!-- Sidebar Widget -->
-        <aside class="sidebar fade-in-up">
+                <!-- Sidebar -->
+                <!-- Sidebar -->
+        <aside class="sidebar fade-in-up" style="animation-delay: 0.2s;">
             <div class="sidebar-widget doctor-mini-card">
-                <img src="../assets/images/doctor.jpeg" alt="Dr. Sujit Chowdhary - Senior Pediatric Urologist in Delhi">
-                <h4 style="border-bottom: none; margin-bottom: 5px; color: var(--primary-blue);"><a href="../about.php">Dr. Sujit Chowdhary</a></h4>
-                <p style="font-size: 0.88rem; color: var(--secondary-teal); font-weight: 600; margin-bottom: 10px;">Senior Pediatric Urologist & Surgeon</p>
-                <p style="font-size: 0.85rem; color: #666; line-height: 1.5; margin-bottom: 15px;">MBBS, MS, FRCS (Edin), FRCS (Eng), MCh (Paed Surg). Over 31+ years of clinical excellence in pediatric urology and minimally invasive robotic surgery.</p>
+                <img src="../assets/images/doctor.jpeg" alt="Dr. Sujit Chowdhary - Senior Pediatric Surgeon">
+                <h4>Dr. Sujit Chowdhary</h4>
+                <p style="font-size: 0.85rem; color: #666; margin-bottom: 12px;">MBBS, MS, MCh (Ped Surg), FRCS (Ped Surg), FACS<br>Senior Consultant Pediatric Surgeon & Urologist</p>
                 <a href="../about.php" class="btn btn-outline" style="padding: 6px 15px; font-size: 0.85rem; width: 100%;">View Full Profile</a>
             </div>
 
             <div class="sidebar-widget" style="background: white; padding: 20px; border-radius: var(--radius-md); box-shadow: var(--shadow-sm);">
-                <h4>Quick Contact</h4>
-                <p style="font-size: 0.9rem; color: #555; margin-bottom: 10px;"><i class="fas fa-hospital" style="color: var(--secondary-teal); margin-right: 8px;"></i> Indraprastha Apollo Hospitals, New Delhi</p>
-                <p style="font-size: 0.9rem; color: #555; margin-bottom: 10px;"><i class="fas fa-phone-alt" style="color: var(--secondary-teal); margin-right: 8px;"></i> +91-9811105991</p>
-                <p style="font-size: 0.9rem; color: #555;"><i class="fas fa-envelope" style="color: var(--secondary-teal); margin-right: 8px;"></i> sujitchowdhary@hotmail.com</p>
+                <h4>Key Conditions Treated</h4>
+                <ul style="list-style: none; padding: 0; margin: 0; font-size: 0.95rem;">
+                    <li style="margin-bottom: 10px; border-bottom: 1px dashed #eee; padding-bottom: 8px;"><a href="../service/anorectal-malformation.php" style="color: var(--primary-blue); font-weight: 600;"><i class="fas fa-angle-right" style="color: var(--secondary-teal); margin-right: 5px;"></i> Anorectal Malformation</a></li>
+                    <li style="margin-bottom: 10px; border-bottom: 1px dashed #eee; padding-bottom: 8px;"><a href="../service/biliary-atresia.php" style="color: var(--primary-blue); font-weight: 600;"><i class="fas fa-angle-right" style="color: var(--secondary-teal); margin-right: 5px;"></i> Biliary Atresia</a></li>
+                    <li style="margin-bottom: 10px; border-bottom: 1px dashed #eee; padding-bottom: 8px;"><a href="../service/choledochal-cyst.php" style="color: var(--primary-blue); font-weight: 600;"><i class="fas fa-angle-right" style="color: var(--secondary-teal); margin-right: 5px;"></i> Choledochal Cyst</a></li>
+                    <li style="margin-bottom: 10px; border-bottom: 1px dashed #eee; padding-bottom: 8px;"><a href="../service/hydronephrosis.php" style="color: var(--primary-blue); font-weight: 600;"><i class="fas fa-angle-right" style="color: var(--secondary-teal); margin-right: 5px;"></i> Pediatric Hydronephrosis</a></li>
+                    <li style="margin-bottom: 10px; border-bottom: 1px dashed #eee; padding-bottom: 8px;"><a href="../service/hypospadias.php" style="color: var(--primary-blue); font-weight: 600;"><i class="fas fa-angle-right" style="color: var(--secondary-teal); margin-right: 5px;"></i> Hypospadias Repair</a></li>
+                    <li style="margin-bottom: 10px; border-bottom: 1px dashed #eee; padding-bottom: 8px;"><a href="../service/hernia-hydrocele.php" style="color: var(--primary-blue); font-weight: 600;"><i class="fas fa-angle-right" style="color: var(--secondary-teal); margin-right: 5px;"></i> Hernia & Hydrocele</a></li>
+                </ul>
             </div>
 
-            <div class="sidebar-widget" style="background: white; padding: 20px; border-radius: var(--radius-md); box-shadow: var(--shadow-sm);">
-                <h4>Related Articles</h4>
-                <ul style="padding-left: 15px; margin-bottom: 0; font-size: 0.9rem;">
-                    <li style="margin-bottom: 10px;"><a href="child-bladder-infection-symptoms.php" style="color: var(--primary-blue); font-weight: 500;">Child Bladder Infection Symptoms</a></li>
-                    <li style="margin-bottom: 10px;"><a href="how-to-recognize-urological-problems-in-newborns.php" style="color: var(--primary-blue); font-weight: 500;">Urological Problems in Newborns</a></li>
-                    <li style="margin-bottom: 10px;"><a href="hydronephrosis-in-children.php" style="color: var(--primary-blue); font-weight: 500;">Hydronephrosis in Children</a></li>
-                    <li><a href="causes-of-red-urine-in-a-child.php" style="color: var(--primary-blue); font-weight: 500;">Causes of Red Urine in a Child</a></li>
-                </ul>
+            <div class="sidebar-widget" style="background: linear-gradient(135deg, var(--primary-blue) 0%, #1e3a8a 100%); color: white; padding: 25px; border-radius: var(--radius-md); text-align: center;">
+                <h4 style="color: white; border-bottom: 2px solid var(--secondary-teal);">Emergency & Appointments</h4>
+                <p style="font-size: 0.9rem; margin-bottom: 15px; color: rgba(255,255,255,0.9);">Schedule a priority consultation with Dr. Sujit Chowdhary in Delhi NCR.</p>
+                <a href="../contact.php" class="btn" style="background: var(--secondary-teal); color: white; width: 100%; border: none;">Contact Us</a>
             </div>
         </aside>
     </div>

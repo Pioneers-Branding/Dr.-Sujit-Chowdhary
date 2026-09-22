@@ -456,36 +456,33 @@ EOD;
 
         </article>
 
-        <!-- Sidebar Widgets -->
+                <!-- Sidebar -->
+                <!-- Sidebar -->
         <aside class="sidebar fade-in-up" style="animation-delay: 0.2s;">
-            
             <div class="sidebar-widget doctor-mini-card">
-                <img src="../assets/images/doctor.jpeg" alt="Dr. Sujit Chowdhary - Senior Pediatric Urologist in Delhi">
-                <h4 style="border-bottom: none; margin-bottom: 5px; color: var(--primary-blue);"><a href="../about.php">Dr. Sujit Chowdhary</a></h4>
-                <p style="font-size: 0.88rem; color: var(--secondary-teal); font-weight: 600; margin-bottom: 10px;">Senior Pediatric Urologist & Surgeon</p>
-                <p style="font-size: 0.85rem; color: #666; line-height: 1.5; margin-bottom: 15px;">MBBS, MS, FRCS (Edin), FRCS (Eng), MCh (Paed Surg). Over 31+ years of clinical excellence in pediatric urology and minimally invasive robotic surgery.</p>
+                <img src="../assets/images/doctor.jpeg" alt="Dr. Sujit Chowdhary - Senior Pediatric Surgeon">
+                <h4>Dr. Sujit Chowdhary</h4>
+                <p style="font-size: 0.85rem; color: #666; margin-bottom: 12px;">MBBS, MS, MCh (Ped Surg), FRCS (Ped Surg), FACS<br>Senior Consultant Pediatric Surgeon & Urologist</p>
                 <a href="../about.php" class="btn btn-outline" style="padding: 6px 15px; font-size: 0.85rem; width: 100%;">View Full Profile</a>
             </div>
 
-            <div class="sidebar-widget">
-                <h4>Pediatric Urology Services</h4>
-                <ul style="list-style: none; padding: 0; margin: 0;">
-                    <li style="margin-bottom: 8px;"><a href="../service/hypospadias.php" style="color: #444; font-weight: 500; font-size: 0.92rem;"><i class="fas fa-chevron-right" style="color: var(--secondary-teal); font-size: 0.8rem;"></i> Hypospadias Surgery</a></li>
-                    <li style="margin-bottom: 8px;"><a href="../service/hydronephrosis.php" style="color: #444; font-weight: 500; font-size: 0.92rem;"><i class="fas fa-chevron-right" style="color: var(--secondary-teal); font-size: 0.8rem;"></i> Hydronephrosis Treatment</a></li>
-                    <li style="margin-bottom: 8px;"><a href="../service/puv.php" style="color: #444; font-weight: 500; font-size: 0.92rem;"><i class="fas fa-chevron-right" style="color: var(--secondary-teal); font-size: 0.8rem;"></i> PUV Management</a></li>
-                    <li style="margin-bottom: 8px;"><a href="../service/absent-testis.php" style="color: #444; font-weight: 500; font-size: 0.92rem;"><i class="fas fa-chevron-right" style="color: var(--secondary-teal); font-size: 0.8rem;"></i> Undescended Testis</a></li>
-                    <li style="margin-bottom: 8px;"><a href="../service/vesicoureteric-reflux.php" style="color: #444; font-weight: 500; font-size: 0.92rem;"><i class="fas fa-chevron-right" style="color: var(--secondary-teal); font-size: 0.8rem;"></i> Vesicoureteric Reflux (VUR)</a></li>
-                    <li style="margin-bottom: 8px;"><a href="../service/pediatric-robotic-surgery.php" style="color: #444; font-weight: 500; font-size: 0.92rem;"><i class="fas fa-chevron-right" style="color: var(--secondary-teal); font-size: 0.8rem;"></i> Pediatric Robotic Surgery</a></li>
+            <div class="sidebar-widget" style="background: white; padding: 20px; border-radius: var(--radius-md); box-shadow: var(--shadow-sm);">
+                <h4>Key Conditions Treated</h4>
+                <ul style="list-style: none; padding: 0; margin: 0; font-size: 0.95rem;">
+                    <li style="margin-bottom: 10px; border-bottom: 1px dashed #eee; padding-bottom: 8px;"><a href="../service/anorectal-malformation.php" style="color: var(--primary-blue); font-weight: 600;"><i class="fas fa-angle-right" style="color: var(--secondary-teal); margin-right: 5px;"></i> Anorectal Malformation</a></li>
+                    <li style="margin-bottom: 10px; border-bottom: 1px dashed #eee; padding-bottom: 8px;"><a href="../service/biliary-atresia.php" style="color: var(--primary-blue); font-weight: 600;"><i class="fas fa-angle-right" style="color: var(--secondary-teal); margin-right: 5px;"></i> Biliary Atresia</a></li>
+                    <li style="margin-bottom: 10px; border-bottom: 1px dashed #eee; padding-bottom: 8px;"><a href="../service/choledochal-cyst.php" style="color: var(--primary-blue); font-weight: 600;"><i class="fas fa-angle-right" style="color: var(--secondary-teal); margin-right: 5px;"></i> Choledochal Cyst</a></li>
+                    <li style="margin-bottom: 10px; border-bottom: 1px dashed #eee; padding-bottom: 8px;"><a href="../service/hydronephrosis.php" style="color: var(--primary-blue); font-weight: 600;"><i class="fas fa-angle-right" style="color: var(--secondary-teal); margin-right: 5px;"></i> Pediatric Hydronephrosis</a></li>
+                    <li style="margin-bottom: 10px; border-bottom: 1px dashed #eee; padding-bottom: 8px;"><a href="../service/hypospadias.php" style="color: var(--primary-blue); font-weight: 600;"><i class="fas fa-angle-right" style="color: var(--secondary-teal); margin-right: 5px;"></i> Hypospadias Repair</a></li>
+                    <li style="margin-bottom: 10px; border-bottom: 1px dashed #eee; padding-bottom: 8px;"><a href="../service/hernia-hydrocele.php" style="color: var(--primary-blue); font-weight: 600;"><i class="fas fa-angle-right" style="color: var(--secondary-teal); margin-right: 5px;"></i> Hernia & Hydrocele</a></li>
                 </ul>
             </div>
 
-            <div class="sidebar-widget text-center" style="background: var(--gradient-primary); padding: 25px; border-radius: var(--radius-md); color: white;">
-                <i class="fas fa-phone mb-3" style="font-size: 2.2rem; color: white;"></i>
-                <h4 style="color: white; border-bottom: none; margin-bottom: 10px;">Need Consultation?</h4>
-                <p style="font-size: 0.9rem; color: rgba(255,255,255,0.9); margin-bottom: 18px;">Schedule an in-clinic evaluation with Dr. Sujit Chowdhary in Vasant Vihar, New Delhi.</p>
-                <a href="../contact.php" class="btn" style="background: white; color: var(--primary-blue); font-weight: 700; width: 100%;">Book Appointment</a>
+            <div class="sidebar-widget" style="background: linear-gradient(135deg, var(--primary-blue) 0%, #1e3a8a 100%); color: white; padding: 25px; border-radius: var(--radius-md); text-align: center;">
+                <h4 style="color: white; border-bottom: 2px solid var(--secondary-teal);">Emergency & Appointments</h4>
+                <p style="font-size: 0.9rem; margin-bottom: 15px; color: rgba(255,255,255,0.9);">Schedule a priority consultation with Dr. Sujit Chowdhary in Delhi NCR.</p>
+                <a href="../contact.php" class="btn" style="background: var(--secondary-teal); color: white; width: 100%; border: none;">Contact Us</a>
             </div>
-
         </aside>
     </div>
 </section>
