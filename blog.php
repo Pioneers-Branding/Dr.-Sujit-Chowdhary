@@ -39,6 +39,22 @@ EOD;
             </div>
             
             <div class="grid-3 mt-5">
+                <!-- Featured Blog Card (Child Brain Tumor Warning Signs) -->
+                <div class="card fade-in-up" style="padding: 0; overflow: hidden;">
+                    <div style="height: 200px; overflow: hidden;">
+                        <img src="assets/images/blog/how-did-you-know-your-child-has-a-brain-tumor.jpg" alt="How did you know Your Child has a Brain Tumor?" style="width: 100%; height: 100%; object-fit: cover;">
+                    </div>
+                    <div style="padding: 25px;">
+                        <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 8px;">
+                            <span style="color: var(--secondary-teal); font-weight: 600; font-size: 0.85rem;">Pediatric Oncology</span>
+                            <span style="color: #777; font-size: 0.8rem;"><i class="fas fa-calendar-alt"></i> 28 Sep 2026</span>
+                        </div>
+                        <h3 style="font-size: 1.2rem; line-height: 1.4;">How did you know Your Child has a Brain Tumor?</h3>
+                        <p class="mt-2" style="font-size: 0.9rem; color: #555;">Learn early warning signs of pediatric brain tumors, morning headache and vomiting patterns, balance issues, diagnostic MRI, and expert pediatric tumor care...</p>
+                        <a href="blog/how-did-you-know-your-child-has-a-brain-tumor.php" class="btn btn-outline mt-3" style="padding: 8px 15px; font-size: 0.9rem;">Read More</a>
+                    </div>
+                </div>
+
                 <!-- Featured Blog Card (Causes of PUJO in Children) -->
                 <div class="card fade-in-up" style="padding: 0; overflow: hidden;">
                     <div style="height: 200px; overflow: hidden;">
