@@ -16,8 +16,8 @@ $extra_head = <<<'EOD'
       "url": "https://drsujitchowdhary.com/blog/what-is-biliary-atresia-in-infants.php",
       "headline": "What is Biliary Atresia in Infants? {2026 Guide}",
       "description": "Comprehensive medical guide for parents explaining what is biliary atresia in infants, early warning signs, pale stools, Kasai procedure, and expert treatment in Delhi.",
-      "datePublished": "2026-09-16",
-      "dateModified": "2026-09-16",
+      "datePublished": "2026-09-17",
+      "dateModified": "2026-09-17",
       "image": "https://drsujitchowdhary.com/assets/images/blog/what-is-biliary-atresia-in-infants.jpg",
       "author": {
         "@type": "Physician",
@@ -199,7 +199,7 @@ EOD;
             <a href="../index.php">Home</a> <span>/</span> <a href="../blog.php">Blog</a> <span>/</span> <span>Biliary Atresia in Infants</span>
         </div>
         <div class="blog-meta-bar">
-            <span><i class="fas fa-calendar-alt"></i> Published: 16 September 2026</span>
+            <span><i class="fas fa-calendar-alt"></i> Published: 17 September 2026</span>
             <span><i class="fas fa-user-md"></i> By <strong><a href="https://drsujitchowdhary.com/" style="color: white; text-decoration: underline;">Dr. Sujit Chowdhary</a></strong></span>
             <span><i class="fas fa-folder-open"></i> Pediatric Surgery & Hepatology</span>
             <span><i class="fas fa-clock"></i> 8 Min Read</span>

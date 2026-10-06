@@ -16,8 +16,8 @@ $extra_head = <<<'EOD'
       "url": "https://drsujitchowdhary.com/blog/can-a-child-of-5-years-suffer-from-hernia.php",
       "headline": "Can a child of 5 Years suffer from Hernia?",
       "description": "Comprehensive guide on pediatric hernias in 5-year-old children, covering groin and umbilical hernias, symptoms, diagnosis, and laparoscopic surgical treatment.",
-      "datePublished": "2026-09-10",
-      "dateModified": "2026-09-10",
+      "datePublished": "2026-09-13",
+      "dateModified": "2026-09-13",
       "image": "https://drsujitchowdhary.com/assets/images/blog/can-a-child-of-5-years-suffer-from-hernia.jpg",
       "author": {
         "@type": "Physician",
@@ -202,7 +202,7 @@ EOD;
             <a href="../index.php">Home</a> <span>/</span> <a href="../blog.php">Blog</a> <span>/</span> <span>Pediatric Hernia in 5-Year-Old</span>
         </div>
         <div class="blog-meta-bar">
-            <span><i class="fas fa-calendar-alt"></i> Published: 10 September 2026</span>
+            <span><i class="fas fa-calendar-alt"></i> Published: 13 September 2026</span>
             <span><i class="fas fa-user-md"></i> By <strong><a href="https://drsujitchowdhary.com/" style="color: white; text-decoration: underline;">Dr. Sujit Chowdhary</a></strong></span>
             <span><i class="fas fa-folder-open"></i> Pediatric Surgery</span>
             <span><i class="fas fa-clock"></i> 7 Min Read</span>

@@ -39,6 +39,22 @@ EOD;
             </div>
             
             <div class="grid-3 mt-5">
+                <!-- Featured Blog Card (How Renal Tumors are detected) -->
+                <div class="card fade-in-up" style="padding: 0; overflow: hidden;">
+                    <div style="height: 200px; overflow: hidden;">
+                        <img src="assets/images/blog/how-renal-tumors-are-detected.jpg" alt="How Renal Tumors are detected? {2026 Guide}" style="width: 100%; height: 100%; object-fit: cover;">
+                    </div>
+                    <div style="padding: 25px;">
+                        <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 8px;">
+                            <span style="color: var(--secondary-teal); font-weight: 600; font-size: 0.85rem;">Pediatric Oncology</span>
+                            <span style="color: #777; font-size: 0.8rem;"><i class="fas fa-calendar-alt"></i> 06 Oct 2026</span>
+                        </div>
+                        <h3 style="font-size: 1.2rem; line-height: 1.4;">How Renal Tumors are detected? {2026 Guide}</h3>
+                        <p class="mt-2" style="font-size: 0.9rem; color: #555;">Learn how renal tumors in children are detected, early physical symptoms, ultrasound and contrast CT imaging, diagnostic protocols, and expert kidney care...</p>
+                        <a href="blog/how-renal-tumors-are-detected.php" class="btn btn-outline mt-3" style="padding: 8px 15px; font-size: 0.9rem;">Read More</a>
+                    </div>
+                </div>
+
                 <!-- Featured Blog Card (Child Brain Tumor Warning Signs) -->
                 <div class="card fade-in-up" style="padding: 0; overflow: hidden;">
                     <div style="height: 200px; overflow: hidden;">
@@ -95,7 +111,7 @@ EOD;
                     <div style="padding: 25px;">
                         <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 8px;">
                             <span style="color: var(--secondary-teal); font-weight: 600; font-size: 0.85rem;">Pediatric Surgery</span>
-                            <span style="color: #777; font-size: 0.8rem;"><i class="fas fa-calendar-alt"></i> 16 Sep 2026</span>
+                            <span style="color: #777; font-size: 0.8rem;"><i class="fas fa-calendar-alt"></i> 17 Sep 2026</span>
                         </div>
                         <h3 style="font-size: 1.2rem; line-height: 1.4;">What is Biliary Atresia in Infants? {2026 Guide}</h3>
                         <p class="mt-2" style="font-size: 0.9rem; color: #555;">Learn about biliary atresia in infants, persistent jaundice, clay-colored stools, Kasai procedure, diagnostic imaging, and expert treatment...</p>
@@ -111,7 +127,7 @@ EOD;
                     <div style="padding: 25px;">
                         <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 8px;">
                             <span style="color: var(--secondary-teal); font-weight: 600; font-size: 0.85rem;">Pediatric Surgery</span>
-                            <span style="color: #777; font-size: 0.8rem;"><i class="fas fa-calendar-alt"></i> 10 Sep 2026</span>
+                            <span style="color: #777; font-size: 0.8rem;"><i class="fas fa-calendar-alt"></i> 13 Sep 2026</span>
                         </div>
                         <h3 style="font-size: 1.2rem; line-height: 1.4;">Can a child of 5 Years suffer from Hernia?</h3>
                         <p class="mt-2" style="font-size: 0.9rem; color: #555;">Learn about pediatric hernia in 5-year-old children, groin and umbilical bulge symptoms, hydrocele differences, and painless laparoscopic surgery...</p>
@@ -127,7 +143,7 @@ EOD;
                     <div style="padding: 25px;">
                         <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 8px;">
                             <span style="color: var(--secondary-teal); font-weight: 600; font-size: 0.85rem;">Pediatric Surgery</span>
-                            <span style="color: #777; font-size: 0.8rem;"><i class="fas fa-calendar-alt"></i> 06 Sep 2026</span>
+                            <span style="color: #777; font-size: 0.8rem;"><i class="fas fa-calendar-alt"></i> 08 Sep 2026</span>
                         </div>
                         <h3 style="font-size: 1.2rem; line-height: 1.4;">Choledochal Cyst in Child: Symptoms, Causes and Treatment</h3>
                         <p class="mt-2" style="font-size: 0.9rem; color: #555;">Learn about choledochal cyst symptoms in children, congenital APBJ causes, diagnostic imaging, and laparoscopic Roux-en-Y surgical treatment...</p>

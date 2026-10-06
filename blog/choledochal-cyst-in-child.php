@@ -16,8 +16,8 @@ $extra_head = <<<'EOD'
       "url": "https://drsujitchowdhary.com/blog/choledochal-cyst-in-child.php",
       "headline": "Choledochal Cyst in Child: Symptoms, Causes and Treatment",
       "description": "A comprehensive medical guide for parents on choledochal cyst in children, detailing early symptoms, anomalous pancreaticobiliary junction causes, diagnostic imaging, and laparoscopic Roux-en-Y surgical treatment.",
-      "datePublished": "2026-09-06",
-      "dateModified": "2026-09-06",
+      "datePublished": "2026-09-08",
+      "dateModified": "2026-09-08",
       "image": "https://drsujitchowdhary.com/assets/images/blog/choledochal-cyst-in-child.jpg",
       "author": {
         "@type": "Physician",
@@ -203,7 +203,7 @@ EOD;
             <a href="../index.php">Home</a> <span>/</span> <a href="../blog.php">Blog</a> <span>/</span> <span>Choledochal Cyst in Child</span>
         </div>
         <div class="blog-meta-bar">
-            <span><i class="fas fa-calendar-alt"></i> Published: 06 September 2026</span>
+            <span><i class="fas fa-calendar-alt"></i> Published: 8 September 2026</span>
             <span><i class="fas fa-user-md"></i> By <strong><a href="https://drsujitchowdhary.com/" style="color: white; text-decoration: underline;">Dr. Sujit Chowdhary</a></strong></span>
             <span><i class="fas fa-folder-open"></i> Pediatric Surgery & Urology</span>
             <span><i class="fas fa-clock"></i> 8 Min Read</span>
