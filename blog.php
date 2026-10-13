@@ -39,6 +39,22 @@ EOD;
             </div>
             
             <div class="grid-3 mt-5">
+                <!-- Featured Blog Card (How to Identify if Your Child Has Kidney Stones) -->
+                <div class="card fade-in-up" style="padding: 0; overflow: hidden;">
+                    <div style="height: 200px; overflow: hidden;">
+                        <img src="assets/images/blog/how-to-identify-if-your-child-has-kidney-stones.jpg" alt="How to Identify if Your Child Has Kidney Stones?" style="width: 100%; height: 100%; object-fit: cover;">
+                    </div>
+                    <div style="padding: 25px;">
+                        <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 8px;">
+                            <span style="color: var(--secondary-teal); font-weight: 600; font-size: 0.85rem;">Pediatric Urology</span>
+                            <span style="color: #777; font-size: 0.8rem;"><i class="fas fa-calendar-alt"></i> 12 Oct 2026</span>
+                        </div>
+                        <h3 style="font-size: 1.2rem; line-height: 1.4;">How to Identify if Your Child Has Kidney Stones?</h3>
+                        <p class="mt-2" style="font-size: 0.9rem; color: #555;">Learn how to identify pediatric kidney stones, age-wise signs in toddlers and teens, colic pain, red flag symptoms, ultrasound tests, and modern laser treatments...</p>
+                        <a href="blog/how-to-identify-if-your-child-has-kidney-stones.php" class="btn btn-outline mt-3" style="padding: 8px 15px; font-size: 0.9rem;">Read More</a>
+                    </div>
+                </div>
+
                 <!-- Featured Blog Card (How Renal Tumors are detected) -->
                 <div class="card fade-in-up" style="padding: 0; overflow: hidden;">
                     <div style="height: 200px; overflow: hidden;">
