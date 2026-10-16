@@ -572,4 +572,43 @@ header.scrolled .header-logo { max-height: 45px; }
   transform: scale(1.05);
 }
 
+/* ==========================================================================
+   NMC Guidelines Compliance: Medical Disclaimer Box
+   ========================================================================== */
+.medical-disclaimer-box {
+  background-color: #fef2f2;
+  border: 2px solid #dc2626;
+  border-left: 6px solid #b91c1c;
+  border-radius: var(--radius-sm, 12px);
+  padding: 18px 22px;
+  margin: 15px 0 30px 0;
+  box-shadow: 0 4px 12px rgba(220, 38, 38, 0.08);
+}
+.medical-disclaimer-box .disclaimer-badge {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  background: #dc2626;
+  color: #ffffff;
+  font-size: 0.78rem;
+  font-weight: 700;
+  letter-spacing: 0.05em;
+  padding: 3px 10px;
+  border-radius: 4px;
+  margin-bottom: 10px;
+  text-transform: uppercase;
+}
+.medical-disclaimer-box p {
+  margin: 0;
+  font-size: 0.96rem;
+  line-height: 1.6;
+  color: #7f1d1d;
+  font-weight: 500;
+}
+.medical-disclaimer-box strong {
+  color: #991b1b;
+  font-weight: 700;
+}
+
+
 

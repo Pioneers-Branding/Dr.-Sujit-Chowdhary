@@ -225,6 +225,13 @@ EOD;
     <div class="container blog-container">
         <!-- Main Blog Post -->
         <article class="blog-content fade-in-up">
+
+            <!-- NMC Guidelines Compliance & Medical Disclaimer -->
+            <div class="medical-disclaimer-box" role="alert" aria-label="NMC Medical Disclaimer">
+                <div class="disclaimer-badge"><i class="fas fa-exclamation-triangle"></i> NMC COMPLIANCE ADVISORY & MEDICAL DISCLAIMER</div>
+                <p><strong>Medical Disclaimer:</strong> This article is AI-assisted and published strictly for general educational purposes in accordance with the National Medical Commission (NMC) guidelines. It does not establish a doctor-patient relationship and does not replace professional medical advice, diagnosis, or treatment. Please consult a qualified healthcare specialist for evaluation specific to your condition.</p>
+            </div>
+
             
             <!-- Hero Featured Thumbnail Image -->
             <img src="../assets/images/blog/causes-of-pelvi-ureteric-junction-obstruction-in-children.jpg" alt="Causes of Pelvi Ureteric Junction Obstruction in Children - Stretched Renal Pelvis Diagram" style="width: 100%; height: auto; border-radius: var(--radius-lg); margin-bottom: 30px; box-shadow: var(--shadow-md); object-fit: cover; max-height: 480px; background: #fff;">
