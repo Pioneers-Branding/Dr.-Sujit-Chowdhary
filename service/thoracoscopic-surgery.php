@@ -254,7 +254,7 @@ EOD;
                     <div class="stars">
                         <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i>
                     </div>
-                    <p class="quote">"Our infant was diagnosed with a congenital lung cyst (CPAM). Consulting Dr. Sujit for Pediatric Thoracoscopic Surgery in Delhi was the best decision—his keyhole VATS procedure resected the cyst flawlessly."</p>
+                    <p class="quote">"Our infant was diagnosed with a congenital lung cyst (CPAM). Consulting Dr. Sujit for Pediatric Thoracoscopic Surgery in Delhi was a wonderful decision—his keyhole VATS procedure resected the cyst flawlessly."</p>
                     <div class="author mt-3">
                         <h5>Sameer V.</h5>
                         <span>Father of 4mo patient</span>

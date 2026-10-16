@@ -294,7 +294,7 @@ EOD;
                     <div class="stars">
                         <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i>
                     </div>
-                    <p class="quote">"The best decision we made for our child's kidney health. Dr. Chowdhary provides the finest UTI Treatment in Delhi; he explained the entire process so well."</p>
+                    <p class="quote">"A wonderful decision we made for our child's kidney health. Dr. Chowdhary provides comprehensive UTI Treatment in Delhi; he explained the entire process so well."</p>
                     <div class="author mt-3">
                         <h5>Sonia Mehta</h5>
                         <span>Mother</span>
@@ -357,7 +357,7 @@ EOD;
             <div class="why-content fade-in-up" style="animation-delay: 0.2s">
                 <h4 class="accent-text">Unmatched Expertise</h4>
                 <h2>Why Choose Dr. Sujit Chowdhary?</h2>
-                <p>When it comes to pediatric kidney and urinary health, consulting a top <strong>Urinary Tract Infection Treatment Doctor in Delhi</strong> makes all the difference. Dr. Sujit Chowdhary provides advanced, evidence-based care tailored to protect your child's long-term renal health.</p>
+                <p>When it comes to pediatric kidney and urinary health, consulting an experienced <strong>Urinary Tract Infection Treatment Doctor in Delhi</strong> makes all the difference. Dr. Sujit Chowdhary provides advanced, evidence-based care tailored to protect your child's long-term renal health.</p>
                 <ul class="about-list">
                     <li><i class="fas fa-check-circle"></i> 31+ Years of Exclusive Paediatric Surgical & Urological Experience.</li>
                     <li><i class="fas fa-check-circle"></i> Renowned pediatric urologist with extensive international training.</li>

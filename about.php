@@ -104,10 +104,10 @@ EOD;
                 </div>
                 <div class="grid-2">
                     <ul class="about-list">
-                        <li><i class="fas fa-award"></i> Best operative video in the national meeting of the Indian Association of Pediatric Surgeons (IAPSCON, PESI, New Delhi), 2017</li>
-                        <li><i class="fas fa-award"></i> Best operative video in the national meeting of the Indian Association of Pediatric Surgeons (IAPSCON, Agra), 2016</li>
-                        <li><i class="fas fa-award"></i> Best video in Karl-Storz award video section in the National meeting of Pediatric Endoscopic Surgeons of India at Jaipur, 2015</li>
-                        <li><i class="fas fa-award"></i> Best surgical video award in the National meeting of Indian Association of Pediatric Surgeons at Ooty, 2014</li>
+                        <li><i class="fas fa-award"></i> Award-winning operative video in the national meeting of the Indian Association of Pediatric Surgeons (IAPSCON, PESI, New Delhi), 2017</li>
+                        <li><i class="fas fa-award"></i> Award-winning operative video in the national meeting of the Indian Association of Pediatric Surgeons (IAPSCON, Agra), 2016</li>
+                        <li><i class="fas fa-award"></i> Award-winning video in Karl-Storz award video section in the National meeting of Pediatric Endoscopic Surgeons of India at Jaipur, 2015</li>
+                        <li><i class="fas fa-award"></i> First prize surgical video award in the National meeting of Indian Association of Pediatric Surgeons at Ooty, 2014</li>
                         <li><i class="fas fa-award"></i> British Council Specialist Clinical fellowship in Pediatric urology at Great Ormond Street Hospital for Children 2001</li>
                         <li><i class="fas fa-award"></i> Ethicon teachers travelling fellowship of Indian Association of Pediatric Surgeons 1999</li>
                         <li><i class="fas fa-award"></i> Guy Baines Award and Registrars medal, BAUS meeting 1996</li>

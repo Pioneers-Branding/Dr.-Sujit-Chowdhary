@@ -205,7 +205,7 @@ EOD;
                     <div class="stars">
                         <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i>
                     </div>
-                    <p class="quote">"We were extremely anxious about our infant's condition, but consulting Dr. Sujit for <strong>hypospadias surgery in Delhi</strong> was the best decision. He performed a TIP urethroplasty, and the cosmetic result is perfect."</p>
+                    <p class="quote">"We were extremely anxious about our infant's condition, but consulting Dr. Sujit for <strong>hypospadias surgery in Delhi</strong> was a wonderful decision. He performed a TIP urethroplasty, and the cosmetic result is perfect."</p>
                     <div class="author mt-3">
                         <h5>Anand Verma</h5>
                         <span>Father of 1yo patient</span>

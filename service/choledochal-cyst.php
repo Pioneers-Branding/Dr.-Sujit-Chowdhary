@@ -275,7 +275,7 @@ EOD;
             <div class="why-content fade-in-up" style="animation-delay: 0.2s">
                 <h4 class="accent-text">Hepatobiliary Specialist</h4>
                 <h2>Why Choose Dr. Sujit Chowdhary?</h2>
-                <p>When parents consult a top <strong>Choledochal Cyst doctor in Delhi</strong>, specialized pediatric hepatobiliary expertise, advanced MRCP diagnostic mapping, and keyhole laparoscopic or robotic surgical techniques ensure seamless reconstruction and rapid recovery.</p>
+                <p>When parents consult an experienced <strong>Choledochal Cyst specialist in Delhi</strong>, specialized pediatric hepatobiliary expertise, advanced MRCP diagnostic mapping, and keyhole laparoscopic or robotic surgical techniques ensure seamless reconstruction and rapid recovery.</p>
                 <ul class="about-list">
                     <li><i class="fas fa-check-circle"></i> Specialist in laparoscopic & robotic <strong>Choledochal Cyst treatment in Delhi</strong>.</li>
                     <li><i class="fas fa-check-circle"></i> High precision in complex Roux-en-Y hepaticojejunostomy reconstructions.</li>

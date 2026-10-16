@@ -229,7 +229,7 @@ EOD;
                     <div class="stars">
                         <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i>
                     </div>
-                    <p class="quote">"Dr. Chowdhary is the top <strong>Anorectal Malformation doctor in Delhi</strong>. The care and guidance we received for anal dilation and post-surgery recovery were exceptional."</p>
+                    <p class="quote">"Dr. Chowdhary is an experienced <strong>Anorectal Malformation doctor in Delhi</strong>. The care and guidance we received for anal dilation and post-surgery recovery were exceptional."</p>
                     <div class="author mt-3">
                         <h5>Alok Verma</h5>
                         <span>Father</span>
@@ -375,7 +375,7 @@ EOD;
                     <div class="section-title text-left mb-4">
                         <h4 class="accent-text">Get in Touch</h4>
                         <h2 style="margin-bottom:0.5rem">Book an Appointment</h2>
-                        <p>Specialized reconstructive surgery offers the best outcomes for anorectal malformation. Schedule a consultation today.</p>
+                        <p>Specialized reconstructive surgery offers optimal outcomes for anorectal malformation. Schedule a consultation today.</p>
                     </div>
                     
                     <form action="../includes/process-contact.php" method="POST" class="contact-form">

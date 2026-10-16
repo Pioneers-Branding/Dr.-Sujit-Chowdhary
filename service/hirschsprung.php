@@ -266,7 +266,7 @@ EOD;
                     <div class="stars">
                         <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i>
                     </div>
-                    <p class="quote">"Our baby was born with Hirschsprung's. Consulting Dr. Sujit for Hirschsprung Disease Treatment in Delhi was the best decision—his scarless pull-through surgery cured our son completely."</p>
+                    <p class="quote">"Our baby was born with Hirschsprung's. Consulting Dr. Sujit for Hirschsprung Disease Treatment in Delhi gave us great peace of mind—his scarless pull-through surgery cured our son completely."</p>
                     <div class="author mt-3">
                         <h5>Anjali Gupta</h5>
                         <span>Mother</span>

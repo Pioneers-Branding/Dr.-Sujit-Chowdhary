@@ -253,7 +253,7 @@ EOD;
                     <div class="stars">
                         <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i>
                     </div>
-                    <p class="quote">"Our son was diagnosed with severe UPJ obstruction. Consulting Dr. Sujit for Pediatric Robotic Surgery in Delhi was the best choice—his robotic pyeloplasty healed quickly with tiny hidden marks."</p>
+                    <p class="quote">"Our son was diagnosed with severe UPJ obstruction. Consulting Dr. Sujit for Pediatric Robotic Surgery in Delhi was a great decision—his robotic pyeloplasty healed quickly with tiny hidden marks."</p>
                     <div class="author mt-3">
                         <h5>Amit Gupta</h5>
                         <span>Father of 5yo patient</span>

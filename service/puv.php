@@ -111,7 +111,7 @@ EOD;
                 <p>Posterior Urethral Valves (PUV) is a urological emergency in newborn boys. The severe blockage can cause rapid kidney and bladder deterioration. Immediate relief of the obstruction is vital to halt further damage and give the kidneys a chance to recover. Delayed treatment can lead to end-stage renal disease, requiring dialysis or a kidney transplant early in life.</p>
                 
                 <h3 class="mt-4">Comprehensive Care Approach</h3>
-                <p>Treating PUV is a long-term commitment. Even after the valves are successfully ablated, the child may have a "valve bladder" that functions poorly. Our comprehensive care includes regular urodynamic studies, kidney function tests, and continuous bladder management to protect the upper urinary tract and ensure the best long-term outcome for your child.</p>
+                <p>Treating PUV is a long-term commitment. Even after the valves are successfully ablated, the child may have a "valve bladder" that functions poorly. Our comprehensive care includes regular urodynamic studies, kidney function tests, and continuous bladder management to protect the upper urinary tract and ensure optimal long-term outcomes for your child.</p>
             
             </div>
             

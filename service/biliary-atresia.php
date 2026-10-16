@@ -65,7 +65,7 @@ EOD;
                 <p>Time is of the essence when treating Biliary Atresia. If the Kasai procedure is performed within the first 60 days of life, the success rate for establishing bile flow is significantly higher. Delayed surgery increases the risk of irreversible liver cirrhosis, making a liver transplant the only viable option. Early screening and prompt surgical care are crucial to preserving the infant's native liver.</p>
                 
                 <h3 class="mt-4">Comprehensive Care Approach</h3>
-                <p>Our care extends beyond the operating room. We offer specialized nutritional support, as infants with Biliary Atresia often struggle to absorb essential fats and vitamins. Continuous monitoring by our paediatric hepatology team ensures that any signs of cholangitis or portal hypertension are managed immediately, providing the best possible quality of life for your child.</p>
+                <p>Our care extends beyond the operating room. We offer specialized nutritional support, as infants with Biliary Atresia often struggle to absorb essential fats and vitamins. Continuous monitoring by our paediatric hepatology team ensures that any signs of cholangitis or portal hypertension are managed immediately, providing optimal quality of life for your child.</p>
             
             </div>
             
@@ -190,7 +190,7 @@ EOD;
                     <div class="stars">
                         <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i>
                     </div>
-                    <p class="quote">"The best decision for our child's liver health. Finding the <strong>best doctor for Biliary Atresia Treatment in Delhi</strong> was our priority, and Dr. Chowdhary exceeded all our expectations."</p>
+                    <p class="quote">"A vital decision for our child's liver health. Finding specialized care for <strong>Biliary Atresia Treatment in Delhi</strong> was our priority, and Dr. Chowdhary exceeded all our expectations."</p>
                     <div class="author mt-3">
                         <h5>Sonia R.</h5>
                         <span>Mother</span>
@@ -235,7 +235,7 @@ EOD;
                     <div class="stars">
                         <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i>
                     </div>
-                    <p class="quote">"The best decision we made for our child's health. Dr. Chowdhary is incredibly patient and explained everything so well."</p>
+                    <p class="quote">"A wonderful decision we made for our child's health. Dr. Chowdhary is incredibly patient and explained everything so well."</p>
                     <div class="author mt-3">
                         <h5>Sanjay V.</h5>
                         <span>Father</span>
@@ -254,7 +254,7 @@ EOD;
             <div class="why-content fade-in-up" style="animation-delay: 0.2s">
                 <h4 class="accent-text">Neonatal Liver Expertise</h4>
                 <h2>Why Choose Dr. Sujit Chowdhary?</h2>
-                <p>When parents seek the <strong>best doctor for Biliary Atresia Treatment in Delhi</strong>, experience in complex neonatal hepatobiliary reconstruction is the most critical factor in achieving a successful outcome.</p>
+                <p>When parents seek specialized care for <strong>Biliary Atresia Treatment in Delhi</strong>, experience in complex neonatal hepatobiliary reconstruction is the most critical factor in achieving a successful outcome.</p>
                 <ul class="about-list">
                     <li><i class="fas fa-check-circle"></i> Specialist in complex neonatal biliary reconstructions.</li>
                     <li><i class="fas fa-check-circle"></i> High success rates in the Kasai procedure.</li>

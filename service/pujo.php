@@ -163,7 +163,7 @@ EOD;
                     <div class="stars">
                         <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i>
                     </div>
-                    <p class="quote">"The best pediatric surgeon we could hope for. He operated on our son for PUJO safely with keyhole surgery, and the recovery was so fast."</p>
+                    <p class="quote">"A wonderful pediatric surgeon. He operated on our son for PUJO safely with keyhole surgery, and the recovery was so fast."</p>
                     <div class="author mt-3">
                         <h5>Vikram M.</h5>
                         <span>Father of 4yo patient</span>

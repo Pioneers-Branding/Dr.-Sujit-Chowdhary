@@ -1,6 +1,6 @@
 <?php
-$page_title = 'Best Pediatric Urologist in Delhi NCR | Dr. Sujit Chowdhary';
-$meta_description = 'Seeking the best pediatric urologist in Delhi NCR? Consult Dr. Sujit Chowdhary, a leading pediatric surgeon with over 31 years of experience in advanced pediatric urology care.';
+$page_title = 'Pediatric Urologist in Delhi NCR | Dr. Sujit Chowdhary';
+$meta_description = 'Seeking a pediatric urologist in Delhi NCR? Consult Dr. Sujit Chowdhary, a leading pediatric surgeon with over 31 years of experience in advanced pediatric urology care.';
 $current_page = 'home';
 $extra_head = <<<'EOD'
 <link rel="canonical" href="https://drsujitchowdhary.com/">
@@ -13,8 +13,8 @@ $extra_head = <<<'EOD'
       "@type": "MedicalWebPage",
       "@id": "https://drsujitchowdhary.com/",
       "url": "https://drsujitchowdhary.com/",
-      "name": "Best Pediatric Urologist in Delhi NCR | Dr. Sujit Chowdhary",
-      "description": "Seeking the best pediatric urologist in Delhi NCR? Consult Dr. Sujit Chowdhary, a leading pediatric surgeon with over 31 years of experience in advanced pediatric urology care.",
+      "name": "Pediatric Urologist in Delhi NCR | Dr. Sujit Chowdhary",
+      "description": "Seeking a pediatric urologist in Delhi NCR? Consult Dr. Sujit Chowdhary, a leading pediatric surgeon with over 31 years of experience in advanced pediatric urology care.",
       "medicalAudience": {
         "@type": "MedicalAudience",
         "audienceType": "Parents and Caregivers"
@@ -69,7 +69,7 @@ EOD;
             </div>
             <div class="about-content fade-in-up" style="animation-delay: 0.2s">
                 <h4 class="accent-text">About The Doctor</h4>
-                <h1 style="font-size: 1.75rem; line-height: 1.3;">Dr. Sujit Chowdhary: Best Pediatric Urologist in Delhi NCR</h1>
+                <h1 style="font-size: 1.75rem; line-height: 1.3;">Dr. Sujit Chowdhary: Pediatric Urologist in Delhi NCR</h1>
                 <p>Dr. Sujit Chowdhary is a globally recognized Pediatric Urologist and Pediatric Surgeon dedicated to treating infants, children, and adolescents with complex congenital anomalies. With over three decades of specialized experience, he has transformed the lives of thousands of young patients.</p>
                 <p>His compassionate approach, combined with state-of-the-art robotic and laparoscopic surgical techniques, ensures maximum safety, minimal discomfort, and optimal long-term health. Dr. Chowdhary's expertise spans reconstructive urology, organ-sparing surgeries, and comprehensive diagnostic evaluations.</p>
                 <ul class="about-list">
@@ -192,7 +192,7 @@ EOD;
                     <div class="stars">
                         <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i>
                     </div>
-                    <p class="quote">"We were terrified when our newborn was diagnosed with PUV. Finding the top <strong>Pediatric Urologist in Delhi NCR</strong>, Dr. Sujit Chowdhary, was a true blessing. He performed keyhole ablation with immense skill, and our baby is thriving now."</p>
+                    <p class="quote">"We were terrified when our newborn was diagnosed with PUV. Finding an experienced <strong>Pediatric Urologist in Delhi NCR</strong>, Dr. Sujit Chowdhary, was a true blessing. He performed keyhole ablation with immense skill, and our baby is thriving now."</p>
                     <div class="author mt-3">
                         <h5>Aarti & Rahul S.</h5>
                         <span>Parents from Delhi</span>
@@ -214,7 +214,7 @@ EOD;
                     <div class="stars">
                         <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i>
                     </div>
-                    <p class="quote">"Dr. Sujit is undoubtedly the <strong>Best Pediatric Urologist in India</strong>. He operated on our son for PUJO safely with keyhole surgery, and the recovery was fast and painless."</p>
+                    <p class="quote">"Dr. Sujit is an exceptional <strong>Pediatric Urologist in India</strong>. He operated on our son for PUJO safely with keyhole surgery, and the recovery was fast and painless."</p>
                     <div class="author mt-3">
                         <h5>Vikram M.</h5>
                         <span>Father</span>

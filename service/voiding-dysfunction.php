@@ -332,7 +332,7 @@ EOD;
             <div class="why-content fade-in-up" style="animation-delay: 0.2s">
                 <h4 class="accent-text">Urological Specialist</h4>
                 <h2>Why Choose Dr. Sujit Chowdhary?</h2>
-                <p>Voiding dysfunction is a common but manageable issue. As a leading <strong>Voiding Dysfunction Treatment Doctor in Delhi</strong>, Dr. Sujit Chowdhary provides comprehensive care using advanced non-invasive urotherapy and pediatric urodynamics to ensure the best functional outcomes for your child.</p>
+                <p>Voiding dysfunction is a common but manageable issue. As a leading <strong>Voiding Dysfunction Treatment Doctor in Delhi</strong>, Dr. Sujit Chowdhary provides comprehensive care using advanced non-invasive urotherapy and pediatric urodynamics to ensure optimal functional outcomes for your child.</p>
                 <ul class="about-list">
                     <li><i class="fas fa-check-circle"></i> Specialist for <strong>Voiding Dysfunction Treatment in Delhi</strong> with 31+ years of clinical experience.</li>
                     <li><i class="fas fa-check-circle"></i> Renowned pediatric urologist specializing in non-invasive bladder retraining.</li>

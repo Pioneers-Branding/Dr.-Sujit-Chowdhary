@@ -159,7 +159,7 @@ EOD;
                     <div class="stars">
                         <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i>
                     </div>
-                    <p class="quote">"We were worried about our son's condition, but Dr. Chowdhary provided the best absent testis treatment in Delhi. The daycare procedure was smooth, and he was playing by evening!"</p>
+                    <p class="quote">"We were worried about our son's condition, but Dr. Chowdhary provided exceptional absent testis treatment in Delhi. The daycare procedure was smooth, and he was playing by evening!"</p>
                     <div class="author mt-3">
                         <h5>Manish Gupta</h5>
                         <span>Father of 1yo patient</span>
@@ -181,7 +181,7 @@ EOD;
                     <div class="stars">
                         <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i>
                     </div>
-                    <p class="quote">"The best decision for our child's health. Dr. Chowdhary is incredibly patient and explained everything so well. Highly recommended."</p>
+                    <p class="quote">"A wonderful decision for our child's health. Dr. Chowdhary is incredibly patient and explained everything so well. Highly recommended."</p>
                     <div class="author mt-3">
                         <h5>Sanjay V.</h5>
                         <span>Father</span>
@@ -226,7 +226,7 @@ EOD;
                     <div class="stars">
                         <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i>
                     </div>
-                    <p class="quote">"The best decision we made for our child's health. Dr. Chowdhary is incredibly patient and explained everything so well."</p>
+                    <p class="quote">"A wonderful decision we made for our child's health. Dr. Chowdhary is incredibly patient and explained everything so well."</p>
                     <div class="author mt-3">
                         <h5>Rahul K.</h5>
                         <span>Father</span>
@@ -270,7 +270,7 @@ EOD;
 
                 <div class="faq-item">
                     <div class="faq-header">
-                        <h5>What is the best age for absent or undescended testis surgery?</h5>
+                        <h5>What is the recommended age for absent or undescended testis surgery?</h5>
                         <i class="fas fa-plus"></i>
                     </div>
                     <div class="faq-content">
@@ -344,7 +344,7 @@ EOD;
                         <i class="fas fa-plus"></i>
                     </div>
                     <div class="faq-content">
-                        <p>If one testicle is absent or undescended, the remaining normal testicle usually compensates to provide normal hormone production and fertility in adulthood. Early medical evaluation and treatment ensure the best reproductive health outcomes.</p>
+                        <p>If one testicle is absent or undescended, the remaining normal testicle usually compensates to provide normal hormone production and fertility in adulthood. Early medical evaluation and treatment ensure optimal reproductive health outcomes.</p>
                     </div>
                 </div>
 

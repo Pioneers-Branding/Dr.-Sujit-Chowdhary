@@ -206,7 +206,7 @@ EOD;
                     <div class="stars">
                         <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i>
                     </div>
-                    <p class="quote">"Our 2-year-old had a large inguinal hernia. Finding the right specialist for <strong>pediatric hernia treatment in Delhi NCR</strong> was our top concern. Dr. Sujit performed a daycare herniotomy, and our son was playing by evening!"</p>
+                    <p class="quote">"Our 2-year-old had a large inguinal hernia. Finding the right specialist for <strong>pediatric hernia treatment in Delhi NCR</strong> was our priority. Dr. Sujit performed a daycare herniotomy, and our son was playing by evening!"</p>
                     <div class="author mt-3">
                         <h5>Manish Gupta</h5>
                         <span>Father of 2yo patient</span>
@@ -217,7 +217,7 @@ EOD;
                     <div class="stars">
                         <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i>
                     </div>
-                    <p class="quote">"Highly recommend Dr. Sujit for pediatric hydrocele. The surgery was smooth, and recovery was quick. The daycare facility was top notch."</p>
+                    <p class="quote">"Highly recommend Dr. Sujit for pediatric hydrocele. The surgery was smooth, and recovery was quick. The daycare facility was excellent."</p>
                     <div class="author mt-3">
                         <h5>Sunita R.</h5>
                         <span>Mother</span>

@@ -264,7 +264,7 @@ EOD;
                     <div class="stars">
                         <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i>
                     </div>
-                    <p class="quote">"My 3-month-old infant had severe kidney swelling. Consulting Dr. Sujit for Hydronephrosis treatment in Delhi was the best decision—his laparoscopic pyeloplasty was completely successful."</p>
+                    <p class="quote">"My 3-month-old infant had severe kidney swelling. Consulting Dr. Sujit for Hydronephrosis treatment in Delhi gave us great peace of mind—his laparoscopic pyeloplasty was completely successful."</p>
                     <div class="author mt-3">
                         <h5>Priya & Ankit Sharma</h5>
                         <span>Parents</span>

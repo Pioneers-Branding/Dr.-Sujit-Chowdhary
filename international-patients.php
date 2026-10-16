@@ -64,7 +64,7 @@ EOD;
                 <div class="card fade-in-up text-center">
                     <i class="fas fa-globe font-2xl" style="color: var(--secondary-teal); margin-bottom: 15px;"></i>
                     <h4>Global Standards</h4>
-                    <p class="mt-2">Treatment protocols matching the best international pediatric hospitals, featuring advanced robotic and minimally invasive technology.</p>
+                    <p class="mt-2">Treatment protocols matching leading international pediatric hospitals, featuring advanced robotic and minimally invasive technology.</p>
                 </div>
                 <div class="card fade-in-up text-center" style="animation-delay: 0.1s">
                     <i class="fas fa-comments font-2xl" style="color: var(--secondary-teal); margin-bottom: 15px;"></i>

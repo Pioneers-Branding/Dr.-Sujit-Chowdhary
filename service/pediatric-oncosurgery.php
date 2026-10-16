@@ -378,7 +378,7 @@ EOD;
                     <div class="section-title text-left mb-4">
                         <h4 class="accent-text">Get in Touch</h4>
                         <h2 style="margin-bottom:0.5rem">Book an Appointment</h2>
-                        <p>Comprehensive surgical care for pediatric solid tumors offers the best chance of cure. Schedule a consultation today.</p>
+                        <p>Comprehensive surgical care for pediatric solid tumors offers optimal chances of cure. Schedule a consultation today.</p>
                     </div>
                     
                     <form action="../includes/process-contact.php" method="POST" class="contact-form">

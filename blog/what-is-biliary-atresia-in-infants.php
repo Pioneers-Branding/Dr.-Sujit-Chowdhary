@@ -225,7 +225,7 @@ EOD;
 
             <p>However, when an infant's jaundice lingers past two weeks of life, or is accompanied by pale, white, or clay-colored stools, parents must pay immediate attention. This combination of symptoms often points to a serious liver disorder known as <strong>biliary atresia in infants</strong>.</p>
 
-            <p>Biliary atresia is a rare but critical liver condition affecting newborns. Without prompt surgical care, trapped bile damages liver tissue, leading to progressive liver scarring (cirrhosis) and eventual liver failure. Thankfully, when diagnosed early within the first 60 days of life, specialized surgical repair can restore bile drainage and give your child the best chance for healthy development.</p>
+            <p>Biliary atresia is a rare but critical liver condition affecting newborns. Without prompt surgical care, trapped bile damages liver tissue, leading to progressive liver scarring (cirrhosis) and eventual liver failure. Thankfully, when diagnosed early within the first 60 days of life, specialized surgical repair can restore bile drainage and give your child optimal chances for healthy development.</p>
 
             <p>In this guide, Senior Consultant Pediatric Urologist and Surgeon <strong><a href="https://drsujitchowdhary.com/">Dr. Sujit Chowdhary</a></strong> explains <strong>what is biliary atresia in infants</strong>—covering anatomical causes, warning signs, diagnostic tests, the Kasai procedure, and expert care for <strong><a href="https://drsujitchowdhary.com/service/biliary-atresia.php">Biliary Atresia Treatment in Delhi</a></strong>.</p>
 
@@ -466,7 +466,7 @@ EOD;
             </div>
 
             <h2>Conclusion</h2>
-            <p>Understanding <strong>what is biliary atresia in infants</strong> helps parents act quickly when warning signs like persistent infant jaundice, pale stools, or dark urine appear. Early diagnosis and Kasai surgery before 60 days of age provide infants with the best opportunity for restored bile flow and healthy growth.</p>
+            <p>Understanding <strong>what is biliary atresia in infants</strong> helps parents act quickly when warning signs like persistent infant jaundice, pale stools, or dark urine appear. Early diagnosis and Kasai surgery before 60 days of age provide infants with optimal opportunities for restored bile flow and healthy growth.</p>
 
             <p>Through timely diagnostic testing, expert surgical care, and dedicated post-operative nutrition, children with biliary atresia can overcome bile obstruction and look forward to a healthy future.</p>
 

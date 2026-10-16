@@ -140,7 +140,7 @@ EOD;
                 </div>
                 <div class="process-step fade-in-up card" style="animation-delay: 0.1s">
                     <h4 style="color:var(--secondary-teal)">02. Specialized Reconstruction</h4>
-                    <p>Our surgeries focus on preserving the delicate nerve supply and muscle structure of the bowel to ensure the best possible long-term function.</p>
+                    <p>Our surgeries focus on preserving the delicate nerve supply and muscle structure of the bowel to ensure optimal long-term function.</p>
                 </div>
                 <div class="process-step fade-in-up card" style="animation-delay: 0.2s">
                     <h4 style="color:var(--secondary-teal)">03. Post-Op Bowel Training</h4>

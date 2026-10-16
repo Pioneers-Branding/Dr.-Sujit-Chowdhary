@@ -264,7 +264,7 @@ EOD;
                     <div class="stars">
                         <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i>
                     </div>
-                    <p class="quote">"Our daughter had constant urine leakage due to an ectopic ureter in a duplex system. Consulting Dr. Sujit for Pediatric Duplex Renal System Treatment in Delhi was the best decision—she is completely dry now!"</p>
+                    <p class="quote">"Our daughter had constant urine leakage due to an ectopic ureter in a duplex system. Consulting Dr. Sujit for Pediatric Duplex Renal System Treatment in Delhi was a wonderful decision—she is completely dry now!"</p>
                     <div class="author mt-3">
                         <h5>Kirti Sharma</h5>
                         <span>Mother</span>
