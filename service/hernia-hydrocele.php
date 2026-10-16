@@ -192,75 +192,7 @@ EOD;
         </div>
     </section>
 
-    <!-- Testimonials -->
-    <section class="section bg-light relative" id="reviews" style="overflow: hidden;">
-        <div class="blob-bg"></div>
-        <div class="container relative z-10">
-            <div class="section-title fade-in-up">
-                <h4 class="accent-text">Success Stories</h4>
-                <h2>Hear From The Parents</h2>
-            </div>
-            
-            <div class="scroll-container fade-in-up mt-5">
-                <div class="testimonial-card card">
-                    <div class="stars">
-                        <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i>
-                    </div>
-                    <p class="quote">"Our 2-year-old had a large inguinal hernia. Finding the right specialist for <strong>pediatric hernia treatment in Delhi NCR</strong> was our priority. Dr. Sujit performed a daycare herniotomy, and our son was playing by evening!"</p>
-                    <div class="author mt-3">
-                        <h5>Manish Gupta</h5>
-                        <span>Father of 2yo patient</span>
-                    </div>
-                </div>
-                
-                <div class="testimonial-card card" style="animation-delay: 0.1s">
-                    <div class="stars">
-                        <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i>
-                    </div>
-                    <p class="quote">"Highly recommend Dr. Sujit for pediatric hydrocele. The surgery was smooth, and recovery was quick. The daycare facility was excellent."</p>
-                    <div class="author mt-3">
-                        <h5>Sunita R.</h5>
-                        <span>Mother</span>
-                    </div>
-                </div>
-
-                <div class="testimonial-card card" style="animation-delay: 0.2s">
-                    <div class="stars">
-                        <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i>
-                    </div>
-                    <p class="quote">"Dr. Chowdhary is an outstanding <strong>pediatric hernia doctor in Delhi</strong>. No stitches to be removed and absolute comfort for our baby. The entire procedure was stress-free."</p>
-                    <div class="author mt-3">
-                        <h5>Rajeev K.</h5>
-                        <span>Father</span>
-                    </div>
-                </div>
-
-                <div class="testimonial-card card" style="animation-delay: 0.3s">
-                    <div class="stars">
-                        <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i>
-                    </div>
-                    <p class="quote">"The precision in Dr. Chowdhary's surgery is incredible. His confidence gave us immense peace of mind during a very stressful time."</p>
-                    <div class="author mt-3">
-                        <h5>Anita Sharma</h5>
-                        <span>Mother</span>
-                    </div>
-                </div>
-
-                <div class="testimonial-card card" style="animation-delay: 0.4s">
-                    <div class="stars">
-                        <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i>
-                    </div>
-                    <p class="quote">"We traveled from another city to consult Dr. Chowdhary for <strong>hernia treatment in children</strong>. His approach is scientific, methodical, and deeply caring."</p>
-                    <div class="author mt-3">
-                        <h5>Karan Singh</h5>
-                        <span>Parent</span>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </section>
-
-    <!-- Why Choose -->
+<!-- Why Choose -->
     <section class="section">
         <div class="container grid-2 align-items-center">
             <div class="why-image fade-in-up">

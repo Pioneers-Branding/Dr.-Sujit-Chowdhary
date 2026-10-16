@@ -251,71 +251,7 @@ EOD;
         </div>
     </section>
 
-    <!-- Testimonials -->
-    <section class="section bg-light relative" id="reviews" style="overflow: hidden;">
-        <div class="blob-bg"></div>
-        <div class="container relative z-10">
-            <div class="section-title fade-in-up">
-                <h4 class="accent-text">Patient Success</h4>
-                <h2>Hear From The Parents</h2>
-            </div>
-            
-            <div class="scroll-container fade-in-up mt-5">
-                <div class="testimonial-card card">
-                    <div class="stars">
-                        <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i>
-                    </div>
-                    <p class="quote">"Our son was diagnosed with a neurogenic bladder due to spina bifida. Consulting Dr. Sujit for Neuropathic Bladder Treatment in Delhi gave us hope—his systematic catheterization plan and care transformed our son's life."</p>
-                    <div class="author mt-3">
-                        <h5>Sunita Reddy</h5>
-                        <span>Mother of patient with Spina Bifida</span>
-                    </div>
-                </div>
-                <div class="testimonial-card card">
-                    <div class="stars">
-                        <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i>
-                    </div>
-                    <p class="quote">"Dr. Chowdhary's expertise in providing Treatment for Neuropathic Bladder in Children is unmatched. The Mitrofanoff procedure changed our daughter's life and made her completely dry and independent."</p>
-                    <div class="author mt-3">
-                        <h5>Karan Malhotra</h5>
-                        <span>Father</span>
-                    </div>
-                </div>
-                <div class="testimonial-card card">
-                    <div class="stars">
-                        <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i>
-                    </div>
-                    <p class="quote">"Dr. Chowdhary's knowledge of neurogenic bladder management is world-class. He saved our child's kidneys from severe reflux damage."</p>
-                    <div class="author mt-3">
-                        <h5>S. Lakshman</h5>
-                        <span>Father</span>
-                    </div>
-                </div>
-                <div class="testimonial-card card">
-                    <div class="stars">
-                        <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i>
-                    </div>
-                    <p class="quote">"The precision in Dr. Chowdhary's surgery is incredible. His confidence gave us immense peace of mind during a very stressful time."</p>
-                    <div class="author mt-3">
-                        <h5>Anita Sharma</h5>
-                        <span>Mother</span>
-                    </div>
-                </div>
-                <div class="testimonial-card card">
-                    <div class="stars">
-                        <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i>
-                    </div>
-                    <p class="quote">"We traveled from another city just for Dr. Chowdhary. His approach is very scientific and methodical yet very caring."</p>
-                    <div class="author mt-3">
-                        <h5>Karan Singh</h5>
-                        <span>Parent</span>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </section>
-
-    <!-- Why Choose -->
+<!-- Why Choose -->
     <section class="section">
         <div class="container grid-2 align-items-center">
             <div class="why-image fade-in-up">

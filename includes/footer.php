@@ -19,7 +19,6 @@
                     <li><a href="<?php echo $path_prefix; ?>index.php">Home</a></li>
                     <li><a href="<?php echo $path_prefix; ?>about.php">About Dr. Chowdhary</a></li>
                     <li><a href="<?php echo $path_prefix; ?>services.php">All Services</a></li>
-                    <li><a href="<?php echo $path_prefix; ?>index.php#reviews">Patient Reviews</a></li>
                     <li><a href="<?php echo $path_prefix; ?>contact.php">Contact Us</a></li>
                 </ul>
             </div>

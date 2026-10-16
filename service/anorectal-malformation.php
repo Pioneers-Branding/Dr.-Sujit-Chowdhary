@@ -193,75 +193,7 @@ EOD;
         </div>
     </section>
 
-    <!-- Testimonials -->
-    <section class="section bg-light relative" id="reviews" style="overflow: hidden;">
-        <div class="blob-bg"></div>
-        <div class="container relative z-10">
-            <div class="section-title fade-in-up">
-                <h4 class="accent-text">Success Stories</h4>
-                <h2>Hear From The Parents</h2>
-            </div>
-            
-            <div class="scroll-container fade-in-up mt-5">
-                <div class="testimonial-card card">
-                    <div class="stars">
-                        <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i>
-                    </div>
-                    <p class="quote">"Our baby boy was born without an anal opening. Seeking <strong>Anorectal Malformation treatment in Delhi</strong> led us to Dr. Sujit, who performed a staged PSARP reconstruction. Today, our son has normal bowel control and is thriving."</p>
-                    <div class="author mt-3">
-                        <h5>Ramesh K.</h5>
-                        <span>Father of 3yo patient</span>
-                    </div>
-                </div>
-
-                <div class="testimonial-card card" style="animation-delay: 0.1s">
-                    <div class="stars">
-                        <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i>
-                    </div>
-                    <p class="quote">"We are so grateful to Dr. Chowdhary for performing the pull-through surgery for our daughter's cloaca. His bowel management program has been a lifesaver."</p>
-                    <div class="author mt-3">
-                        <h5>Meera J.</h5>
-                        <span>Mother</span>
-                    </div>
-                </div>
-
-                <div class="testimonial-card card" style="animation-delay: 0.2s">
-                    <div class="stars">
-                        <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i>
-                    </div>
-                    <p class="quote">"Dr. Chowdhary is an experienced <strong>Anorectal Malformation doctor in Delhi</strong>. The care and guidance we received for anal dilation and post-surgery recovery were exceptional."</p>
-                    <div class="author mt-3">
-                        <h5>Alok Verma</h5>
-                        <span>Father</span>
-                    </div>
-                </div>
-
-                <div class="testimonial-card card" style="animation-delay: 0.3s">
-                    <div class="stars">
-                        <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i>
-                    </div>
-                    <p class="quote">"The nursing staff and Dr. Sujit are a fantastic team. They handled our infant's surgery with so much care and warmth."</p>
-                    <div class="author mt-3">
-                        <h5>Priya R.</h5>
-                        <span>Mother</span>
-                    </div>
-                </div>
-
-                <div class="testimonial-card card" style="animation-delay: 0.4s">
-                    <div class="stars">
-                        <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i>
-                    </div>
-                    <p class="quote">"We traveled from another city just for Dr. Chowdhary's expertise in <strong>Anorectal Malformation treatment in Delhi</strong>. His approach is scientific, precise, and deeply caring."</p>
-                    <div class="author mt-3">
-                        <h5>Karan Singh</h5>
-                        <span>Parent</span>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </section>
-
-    <!-- Why Choose -->
+<!-- Why Choose -->
     <section class="section">
         <div class="container grid-2 align-items-center">
             <div class="why-image fade-in-up">

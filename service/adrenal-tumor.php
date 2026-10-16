@@ -251,71 +251,7 @@ EOD;
         </div>
     </section>
 
-    <!-- Testimonials -->
-    <section class="section bg-light relative" id="reviews" style="overflow: hidden;">
-        <div class="blob-bg"></div>
-        <div class="container relative z-10">
-            <div class="section-title fade-in-up">
-                <h4 class="accent-text">Success Stories</h4>
-                <h2>Hear From The Parents</h2>
-            </div>
-            
-            <div class="scroll-container fade-in-up mt-5">
-                <div class="testimonial-card card">
-                    <div class="stars">
-                        <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i>
-                    </div>
-                    <p class="quote">"We were terrified when our child was diagnosed with an adrenal mass. Finding Dr. Sujit Chowdhary for Pediatric Adrenal Tumor Treatment in Delhi gave us hope—his surgical precision cured our daughter completely."</p>
-                    <div class="author mt-3">
-                        <h5>Amit S.</h5>
-                        <span>Father of 2yo patient</span>
-                    </div>
-                </div>
-                <div class="testimonial-card card">
-                    <div class="stars">
-                        <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i>
-                    </div>
-                    <p class="quote">"Dr. Chowdhary's experience in treating an adrenal tumor in children is unmatched. His robotic adrenalectomy healed so quickly with minimal pain."</p>
-                    <div class="author mt-3">
-                        <h5>Vikas R.</h5>
-                        <span>Father</span>
-                    </div>
-                </div>
-                <div class="testimonial-card card">
-                    <div class="stars">
-                        <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i>
-                    </div>
-                    <p class="quote">"Dr. Chowdhary's expertise in robotic adrenalectomy is outstanding. The keyhole incisions healed beautifully, and recovery was incredibly fast."</p>
-                    <div class="author mt-3">
-                        <h5>Preeti M.</h5>
-                        <span>Mother</span>
-                    </div>
-                </div>
-                <div class="testimonial-card card">
-                    <div class="stars">
-                        <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i>
-                    </div>
-                    <p class="quote">"The precision in Dr. Chowdhary's surgery is incredible. His confidence gave us immense peace of mind during a very stressful time."</p>
-                    <div class="author mt-3">
-                        <h5>Anita Sharma</h5>
-                        <span>Mother</span>
-                    </div>
-                </div>
-                <div class="testimonial-card card">
-                    <div class="stars">
-                        <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i>
-                    </div>
-                    <p class="quote">"We traveled from another city just for Dr. Chowdhary. His approach is very scientific and methodical yet very caring."</p>
-                    <div class="author mt-3">
-                        <h5>Karan Singh</h5>
-                        <span>Parent</span>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </section>
-
-    <!-- Why Choose -->
+<!-- Why Choose -->
     <section class="section">
         <div class="container grid-2 align-items-center">
             <div class="why-image fade-in-up">

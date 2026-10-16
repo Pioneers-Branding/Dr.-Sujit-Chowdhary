@@ -240,71 +240,7 @@ EOD;
         </div>
     </section>
 
-    <!-- Testimonials -->
-    <section class="section bg-light relative" id="reviews" style="overflow: hidden;">
-        <div class="blob-bg"></div>
-        <div class="container relative z-10">
-            <div class="section-title fade-in-up">
-                <h4 class="accent-text">Success Stories</h4>
-                <h2>Hear From The Parents</h2>
-            </div>
-            
-            <div class="scroll-container fade-in-up mt-5">
-                <div class="testimonial-card card">
-                    <div class="stars">
-                        <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i>
-                    </div>
-                    <p class="quote">"Our newborn was diagnosed with intestinal malrotation and volvulus. Consulting Dr. Sujit for Pediatric Gastrointestinal Surgery in Delhi saved our baby's life—his emergency Ladd's procedure was flawless."</p>
-                    <div class="author mt-3">
-                        <h5>Deepak Joshi</h5>
-                        <span>Father of newborn</span>
-                    </div>
-                </div>
-                <div class="testimonial-card card">
-                    <div class="stars">
-                        <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i>
-                    </div>
-                    <p class="quote">"Finding an empathetic Pediatric Gastrointestinal Surgeon in Delhi gave us so much confidence. Dr. Chowdhary's laparoscopic surgery for our daughter's abdominal cyst healed rapidly with minimal pain."</p>
-                    <div class="author mt-3">
-                        <h5>Nisha M.</h5>
-                        <span>Mother</span>
-                    </div>
-                </div>
-                <div class="testimonial-card card">
-                    <div class="stars">
-                        <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i>
-                    </div>
-                    <p class="quote">"Dr. Chowdhary is a pioneer in pediatric GI reconstruction. His calm confidence and detailed explanations gave us so much peace of mind."</p>
-                    <div class="author mt-3">
-                        <h5>Rajesh S.</h5>
-                        <span>Father</span>
-                    </div>
-                </div>
-                <div class="testimonial-card card">
-                    <div class="stars">
-                        <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i>
-                    </div>
-                    <p class="quote">"The precision in Dr. Chowdhary's surgery is incredible. His confidence gave us immense peace of mind during a very stressful time."</p>
-                    <div class="author mt-3">
-                        <h5>Anita Sharma</h5>
-                        <span>Mother</span>
-                    </div>
-                </div>
-                <div class="testimonial-card card">
-                    <div class="stars">
-                        <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i>
-                    </div>
-                    <p class="quote">"We traveled from another city just for Dr. Chowdhary. His approach is very scientific and methodical yet very caring."</p>
-                    <div class="author mt-3">
-                        <h5>Karan Singh</h5>
-                        <span>Parent</span>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </section>
-
-    <!-- Why Choose -->
+<!-- Why Choose -->
     <section class="section">
         <div class="container grid-2 align-items-center">
             <div class="why-image fade-in-up">

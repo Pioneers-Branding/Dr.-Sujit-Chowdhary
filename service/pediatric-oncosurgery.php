@@ -196,75 +196,7 @@ EOD;
         </div>
     </section>
 
-    <!-- Testimonials -->
-    <section class="section bg-light relative" id="reviews" style="overflow: hidden;">
-        <div class="blob-bg"></div>
-        <div class="container relative z-10">
-            <div class="section-title fade-in-up">
-                <h4 class="accent-text">Success Stories</h4>
-                <h2>Hear From The Parents</h2>
-            </div>
-            
-            <div class="scroll-container fade-in-up mt-5">
-                <div class="testimonial-card card">
-                    <div class="stars">
-                        <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i>
-                    </div>
-                    <p class="quote">"Our child was diagnosed with a large kidney tumor. Seeking <strong>Pediatric Oncosurgery in Delhi NCR</strong> led us to Dr. Sujit. He performed a clean resection, saving our child's life. Outstanding surgeon."</p>
-                    <div class="author mt-3">
-                        <h5>Karan Singh</h5>
-                        <span>Father of 4yo patient</span>
-                    </div>
-                </div>
-
-                <div class="testimonial-card card" style="animation-delay: 0.1s">
-                    <div class="stars">
-                        <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i>
-                    </div>
-                    <p class="quote">"Excellent coordination between oncology chemotherapy and surgery. Dr. Chowdhary's precision in removing the retroperitoneal tumor was outstanding."</p>
-                    <div class="author mt-3">
-                        <h5>Pooja R.</h5>
-                        <span>Mother</span>
-                    </div>
-                </div>
-
-                <div class="testimonial-card card" style="animation-delay: 0.2s">
-                    <div class="stars">
-                        <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i>
-                    </div>
-                    <p class="quote">"Dr. Chowdhary is the most compassionate <strong>children cancer doctor in Delhi</strong>. We are extremely grateful for his surgical expertise and comforting guidance throughout our child's recovery."</p>
-                    <div class="author mt-3">
-                        <h5>Vijay Verma</h5>
-                        <span>Father</span>
-                    </div>
-                </div>
-
-                <div class="testimonial-card card" style="animation-delay: 0.3s">
-                    <div class="stars">
-                        <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i>
-                    </div>
-                    <p class="quote">"The precision in Dr. Chowdhary's surgery is incredible. His confidence gave us immense peace of mind during a very stressful time."</p>
-                    <div class="author mt-3">
-                        <h5>Anita Sharma</h5>
-                        <span>Mother</span>
-                    </div>
-                </div>
-
-                <div class="testimonial-card card" style="animation-delay: 0.4s">
-                    <div class="stars">
-                        <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i>
-                    </div>
-                    <p class="quote">"The entire medical team handled our child with so much warmth. For families looking for specialized <strong>children cancer treatment in Delhi</strong>, Dr. Sujit provides world-class care."</p>
-                    <div class="author mt-3">
-                        <h5>Priya R.</h5>
-                        <span>Mother</span>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </section>
-
-    <!-- Why Choose -->
+<!-- Why Choose -->
     <section class="section">
         <div class="container grid-2 align-items-center">
             <div class="why-image fade-in-up">

@@ -190,75 +190,7 @@ EOD;
         </div>
     </section>
 
-    <!-- Testimonials -->
-    <section class="section bg-light relative" id="reviews" style="overflow: hidden;">
-        <div class="blob-bg"></div>
-        <div class="container relative z-10">
-            <div class="section-title fade-in-up">
-                <h4 class="accent-text">Success Stories</h4>
-                <h2>Hear From The Parents</h2>
-            </div>
-            
-            <div class="scroll-container fade-in-up mt-5">
-                <div class="testimonial-card card">
-                    <div class="stars">
-                        <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i>
-                    </div>
-                    <p class="quote">"Our daughter was having high-grade reflux causing kidney infections. Consulting Dr. Sujit for <strong>Vesicoureteric Reflux treatment in Delhi</strong> resulted in a seamless STING procedure. No cuts, and home the same day."</p>
-                    <div class="author mt-3">
-                        <h5>Neeta Sharma</h5>
-                        <span>Mother of 3yo patient</span>
-                    </div>
-                </div>
-
-                <div class="testimonial-card card" style="animation-delay: 0.1s">
-                    <div class="stars">
-                        <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i>
-                    </div>
-                    <p class="quote">"Robotic ureteral reimplantation for bilateral VUR was a huge success. Our child is completely infection-free now. Thank you, Dr. Chowdhary."</p>
-                    <div class="author mt-3">
-                        <h5>Rajesh K.</h5>
-                        <span>Father</span>
-                    </div>
-                </div>
-
-                <div class="testimonial-card card" style="animation-delay: 0.2s">
-                    <div class="stars">
-                        <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i>
-                    </div>
-                    <p class="quote">"Dr. Chowdhary is an outstanding <strong>Vesicoureteric Reflux surgeon in Delhi</strong>. His scientific approach helped us avoid unnecessary long-term antibiotics through timely endoscopic correction."</p>
-                    <div class="author mt-3">
-                        <h5>Sonia Mehta</h5>
-                        <span>Mother</span>
-                    </div>
-                </div>
-
-                <div class="testimonial-card card" style="animation-delay: 0.3s">
-                    <div class="stars">
-                        <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i>
-                    </div>
-                    <p class="quote">"The precision in Dr. Chowdhary's surgery is incredible. His confidence gave us immense peace of mind during a very stressful time."</p>
-                    <div class="author mt-3">
-                        <h5>Anita Sharma</h5>
-                        <span>Mother</span>
-                    </div>
-                </div>
-
-                <div class="testimonial-card card" style="animation-delay: 0.4s">
-                    <div class="stars">
-                        <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i>
-                    </div>
-                    <p class="quote">"We traveled from another city just for Dr. Chowdhary's expertise in <strong>Vesicoureteric Reflux treatment in Delhi</strong>. His methodical care saved our child's kidney health."</p>
-                    <div class="author mt-3">
-                        <h5>Karan Singh</h5>
-                        <span>Parent</span>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </section>
-
-    <!-- Why Choose -->
+<!-- Why Choose -->
     <section class="section">
         <div class="container grid-2 align-items-center">
             <div class="why-image fade-in-up">

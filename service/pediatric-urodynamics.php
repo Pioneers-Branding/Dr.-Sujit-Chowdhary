@@ -144,71 +144,7 @@ EOD;
         </div>
     </section>
 
-    <!-- Testimonials -->
-    <section class="section bg-light relative" id="reviews" style="overflow: hidden;">
-        <div class="blob-bg"></div>
-        <div class="container relative z-10">
-            <div class="section-title fade-in-up">
-                <h4 class="accent-text">Success Stories</h4>
-                <h2>Hear From The Parents</h2>
-            </div>
-            
-            <div class="scroll-container fade-in-up mt-5">
-                <div class="testimonial-card card">
-                    <div class="stars">
-                        <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i>
-                    </div>
-                    <p class="quote">"My daughter was wetting herself constantly. The urodynamic study done by Dr. Sujit's team identified the bladder muscle issue, and her treatment is finally working."</p>
-                    <div class="author mt-3">
-                        <h5>Shalini P.</h5>
-                        <span>Mother of 7yo patient</span>
-                    </div>
-                </div>
-                <div class="testimonial-card card" style="animation-delay: 0.1s">
-                    <div class="stars">
-                        <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i>
-                    </div>
-                    <p class="quote">"A very child-friendly setup for Urodynamics. The nurse and doctor made my son very comfortable during the study. Highly recommended."</p>
-                    <div class="author mt-3">
-                        <h5>Manoj K.</h5>
-                        <span>Father</span>
-                    </div>
-                </div>
-                <div class="testimonial-card card" style="animation-delay: 0.2s">
-                    <div class="stars">
-                        <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i>
-                    </div>
-                    <p class="quote">"The Urodynamic test helped diagnose our child's neuropathic bladder accurately, avoiding unnecessary surgery. Very professional team."</p>
-                    <div class="author mt-3">
-                        <h5>Divya R.</h5>
-                        <span>Mother</span>
-                    </div>
-                </div>
-                <div class="testimonial-card card" style="animation-delay: 0.3s">
-                    <div class="stars">
-                        <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i>
-                    </div>
-                    <p class="quote">"The precision in Dr. Chowdhary's surgery is incredible. His confidence gave us immense peace of mind during a very stressful time."</p>
-                    <div class="author mt-3">
-                        <h5>Anita Sharma</h5>
-                        <span>Mother</span>
-                    </div>
-                </div>
-                <div class="testimonial-card card" style="animation-delay: 0.4s">
-                    <div class="stars">
-                        <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i>
-                    </div>
-                    <p class="quote">"We traveled from another city just for Dr. Chowdhary. His approach is very scientific and methodical yet very caring."</p>
-                    <div class="author mt-3">
-                        <h5>Karan Singh</h5>
-                        <span>Parent</span>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </section>
-
-    <!-- Why Choose -->
+<!-- Why Choose -->
     <section class="section">
         <div class="container grid-2 align-items-center">
             <div class="why-image fade-in-up">
