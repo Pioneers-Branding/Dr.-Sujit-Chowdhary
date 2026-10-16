@@ -178,12 +178,12 @@ EOD;
         </div>
     </section>
 
-<!-- Our Happy Patients Section -->
-    <section class="section bg-light" id="happy-patients">
+<!-- Our Gallery Section -->
+    <section class="section bg-light" id="gallery">
         <div class="container">
             <div class="section-title fade-in-up">
-                <h4 class="accent-text">Patient Memories</h4>
-                <h2>Our Happy Patients</h2>
+                <h4 class="accent-text">Moments & Highlights</h4>
+                <h2>Our Gallery</h2>
             </div>
             
             <div class="patient-scroll-container fade-in-up mt-4">

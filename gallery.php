@@ -54,8 +54,8 @@ EOD;
     <section class="section bg-light">
         <div class="container">
             <div class="section-title fade-in-up">
-                <h4 class="accent-text">Patient Memories</h4>
-                <h2>Our Happy Patients</h2>
+                <h4 class="accent-text">Moments & Highlights</h4>
+                <h2>Our Gallery</h2>
             </div>
             
             <div class="gallery-grid mt-5">
