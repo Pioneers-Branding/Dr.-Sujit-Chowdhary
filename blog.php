@@ -39,6 +39,22 @@ EOD;
             </div>
             
             <div class="grid-3 mt-5">
+                <!-- Featured Blog Card (Can Hirschsprung's Disease be Cured?) -->
+                <div class="card fade-in-up" style="padding: 0; overflow: hidden;">
+                    <div style="height: 200px; overflow: hidden;">
+                        <img src="assets/images/blog/can-hirschsprungs-disease-be-cured.jpg" alt="Can Hirschsprung's Disease be Cured?" style="width: 100%; height: 100%; object-fit: cover;">
+                    </div>
+                    <div style="padding: 25px;">
+                        <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 8px;">
+                            <span style="color: var(--secondary-teal); font-weight: 600; font-size: 0.85rem;">Pediatric Surgery</span>
+                            <span style="color: #777; font-size: 0.8rem;"><i class="fas fa-calendar-alt"></i> 24 Oct 2026</span>
+                        </div>
+                        <h3 style="font-size: 1.2rem; line-height: 1.4;">Can Hirschsprung's Disease be Cured?</h3>
+                        <p class="mt-2" style="font-size: 0.9rem; color: #555;">Discover how modern pull-through surgery permanently cures Hirschsprung's disease, post-operative recovery milestones, bowel function, and expert pediatric surgical care...</p>
+                        <a href="blog/can-hirschsprungs-disease-be-cured.php" class="btn btn-outline mt-3" style="padding: 8px 15px; font-size: 0.9rem;">Read More</a>
+                    </div>
+                </div>
+
                 <!-- Featured Blog Card (Is Anorectal Malformation Hereditary?) -->
                 <div class="card fade-in-up" style="padding: 0; overflow: hidden;">
                     <div style="height: 200px; overflow: hidden;">
